@@ -1,7 +1,27 @@
 {
-  "pistes": [
-    {"titre": "L'4mour", "artiste": "Médine", "youtube": ""},
-    {"titre": "V pour Vérité", "artiste": "Keny Arkana", "youtube": ""},
-    {"titre": "17 octobre", "artiste": "Tisco", "youtube": ""}
-  ]
+ "pistes": [
+  {
+   "titre": "L'4mour",
+   "artiste": "Médine",
+   "youtube": "https://www.youtube.com/watch?v=1Rba7v1Ow7I&list=RD1Rba7v1Ow7I&start_radio=1"
+  },
+  {
+   "titre": "V pour Vérité",
+   "artiste": "Keny Arkana",
+   "youtube": "https://www.youtube.com/watch?v=eQwxh68kKYc&list=RDeQwxh68kKYc&start_radio=1"
+  },
+  {
+   "titre": "17 octobre",
+   "artiste": "Tisco",
+   "youtube": "https://www.youtube.com/watch?v=DpsHOUx5Ppk&list=RDDpsHOUx5Ppk&start_radio=1"
+  }
+ ],
+ "interruption_toutes_les": 3,
+ "interruptions": [
+  {
+   "titre": "Appel à la mobilisation",
+   "texte": "Rendez-vous samedi, partout en France",
+   "youtube": ""
+  }
+ ]
 }
