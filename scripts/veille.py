@@ -230,6 +230,40 @@ def faire_resume(articles, faits, jour):
             print("Résumé IA indisponible :", e)
     return resume
 
+
+def maj_durees(data):
+    """Ajoute la duree (secondes) des videos de la radio, pour que la radio tourne comme un direct."""
+    chemin = data / "radio.json"
+    if not chemin.exists():
+        return
+    radio = lire_json(chemin, None)
+    if not radio:
+        return
+    change = False
+    for liste in (radio.get("pistes", []), radio.get("interruptions", [])):
+        for p in liste:
+            m = re.search(r"(?:v=|youtu\.be/|embed/|shorts/)([A-Za-z0-9_-]{11})", p.get("youtube", "") or "") or re.fullmatch(r"([A-Za-z0-9_-]{11})", (p.get("youtube", "") or "").strip())
+            if not m:
+                continue
+            ident = m.group(1)
+            if p.get("duree") and p.get("duree_id") == ident:
+                continue
+            try:
+                req = urllib.request.Request("https://www.youtube.com/watch?v=" + ident, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
+                with urllib.request.urlopen(req, timeout=25) as r:
+                    page = r.read().decode("utf-8", "ignore")
+                d = re.search(r'"lengthSeconds":"(\d+)"', page)
+                if d and int(d.group(1)) > 5:
+                    p["duree"], p["duree_id"] = int(d.group(1)), ident
+                    change = True
+                else:
+                    print("Duree introuvable pour", ident)
+            except Exception as e:
+                print("Duree YouTube indisponible pour", ident, ":", e)
+    if change:
+        chemin.write_text(json.dumps(radio, ensure_ascii=False, indent=1), encoding="utf-8")
+        print("Durees de la radio mises a jour")
+
 # ---------------- programme principal ----------------
 def main():
     ap = argparse.ArgumentParser()
@@ -239,6 +273,11 @@ def main():
     racine = ICI.parent
     data = Path(args.sortie) if args.sortie else racine / "data"
     charger_villes(racine)
+    if not args.fixtures:
+        try:
+            maj_durees(data)
+        except Exception as e:
+            print('Radio :', e)
     maintenant = dt.datetime.now(PARIS)
     config = lire_json(ICI / "feeds.json", {"flux": [], "google_actualites": []})
     etat = {"maj": maintenant.isoformat(), "flux": []}
