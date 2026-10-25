@@ -20,7 +20,6 @@
     {"nom": "RFI", "url": "https://www.rfi.fr/fr/rss"},
     {"nom": "L'Express", "url": "https://www.lexpress.fr/rss/alaune.xml"},
     {"nom": "Mediapart", "url": "https://www.mediapart.fr/articles/feed"},
-    {"nom": "Le Point", "url": "https://www.lepoint.fr/rss.xml"},
     {"nom": "La Croix", "url": "https://www.la-croix.com/RSS"}
   ],
   "google_actualites": [

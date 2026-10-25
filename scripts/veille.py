@@ -102,8 +102,13 @@ def lire_flux(octets, nom_media, maintenant, google=False):
         lien = ""
         if "link" in champs:
             lien = (champs["link"].text or champs["link"].attrib.get("href", "")).strip()
-        resume = nettoyer((champs.get("description") or champs.get("summary") or champs.get("content") or ET.Element("x")).text or "")
-        date = parse_date((champs.get("pubDate") or champs.get("published") or champs.get("updated") or ET.Element("x")).text, maintenant)
+        def premier(*noms):
+            for n in noms:
+                if n in champs and (champs[n].text or "").strip():
+                    return champs[n].text
+            return None
+        resume = nettoyer(premier("description", "summary", "content") or "")
+        date = parse_date(premier("pubDate", "published", "updated", "date"), maintenant)
         media = nom_media
         if google:
             src = champs.get("source")
