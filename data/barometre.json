@@ -1,0 +1,2204 @@
+{
+ "maj": "2026-10-16T12:01:00+02:00",
+ "faits": [
+  {
+   "id": "f54662389e",
+   "metrique": "manifestants",
+   "valeur": 161500,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "161 500 manifestants en France le 13 octobre, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/video-mobilisation-lyceenne-161-500-manifestants-en-france-dont-41-500-a-paris-annonce-le-ministere-de-l-interieur_VN-202610130710.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-13/blocus-des-lycees-161500-personnes-ont-defile-en-france-selon-linterieur-dont",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/blocus-des-lycees-161500-manifestants-partout-en-france-selon-le-ministere-de-linterieur-480000-dapres-lintersyndicale-1145540",
+     "titre": ""
+    },
+    {
+     "nom": "France Culture",
+     "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/la-mobilisation-lyceenne-de-ce-mardi-continue-avec-de-nombreux-corteges-qui-defilent-dans-toute-la-france-4587491",
+     "titre": ""
+    },
+    {
+     "nom": "TF1 Info",
+     "url": "https://www.tf1info.fr/societe/mobilisation-manifestation-colere-des-lyceens-161-500-manifestants-en-france-selon-le-ministere-480-000-d-apres-les-organisateurs-2469747.html",
+     "titre": ""
+    },
+    {
+     "nom": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292443/france-manifestations-lycee-eleves-etudiants",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/manifestations-les-lyceens-maintiennent-la-pression_8236090.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "67a9f3570c",
+   "metrique": "manifestants",
+   "valeur": 480000,
+   "unite": "",
+   "qui": "l'intersyndicale de la jeunesse",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "480 000 manifestants en France le 13 octobre, selon l'intersyndicale de la jeunesse.",
+   "sources": [
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/-/-/480-000-manifestants-dans-toute-la-france-selon-lunef",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/video-mobilisation-lyceenne-161-500-manifestants-en-france-dont-41-500-a-paris-annonce-le-ministere-de-l-interieur_VN-202610130710.html",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/blocus-des-lycees-161500-manifestants-partout-en-france-selon-le-ministere-de-linterieur-480000-dapres-lintersyndicale-1145540",
+     "titre": ""
+    },
+    {
+     "nom": "RTBF",
+     "url": "https://www.rtbf.be/article/manifestation-en-france-les-lyceens-et-etudiants-manifestent-de-nouveau-massivement-11799621",
+     "titre": ""
+    },
+    {
+     "nom": "TF1 Info",
+     "url": "https://www.tf1info.fr/societe/mobilisation-manifestation-colere-des-lyceens-161-500-manifestants-en-france-selon-le-ministere-480-000-d-apres-les-organisateurs-2469747.html",
+     "titre": ""
+    },
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/societe/education/chez-nous-ca-commence-a-s-essouffler-les-vacances-de-la-toussaint-vont-elles-freiner-le-mouvement-lyceen_AV-202610140333.html",
+     "titre": ""
+    },
+    {
+     "nom": "Midi Libre",
+     "url": "https://www.midilibre.fr/2026/10/14/blocus-des-lycees-un-moment-charniere-ou-une-decrue-on-fait-le-point-sur-les-etablissements-bloques-ce-mercredi-13601439.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "0fdffc7cd7",
+   "metrique": "manifestants",
+   "valeur": 71500,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-08",
+   "phrase": "71 500 manifestants en France le 8 octobre 2026, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-71-500-manifestants-dans-toute-la-france-dont-24-500-a-paris-selon-le-ministere-de-l-interieur_VN-202610080841.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-09/paris-de-violents-affrontements-avec-la-police-ont-eu-lieu-bastille-en-marge-des",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/08/en-direct-mobilisation-lyceenne-le-ministre-de-l-education-edouard-geffray-annonce-que-3-000-professeurs-remplacants-entre-demain-et-mardi_6788487_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "Euronews",
+     "url": "https://fr.euronews.com/2026/10/08/mouvement-lyceen-le-ministre-de-leducation-promet-laffectation-de-3000-professeurs-remplac",
+     "titre": ""
+    },
+    {
+     "nom": "France 24",
+     "url": "https://www.france24.com/fr/france/20261008-mobilisation-lycéens-3-000-professeurs-annoncés-nouvel-appel-manifestation-13-octobre",
+     "titre": ""
+    },
+    {
+     "nom": "Le Républicain Lorrain",
+     "url": "https://www.republicain-lorrain.fr/social/2026/10/08/blocage-des-lycees-l-acte-iv-demarre-ce-jeudi-les-lyceens-veulent-s-entretenir-avec-lecornu",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "39bb7e8644",
+   "metrique": "manifestants",
+   "valeur": 266000,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-06",
+   "phrase": "266 000 manifestants en France le mardi 6 octobre, selon le ministère de l'Intérieur",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tant-qu-on-n-aura-pas-de-concret-il-y-aura-une-suite-previent-le-president-d-une-organisation-lyceenne_8225770.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/colere-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-une-nouvelle-journee-de-mobilisation-jeudi-20261007",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-488-personnes-interpellees-et-43-membres-des-forces-de-l-ordre-blesses-selon-beauvau-durant-cet-acte-iii_AD-202610060971.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/06/en-direct-blocage-des-lycees-entre-266-000-et-450-000-manifestants-488-interpellations-suspension-des-cours-ce-qu-il-faut-retenir-de-l-acte-3-de-la-mobilisation-lyceenne_6788487_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-le-mouvement-lyceen-s-etend-a-travers-la-france-un-climat-de-mecontentement-s-empare-du-pays_276477",
+     "titre": ""
+    },
+    {
+     "nom": "actu.fr",
+     "url": "https://actu.fr/societe/direct-apres-une-mobilisation-lyceenne-massive-mardi-quel-impact-ce-mercredi-en-france-suivez-la-journee-du-7-octobre_64889815.html",
+     "titre": ""
+    },
+    {
+     "nom": "Paris Match",
+     "url": "https://www.parismatch.com/actu/societe/blocus-des-lycees-la-violence-et-lincomprehension-une-semaine-a-lecole-de-la-revolte-277008",
+     "titre": ""
+    },
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/societe/video-blocages-des-lycees-le-mouvement-se-poursuit_VN-202610070149.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "7e8ad09064",
+   "metrique": "manifestants",
+   "valeur": 450000,
+   "unite": "",
+   "qui": "les organisateurs",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-06",
+   "phrase": "450 000 manifestants en France le mardi 6 octobre, selon les organisateurs",
+   "sources": [
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/societe/manifestation/mobilisation-lyceenne-chronique-dune-journee-historique",
+     "titre": ""
+    },
+    {
+     "nom": "La Tribune",
+     "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/50835611288091/mobilisation-des-lyceens-450-000-personnes-ont-defile-selon-les-organisateurs-256-000-selon-le-ministere-de-l-interieur",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/colere-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-une-nouvelle-journee-de-mobilisation-jeudi-20261007",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-des-lyceens-a-reuni-450-000-manifestants-selon-l-intersyndicale-de-la-jeunesse-contre-256-000-d-apres-le-ministere-de-l-interieur_8225587.html",
+     "titre": ""
+    },
+    {
+     "nom": "France Inter",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/manifestation-lyceenne-des-centaines-de-milliers-de-personnes-dans-les-rues-partout-en-france-1201634",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/06/en-direct-blocage-des-lycees-450-000-personnes-ont-defile-dans-toute-la-france-selon-les-organisateurs-256-000-selon-le-ministere-de-l-interieur_6788487_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-lyceenne-du-6-octobre-des-centaines-de-milliers-de-manifestants-a-travers-la-france_VN-202610060915.html",
+     "titre": ""
+    },
+    {
+     "nom": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/10/07/blocages-des-lycees-apres-lacte-iii-lexecutif-somme-de-repondre-a-la-colere-13587635.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "6d3d5ff43d",
+   "metrique": "etablissements",
+   "valeur": 589,
+   "unite": "",
+   "qui": "le ministre de l'Éducation nationale",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-05",
+   "phrase": "589 établissements perturbés au total le lundi 5 octobre, selon le ministre de l'Éducation nationale",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-edouard-geffray-estime-humainement-dramatique-le-fait-qu-un-lyceen-de-15-ans-ait-eu-une-main-arrachee-a-lens_6788487_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-des-centaines-d-etablissements-toujours-perturbes-en-france_8223886.html",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-on-n-a-jamais-vu-ca-en-termes-de-violences-urbaines-plus-de-6-000-interpellations-et-10-enquetes-de-l-igpn-ouvertes-a-la-suite-des-mobilisations-lyceennes_VN-202610060071.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "ad4ef11f4a",
+   "metrique": "etablissements",
+   "valeur": 735,
+   "unite": "",
+   "qui": "le ministre de l'Éducation Édouard Geffray",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-02",
+   "phrase": "735 établissements perturbés le vendredi 2 octobre en France, selon le ministre de l'Éducation Édouard Geffray",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20261002-direct-–-nouvelle-journée-de-blocage-des-lycées-en-france-plus-de-400-établissements-fermés-ce-vendredi",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/politique/blocus-des-lycees-edouard-geffray-multiplie-les-concertations-mais-les-syndicats-restent-sur-leur-faim-1119149",
+     "titre": ""
+    },
+    {
+     "nom": "Le Républicain Lorrain",
+     "url": "https://www.republicain-lorrain.fr/education/2026/10/02/blocus-des-lycees-plus-de-400-etablissements-fermes-edouard-geffray-accueille-syndicats-et-associations",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-une-mobilisation-hors-de-controle_8220469.html",
+     "titre": ""
+    },
+    {
+     "nom": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-mouvement-des-lyceens-la-fin-des-manifestations-ne-semble-pas-en-vue_275652",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-edouard-geffray-estime-humainement-dramatique-le-fait-qu-un-lyceen-de-15-ans-ait-eu-une-main-arrachee-a-lens_6788487_3224.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "4c9c6847fb",
+   "metrique": "manifestants",
+   "valeur": 206000,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-09-29",
+   "phrase": "206 000 manifestants en France le mardi 29 septembre, selon le ministère de l'Intérieur",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://www.liberation.fr/economie/social/en-direct-greve-du-29-septembre-suivez-la-mobilisation-dans-la-fonction-publique-ce-mardi-20260929_BFTDSESTTRBQHGN3EAA2SVR4MM/",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/greve-des-fonctionnaires/fonctionnaires-en-greve-le-pouvoir-d-achat-des-agents-de-la-fonction-publique-a-t-il-reellement-baisse-ces-dernieres-annees_8215358.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "7aabd0a1f6",
+   "metrique": "manifestants",
+   "valeur": 300000,
+   "unite": "",
+   "qui": "la CGT",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-09-29",
+   "phrase": "300 000 manifestants en France le mardi 29 septembre, selon la CGT",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://www.liberation.fr/economie/social/en-direct-greve-du-29-septembre-suivez-la-mobilisation-dans-la-fonction-publique-ce-mardi-20260929_BFTDSESTTRBQHGN3EAA2SVR4MM/",
+     "titre": ""
+    },
+    {
+     "nom": "Linternaute",
+     "url": "https://www.linternaute.com/actualite/societe/11306013-manifestations-du-29-septembre-paris-regions-ou-ont-lieu-les-mobilisations-ce-mardi/",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/greve-des-fonctionnaires/fonctionnaires-en-greve-le-pouvoir-d-achat-des-agents-de-la-fonction-publique-a-t-il-reellement-baisse-ces-dernieres-annees_8215358.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "36e8591bd3",
+   "metrique": "degats",
+   "valeur": 30000000,
+   "unite": "euros",
+   "qui": "une source de l’exécutif",
+   "cote": "sondeurs",
+   "portee": "ponctuel",
+   "jour": "2026-10-10",
+   "phrase": "Le montant des dégâts s’élève à au moins 30 millions d’euros, selon une source de l’exécutif, le 10 octobre 2026.",
+   "sources": [
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/societe/video-mouvement-lyceen-au-moins-30-millions-de-degats-selon-une-source-de-l-executif_VN-202610100078.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-10/blocus-des-lycees-deja-estimee-30-millions-deuros-en-france-la-facture-des-degats",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/video-colere-lyceenne-le-cout-des-degats-en-marge-du-mouvement-evalue-a-au-moins-30-millions-d-euros_VN-202610090656.html",
+     "titre": ""
+    },
+    {
+     "nom": "TF1 Info",
+     "url": "https://www.tf1info.fr/replay-lci/videos/video-le-grand-dossier-la-france-peut-elle-encore-sortir-le-chequier-du-vendredi-9-octobre-2026-2469094.html",
+     "titre": ""
+    },
+    {
+     "nom": "Nice-Matin",
+     "url": "https://www.nicematin.com/societe/blocage-des-lycees/lyceens-nette-deceleration-du-mouvement-au-moins-30-millions-de-degats-selon-une-source-de-l-executif-10737270",
+     "titre": ""
+    },
+    {
+     "nom": "Le Télégramme",
+     "url": "https://www.letelegramme.fr/france/colere-des-lyceens-nette-deceleration-du-mouvement-au-moins-30-millions-de-degats-selon-une-source-de-lexecutif-7135260.php",
+     "titre": ""
+    },
+    {
+     "nom": "Le Progrès",
+     "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/06/manifestations-lyceennes-25-a-30-millions-l-etonnant-chiffrage-des-degats-par-la-region-aura",
+     "titre": ""
+    },
+    {
+     "nom": "actu.fr",
+     "url": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/degats-dans-les-lycees-pourquoi-la-region-auvergne-rhone-alpes-annonce-presque-autant-que-toute-la-france_64907757.html",
+     "titre": ""
+    },
+    {
+     "nom": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/10/02/entretien-blocage-des-lycees-la-facture-globale-depasse-deja-les-3-millions-deuros-dont-pres-de-la-moitie-en-haute-garonne-apres-les-degats-la-region-13580374.php",
+     "titre": ""
+    },
+    {
+     "nom": "Centre Presse Aveyron",
+     "url": "https://www.centrepresseaveyron.fr/2026/10/02/colere-des-lyceens-3-millions-deuros-de-degats-en-occitanie-carole-delga-appelle-les-etudiants-au-calme-cela-ne-fait-pas-avancer-vos-revendications-13580608.php",
+     "titre": ""
+    },
+    {
+     "nom": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/1-million-deuros-de-degats-200-lycees-perturbes-le-bilan-des-blocus-de-lycees-en-ile-de-france-01-10-2026-YACA325BUBAD5K7L5B6DWBDODY.php",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/social/incendies-portails-detruits-vitres-brisees-qui-paiera-la-facture-de-la-degradation-des-lycees-20261001",
+     "titre": ""
+    },
+    {
+     "nom": "Le Dauphiné",
+     "url": "https://www.ledauphine.com/economie/2026/10/02/isere-metropole-de-grenoble-abris-de-bus-casses-tram-et-bus-caillasses-au-moins-250-000-de-degats-en-marge-des-mouvements-lyceens",
+     "titre": ""
+    },
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/250-000-euros-de-degradations-au-moins-sur-le-reseau-de-transports-estime-sylvain-laval-president-du-smmag-2500299",
+     "titre": ""
+    },
+    {
+     "nom": "Les Echos",
+     "url": "https://www.lesechos.fr/politique-societe/education/lycees-bloques-le-projet-de-loi-casseur-payeur-sera-discute-plus-tot-que-prevu-2255030",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/politique/blocus-des-lycees-ce-que-contient-la-feuille-de-route-de-sebastien-lecornu-1122878",
+     "titre": ""
+    },
+    {
+     "nom": "Capital",
+     "url": "https://www.capital.fr/economie-politique/loi-casseur-payeur-pourquoi-les-degats-des-lycees-resteront-surtout-a-la-charge-du-contribuable-1530761",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "4ebd4c2ad2",
+   "metrique": "blesses_eleves",
+   "valeur": 248,
+   "unite": "",
+   "qui": "Sébastien Lecornu",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "248 élèves blessés depuis le début du mouvement, selon Sébastien Lecornu",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/video-mobilisation-lycees-etudiants-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-248-eleves-blesses-annonce-sebastien-lecornu_VN-202610140557.html",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "24e7a71922",
+   "metrique": "blesses_eleves",
+   "valeur": 215,
+   "unite": "",
+   "qui": "Matignon",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "215 élèves blessés depuis le 28 septembre, selon Matignon",
+   "sources": [
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/-/-/les-chiffres-depuis-le-debut-du-mouvement",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/ca-n-est-jamais-arrive-edouard-geffray-deplore-des-violences-commises-a-l-encontre-de-85-membres-du-personnel-educatif_AN-202610060319.html",
+     "titre": ""
+    },
+    {
+     "nom": "Sud Radio",
+     "url": "https://www.sudradio.fr/sud-radio/blocus-des-lycees-le-syndicat-des-avocats-denonce-les-methodes-de-la-police",
+     "titre": ""
+    },
+    {
+     "nom": "France 24",
+     "url": "https://www.france24.com/fr/vidéo/20261006-mobilisations-lycéenne-les-parents-en-première-ligne-pour-soutenir-les-jeunes",
+     "titre": ""
+    },
+    {
+     "nom": "Linternaute",
+     "url": "https://www.linternaute.com/actualite/societe/11307247-lyceens-blesses-policiers-agresses-ce-que-l-on-sait-du-lourd-bilan-humain-des-blocages/",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "70045ee676",
+   "metrique": "blesses_eleves",
+   "valeur": 190,
+   "unite": "",
+   "qui": "le ministre de l'Éducation nationale",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-05",
+   "phrase": "190 élèves ont été blessés depuis le début du mouvement, selon le ministre de l'Éducation nationale le lundi 5 octobre.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://www.liberation.fr/societe/police-justice/main-arrachee-machoire-scellee-six-enquetes-de-ligpn-ouvertes-en-lien-avec-les-blocages-des-lycees-20261005_CWHVJREBDNCURM7RCF3FKCZSXE/",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/education/colere-lyceenne-edouard-geffray-indique-que-190-eleves-ont-ete-blesses-depuis-le-debut-du-mouvement_AV-202610050669.html",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-la-main-d-un-adolescent-arrachee-par-une-grenade_8223883.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "30ba961e11",
+   "metrique": "blesses_eleves",
+   "valeur": 215,
+   "unite": "",
+   "qui": "le gouvernement",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-05",
+   "phrase": "215 élèves ont été blessés depuis le début du mouvement, selon le gouvernement le lundi 5 octobre.",
+   "sources": [
+    {
+     "nom": "Nice-Matin",
+     "url": "https://www.nicematin.com/faits-divers/lycees-au-moins-215-eleves-blesses-a-la-suite-d-interventions-des-forces-de-l-ordre-10735575",
+     "titre": ""
+    },
+    {
+     "nom": "Vosges Matin",
+     "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/10/05/blocus-des-lycees-reprise-partielle-des-cours-ce-lundi-a-la-veille-d-une-journee-nationale-de-mobilisation",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "51452e6884",
+   "metrique": "blesses_eleves",
+   "valeur": 170,
+   "unite": "",
+   "qui": "le ministre de l'Éducation nationale",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-02",
+   "phrase": "170 élèves blessés depuis le début du mouvement, selon le ministre de l'Éducation nationale (bilan du 2 octobre)",
+   "sources": [
+    {
+     "nom": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/direct-lycees-bloques-lyon-pantin-lille-le-mouvement-se-poursuit-ce-jeudi-pour-lacte-deux-01-10-2026-MX2MVV5YNNAJDLBEYTS7KCDROQ.php",
+     "titre": ""
+    },
+    {
+     "nom": "actu.fr",
+     "url": "https://actu.fr/societe/blocus-dans-les-lycees-insultes-violences-que-risquent-les-lyceens-qui-s-en-prennent-aux-enseignants-et-policiers_64870354.html",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyceens-blesses-au-lbd-gazage-arrestations-massives-le-maintien-de-l-ordre-est-il-adapte-a-des-manifestants-mineurs_8219671.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "4fe9befc90",
+   "metrique": "blesses_forces",
+   "valeur": 937,
+   "unite": "",
+   "qui": "Sébastien Lecornu",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "937 policiers et gendarmes blessés depuis le début du mouvement, selon Sébastien Lecornu",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/video-mobilisation-lycees-etudiants-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-248-eleves-blesses-annonce-sebastien-lecornu_VN-202610140557.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-14/blocus-des-lycees-937-membres-des-forces-de-lordre-et-149-personnels-de",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+     "titre": ""
+    },
+    {
+     "nom": "TF1 Info",
+     "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-mouvement-lyceen-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-du-mardi-13-octobre-selon-sebastien-lecornu-56813-2469971.html",
+     "titre": ""
+    },
+    {
+     "nom": "Boulevard Voltaire",
+     "url": "https://www.bvoltaire.fr/manifestations-lyceennes-omar-sy-donne-des-lecons-la-police-compte-ses-blesses/",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "49d0ea3e25",
+   "metrique": "blesses_forces",
+   "valeur": 40,
+   "unite": "",
+   "qui": "Sébastien Lecornu",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "40 policiers et gendarmes blessés le 13 octobre, selon Sébastien Lecornu",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/video-mobilisation-lycees-etudiants-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-248-eleves-blesses-annonce-sebastien-lecornu_VN-202610140557.html",
+     "titre": ""
+    },
+    {
+     "nom": "TF1 Info",
+     "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-mouvement-lyceen-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-du-mardi-13-octobre-selon-sebastien-lecornu-56813-2469971.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "8e27244af3",
+   "metrique": "blesses_forces",
+   "valeur": 48,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-08",
+   "phrase": "48 policiers et gendarmes blessés le 8 octobre 2026, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/police-justice/video-blocages-des-lycees-des-violences-en-hausse_VN-202610090102.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-08/blocus-des-lycees-504-personnes-interpellees-48-policiers-et-gendarmes-blesses-ce",
+     "titre": ""
+    },
+    {
+     "nom": "France 24",
+     "url": "https://www.france24.com/fr/vidéo/20261009-mouvement-des-lycéens-71-500-personnes-ont-manifesté-en-france",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "96a51961bb",
+   "metrique": "blesses_forces",
+   "valeur": 43,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-06",
+   "phrase": "43 membres des forces de l'ordre blessés le mardi 6 octobre, selon le ministère de l'Intérieur",
+   "sources": [
+    {
+     "nom": "Le Républicain Lorrain",
+     "url": "https://www.republicain-lorrain.fr/social/2026/10/06/blocus-des-lycees-acte-iii-de-la-mobilisation-ce-mardi-lyceens-et-syndicats-attendus-dans-la-rue",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-488-personnes-interpellees-et-43-membres-des-forces-de-lordre",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/en-direct-manifestations-lyceennes-488-personnes-interpellees-ce-mardi-43-forces-de-lordre-blessees-1126088",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-488-personnes-interpellees-et-43-membres-des-forces-de-l-ordre-blesses-selon-beauvau-durant-cet-acte-iii_AD-202610060971.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "266fc12dd9",
+   "metrique": "blesses_forces",
+   "valeur": 65,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-05",
+   "phrase": "65 policiers ou gendarmes ont été blessés en France le lundi 5 octobre, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-plus-de-5-000-gardes-a-vue-depuis-le-debut-du-mouvement-14-personnes-en-detention-provisoire-rapporte-le-ministere-de-la-justice_8223922.html",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/video-mouvement-lyceen-l-igpn-a-ete-saisie-de-10-enquetes_VN-202610050886.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "fa43a54097",
+   "metrique": "blesses_forces",
+   "valeur": 305,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur 1er oct",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-01",
+   "phrase": "305 policiers et gendarmes blessés le jeudi 1er octobre, selon le ministère de l'Intérieur 1er oct. ·",
+   "sources": [
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/police-justice/video-colere-lyceenne-une-policiere-blessee-temoigne-sur-rmc_VN-202610020204.html",
+     "titre": ""
+    },
+    {
+     "nom": "Actu17",
+     "url": "https://actu17.fr/faits-divers/blocus-lyceens-305-policiers-et-gendarmes-blesses-beauvau-denonce-une-situation-de-violences-urbaines.html",
+     "titre": ""
+    },
+    {
+     "nom": "Police & Réalités",
+     "url": "https://policeetrealites.com/2026/10/01/blocages-de-lycees-1-949-interpellations-ce-jeudi-305-policiers-et-gendarmes-blesses/",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "fa687d68f3",
+   "metrique": "blesses_education",
+   "valeur": 149,
+   "unite": "",
+   "qui": "Sébastien Lecornu",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "149 personnels de l'Éducation nationale blessés depuis le début du mouvement, selon Sébastien Lecornu",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-14/blocus-des-lycees-937-membres-des-forces-de-lordre-et-149-personnels-de",
+     "titre": ""
+    },
+    {
+     "nom": "L’Est Républicain",
+     "url": "https://www.estrepublicain.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+     "titre": ""
+    },
+    {
+     "nom": "Le JSL",
+     "url": "https://www.lejsl.com/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/mobilisation-des-lyceens-149-blesses-parmi-le-personnel-enseignant-sebastien-lecornu-deplore-le-plus-lourd-bilan-pour-l-education-nationale-20261014",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "0e0cb9cace",
+   "metrique": "blesses_education",
+   "valeur": 147,
+   "unite": "",
+   "qui": "leur ministère",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "147 personnels de l'Éducation nationale blessés depuis le début du mouvement, selon leur ministère.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-147-membres-de-l-education-nationale-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-214-lycees-restent-fermes-mardi-annonce-le-ministere_6793059_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-13/blocus-des-lycees-147-personnels-de-leducation-nationale-blesses-depuis-le-debut",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "855e565d49",
+   "metrique": "blesses_education",
+   "valeur": 78,
+   "unite": "",
+   "qui": "le ministre de l'Éducation nationale",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-04",
+   "phrase": "78 personnels de l'Éducation nationale blessés depuis le début du mouvement, selon le ministre de l'Éducation nationale (4 octobre)",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/infos/societe/blocage-des-lycees-78-personnels-de-l-education-nationale-blesses-24-etablissements-incendies-ou-saccages-5111985",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/blocus-des-lycees-les-cours-suspendus-lundi-dans-400-a-500-lycees-1122410",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "b0ec6c32e0",
+   "metrique": "blesses_education",
+   "valeur": 40,
+   "unite": "",
+   "qui": "le ministre de l'Éducation nationale",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "40 chefs d'établissement blessés depuis le début du mouvement, selon le ministre de l'Éducation nationale",
+   "sources": [
+    {
+     "nom": "Marianne",
+     "url": "https://www.marianne.net/societe/emeutes-lyceennes-les-policiers-veulent-siffler-la-fin-de-la-recre",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/agressions-de-proviseurs-et-degradations-de-lycees-l-education-nationale-victime-d-une-entreprise-de-destruction-20261002",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/marseille-rouen-orleans-plusieurs-chefs-detablissements-agresses-lors-des-mobilisations-lyceennes-1118927",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "04e2d92491",
+   "metrique": "gardes_a_vue",
+   "valeur": 8000,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "Près de 8000 personnes placées en garde à vue depuis le début du mouvement, selon le ministère de la Justice",
+   "sources": [
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/societe/manifestation-lyceens/mouvement-lyceen-pres-de-8-000-gardes-a-vue-dont-1000-de-plus-en-cinq-jours",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-8-000-personnes-placees-en-garde-a-vue-depuis-le-debut-de-la-mobilisation-26-en-detention-provisoire_AN-202610140638.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/mobilisation-des-lyceens-pres-de-8000-personnes-placees-en-garde-a-vue-depuis-le-debut-du-mouvement-20261014",
+     "titre": ""
+    },
+    {
+     "nom": "L’Est Républicain",
+     "url": "https://www.estrepublicain.fr/education/2026/10/14/blocus-des-lycees-pres-de-8000-gardes-a-vue-et-26-detentions-provisoires-annonce-la-chancellerie",
+     "titre": ""
+    },
+    {
+     "nom": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/colere-lyceenne-pres-de-8-000-personnes-interpellees-et-2-735-poursuivies-14-10-2026-BKNBWCOSAJBZHANHXLFK6BJY4M.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "3e711d6139",
+   "metrique": "gardes_a_vue",
+   "valeur": 6877,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-09",
+   "phrase": "6 877 individus placés en garde à vue depuis le début du mouvement, selon le ministère de la Justice, le 9 octobre 2026",
+   "sources": [
+    {
+     "nom": "L’Obs",
+     "url": "https://www.nouvelobs.com/justice/20261009.OBS119057/interrogatoires-sauvages-violences-racisme-des-avocats-denoncent-les-conditions-de-garde-a-vue-de-lyceens.html",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/video-colere-des-lyceens-6-877-personnes-ont-ete-placees-en-garde-a-vue-depuis-le-debut-de-la-crise-dont-86-de-mineurs_VN-202610090444.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-09/blocus-des-lycees-6877-individus-places-en-garde-vue-et-21-actuellement-en",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+     "titre": ""
+    },
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+     "titre": ""
+    },
+    {
+     "nom": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/mouvement-lyceen-6-877-gardes-a-vue-depuis-le-debut-de-la-contestation-lonu-inquiete-face-aux-violences-09-10-2026-TPPTY53UNJBQLN56E3JPS66OFY.php",
+     "titre": ""
+    },
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/politique/bavures-policieres/mobilisation-lyceenne-un-triste-record-de-6-877-gardes-a-vue-dont-86-de-mineurs",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "072967d6d6",
+   "metrique": "interpellations",
+   "valeur": 504,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-08",
+   "phrase": "504 personnes interpellées le 8 octobre 2026, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/mouvement-des-lyceens-71-500-manifestants-et-504-personnes-interpellees-ce-jeudi_AD-202610080880.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-08/blocus-des-lycees-504-personnes-interpellees-48-policiers-et-gendarmes-blesses-ce",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/en-direct-blocus-des-lycees-71500-personnes-ont-manifeste-en-france-504-interpellations-1130867",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/08/en-direct-mobilisation-lyceenne-le-ministre-de-l-education-edouard-geffray-annonce-que-3-000-professeurs-remplacants-entre-demain-et-mardi_6788487_3224.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Républicain Lorrain",
+     "url": "https://www.republicain-lorrain.fr/social/2026/10/08/blocage-des-lycees-l-acte-iv-demarre-ce-jeudi-les-lyceens-veulent-s-entretenir-avec-lecornu",
+     "titre": ""
+    },
+    {
+     "nom": "Valeurs actuelles",
+     "url": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/bouches-du-rhone/marseille/faits-divers/partout-en-france-on-est-depasse-les-blocus-lyceens-saturent-les-commissariats-et-mobilisent-une-justice-deja-sous-tension",
+     "titre": ""
+    },
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/police-justice/video-blocages-des-lycees-des-violences-en-hausse_VN-202610090102.html",
+     "titre": ""
+    },
+    {
+     "nom": "France 24",
+     "url": "https://www.france24.com/fr/vidéo/20261009-mouvement-des-lycéens-71-500-personnes-ont-manifesté-en-france",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "c51904a268",
+   "metrique": "interpellations",
+   "valeur": 6000,
+   "unite": "",
+   "qui": "France 24",
+   "cote": "autres",
+   "portee": "cumul",
+   "jour": "2026-10-06",
+   "phrase": "Plus de 6 000 interpellations ont eu lieu depuis le début du mouvement, selon France 24 le mardi 6 octobre.",
+   "sources": [
+    {
+     "nom": "L’Humanité",
+     "url": "https://www.humanite.fr/-/-/les-chiffres-depuis-le-debut-du-mouvement",
+     "titre": ""
+    },
+    {
+     "nom": "France 24",
+     "url": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journée-de-mobilisation-lycéenne-sous-haute-tension-en-france",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-on-n-a-jamais-vu-ca-en-termes-de-violences-urbaines-plus-de-6-000-interpellations-et-10-enquetes-de-l-igpn-ouvertes-a-la-suite-des-mobilisations-lyceennes_VN-202610060071.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "72a9f8dcb4",
+   "metrique": "gardes_a_vue",
+   "valeur": 5000,
+   "unite": "",
+   "qui": "franceinfo",
+   "cote": "organisateurs",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "5 000 personnes interpellées et placées en garde à vue depuis le début du mouvement, selon franceinfo",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+     "titre": ""
+    },
+    {
+     "nom": "Sud Radio",
+     "url": "https://www.sudradio.fr/sud-radio/blocus-des-lycees-le-syndicat-des-avocats-denonce-les-methodes-de-la-police",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "7298df7f74",
+   "metrique": "interpellations",
+   "valeur": 488,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-06",
+   "phrase": "488 personnes interpellées le mardi 6 octobre, selon le ministère de l'Intérieur",
+   "sources": [
+    {
+     "nom": "Le Dauphiné",
+     "url": "https://www.ledauphine.com/social/2026/10/06/blocus-des-lycees-acte-iii-de-la-mobilisation-ce-mardi-lyceens-et-syndicats-attendus-dans-la-rue",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-488-personnes-interpellees-et-43-membres-des-forces-de-lordre",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/societe/en-direct-manifestations-lyceennes-488-personnes-interpellees-ce-mardi-43-forces-de-lordre-blessees-1126088",
+     "titre": ""
+    },
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/infos/societe/plus-de-250-000-manifestants-en-france-488-interpellations-ce-qu-il-faut-retenir-de-la-mobilisation-lyceenne-ce-mardi-5606727",
+     "titre": ""
+    },
+    {
+     "nom": "Le Républicain Lorrain",
+     "url": "https://www.republicain-lorrain.fr/social/2026/10/06/blocus-des-lycees-acte-iii-de-la-mobilisation-ce-mardi-lyceens-et-syndicats-attendus-dans-la-rue",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-488-personnes-interpellees-et-43-membres-des-forces-de-l-ordre-blesses-selon-beauvau-durant-cet-acte-iii_AD-202610060971.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/06/en-direct-blocage-des-lycees-entre-266-000-et-450-000-manifestants-488-interpellations-suspension-des-cours-ce-qu-il-faut-retenir-de-l-acte-3-de-la-mobilisation-lyceenne_6788487_3224.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "a85c9c9384",
+   "metrique": "interpellations",
+   "valeur": 5060,
+   "unite": "",
+   "qui": "L'Alsace",
+   "cote": "autres",
+   "portee": "cumul",
+   "jour": "2026-10-05",
+   "phrase": "5060 personnes ont été interpellées depuis le début du mouvement, selon L'Alsace le lundi 5 octobre.",
+   "sources": [
+    {
+     "nom": "L’Alsace",
+     "url": "https://www.lalsace.fr/faits-divers-justice/2026/10/05/blocus-des-lycees-reprise-partielle-des-cours-ce-lundi-a-la-veille-d-une-journee-nationale-de-mobilisation",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/info-bfmtv-colere-des-lyeens-5-060-gardes-a-vue-recensees-depuis-le-debut-du-mouvement_AN-202610050834.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "6471a68110",
+   "metrique": "interpellations",
+   "valeur": 984,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-05",
+   "phrase": "984 personnes ont été interpellées en France le lundi 5 octobre, selon le ministère de l'Intérieur.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-plus-de-5-000-gardes-a-vue-depuis-le-debut-du-mouvement-14-personnes-en-detention-provisoire-rapporte-le-ministere-de-la-justice_8223922.html",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/video-mouvement-lyceen-l-igpn-a-ete-saisie-de-10-enquetes_VN-202610050886.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "41a2690b49",
+   "metrique": "interpellations",
+   "valeur": 824,
+   "unite": "",
+   "qui": "la préfecture de police",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "824 interpellations en Île-de-France depuis le début du mouvement, dont 85 % de mineurs, selon la préfecture de police",
+   "sources": [
+    {
+     "nom": "Ouest-France",
+     "url": "https://www.ouest-france.fr/education/blocages-de-lycees-plus-de-800-interpellations-en-ile-de-france-dont-85-pourcent-de-mineurs-abc97d5c-bf03-11f1-b7db-555e86a524f6",
+     "titre": ""
+    },
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/police-justice/blocus-des-lycees-824-interpellations-en-ile-de-france-depuis-le-debut-du-mouvement-85-sont-des-mineurs-1120223",
+     "titre": ""
+    },
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/colere-des-lyceens-plus-de-800-interpellations-en-ile-de-france-dont-85-de-mineurs_AD-202610030193.html",
+     "titre": ""
+    },
+    {
+     "nom": "20 Minutes",
+     "url": "https://www.20minutes.fr/societe/4250967-20261003-blocus-lycees-85-mineurs-parmi-824-interpelles-ile-france",
+     "titre": ""
+    },
+    {
+     "nom": "L’Est Républicain",
+     "url": "https://www.estrepublicain.fr/education/2026/10/03/blocus-des-lycees-en-ile-de-france-plus-de-800-interpellations-dont-85-de-mineurs",
+     "titre": ""
+    },
+    {
+     "nom": "Le Progrès",
+     "url": "https://www.leprogres.fr/education/2026/10/03/blocus-des-lycees-en-ile-de-france-plus-de-800-interpellations-dont-85-de-mineurs",
+     "titre": ""
+    },
+    {
+     "nom": "Sud Ouest",
+     "url": "https://www.sudouest.fr/societe/greves-et-manifestations/blocages-de-lycees-en-ile-de-france-plus-de-800-interpellations-dont-85-de-mineurs-30897538.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "636eced1a6",
+   "metrique": "interpellations",
+   "valeur": 1747,
+   "unite": "",
+   "qui": "le ministre de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-02",
+   "phrase": "1 747 interpellations le vendredi 2 octobre, selon le ministre de l'Intérieur",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-dans-les-lycees-le-gouvernement-evoque-une-man-uvre-organisee-par-lfi-manuel-bompard-l-accuse-de-sombrer-dans-le-complotisme_8219182.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/en-direct-blocus-des-lycees-les-autorites-espere-l-apaisement-apres-les-violences-d-une-extreme-gravite-400-etablissements-fermes-20261002",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-02/blocus-des-lycees-1747-individus-interpelles-ce-vendredi-plus-de-5000-depuis",
+     "titre": ""
+    },
+    {
+     "nom": "20 Minutes",
+     "url": "https://www.20minutes.fr/societe/4250558-20261002-direct-blocus-lycees-peu-plus-400-etablissements-fermes-matin-manifestations-interdites",
+     "titre": ""
+    },
+    {
+     "nom": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20261002-direct-–-nouvelle-journée-de-blocage-des-lycées-en-france-plus-de-400-établissements-fermés-ce-vendredi",
+     "titre": ""
+    },
+    {
+     "nom": "Euronews",
+     "url": "https://fr.euronews.com/2026/10/02/400-lycees-fermes-plus-de-2-000-interpellations-la-mobilisation-lyceenne-ne-faiblit-pas",
+     "titre": ""
+    },
+    {
+     "nom": "L’Indépendant",
+     "url": "https://www.lindependant.fr/2026/10/02/bloacge-des-lycees-250-eleves-bloquent-le-lycee-jules-fil-a-carcassonne-geral-darmanin-veut-faire-payer-les-reparations-aux-parents-suivez-la-13579968.php",
+     "titre": ""
+    },
+    {
+     "nom": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "f58b292419",
+   "metrique": "interpellations",
+   "valeur": 5000,
+   "unite": "",
+   "qui": "le ministre de l'Intérieur",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-02",
+   "phrase": "Plus de 5 000 interpellations depuis le lundi 28 septembre, selon le ministre de l'Intérieur (bilan du vendredi 2 octobre)",
+   "sources": [
+    {
+     "nom": "L’Obs",
+     "url": "https://www.nouvelobs.com/politique/20261003.OBS118854/blocage-des-lycees-le-ministre-de-l-education-fait-des-propositions-sans-calmer-la-colere-des-heurts-partout-en-france.html",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-dans-les-lycees-le-gouvernement-evoque-une-man-uvre-organisee-par-lfi-manuel-bompard-l-accuse-de-sombrer-dans-le-complotisme_8219182.html",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/en-direct-blocus-des-lycees-les-autorites-espere-l-apaisement-apres-les-violences-d-une-extreme-gravite-400-etablissements-fermes-20261002",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-02/blocus-des-lycees-1747-individus-interpelles-ce-vendredi-plus-de-5000-depuis",
+     "titre": ""
+    },
+    {
+     "nom": "20 Minutes",
+     "url": "https://www.20minutes.fr/societe/4250558-20261002-direct-blocus-lycees-peu-plus-400-etablissements-fermes-matin-manifestations-interdites",
+     "titre": ""
+    },
+    {
+     "nom": "Euronews",
+     "url": "https://fr.euronews.com/2026/10/02/400-lycees-fermes-plus-de-2-000-interpellations-la-mobilisation-lyceenne-ne-faiblit-pas",
+     "titre": ""
+    },
+    {
+     "nom": "L’Indépendant",
+     "url": "https://www.lindependant.fr/2026/10/02/bloacge-des-lycees-250-eleves-bloquent-le-lycee-jules-fil-a-carcassonne-geral-darmanin-veut-faire-payer-les-reparations-aux-parents-suivez-la-13579968.php",
+     "titre": ""
+    },
+    {
+     "nom": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "9a70d0e17e",
+   "metrique": "interpellations",
+   "valeur": 1949,
+   "unite": "",
+   "qui": "le ministre de l'Intérieur 1er oct",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-01",
+   "phrase": "1 949 interpellations le jeudi 1er octobre, selon le ministre de l'Intérieur 1er oct. ·",
+   "sources": [
+    {
+     "nom": "Révolution Permanente",
+     "url": "https://www.revolutionpermanente.fr/Repression-historique-1-949-jeunes-et-lyceens-interpelles-en-moins-de-24-heures",
+     "titre": ""
+    },
+    {
+     "nom": "Midi Libre",
+     "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-01/blocus-des-lycees-pres-de-2000-individus-interpelles-jeudi-laurent-nunez-condamne",
+     "titre": ""
+    },
+    {
+     "nom": "Actu17",
+     "url": "https://actu17.fr/faits-divers/blocus-lyceens-305-policiers-et-gendarmes-blesses-beauvau-denonce-une-situation-de-violences-urbaines.html",
+     "titre": ""
+    },
+    {
+     "nom": "Police & Réalités",
+     "url": "https://policeetrealites.com/2026/10/01/blocages-de-lycees-1-949-interpellations-ce-jeudi-305-policiers-et-gendarmes-blesses/",
+     "titre": ""
+    },
+    {
+     "nom": "L’Indépendant",
+     "url": "https://www.lindependant.fr/2026/10/02/blocage-des-lycees-apres-222-etablissements-bloques-et-1-949-interpellations-jeudi-les-prefets-interdisent-de-manifester-autour-des-lycees-fermes-ce-13579902.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "99800939b7",
+   "metrique": "interpellations",
+   "valeur": 625,
+   "unite": "",
+   "qui": "le ministre de l'Intérieur",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-09-30",
+   "phrase": "625 interpellations le mercredi 30 septembre, selon le ministre de l'Intérieur",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://www.liberation.fr/societe/blocus-des-lycees-la-mobilisation-continue-20260930_DWMW5QKLXBE4XBC7KYZDSTK6CQ/",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "gauche"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "ca75fcb99e",
+   "metrique": "detention",
+   "valeur": 26,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "26 personnes placées en détention provisoire depuis le début du mouvement, selon le ministère de la Justice",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-8-000-personnes-placees-en-garde-a-vue-depuis-le-debut-de-la-mobilisation-26-en-detention-provisoire_AN-202610140638.html",
+     "titre": ""
+    },
+    {
+     "nom": "L’Est Républicain",
+     "url": "https://www.estrepublicain.fr/education/2026/10/14/blocus-des-lycees-pres-de-8000-gardes-a-vue-et-26-detentions-provisoires-annonce-la-chancellerie",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "d28f2dfb9b",
+   "metrique": "detention",
+   "valeur": 21,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-09",
+   "phrase": "21 personnes en détention provisoire depuis le début du mouvement, selon le ministère de la Justice, le 9 octobre 2026",
+   "sources": [
+    {
+     "nom": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/colere-des-lyceens-6-877-gardes-a-vue-depuis-le-debut-du-mouvement-21-personnes-placees-en-detention-provisoire_AV-202610090450.html",
+     "titre": ""
+    },
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-09/blocus-des-lycees-6877-individus-places-en-garde-vue-et-21-actuellement-en",
+     "titre": ""
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/mouvement-lyceen-pres-de-6900-gardes-a-vue-et-21-placements-en-detention-provisoire-20261009",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre",
+    "droite"
+   ],
+   "recoupe": true,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "f68250081e",
+   "metrique": "detention",
+   "valeur": 14,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-05",
+   "phrase": "14 personnes ont été écrouées depuis le début du mouvement, selon le ministère de la Justice le lundi 5 octobre.",
+   "sources": [
+    {
+     "nom": "L’Alsace",
+     "url": "https://www.lalsace.fr/faits-divers-justice/2026/10/05/blocus-des-lycees-reprise-partielle-des-cours-ce-lundi-a-la-veille-d-une-journee-nationale-de-mobilisation",
+     "titre": ""
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-plus-de-5-000-gardes-a-vue-depuis-le-debut-du-mouvement-14-personnes-en-detention-provisoire-rapporte-le-ministere-de-la-justice_8223922.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "3959b5cf29",
+   "metrique": "gardes_a_vue",
+   "valeur": 8000,
+   "unite": "",
+   "qui": "la Chancellerie",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-15",
+   "phrase": "Près de 8000 gardes à vue depuis le début de la mobilisation lycéenne, selon la Chancellerie, le 15 octobre 2026.",
+   "sources": [
+    {
+     "nom": "RMC",
+     "url": "https://rmc.bfmtv.com/actualites/police-justice/plus-de-gardes-a-vue-en-un-mois-que-pendant-les-gilets-jaunes-la-mobilisation-lyceenne-bat-des-records_AV-202610150106.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "dbed10c8e9",
+   "metrique": "blesses_forces",
+   "valeur": 900,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-15",
+   "phrase": "900 policiers et gendarmes blessés depuis le début de la mobilisation lycéenne, selon le ministère de l'Intérieur, le 15 octobre 2026.",
+   "sources": [
+    {
+     "nom": "France Inter",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/seuls-face-a-la-justice-et-a-prendre-des-coups-les-syndicats-de-la-police-exigent-la-clarte-de-leur-hierarchie-4541369",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "4319aaa628",
+   "metrique": "degats",
+   "valeur": 220,
+   "unite": "€",
+   "qui": "Bordeaux Métropole",
+   "cote": "autorites",
+   "portee": "ponctuel",
+   "jour": "2026-10-15",
+   "phrase": "Chaque grosse poubelle incendiée coûte 220 euros aux habitants à Bordeaux, selon Bordeaux Métropole, le 15 octobre 2026.",
+   "sources": [
+    {
+     "nom": "Sud Ouest",
+     "url": "https://www.sudouest.fr/faits-divers/manifestations-a-bordeaux-chaque-grosse-poubelle-incendiee-coute-220-euros-aux-habitants-31065841.php",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "369e8c46a7",
+   "metrique": "manifestants",
+   "valeur": 4000,
+   "unite": "",
+   "qui": "les organisateurs",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-15",
+   "phrase": "4000 manifestants à Grenoble le 15 octobre 2026, selon les organisateurs.",
+   "sources": [
+    {
+     "nom": "Le Dauphiné",
+     "url": "https://www.ledauphine.com/social/2026/10/15/colere-des-lyceens-un-cortege-clairseme-mais-tourne-vers-la-mobilisation-du-17-octobre",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "cb7081dd5c",
+   "metrique": "sondage",
+   "valeur": 73.0,
+   "unite": "%",
+   "qui": "CSA",
+   "cote": "sondeurs",
+   "portee": "ponctuel",
+   "jour": "2026-10-15",
+   "phrase": "73% des Français favorables à la suspension de l'excuse de minorité pour les mineurs participant aux violences, selon un sondage CSA publié le 15 octobre 2026.",
+   "sources": [
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-15/sondage-73-des-francais-estiment-quil-faut-suspendre-lexcuse-de-minorite-pour-les",
+     "titre": ""
+    },
+    {
+     "nom": "Le JDD",
+     "url": "https://www.lejdd.fr/Societe/sondage-blocus-73-des-francais-souhaitent-suspendre-lexcuse-de-minorite-pour-les-casseurs-186060",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "droite"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "27f21e5cc5",
+   "metrique": "gardes_a_vue",
+   "valeur": 6800,
+   "unite": "",
+   "qui": "le ministère de la Justice",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "Plus de 6 800 personnes placées en garde à vue depuis le début du mouvement, selon le ministère de la Justice.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-expliquer-le-nombre-important-de-gardes-a-vue-depuis-le-debut-de-la-mobilisation-lyceenne_8235619.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "8ee0fb8cdc",
+   "metrique": "gardes_a_vue",
+   "valeur": 101,
+   "unite": "",
+   "qui": "la cour d'appel d'Angers",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "101 gardes à vue depuis le 28 septembre en Anjou, Sarthe et Mayenne, selon la cour d'appel d'Angers",
+   "sources": [
+    {
+     "nom": "Ouest-France",
+     "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-quel-est-le-premier-bilan-des-enquetes-judiciaires-en-anjou-sarthe-et-mayenne-155cf588-c7b9-11f1-9522-1f9ae0711c0a",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "03e39cc336",
+   "metrique": "gardes_a_vue",
+   "valeur": 7950,
+   "unite": "",
+   "qui": "le ministère de l'Intérieur",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-14",
+   "phrase": "7950 personnes placées en garde à vue depuis le début du mouvement lycéen, selon le ministère de l'Intérieur, le 14 octobre 2026.",
+   "sources": [
+    {
+     "nom": "Europe 1",
+     "url": "https://www.europe1.fr/police-justice/blocus-des-lycees-cocktails-molotov-mortiers-ces-armes-plus-variees-et-dangereuses-utilisees-par-les-emeutiers-1149011",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "droite"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "ef91aead70",
+   "metrique": "interpellations",
+   "valeur": 141,
+   "unite": "",
+   "qui": "la préfecture",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "141 personnes interpellées en Essonne depuis le début du mouvement, selon la préfecture.",
+   "sources": [
+    {
+     "nom": "actu.fr",
+     "url": "https://actu.fr/societe/colere-lyceenne-141-interpellations-en-essonne-lors-de-violences-les-rassemblements-interdits-aux-abords-de-13-lycees_64915728.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "dcb074761c",
+   "metrique": "blesses_education",
+   "valeur": 100,
+   "unite": "",
+   "qui": "le ministère",
+   "cote": "autorites",
+   "portee": "cumul",
+   "jour": "2026-10-16",
+   "phrase": "Plus de 100 membres du personnel de l'Éducation nationale blessés depuis le début du mouvement, selon le ministère.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-20-personnels-de-l-education-nationale-ont-ete-blesses-lundi_8235160.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "cade12df40",
+   "metrique": "manifestants",
+   "valeur": 20000,
+   "unite": "",
+   "qui": "la CGT",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "20 000 manifestants à Lille le 13 octobre, selon la CGT.",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/hauts-de-france/nord-59/lille/blocage-des-lycees-20-000-manifestants-a-lille-selon-la-cgt-4411923",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "9dce958fe9",
+   "metrique": "gardes_a_vue",
+   "valeur": 22,
+   "unite": "",
+   "qui": "le parquet de Nantes",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "22 personnes placées en garde à vue à Nantes le 13 octobre, selon le parquet de Nantes",
+   "sources": [
+    {
+     "nom": "actu.fr",
+     "url": "https://actu.fr/pays-de-la-loire/nantes_44109/manifestation-du-13-octobre-a-nantes-22-personnes-placees-en-garde-a-vue-dont-10-mineurs_64922007.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "2ba71a1a20",
+   "metrique": "manifestants",
+   "valeur": 6000,
+   "unite": "",
+   "qui": "la préfecture",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "6000 manifestants à Bordeaux le 13 octobre 2026, selon la préfecture",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-gironde/mouvement-des-lyceens-les-meilleures-slogans-de-l-acte-v-dans-les-rues-de-bordeaux-5271410",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "1e181e8138",
+   "metrique": "manifestants",
+   "valeur": 1300,
+   "unite": "",
+   "qui": "la police",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "1300 manifestants à Clermont-Ferrand le 13 octobre 2026, selon la police",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-pays-d-auvergne/mobilisation-lyceenne-jusqu-a-3-000-manifestants-a-clermont-ferrand-pour-l-acte-5-6609110",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "5d7c0237aa",
+   "metrique": "manifestants",
+   "valeur": 3000,
+   "unite": "",
+   "qui": "les syndicats",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-13",
+   "phrase": "Plus de 3000 manifestants à Clermont-Ferrand le 13 octobre 2026, selon les syndicats",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-pays-d-auvergne/mobilisation-lyceenne-jusqu-a-3-000-manifestants-a-clermont-ferrand-pour-l-acte-5-6609110",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "2739bbe652",
+   "metrique": "gardes_a_vue",
+   "valeur": 127,
+   "unite": "",
+   "qui": "le parquet",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-12",
+   "phrase": "127 gardes à vue ont été effectuées en marge de la mobilisation lycéenne à Bordeaux, selon le parquet, rapporté le 12 octobre 2026.",
+   "sources": [
+    {
+     "nom": "Rue89 Bordeaux",
+     "url": "https://rue89bordeaux.com/2026/10/mouvement-lyceen-a-bordeaux-une-repression-des-mineurs-en-mode-majeur/",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "gauche"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "844505bf26",
+   "metrique": "blesses_education",
+   "valeur": 20,
+   "unite": "",
+   "qui": "franceinfo",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-12",
+   "phrase": "20 personnels de l'Éducation nationale blessés le 12 octobre, selon franceinfo.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-20-personnels-de-l-education-nationale-ont-ete-blesses-lundi_8235160.html",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "a2d9007da2",
+   "metrique": "blesses_forces",
+   "valeur": 896,
+   "unite": "",
+   "qui": "le dernier décompte des forces de l'ordre",
+   "cote": "autres",
+   "portee": "cumul",
+   "jour": "2026-10-12",
+   "phrase": "896 policiers blessés depuis le début de la mobilisation lycéenne, selon le dernier décompte des forces de l'ordre, le 12 octobre 2026.",
+   "sources": [
+    {
+     "nom": "France Inter",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/temoignages-de-policiers-blesses-8625380",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "7a8f5ccd55",
+   "metrique": "manifestants",
+   "valeur": 550,
+   "unite": "",
+   "qui": "les organisateurs",
+   "cote": "organisateurs",
+   "portee": "jour",
+   "jour": "2026-10-11",
+   "phrase": "550 personnes ont manifesté contre un projet de thalasso à Larmor-Plage le 11 octobre 2026, selon les organisateurs.",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/bretagne/morbihan-56/larmor-plage/ca-fout-la-rage-550-personnes-manifestent-contre-un-projet-de-thalasso-dans-le-morbihan-1739238",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "042fbc6395",
+   "metrique": "gardes_a_vue",
+   "valeur": 47,
+   "unite": "",
+   "qui": "la procureure de la République",
+   "cote": "autorites",
+   "portee": "jour",
+   "jour": "2026-10-10",
+   "phrase": "47 mineurs ont été placés en garde à vue à Bayonne, selon la procureure de la République, le 10 octobre 2026.",
+   "sources": [
+    {
+     "nom": "ici (France Bleu)",
+     "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/instructions-de-fermete-la-procureure-de-la-republique-de-bayonne-dresse-un-bilan-de-la-mobilisation-lyceenne-2634609",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "centre"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  },
+  {
+   "id": "96b674f1bf",
+   "metrique": "sondage",
+   "valeur": 62.0,
+   "unite": "%",
+   "qui": "de l'Institut CSA",
+   "cote": "sondeurs",
+   "portee": "ponctuel",
+   "jour": "2026-10-10",
+   "phrase": "62% des Français souhaitent l'expulsion de leurs logements sociaux des familles de mineurs impliqués dans les violences lors des blocus des lycées, selon un sondage de l'Institut CSA publié le 10 octobre 2026",
+   "sources": [
+    {
+     "nom": "CNews",
+     "url": "https://www.cnews.fr/france/2026-10-10/sondage-62-des-francais-souhaitent-lexpulsion-de-leurs-logements-sociaux-des",
+     "titre": ""
+    }
+   ],
+   "bords": [
+    "droite"
+   ],
+   "recoupe": false,
+   "maj": "2026-10-16T12:01:00+02:00"
+  }
+ ]
+}
