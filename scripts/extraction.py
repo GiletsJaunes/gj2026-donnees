@@ -75,7 +75,7 @@ def trouver_date(phrase, annee=2026):
 
 SUJETS = (r"(?:(?:le |la |les |l['’])?(?:organisateurs?|intersyndicale(?: [\wÀ-ÿ’' -]{0,25})?|CGT|FSU|syndicats?|préfecture(?: de [A-ZÀ-Ý][\wÀ-ÿ-]+)?|"
           r"ministère de l['’][A-Za-zÀ-ÿ]+|ministère de la [A-Za-zÀ-ÿ]+|ministre de l['’][A-Za-zÀ-ÿ]+|police|autorités|gouvernement|Chancellerie|parquet|Matignon|Sébastien Lecornu|Laurent Nuñez))")
-VERBES = r"(?:revendiquent|annoncent|annonce|comptent|dénombrent|recensent|estiment|évoquent|font état|parlent|indiquent|indique|ont compté|ont dénombré|ont recensé|déclarent|affirment|a annoncé|ont annoncé|a indiqué|ont indiqué|a précisé)"
+VERBES = r"(?:a dénombré|a compté|a recensé|a évalué|a estimé|a comptabilisé|a fait état de|dénombre|compte|recense|évalue|revendiquent|annoncent|annonce|comptent|dénombrent|recensent|estiment|évoquent|font état|parlent|indiquent|indique|ont compté|ont dénombré|ont recensé|déclarent|affirment|a annoncé|ont annoncé|a indiqué|ont indiqué|a précisé)"
 
 def trouver_qui(phrase):
     qui = None
@@ -99,18 +99,93 @@ def decouper_phrases(texte):
     return [p.strip() for p in re.split(r"(?<=[.!?…])\s+(?=[A-ZÀ-ÖØ-Ý«\"“0-9])", texte) if len(p.strip()) > 20]
 
 PATRONS = [
-    ("manifestants", re.compile(r"^\s*(?:de\s+)?(?:manifestants?|personnes? (?:ont )?(?:défilé|manifesté)|participants)", re.I)),
-    ("blesses_education", re.compile(r"^\s*(?:personnels? de l.éducation nationale|chefs? d.établissement|enseignants?|professeurs?|personnels? (?:éducatifs?|enseignants?)|membres du personnel)[^.;]{0,40}?bless", re.I)),
-    ("blesses_eleves", re.compile(r"^\s*(?:élèves?|lycéens?|collégiens?|jeunes|mineurs?|étudiants?)[^.;]{0,25}?bless", re.I)),
-    ("blesses_forces", re.compile(r"^\s*(?:policiers?|gendarmes?|membres des forces de l.ordre|forces de l.ordre|agents?|CRS|fonctionnaires de police)[^.;]{0,45}?bless", re.I)),
-    ("gardes_a_vue", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|gardes? à vue|manifestants?|lycéens?)?[^.;]{0,30}?garde[s]? à vue", re.I)),
-    ("detention", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|manifestants?)?[^.;]{0,30}?(?:détention provisoire|écrou|incarcér|prison ferme|mandat de dépôt|placés? en détention|condamnés? à de la prison)", re.I)),
-    ("interpellations", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|manifestants?|lycéens?|élèves?)?[^.;]{0,30}?interpell", re.I)),
-    ("etablissements", re.compile(r"^\s*(?:établissements?|lycées?|collèges?|écoles?)[^.;]{0,35}?(?:perturb|bloqu|fermé)", re.I)),
+    ("blesses_education", re.compile(r"^\s*(?:personnels? de l.éducation nationale|chefs? d.établissement|enseignants?|professeurs?|personnels? (?:éducatifs?|enseignants?)|membres du personnel)[^.;\d]{0,40}?bless", re.I)),
+    ("blesses_eleves", re.compile(r"^\s*(?:élèves?|lycéens?|collégiens?|jeunes|mineurs?|étudiants?)[^.;\d]{0,25}?bless", re.I)),
+    ("blesses_forces", re.compile(r"^\s*(?:policiers?|gendarmes?|membres des forces de l.ordre|forces de l.ordre|agents?|CRS|fonctionnaires de police)[^.;\d]{0,45}?bless", re.I)),
+    ("gardes_a_vue", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|gardes? à vue|manifestants?|lycéens?)?[^.;\d]{0,30}?garde[s]? à vue", re.I)),
+    ("detention", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|manifestants?)?[^.;\d]{0,30}?(?:détention provisoire|écrou|incarcér|prison ferme|mandat de dépôt|placés? en détention|condamnés? à de la prison)", re.I)),
+    ("interpellations", re.compile(r"^\s*(?:personnes?|individus?|jeunes|mineurs?|manifestants?|lycéens?|élèves?)?[^.;\d]{0,30}?interpell", re.I)),
+    ("etablissements", re.compile(r"^\s*(?:établissements?|lycées?|collèges?|écoles?)[^.;\d]{0,35}?(?:perturb|bloqu|fermé)", re.I)),
 ]
 LIBELLES = {"manifestants": "Manifestants", "etablissements": "Établissements bloqués ou perturbés", "blesses_forces": "Policiers et gendarmes blessés",
             "blesses_eleves": "Élèves blessés", "blesses_education": "Personnels de l’Éducation blessés", "interpellations": "Interpellations",
             "gardes_a_vue": "Gardes à vue", "detention": "Détentions et écrous", "degats": "Dégâts", "sondage": "Sondages"}
+
+NATIONAL = re.compile(r"en France|dans le pays|au niveau national|à travers (?:toute )?la France|partout en France|dans toute la France|à l.échelle nationale|sur l.ensemble du territoire|au total|dans tout le pays", re.I)
+QUI_NATIONAL = re.compile(r"Intérieur|ministère|ministre|gouvernement|Nuñez|CGT|intersyndicale|Solidaires|FSU|syndicats", re.I)
+QUI_LOCAL = re.compile(r"préfecture|préfet|mairie|ville|police municipale|région|métropole|département|commissariat", re.I)
+CUE_MANIF = re.compile(r"manifest|défil|mobilis|participants|dans la rue|cortège", re.I)
+
+def attribution(phrase, debut, fin, nb_nombres):
+    """Qui donne le nombre place entre debut et fin ? 'selon X' juste apres, ou 'X a compte' juste avant."""
+    apres = phrase[fin:fin + 110]
+    stop = re.search(r"\d", apres[3:])
+    if stop:
+        apres = apres[:3 + stop.start()]
+    m = re.search(r"(?:selon|d.après|pour)\s+((?:le |la |les |l[’'])?[^,.;()«»]{3,60})", apres, re.I)
+    if m:
+        q = re.split(r"\s+(?:et|contre|mais)\s+", m.group(1).strip())[0]
+        return q.strip(" ,;:")
+    avant = phrase[max(0, debut - 90):debut]
+    m = re.search("(" + SUJETS[3:-1] + r")\s+" + VERBES + r"\s*(?:\w+\s){0,3}$", avant, re.I)
+    if m:
+        return m.group(1).strip()
+    if nb_nombres == 1:
+        return trouver_qui(phrase)[0]
+    return None
+
+def classer_qui(qui):
+    if not qui:
+        return None
+    if AUTORITES.search(qui): return "autorites"
+    if ORGANISATEURS.search(qui): return "organisateurs"
+    return "autres"
+
+def faits_manifestants(phrase, jour):
+    if not CUE_MANIF.search(phrase) or re.search(r"\bentre\s+[\d  .]+\s+et\s+[\d  .]+", phrase, re.I):
+        return []
+    nombres = []
+    for m in RE_NOMBRE.finditer(phrase):
+        apres = phrase[m.end():m.end() + 60]
+        avant = phrase[max(0, m.start() - 16):m.start()].lower()
+        if re.match(r"\s*(?:%|euros?|€|ans?\b|h\b|heures?|kilom|interpell|bless|garde|lyc|établ|écoles?|villes?|départ|rassembl|rendez)", apres, re.I):
+            continue
+        if re.search(r"contre\s*(?:les? )?$|depuis\s*$|au moins\s*$|au minimum\s*$", avant) and False:
+            continue
+        if re.search(r"contre\s*$", avant):
+            continue
+        v = lire_nombre(m)
+        if v >= 5000:
+            nombres.append((m, v))
+    faits = []
+    for m, v in nombres:
+        qui = attribution(phrase, m.start(), m.end(), len(nombres))
+        cote = classer_qui(qui)
+        national = bool(NATIONAL.search(phrase)) and not (qui and QUI_LOCAL.search(qui))
+        if qui and QUI_NATIONAL.search(qui) and not QUI_LOCAL.search(qui):
+            national = True
+        if not national:
+            continue
+        faits.append({"metrique": "manifestants", "valeur": v, "unite": "", "qui": qui, "cote": cote, "portee": "jour", "jour": jour, "phrase": phrase})
+    return faits
+
+JOURS_SEM = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+
+def date_relative(phrase, date_article):
+    """'samedi', 'hier', 'aujourd'hui' sans date : on les ramene au jour de l'article."""
+    import datetime as _dt
+    try:
+        d = _dt.date.fromisoformat(date_article[:10])
+    except Exception:
+        return None
+    if re.search(r"\bhier\b", phrase, re.I):
+        return (d - _dt.timedelta(days=1)).isoformat()
+    m = re.search(r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b", phrase, re.I)
+    if m:
+        cible = JOURS_SEM.index(m.group(1).lower())
+        recul = (d.weekday() - cible) % 7
+        return (d - _dt.timedelta(days=recul)).isoformat()
+    return None
 
 def extraire_faits(phrase, date_article):
     """Retourne la liste des faits chiffres trouves dans une phrase."""
@@ -118,7 +193,7 @@ def extraire_faits(phrase, date_article):
     if FUTUR.search(phrase) and not re.search(r"selon", phrase, re.I):
         return faits
     qui, cote = trouver_qui(phrase)
-    jour = trouver_date(phrase) or date_article
+    jour = trouver_date(phrase) or date_relative(phrase, date_article) or date_article
     cumul = bool(re.search(r"depuis (?:le )?(?:début|\d|le (?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)|l.ouverture|la rentrée)|au total|jusqu.ici|à ce jour|bilan (?:total|global)", phrase, re.I))
     # sondages : pourcentage + sondage/institut
     if SONDEURS.search(phrase):
@@ -135,17 +210,14 @@ def extraire_faits(phrase, date_article):
                 faits.append({"metrique": "degats", "valeur": lire_nombre(m), "unite": "€", "qui": qui, "cote": cote or "autres",
                               "portee": "cumul" if cumul else "ponctuel", "jour": jour, "phrase": phrase})
                 return faits
+    faits.extend(faits_manifestants(phrase, jour))
     for m in RE_NOMBRE.finditer(phrase):
         apres = phrase[m.end():m.end() + 90]
         if re.match(r"\s*(?:%|euros?|€|ans?\b|h\b|heures?|kilom)", apres, re.I):
             continue
         for cle, motif in PATRONS:
             if motif.match(apres):
-                # evite de compter deux fois l'age ("un lycéen de 16 ans")
                 faits.append({"metrique": cle, "valeur": lire_nombre(m), "unite": "", "qui": qui, "cote": cote,
-                              "portee": "cumul" if (cumul and cle not in ("manifestants", "etablissements")) else "jour", "jour": jour, "phrase": phrase})
+                              "portee": "cumul" if (cumul and cle != "etablissements") else "jour", "jour": jour, "phrase": phrase})
                 break
-        else:
-            continue
-        break
     return faits

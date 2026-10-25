@@ -264,6 +264,26 @@ def maj_durees(data):
         chemin.write_text(json.dumps(radio, ensure_ascii=False, indent=1), encoding="utf-8")
         print("Durees de la radio mises a jour")
 
+def nettoyer_faits(faits):
+    """Re-verifie les comptages deja gardes avec les regles actuelles : national seulement, bon 'selon qui', bon jour."""
+    out, vus = [], {}
+    for f in faits:
+        if f["metrique"] == "manifestants":
+            ok = [g for g in x.extraire_faits(f["phrase"], f["jour"]) if g["metrique"] == "manifestants" and g["valeur"] == f["valeur"]]
+            if not ok:
+                continue
+            f["qui"], f["cote"], f["jour"] = ok[0]["qui"], ok[0]["cote"], ok[0]["jour"]
+            f["id"] = cle_fait(f)
+        cle = (f["metrique"], f["valeur"], f["jour"], f.get("cote") if f["metrique"] == "manifestants" else norm(f.get("qui") or ""))
+        if cle in vus:
+            e = vus[cle]
+            noms = {s["nom"] for s in e["sources"]}
+            e["sources"] += [s for s in f["sources"] if s["nom"] not in noms]
+            continue
+        vus[cle] = f
+        out.append(f)
+    return out
+
 # ---------------- programme principal ----------------
 def main():
     ap = argparse.ArgumentParser()
@@ -306,6 +326,7 @@ def main():
     actus.sort(key=lambda a: a["date"], reverse=True)
     actus = actus[:1500]
     faits_exist = lire_json(data / "barometre.json", {"faits": []})["faits"]
+    faits_exist = nettoyer_faits(faits_exist)
     faits, nouveaux = mettre_a_jour_faits(faits_exist, pertinents, maintenant)
     faits = [f for f in faits if f["id"] not in masques.get("faits", [])]
     print("%d nouveaux articles, %d nouveaux chiffres" % (ajoutes, nouveaux))
@@ -321,6 +342,15 @@ def main():
         "faits": [f for f in faits if f["recoupe"] and (f["jour"] == jour or f["maj"][:10] == jour)],
         "articles": [{"titre": a["titre"], "url": a["url"], "theme": a["theme"], "nb_medias": a["nb_medias"]} for a in actus if a["date"][:10] == jour][:60]})
     ecrire_json(data / "etat.json", etat)
+    if not args.fixtures:
+        try:
+            import lives
+            ancien = lire_json(data / "lives.json", {"mouvement": [], "chaines": []})
+            res = lives.chercher({"mouvement": ancien.get("mouvement", []), "chaines": ancien.get("chaines", [])})
+            res["maj"] = maintenant.isoformat()
+            ecrire_json(data / "lives.json", res)
+        except Exception as e:
+            print("Directs :", e)
     ko = [f for f in etat["flux"] if not f["ok"]]
     if etat["flux"] and len(ko) == len(etat["flux"]):
         print("TOUS LES FLUX ONT ECHOUE")
