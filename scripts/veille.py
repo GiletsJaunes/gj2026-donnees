@@ -284,6 +284,27 @@ def nettoyer_faits(faits):
         out.append(f)
     return out
 
+
+BASE_REQUETES = ["gilets jaunes", "mobilisation manifestation", "blocus lycées", "manifestants selon le ministère de l'Intérieur", "interpellations gardes à vue manifestation",
+                 "policiers blessés manifestation", "RIC référendum d'initiative citoyenne", "vie chère manifestation", "intersyndicale CGT mobilisation", "dette taux d'emprunt France"]
+
+def collecter_jour(config, jour, maintenant):
+    """Articles d'un jour precis (Google Actualites, requetes bornees par date) : sert au rattrapage du livre."""
+    x1 = dt.date.fromisoformat(jour)
+    borne = " after:%s before:%s" % (x1.isoformat(), (x1 + dt.timedelta(days=1)).isoformat())
+    recus = []
+    for q in BASE_REQUETES + list(config.get("google_actualites", []))[:4]:
+        url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q + borne) + "&hl=fr&gl=FR&ceid=FR:fr"
+        try:
+            recus += [a for a in lire_flux(telecharger(url), "Google Actualités", maintenant, True) if a["date"][:10] == jour]
+        except Exception as e:
+            print("Rattrapage", jour, ":", q, e)
+    vus, uniques = set(), []
+    for a in recus:
+        if a["url"] not in vus:
+            vus.add(a["url"]); uniques.append(a)
+    return [a for a in uniques if x.PERTINENT.search(a["titre"] + " " + a["resume"])]
+
 # ---------------- programme principal ----------------
 def main():
     ap = argparse.ArgumentParser()
@@ -330,6 +351,24 @@ def main():
     faits, nouveaux = mettre_a_jour_faits(faits_exist, pertinents, maintenant)
     faits = [f for f in faits if f["id"] not in masques.get("faits", [])]
     print("%d nouveaux articles, %d nouveaux chiffres" % (ajoutes, nouveaux))
+    if not args.fixtures:
+        try:
+            import livre
+            a_faire = livre.jours_a_ecrire(data, maintenant)
+            a_refaire = [j for j in livre.chapitres_ia_a_refaire(data, maintenant) if j not in a_faire][:2]
+            for jr in (a_faire[:3] + a_refaire):
+                if sum(a["date"][:10] == jr for a in actus) < 60:
+                    pj = collecter_jour(config, jr, maintenant)
+                    print("Rattrapage %s : %d articles retrouves" % (jr, len(pj)))
+                    for a in sorted(pj, key=lambda a: a["date"]):
+                        ajouter_article(actus, a)
+                    faits, nb = mettre_a_jour_faits(faits, pj, maintenant)
+                    faits = [f for f in faits if f["id"] not in masques.get("faits", [])]
+                livre.generer(actus, faits, jr, data)
+            livre.maj_index(data)
+        except Exception as e:
+            print("Livre :", e)
+        actus.sort(key=lambda a: a["date"], reverse=True)
     ecrire_json(data / "actus.json", {"maj": maintenant.isoformat(), "articles": actus})
     ecrire_json(data / "barometre.json", {"maj": maintenant.isoformat(), "faits": faits})
     jour = maintenant.strftime("%Y-%m-%d")
