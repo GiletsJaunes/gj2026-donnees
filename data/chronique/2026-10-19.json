@@ -5,22 +5,22 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Ma Ville, Manifestation du 17 octobre à Caen. Quelles suites judiciaires après les interpellations ?. Selon lanouvellerepublique.fr, Douze personnes interpellées lors de la mobilisation du 24 octobre à Tours. Selon Euronews, En Albanie, un dimanche marqué par de violents affrontements entre manifestants et forces de l'ordre. Selon franceinfo, Manifestations du 17 octobre : comment expliquer la \"perte de contrôle\" des forces de l'ordre face aux débordements.",
+   "texte": "Selon Ma Ville, Manifestation du 17 octobre à Caen. Quelles suites judiciaires après les interpellations ?. Selon Euronews, En Albanie, un dimanche marqué par de violents affrontements entre manifestants et forces de l'ordre. Selon franceinfo, Manifestations du 17 octobre : comment expliquer la \"perte de contrôle\" des forces de l'ordre face aux débordements. Selon Ouest-France, Derrière les « casseurs » du 17 octobre, des profils bien plus divers qu’il n’y paraît.",
    "sources": [
+    4,
     5,
-    6,
-    7,
-    21
+    17,
+    44
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Lyon Capitale, Un acte III annoncé par les Gilets jaunes à Lyon pour le 31 octobre (repris par 10 médias). Selon Moselle TV, Les Gilets jaunes appellent à la mobilisation le 24 octobre (repris par 3 médias). Selon ici.fr, Mobilisation sociale : la coordination des gilets jaunes annonce un \"acte II\" samedi 24 octobre (repris par 3 médias). Selon maville.com, Mobilisation lycéenne. Bientôt des assises nationales sur Parcoursup et l’orientation ?.",
+   "texte": "Selon ici.fr, Mobilisation sociale : la coordination des gilets jaunes annonce un \"acte II\" samedi 24 octobre (repris par 8 médias). Selon Capital.fr, Les «Gilets jaunes» fixent un acte III au samedi 31 octobre, et le mot d’ordre a changé (repris par 3 médias). Selon maville.com, Mobilisation lycéenne. Bientôt des assises nationales sur Parcoursup et l’orientation ?. Selon lamanchelibre.fr, Normandie. Après les débordements du 17 octobre, les Gilets jaunes appellent à une nouvelle mobilisation.",
    "sources": [
     1,
     2,
     3,
-    4
+    6
    ],
    "theme": "Le mouvement"
   }
@@ -34,321 +34,321 @@
  "jour_long": "lundi 19 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
-   "nom": "Lyon Capitale",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3V3cGpGb25raFBGdi1ZNXRFUHAzdXdURko3QlpOdFVHUlhxX25weUZYdWllQllEcDNFZTNvcklURnZfVWFyM0pyOGdaZUlkdTA2VG1zQ2U0eGpCQV9TMkkxZmNsUmpZYUdXTmlzeXBWUEI4bVBnaWhuZFM4cWZ5NjVsbHczeTQtb1hUMUlKSGxpTGFJVHZsN0Q1V3BFR21sU09HMU9LZlM?oc=5",
-   "titre": "Un acte III annoncé par les Gilets jaunes à Lyon pour le 31 octobre",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 2,
-   "nom": "Moselle TV",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeGZzTk9qZ2NEb253eDJBVnlPb3R2cm01N1ZxTVNRVW5Vdm5pbWFycE51c0VzSWEtc2xPMXdKS0NmTWlWUEVHMklkZzlHb1ZwdVpIN0M0Mk1jVWN3Qk1QNWNiNVBmYUVhZXQ4cmZwTkRVNUJaRkNaQWl6WW5IWWZ6REN2Q0l5QQ?oc=5",
-   "titre": "Les Gilets jaunes appellent à la mobilisation le 24 octobre",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 3,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUdEb0VqMTZXWGlRVlp3eU1BYXNfY3Y2SndyR1poNHlXWWhTa3VGREV6UG13bjhOd2JlM2tCd1VJcG9DZmFWWmdBbDZUbmlRRGh4U19uWVR4V3NWR0s3UTNHVWxCd0owcEI4amtiRW90UkQwUW1QNkhtRmFGWGNNZlZaRnYzOGVBSFlVZUo2MDY3UHV6a3l3RUwzQmk3R0ZrMFRZSU1NcEtaV3l5SUVlUmV2aEdvZ1UwT19FZ0hNd0hrYUF3RGwxMXJB?oc=5",
    "titre": "Mobilisation sociale : la coordination des gilets jaunes annonce un \"acte II\" samedi 24 octobre",
    "date": "2026-10-19"
   },
   {
-   "n": 4,
+   "n": 2,
+   "nom": "Capital.fr",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzk0OWpxSlRVOWpTVmt5WjFITEFPWFNPaC1UdlQycnZ3R0VpLWdfbHhnSHJnVzVuWTVpV3djYzRDMzVNcmJ0T2RQNGpsVHF0ODRIWkhoU1o5TkhCNk1RLXpxVkVrSG5EWTNIdHZXTVdGTjZEVmZHNnEyMlowN3U0UVhvRFBnaEdxYkI2Ti1IeEJKNGRBT2lNMVIxR2RhWXVYR0RHM19ZSTN2azlOY3hYRTk5NnB4b2FLZS1pVkZnN1JpN1NMcVdNcDRnX2pLdw?oc=5",
+   "titre": "Les «Gilets jaunes» fixent un acte III au samedi 31 octobre, et le mot d’ordre a changé",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 3,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNanpWY2RCWEp1MWctX3lGdzhxXzRGaFNJLUNqdGF0Mm40d3hsM0dfVjlNLUhaazFOYk1UeHRvNHRmMHExWXV5WWJIMEdqMHNEQWhNUmowYl9YQmQxdm9KMktRVi1WQ3FTYTExaEJ4WVItbjBLaWNqNi13eFpfSTRtd2RwM004U1pkc3J4bURLeV91WEdzUFRVbnRKS3JoMFRXS0lCYXlMdndVcDJBcGJoSnV1V3hFRElwZHlVOHRMRXoyQ3hfNER1YmR1ellHbzhGS3REVXF4UlB0TlJaODk0?oc=5",
    "titre": "Mobilisation lycéenne. Bientôt des assises nationales sur Parcoursup et l’orientation ?",
    "date": "2026-10-19"
   },
   {
-   "n": 5,
+   "n": 4,
    "nom": "Ma Ville",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGVQTTdWOFIxbHVMSXo0MHBDbjVkaDdOU194Zm5FcGNYaXJWTTZyRHFDdE1rUFg4cFVscVNlN2o1WHFROVVjYkpCa3RyeHFobEQ0aUZCdXpRLV9EalpGSWN5ZVVOcXhJYXNsaGRJejVNQWlvbmI5cGdFYmJucXJoS0xWV3J4djcteDBMVFZJNnV2TE92VWx3ZDhiQlVOOUdKc1k3NnRidlVZeTltYWUwT21jemtrRExLZUhuTkd4MEVlQ2ZfTkEzcjdkdHNpX0FiVnVueFF1c2ZxeHdnWDJsRg?oc=5",
    "titre": "Manifestation du 17 octobre à Caen. Quelles suites judiciaires après les interpellations ?",
    "date": "2026-10-19"
   },
   {
-   "n": 6,
-   "nom": "lanouvellerepublique.fr",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzBlZ3FwU0ZDdVpVUHBGYWRfVHlQSzBnanFtLVMySnZwUVBqYW9ZVmh4cmlZWDh4Zl9hMWVUc3pOSjkzMnR4YVcyblJEQ3hpdWpGTWxjd2ZNRTI5MFgzbldRaUJMNm1XV0VYY0tkYmdLNmhoM2JTckFJd1p6c1pJMFA5cHpCZG9YTmpxYVF0a1VGWGtCOWNfVWIzdFpJSHoxdjZNMjhaTjhUdWhfM0JrbFVDSWg4TjVTOTVlZVdMU2t5MTgyUmc?oc=5",
-   "titre": "Douze personnes interpellées lors de la mobilisation du 24 octobre à Tours",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 7,
+   "n": 5,
    "nom": "Euronews",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORHhWRnpUY3FrYVNHX1N5bHhzUC1KUWNtTllJV1RSOHpVb0w5UTQ0TmQ0T3JoZmNoRVREMmFfaEswaTJHbnY4U2NKVzRlSEdCb04tcWxVM3hXMV82dUFmRGV5dWpFM1AtWk5jOHhKR0R2VnZXTjVfVWRqSGxKMVIzWmFUMnU3SHNHcFFQOVFZVS1QdUM4ZFlIcFhDcmMzM3VpNHRhRXdxOU9NYTRDSlhOTms1aE5PWk8tU1duM1otLWRDc1E?oc=5",
    "titre": "En Albanie, un dimanche marqué par de violents affrontements entre manifestants et forces de l'ordre",
    "date": "2026-10-19"
   },
   {
-   "n": 8,
-   "nom": "maville.com",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTUtyMkg4VVpZWG93TGJNUlg2MUV3NzQ4TUZHT2lSYlhsNkhwUFBVT0Judlp4NmRWbGJZY0E4OHhTalZfM3Yzcl9LNmdPcnl2dDRvaEdZOGx4V1BUZ0pZc0g1QWJsVzR5alhKa0dBVE5rY0c1aU45ZzhRZXZyTUdyTjNldzEySThpS0N1d3VhNndBQzRDLWVZV00zVkxZbWhCdnVFSHJjcmZFaHowV2EwbTJ1QW1VRHB4a0s1eVZHWnk0NUNuVjJ3d05oWFp5MWtWUzF2dzhBamR0WGhfT2MzQXJhUk9oWDRiZGp5dTIydXNpTWR3QVZrRlh2MW8zTm8?oc=5",
-   "titre": "Mobilisation lycéenne : critiqué, Parcoursup livre son bilan 2026, le gouvernement promet des améliorations",
+   "n": 6,
+   "nom": "lamanchelibre.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0luX1pDRkZWMFRWQm95NGdMZnh6R05Yb0VhdENZb0RSMVFPSFZWWU8tdUFTWFNFVHlMUnU2eVR5UlNVaXZaRjYwVjNpNElVeXIzbTRVUXRmUVFCdk1VcGxCTU9OLXlZTTdLRTFzWXRVRUJhclRkTmJUWHJIRzB6Q2Z1Vmt3OFNfaC1vU0FXR1RRSGU3MzhaUnhjZnNFZkFLbVc3b3pmQzBtTjRFejlRVHJwR29zWmNsYllBMlpPN0VGTGtWOXh5SjJ2aWJTOWhSYVJwaGd2MHhCSjlmcGxaX29mTQ?oc=5",
+   "titre": "Normandie. Après les débordements du 17 octobre, les Gilets jaunes appellent à une nouvelle mobilisation",
    "date": "2026-10-19"
   },
   {
-   "n": 9,
-   "nom": "TF1 Info",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHV1Y1YzelVMbDJCY3gxZ2dwczkyNWxaa3Z2YzJ3TzRfLWJyZUJJSV9YdUoyb3YycnlJb1RaS2xnaXdLTzczQkNXdU5PdVpDNFhnOGpKRl85LVVBOVlZR0YtRzNjQ2xJZmJNc0NVbnpsdjZ4cWNOTEd1RWZxT3hiMHMxMUhTS2Y1eHJYT09TeUxuSk9GZkpIOV9yd3UzVWFjRWlRUmh6OUxoN1hQYVRrekpwMktYbG85czQzUzJ4Mk9ELXZPQ2c?oc=5",
-   "titre": "À quel mouvement s'attendre ce samedi 24 octobre pour l'\"Acte II\" des Gilets jaunes ?",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 10,
-   "nom": "La Provence",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVEFWRmVLc3RpVV8zcjBjdXNRQXJhNXY2VHpJMVM4MXQwUkJSTzNjcktGOTU4NDVpWm0yaHUtUWJ0cWF0aU9kSHNkVTBtbXVvMVJoZ081QTQxZXl1WTBOU2x2ejdjQmlCZXdPNU8yRzZxM09xUDdhV1ZHdDBCTFVROTlxTjdXSy1PelRUWjVYd25lMUVtY0I5WVFhRjEwNUlSVzhNRk04NG82WkJlamNhdXU1enFDV0RNVGxmLWE2MGc2ZUlNUDV4Zk5lTkxZUHk3SDM1YWdmekk1cWV3ajBnVTJpWFhUT0hDWG9hUnAwMDB4SDdDWXJsVTBHb2xmOThTd0pvZzB5cDd2azQ?oc=5",
-   "titre": "Violences du 17 octobre : le dispositif policier inférieur à celui observé dans des mobilisations similaires",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 11,
+   "n": 7,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaXl2TTBQTE5WdmxGbkNxdkE1MkhHSEdZb2VpSFhMSGxaT1BSSFZER3VhZFZUX0VRcERHSU5NNXdxSUJVWndZcDVDTnJMZHlQODkzQ1ZHMUpxTnAyNHlUbzdDZUtOZTI2dnZ3WUg3em82RVJSUVVDbmJXbjFoTDJyd2tmTzgtVWtMMEJHWHg3N1psOEEtN29pNm9xTl9vV0Q3ckw2MW94TnB3RDFXRmVFLUJMTlU0NWJULTI4aTZVT3FEVkVEVlBFT2lrYUllNzNlVzVSajdwaEZLdw?oc=5",
    "titre": "Acte II des Gilets jaunes : une nouvelle mobilisation annoncée pour ce samedi 24 octobre partout en France",
    "date": "2026-10-19"
   },
   {
-   "n": 12,
+   "n": 8,
    "nom": "Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmhlS1RLUDRYekdKX2lPMW91SXZSTHBEcVIwcXVjdGxyMjRXRlFrZDNTeWYxM2hWY0FxYUJ1UHpObXN2MzRESlh5eW8tZWZZZHlxNDkzdTJUMEZtdWRlUEVvejdWSkpRYk1HOE5xdnplVXpvRzRvTjRCZ2UxSW5kSG9pRXNlYUVSUnlvMFhCMTJpbHhvT0x6V1NxMA?oc=5",
    "titre": "Europe: les manifestations se multiplient face à la vie chère",
    "date": "2026-10-19"
   },
   {
-   "n": 13,
+   "n": 9,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZThQbkIxZWpQUDFDNXVMc204YlZhN1M0enJWQUVTSnQ4NTJPa21IYlZSTEdJbWV2Y0NnVnpZcWVWMUtsWFhnUUQ2Zmt2LVI1b1YyQlVBVUpEblFqbDRWZ1h4RXFjcEZ6Rmw4eng4LVJvcm9aS2tZSEN6MXFMaWNMZWd2aDdHVlhCdWNXWm9VMUE4Z1pXbDFzVDl0YjNOUUVtQkRiWUI4Wl8tYmxlR3c3dWMtNHRRcXlObUtYeUlWcDhQLVEyaWJYX0Vpc0NJVmFnVnRPYlpZWVVxYUtVWEhUSGFqS1NsSEY3MHVVWlJTak9rZjVSaUpKZF9BUDlKSUpLQ3k1ZWRmbmdUSjZqRk9adWJJdXJqQ0xMMGR1S285VG9YbTFNRWFRN1VheXhrLVNtRmZoQU9PUQ?oc=5",
    "titre": "Le ministre de l'Intérieur promet \"un dispositif policier plus nombreux\" à Marseille pour la nouvelle journée de manifestation prévue samedi",
    "date": "2026-10-19"
   },
   {
-   "n": 14,
+   "n": 10,
    "nom": "Outre-mer La 1ère",
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWGRsRjhzMG9zSnd0S183TGg1SS0xSUFDbXg1bWprajNwTS1WemcwS3ZnMENmbWVyX0cxQ05ob00wTF8ycGNIUWdBbjVpdlNZNXdKcHloODBZdlRMRVI1bkFGcVk2aGtva19uSnZHaW56aGgtSlRnTVZWOUR2d3lENkpjdnNFbDlXek40TzZGMy1ZTlg4X2Y0ODVaZjhma05kX1lrZG96ZnNGdUJJdTJ1cUN5bTJRZkRXUjY0U0Q4NTktUGYtZG41ZlZLTVJVaVFabnNVZ0duaE9CcHAzNGRmMU0wU1NrNG1jd1h4TDh1amkwWGxTTFE2NHBvc1pDbUYwYW1DLTV3aDRGYVBBQXF4RGdCTDVCcl8xWHBtbmFR?oc=5",
    "titre": "PHOTOS. Vie chère en Martinique : mobilisation du RPPRAC et présence policière, ce qu'il faut retenir du rassemblement à l'hypermarché de Dillon",
    "date": "2026-10-19"
   },
   {
-   "n": 15,
+   "n": 11,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYVFMUk1lSTRURXg1SXJBLWdUdW5PbzZQbGo3SVQyZTJzMHBscFdvYkloV2YxZGtPZVNxR2pPSEM4ZFphSXJ1dGdXRDJVWWlkMnJwcFMxdkUybzhPS2Q4RGxzQlo4dkM5ZGlKRDZRVlpYeFBZZExmUEJWODVCSXVjUERNN3U1N1ZfTTlCR1pTY3NVcm9lc3RrYl9mQXI4TGVTWUV0ak00Q0J6U2NZb0FOQ2h2eW1NSHJFR0NPTGEtSWRDSFdSNHJ1ZDFVN1NOZGM5UVZPSkVVVUk0LWs4c2hMcDYydXFONUZUUlN0bGs0Wm9FZVI0Slc4SEVJaTZmSGo5ZEJiS2FjSW4yeEtZbzZJ?oc=5",
    "titre": "Manif lycéenne, « acte II » le 24 octobre… Après le 17 octobre, quelles mobilisations prévues à Rennes ?",
    "date": "2026-10-19"
   },
   {
-   "n": 16,
+   "n": 12,
    "nom": "Ohmymag",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblBiMXNEMVpBSnRPdlZQamc0YmNtM0xYZTlnZzJ2N1dsMXhzYzBxcHBWUGF1YmtyMFQ3SWJwdF80aWtmTnBtUnpqeXVIbG1VS0d3VzJvcXZ4OENoZHczZnltM1NlSHIyM183ckhhdHJLaS1aWGNoVmpFU1RMbk03Ym1KMGlueTdSM19lRmFjX1FDTUUzNHVGNV8zSnRpLWhUcnpZQUptWG1RVzVvdmQzcFZsUTBxWDhreWtzN2YwRGI3a1F0TlBV?oc=5",
    "titre": "Eric Judor soutient avec conviction le mouvement des lycéens en France",
    "date": "2026-10-19"
   },
   {
-   "n": 17,
+   "n": 13,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzRITVpyRHJFdWxuTDV4OWRnNG0xNjdycmxiSVZkNWd4ZWlydXFodVRkZkNoVGQ1WFp4cG9JNVdXa0daTE1lbl9MWDZ0dk1RbEViU2g1SmtJYUdBbXpZNmtCcGxFUUQyOTRUbEpxWVhjUERFRGxQU1ZCSkV6NWtkNlE4Y0pjS2tTSk9MaWI0Q3NNVG96cWFkQWpxV1h6Zm0xWWVFZHBqVnFlbk56TloyQUhLUTZRckhfWDJWLVJXZnphcFA4RFk2VEpTMk9qcXNHWG8zX3lkcjFLeHlEQ3h5QjEwc2xfMXNPSE9GVXJtZVV3MWtXbmZ2bGg3djY?oc=5",
    "titre": "Des violences urbaines ont également éclaté en Italie en marge de manifestations contre la vie chère",
    "date": "2026-10-19"
   },
   {
-   "n": 18,
+   "n": 14,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFFaejhCQ0dIdWZRWkdVYUtVSUZDeXhkYUx3d0xjQkxFWFVoMzVVaDVFX0draXA1Z3c3NHJFVDZNRG5rcG0xblhKTl9vdmFQcHRFeVFLT3k5QmFpb1cxYVNuNm5zQUdxV2wtbXV6enJ0VHc2dUFQVVlDVFU4Wk1fc3laY053NDdjbmxidmh2bFRYQUlkaHl1ZnB3QkFLektzZU1vMS1oVlA2Y3dmaXhfTUZaV1hWVlVOQnkybEhXX0NDTzhPUjJvbUFBVQ?oc=5",
    "titre": "Mobilisation du 17 octobre : une adolescente de 17 ans perd un œil",
    "date": "2026-10-19"
   },
   {
-   "n": 19,
+   "n": 15,
    "nom": "La République du Centre",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVU9JbHBCVDJHOC12dDlsRGFJcFlhS1dMam5TQmx0b3BfaFFadTY4Q0w3T3diYUZOT3g1elZuc0hTY3V0U2t1N2ZGU2xEUHNwQlBrSE4waWhvbEJHdEtvZGRlQ05QNzVGYzRKYmJUMm5uTmFVcmFLWUJvVjA0TDlrSXk2SmlCSGFVM01wLUZZbElQRGlvTC1oREhXamtpaUR5dWFfUnVzZFY3S3pJXzV0SDM2aGp0ZjhBaFR4bW5UMThZR1RtOWhXeTJNOW96NEZVMW5WX3FGRFA1N0U5N09r?oc=5",
    "titre": "Manifestations des Gilets jaunes et trafic de cannabis : parmi les infos de la semaine à Melun",
    "date": "2026-10-19"
   },
   {
-   "n": 20,
+   "n": 16,
    "nom": "Sud Ouest",
    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRzhNMkRQbENvekdPWlNfdnNuZy11YzZOcFpoVWJaZV91YVZpZVRQN1M4bDZEM3dDRjVablpHeWlXZjFvOGNYTHAxQlFSN3ZHRmpPRXlTU2JieEUyZ2x3a0dnNllKNjNoM1NJSTJYc3RWV2xCVGFVNjdyVk12TlBUX2p5c1RSeks0VDFHa2xzcnNKNlBqN09BNEYzZ0Y1aHhKVHVWLTR2VFJYdnF6QXhkOVhtbkN5Mjg4bS00UzN3MFotV25wSGQ3cEs0Zl92Y2VNOUtKbnlsTERsbm9wcGNSc0JDeWRvLXp2SHgxUURwWHhjT1c0R294Q2swOUFrZ2J5ZFRGcUpORXkxLTduYm5YWGZzeWdTT0xTQ0dGdXlvQlFCQkc0dU9NY3I0Q0dvRDN4SUE?oc=5",
    "titre": "Mobilisation sociale et violences : l’Union européenne dit que le droit à manifester pacifiquement « doit être protégé » et dénonce les pillages",
    "date": "2026-10-19"
   },
   {
-   "n": 21,
+   "n": 17,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZXg4d3k1bHRKanI5TEJELVNfNHdSd2xmbmwzb2pqR25HcThVbWpacEM3ZlBPa2MwNlQxd2dPRE9qRXBIcFhLSEpJeW9PaVc2RU5pYVFwWHNRbld3aXltNHpZR1Y0WGpZanE0RWZjSWs5UHB6YlFOYTR1R3daa0xNSHpabG53a0E4YjZ2MDBiTjZPcXlPQW11ZXBkbWlfbXBnMElCblpEaVhaMEdRRWNmcllOVnM2YlpjQ05hMGxvcWRSbFN3dVFPRlEtUldoZVRXemxvbF9YT3pGVG5HRFdQNDZYc0JpSTdYVlBZdUtKbWE1YWFISF9QUU54dWdONXlnbnFjYmV4dHhuYkRST2VPc0tWWQ?oc=5",
    "titre": "Manifestations du 17 octobre : comment expliquer la \"perte de contrôle\" des forces de l'ordre face aux débordements",
    "date": "2026-10-19"
   },
   {
-   "n": 22,
+   "n": 18,
    "nom": "Sud Ouest",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOWVSSlpsQTdjTE51UTNtQlBLclRqVjRfR0tQbnpGZmstWWlwdGVYU21idTk3QUlPa3dvaUp6TjBqdWZoNkdlSm93aWxROFJZWHhQRmhDSVVEa3lFajJ0R2V5MGY2RWxsRzhTX1BHR3RGSzlHNzJHYkJNMVBod1dydVpJWGt2QjBLS1BTdjBMS19kTi1aZmdvcmFCbldaQUlxbldGcUVLbW1ad2FkWHNwb2UyYm1RSVJYTGxJMUdONlhhRGJQODZYOS1NUVR5OUUyTF9qbUtRRjN3NWZJWDRDOWhfaHVnQVoxWURXT2tDLWQ?oc=5",
    "titre": "Mobilisations sociales et violences : qui sont les premières personnes à passer en comparution immédiate ?",
    "date": "2026-10-19"
   },
   {
-   "n": 23,
+   "n": 19,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbDZTQWVJb3M5bk52Mjk0RFlHdHk2ZGRnZzF3WWhubEVsdi1taGh3WXB2aFRVdjhoMXZoaTltTjBlT3g1elhuYkEwbFBpV3B0M1U1TlZ6d1h4U093VW04OTdHdVdMb1dpRU05YTh0ckg2azAzMGlpME9USmozellxbkZYV0ZmUkV0SjBaVTlxUHViaUJhSUxHdlphT05FTzhTUmZXdHVGVXhTQVlnNDhWTlBzUEtfMExZbi1SNTQ3ZENLSm9tR3FkeW4xTGR4czNFbTdxM29rdVJmRjBfaUJKU3I1RTU0d0tULUlXWDJwdWlId1luZHRCQUotY0hhU2d6V2V6ZFRGYTlpc0U?oc=5",
    "titre": "Manifestation du 17 octobre : les premières peines sont tombées à Toulouse",
    "date": "2026-10-19"
   },
   {
-   "n": 24,
+   "n": 20,
    "nom": "BFM",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWG55NVFVaXhSWE9QM3JHWWZxSUYxWnhCSFBzeV9NdldNOXBMLWdKMTZrWmJCTXc3UGU4elBJR3hjLXQyWV9sb1ZNZmFsZDZjQ2dyWUJUcUxfa2VqdHhrTF9NOGRxNEtYV1otSUd0NEhoMlhtWjBSeEg2VUlBdGtVTXNWMi05WlFFQTk1SnhEclkyOTJTLUNwUmwzVFFNUTBOVmpEa0dSVXExckgwY0pvR2NHcWNpcEZ5akM4ckZ1bGFlLXl3THVfLXdKeGloS0hSME40dkVzMG1FVUVqc2dTUjlhMW5ZMHVqY09PZVRrNHNkN1AxN1dTU2I1VzVjMDVE?oc=5",
    "titre": "Après les mobilisations du 17 octobre, les organisations étudiantes appellent à manifester à nouveau le 24",
    "date": "2026-10-19"
   },
   {
-   "n": 25,
+   "n": 21,
    "nom": "martinique.franceantilles.fr",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQXzFhQ1JlMkZEX3pDV0FMWDY2SERRcGlOVjNvZERwX2owcXJhc2ZHbUtUT3ZJYnZ0bWtjNm9xWUNqNFZsOWk4QjI4M01DUkh3bk1ObTQ3bzBld1JBWXVQX2dlaWtGOEZNVWZJQnNBZjkxMTNBbXBrcnByVk9kckhPM3dlN1M5TjBuVjVjYkUxU0VERlF2RWdwMThWc0d1R0pMdHpITFRKbEg1U296V3FoZUxNNlowRXhuX0l2SjlNclR0czNEYWRfSHl1cXVzZV9ydlRjU3JJel9sTHlFSlVnamllMm5DMjE1QzBMWkNNMG9rODBSVXBVYmRXaFl0TXM?oc=5",
    "titre": "EN IMAGES. Mobilisation du 19 octobre : contre la vie chère, des manifestants devant le Carrefour Dillon",
    "date": "2026-10-19"
   },
   {
-   "n": 26,
+   "n": 22,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTHdPTlUxWXJ2MEcwdUQ5Q2RyaWFQbG93aDVxRGJTNEtQTzUyd3VjblVTel9yNXNuZHhhcjV0bmJjSVVEcmVQZ2psUFAzNDdyUndEbUJKSWN0aHNtS19CZFBBY2ZHUzRLcTJJR0NCRTltUFRCaXlJSlY1bVJJU1BINkpraHRDeXk5RjJRb3BGemY2RGFfU2JNVHVHNUZseHBtY0UzdXpfU0dvRVlQZGhidWszUm52X0RhU0R2T3lleWU1cVNkLVdMM3hiSEd5cHUtRm5KOU1zckU1RUlZZFdKRmk0djQtQWlqdkpxczltR01XQQ?oc=5",
    "titre": "Récit. « On a jamais vu ça ! » : le fiasco d’une manifestation sous-estimée à Brest",
    "date": "2026-10-19"
   },
   {
-   "n": 27,
+   "n": 23,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQenpCSmtFbXhqMWlacDVZM20zanlZUkUzSExETGkzZkhxb2JoRHNyTUY2M0dIWTZ4dXdacU1vLXV1eEdmNnM5cTF1SV9tMmhmOWphZWdvREZrWjFHajVGejlicVJlYnd1cE1Ddm1TRGZwd3VaellLcFB4eWR0NjdmNVNFb0Z3UWpRZDdGT0RVUTVyOFJCeG5FeWsxNHdRa3U2b2p5QTV6NHpTck4zZUVfY09Ncnd5RUwxNXJ3amJabGdReTI5YWRVekpMNEpKeXIzeDlFSHBuWGs?oc=5",
    "titre": "Mobilisation du 17 octobre : devant les mairies, l'indignation des habitants",
    "date": "2026-10-19"
   },
   {
-   "n": 28,
+   "n": 24,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOaE9LTEJXaldBSG9KVGlIWVZaUmlxMXp2TTRrNzVBcVk2MmVNRVVGM3JUdGpmaUFmWkZ1TldLZ1lYLXA1RVhmMWlfaTZOZl9vT2VpM01lcDNsSHluWXlVUm5BWmlfdG50V0hfaVBNbHRjNFpTdWIxNlktY3NZOS14emJWYXROSHQ4cXBqZkhsdEs4YUpYd0lBUHFpNjRmS0pOYkdvVXpVdHQtMTdGN3NaWW0wLUR3Y2lGU2stT3FveU40dzl6QTA5dHJBbDM5S284aFBxNjNtN0FrWDZPalY5M3h6R01UVElzekxta05wbTlqLTBQLTA5dzkwNmxBMlJoZVlQTXJiZjNGakwwR29oaDA3S3IwSDZjendpZTZkcDk3cDAza0JyZzdWZFY1T1FUUkdxX3ljV0VZMDktN2NNbkJ3SklySUE0d1E?oc=5",
    "titre": "Main arrachée à Saint-Étienne : une plainte déposée contre Laurent Nuñez pour \"complicité de violences aggravées\" devant la Cour de justice de la République",
    "date": "2026-10-19"
   },
   {
-   "n": 29,
+   "n": 25,
    "nom": "Watson",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlJoemFKWGNfZmN0Vk9QRzlIZnN2MW1EUFFYUmpMMHdmcG5rSDRtY0l4VTNVd2Mwekt1Xy1zRWowd2VxQnJ3bEdIaEJncEpVOXpZTzUyMVlyQlloVy1HVkQ0T2N5aGJOb0VxV2RtM1cwaHdmd3p4SGJ6dk1FZ0lZYndoaS1FUkdpSWl6MkhfTlNKNHNyQVRhNmt2VHVjTno3SWVnMC1uZUItUGZWMURYd0JnbXRHNk9IdUE?oc=5",
    "titre": "Manifestations: ça continue de chauffer aussi en Albanie",
    "date": "2026-10-19"
   },
   {
-   "n": 30,
-   "nom": "franceinfo",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQT24yTzNDX003dWw1ZU1Ka0tfVDZ4R1RqTkpmLW9tUGNKZTJlNkhWVVdEYWRsQjBNdXBPb2tDbWdldlp0ZmVMUzJmY2J5bXpWTzFVbjYwQUhBUXZHZW54cGZBZHBVMkVEZTNXZm1zajVEOVMxdUp4elBwU3dqYVRKMTBFazZtQkRzN25yVGtqbXlYbE1iVzJOVVZjeXZ1NUJtVkQyVUdrY2RtRWtiMUZNeGc4ajl6Smt3blJqUmQ5cGhidlZJOWh0OHRiNGl5a1J6U21mODcwbWhCeVlXZGk0ZUdIb2JUclctU0tlRVJka2IxNnVMXzNJaGJuSHcxTm1odld0V3NQb3p3Q28zaU83aEMwNFJfN2RmRl9wVjJzaW5UMzdlenl4ajVmbGdBWFFEQzVJV0F3?oc=5",
-   "titre": "\"Après la manifestation du 17 octobre, un cap important a été franchi, on se rapproche d'une guerre civile\" : Pierre-Henri Tavoillot, philosophe",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 31,
+   "n": 26,
    "nom": "Yahoo Finance France",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFRXU2JSY3duNXlQYWpfaTRFUHJpcUxOTFJwQ0lBU29NV09XZFVrQzh1T29BcHQwMGhoNmMzdTl0cWxIQmFFWXlwc2xrbzJxVF8zd0JEeFpMVFJqYWY2SW4xSFRMOFNwUjJ1a2R3UXhya0xNYVlRZG5FSS14U3RBUWhqZUwzWnhQZmtRR1dJeHJKalNBY2Y0NVJxN09wbWk0eHVTcQ?oc=5",
    "titre": "En pleine mobilisation lycéenne, Parcoursup ne compte que 60 bacheliers sans solution",
    "date": "2026-10-19"
   },
   {
-   "n": 32,
+   "n": 27,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWJHaG45SVhaZjQyenJMNDJvb1QxNG0tRWtFMk5WcFNINzZtcGRsWGFNWFpqNER2VDI4djdHcTd0XzBuaGJkdjdfOGVoWDdRMklGU3pWUjhSb2w0TnBzbXNwaVBQUTA4T1RWbGlwelJaaFp2Z0JXbVd5aVFKRFpMRmFmcXp3VVJiRU9oWkV0Z2g1NmR6WG44WTlnUVdwSGtESjJNQnVESks3aXdaOHluZGFuTjNnZ3NvSkc2R2Nza2VLNmVXRTNVakMyd1hhdloyWUYzNE53dWF5SzFueEppeTV4QlhoWUpvOC1NWVhkZFN0bExVZml6SDdNMTU?oc=5",
    "titre": "Jet de patate, œuf, pierre... Arrêté en marge des manifestations, il est jugé au Havre pour avoir blessé une policière",
    "date": "2026-10-19"
   },
   {
-   "n": 33,
+   "n": 28,
    "nom": "SE UNSA",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE5nOFNLUXdYT3ctd1NKWlJLUGhHQzVWRl8xTzRjT1d0QTIxQzRxblZybnJUM0JNNVB1UnV6SlhQVGNTVUZPWVpUeXFqTWdOaUN4WDQteWVEUkpKRVFtelJ3bTM0Zk9WT2ZGZDNENVFXdFQydEhQNGhNMk5ReXZPQ2ppV19WRkU?oc=5",
    "titre": "[62] Mobilisation le 5 novembre pour nos salaires",
    "date": "2026-10-19"
   },
   {
-   "n": 34,
-   "nom": "سانا",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWVFdvVmViWGtScFlKbF9vZW5YMzJnOWJ6YzZQbFFnSk5QZElQbVotR0N5ZkJVUmt5aVdiczBMWU1NbmRlMHRyRkg2ZTlxazI3Q0Zr?oc=5",
-   "titre": "Les manifestations propagent en Europe: les violences s’intensifient",
-   "date": "2026-10-19"
-  },
-  {
-   "n": 35,
+   "n": 29,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTDVPLUNtc09QTmpSbWxld3RfUTl0UVg4ZGw4TVJ4NjBOUFdEOUdTQWtETzZMa1pUc253dHBmdlZmQkw4OEItV2JtcTBUMEhpVEdYQ2FvMi02VmZWYVlEbmhBTHBsbDZ1NDlMOE5aTWNyb0t5SVYyWHRmbmdOY2MxY0NfOXRrdXZ0UVVncTNLZ3NHOUFoa2VyMG5xMjRXRzVxV09oTEt1YVlNTUp5akEzWHJtRnV6YllCcEZuYnZQZGJocFNQMy1jdk9vdzFqV0xWTFNWZnVDTTR5MFowdkJRLTRuS2F5b0ZkNkE?oc=5",
    "titre": "« C’est inacceptable », les maires du Sud Manche condamnent la violence des manifestations du 17 octobre",
    "date": "2026-10-19"
   },
   {
-   "n": 36,
+   "n": 30,
    "nom": "Le Jeune Indépendant",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnJ4SWF0bHNReDZkN19IQ2ZBQ0JMTS0wZTZ2dGkyWDd3SlhnNFpGbk1ScFhvZi1Gck1SaUlXcU9UNm8yN2hnX3REd0pBWjBUS3ZPTnNwcHV6VlZHM0hRSnNhNUliZnhIVTlyWlNpQTNwcktBZkNqdjFjeXVkaTlDN1J6M21FOU91WXhqeVQ4M0RtaFhUUnk1TDVDZ3VidEw3OWljZWJHMWpSNXZwRDJjMnExMEk2MXN2?oc=5",
    "titre": "Italie : Des manifestations contre la vie chère dégénèrent en violents affrontements",
    "date": "2026-10-19"
   },
   {
-   "n": 37,
+   "n": 31,
    "nom": "Le Figaro",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYzl6ekJ1Z3JYZzlJa0ZQOGhsWFU3ejJ6V3FBc2VSZ28xWi1ZZURxUDZOWTc0Z05raWhsQ1R6Q0ZfTnM1RGgtMVJFRnJraXNYaGwyQzMtMEkzS2pRRTVJaEZ3aUMtSXZiYkNYc0dlZ0pNRm0zd2Ytd01kZWdsY1dSUG5hTXVObmVkZi1saHRxOHVabVlYaFVuaG1hXzUzdXcxdlpZeFV6eU9SLXpZREc2blBHcTFkV2J2cFJMSUhCUXljTGdlSURBQnQ3QklJTFdaXzdQNkVtSE9ickJwMTF3dDVvbUQzZw?oc=5",
    "titre": "«Faisons comme en France» : comment les manifestations contre la vie chère en Italie ont aussi viré au chaos",
    "date": "2026-10-19"
   },
   {
-   "n": 38,
+   "n": 32,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObURleXkwck56TEU3NV9odWlTQnVmNmZJelJuWGY1bEc2UExYMW5JQTRXYXlmS1pfWFhSa1QxeXcxQUc2YVVkN3NBcGZGdVVlWHBVUElycTBxTUo1eDNiYk9pTllUYy13aW56LW10SEdlZXA0WVNnd2NsbldyQ2poU0dfcFZUbTdrZ0xEWm5MUmdtR3FBQ1NMaHRSNkZuS0M4cHNJc25mTXViTmRoRjR1OGNKNDlGVGpJY0tIU2dHZXU4clVCYXlwWWRpNEgzLVZZT1FDQVRNYzAwQWQ2bzB1eTBRWXpxVEtWUFhyWEVoMHFvcGxJUVBTVW9fbURzRGR0Z2lRQnVIdjRwNV9OUGZGUTRIeGJsSEMtVjVlZmszOERabFo1ZUNoYl9NSVloQQ?oc=5",
    "titre": "Manifestation du 17 octobre. À Nantes, CGT et FO pointent la responsabilité du gouvernement et misent sur le 5 novembre",
    "date": "2026-10-19"
   },
   {
-   "n": 39,
+   "n": 33,
+   "nom": "Nantes ma Ville",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVkZ5eV82RlFHRndnLWtPejFMcEdja0FXdFdQTEd3ZzFkSVFJdWFEM3MwU0wyZVNIV2FJTWNFNU9NQ3JPVjRaMzVLbjdLblgzR1o5ZjhaVG02N0d1WERocExUQnRhUkFva1I0UURzVGs5ektmV3NucGdzRjZvWF9HV1hNYUlyQTJVVDEyeVBpT3JsU0ZvMjFrRnh2UU1mUkNzSXc1aDZsbmdYR2xWWUFnTmVSc08yQ3VfSjdLSGNXZ1g5M0M4VUY1T3lQMzdNSXNaVEZCQ3ZpanBXUlA1RE5EX3NhMDNsMnlnUkpNSEE4cXF5WDhIZG9VNG1wUnZMaW9Tam15ZWRreS03eW1i?oc=5",
+   "titre": "Manifestation du 17 octobre. À Nantes, la CGT et FO condamnent les violences et misent sur la mobilisation du 5 novembre",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 34,
    "nom": "La Montagne",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMnpfVnd1R2haeEtDWUY1NmRRZzJyTEhWUUFGLTEwMUR5SGJKcGFvRkFkUW5neDhoWlAyUWp0OFNHMDN3WEFHMURRVTM3OXRCbFk4ajJUVGtzSDVOeFhhcjN3SXo3Nmh5emFINFVncU1yOUxCbFNiY3prTGsxZUV5c1pvT0ZEWXBHeGc5LWJDOUI2M0tqSllhX2VwanhYZVBHcDZDZXhEUVg0RlBySUVHYXh5c095WFFBVlJ5Y0ZDMUFmb1ZwTXljaUhobzJ3eG9rVzIxSlplUHVYdmw0MEMtV3JOUm9fbzVyOWlqZlRYdng?oc=5",
    "titre": "Mobilisation lycéenne et accident tragique parmi les infos de la semaine à Bourg-en-Bresse",
    "date": "2026-10-19"
   },
   {
-   "n": 40,
+   "n": 35,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYjIxM09ZUExVMDFBTzVvclFCbWN4SnpCbFBobkxGazJYQUNja1piVkJQSEZ4TzZkUjBGZVJ3ZURtQ1FJUmZ3WmwwZFdLdHZWUU1Mb2xITWphZ2UtTGJRVk8zLTRDSGhQaElYQ3pSVVg4UThGVk1WOGcxSllydGphSDNOaVE4V05OT3hTekw0NTJRRGVaZGVOQ3RiMmluVXhiRkxLLTkya2N6RjNNSWJUNVp4bXpFdGExdW5lb1U5blJOOFNJWG42WXJLX3MxUWlBS3h0RGVhNEktb19LLUtj?oc=5",
    "titre": "Stations-service, péages, barrages filtrants… ces actions prévues par les Gilets jaunes cette semaine en France",
    "date": "2026-10-19"
   },
   {
-   "n": 41,
+   "n": 36,
    "nom": "Midi Libre",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYVdrZEJfVkEyMFlDdFgzT2F6cE1sbWJqYjJQOXNOY0paTm1JOE8zd2Mtb2ZRZGpvX3dUaGNkMjJQWkE1bS1zS05rMlUwY3J4MFI4VkI1N3FURXR2VURRb19nY05IY3BveWZWY1J4bWtLTHJhTTRsR1lQbU5MU0dMUWk3SWhCNmhRQjltMktCRHUwVlFMMTZOWmwzRDdVUkJyWTVoWW8yejRIMGxUWlpQclBGWFl2MWgxUWEwaVREZ2hZLURYd2ZRUld4bjJKSU9vSUNOTkR5SjdKWWlMMTVsc1BsLW5xQjBrQktiSnNuM3NlTERQRUFXVlUwZ2VrV2lqNHgzSlZ0R2N4SC1seTlQOUl3?oc=5",
    "titre": "Violences contre les policiers en marge de la manifestation à Nîmes : un enseignant de sport condamné à 18 mois de sursis par le tribunal",
    "date": "2026-10-19"
   },
   {
-   "n": 42,
+   "n": 37,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLUZlbnVONXl0VElvY3FhVmFmQUdWLS1JNjFYWDBZMk1yQzdOWlNOeU5IR1dxcUh0UVRCTDVaWGplckFrcm5sSDVWZWdIYjZETG51TnFEMDBJUEZrajdvRW5GZ1hRZVZDVG1jMVV0ZUtKVjk0ZmxZcXVwUC1yZW53X0JsenVHcWV3bGdsMWJWakN6RE1WVXQtd0Q2aG9IOEVzcEtZemhyMUhUclgtc0RFTzlFczlUWUNRVmdmSkxiTS1YWWFfdzhiVllwSGJvY1lqajc3OXFXdnFRektoNzRJMUxCc2dmdVRmc3hVYVRmUkI?oc=5",
+   "titre": "À l’université de Nantes, « la mobilisation étudiante ne faiblit pas »",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 38,
+   "nom": "Nice-Matin",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQjYtMUt1VERqaTkwcEpjNnByUUVHYnNuNmtENjFQcElHdjZ4ZXdzNTlvb1otOGtYVHN0aXZ5NXdvSy1ERUdkUk9KcUVTOV9zVlA0bXBXTnNnbnlySUJEdXEyZzVuaHJ4b3R6THBlN2tlU2VNNHMtZ2lDeE1FelB4RkhEVENBZnNKejYweWMzd01tMjZoUjhCaktwMTRvT19fV0pacXVmb1pvVHJWZEdIelhWbWRUcU9oVnBoSHZYelM0Wl9ueThob2hKbmdMenBpM1dOWlhadDFqUFZCM3lVNVVFcW1IUjlIV05NZGxOUFNKZTRBY3I1YUJ0c3dMbHVSRXpCcnhtaHlBTzdJMUgtVVVEOWQxUFZoZGthZ3NKbUtyYTFLeHc?oc=5",
+   "titre": "Violences : le dispositif policier du 17 octobre inférieur à celui observé dans des mobilisations similaires avec 60.000 policiers et gendarmes mobilisés",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 39,
    "nom": "Sud Ouest",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcjlnR05sbXgybl9rQmJpdzItcTdYeEQtanNMTmV2dkpvVkExdVJrbzR5ZHVNa0syM3FsbG1YWDZkRGlwc1VoS1EzWGloSUs3azFhdlZIWldpSDVsc1lScTVqT3dMeVNJcmVOdTdQMlBBcVlGcnJvZDI1bEtwSWhMRDJNX0pnZXZIZW9UNS1DMENkN0RyRXUyQmFVUXViZ3NMNWhJSXFMaUpvdk1WSTRkMy11bE80NjQ3aEZDbzR2dXJkclRtT1poeGlIS0p1Mk82TVdDUXlLWHh2cG91Qm5XbGNHSjA1cFJveXNfMEt2UlRMYUlXemhXaUNuc0hZZjZ3VEZ2ZEtB?oc=5",
    "titre": "Mobilisation du 17 octobre à Bordeaux. « À peine arrivés, on s’est fait gazer » : pourquoi les lacrymos sont-elles tombées si tôt ?",
    "date": "2026-10-19"
   },
   {
-   "n": 43,
+   "n": 40,
    "nom": "Outre-mer La 1ère",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG96bVlGNlFCZzd1N0ZoZWxBQUVETFhXU1N1ZGR6TXRHMzBIQVN3dEZvNmZBOWxQYUkybHF3b2lvYVlIR3dQVElSTHc5LWNheFBKNEctNUZuN1ZiRE9mOUQxNHN6anI2YUJYaUpCSWtsUDhXdlNWd1lNVGtJRkVpZVMtbGdrT184VVg0MzNsYW1peEFSVVhvejRRLURscWc5NVUwaXdvS2lPZmFORUs4bA?oc=5",
    "titre": "17 octobre : un week-end de mobilisation tendu dans les Outre-mer aussi",
    "date": "2026-10-19"
   },
   {
-   "n": 44,
+   "n": 41,
    "nom": "Sud Ouest",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHp6MGxCUi02aG44NUZvMXFvckZ0ZUg1UlpSTlRqMXYzMDlUWDdQT0VmbzlnZV8zV3NPQmUwVG1kSjdwQU5JckMwZ3BSMjRLMWFLS1prb0JnM1NFWFJac1pxVkxRZnA5dGxSWFc3RHAtc0lpRkFTTm01RDE4NV9TYnE2SFo1MGtsaUdMeUlDcGFQREhBRXZjWVpkQ2JFcU5fREs4U3RyS1Y2akhROXJlUjg3cG5Zbjh6T3hlVTFyRkJTZEI1Ml95emlIdFI0MDAweHQtRw?oc=5",
    "titre": "Mobilisation sociale et violences : la faute au renseignement, vraiment ?",
    "date": "2026-10-19"
   },
   {
-   "n": 45,
+   "n": 42,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0dSVlZ3NVlpZGFlVUo3Q0JSMnpaajg3ZjY5b1pwckpIMkZ1NXNibUM0allvMG9RZ2hPR1k1T2ZCUnRvRFFIN05jbTdsWDdwYjI0QVZGUjFSRFN5d2RTcHpMUXpxWElNblhfUXV2TVRRUnl5bUxzWWwxWWxCOXVxZjk5Tm8waUR6WEdUM3dlUjZvZlF0cVJNZkN3cXJSRE12WVAtR2Nfa3N4QXM?oc=5",
    "titre": "Montalieu-Vercieu. Un ancien leader des Gilets jaunes au rassemblement citoyen",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 43,
+   "nom": "Le HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnBDbV9sRGNDTjZ4QTBDYjRKQzd2UkhDUUsyY3kzX1V6d1RvdXlFQVpuTGd5eUVWWjcyNFFvSnhJMkRDVUtKb0FwX2cwc1dqQU81b2Z1bDRBbzhBSks3QVFRRVQ4ems0aEotVlYzLVFlX1JDS1R0Mzljbm9vbWlYYmFmMHpXX09IT1otSmZOTTVhcDBsczNZZldXeFI5UzVKWWhPU0NLczJ5eG95Y21jMzY5Qk1TM0NOclQxNE9nT2dhYXhQUDJQRA?oc=5",
+   "titre": "En Italie, pourquoi les manifestants veulent faire « comme en France » ?",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 44,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOWxsNklCcXQtWVp4eTBpVUE4eFNnZUtPX1JqNWZQN28tSmR0TXJVV1lOdnhUUWVMNFVXSk9fYkF4Ulp1REt3TVd0MHNVQVZJS05la25JU3lZelNFV1NGVEM5SzJETUZtYXNaRTJCbU9qZk9vR19ZQ2FOdE9jMUJHaHp3NkpRLUk3MUxVSXFFNWc5Uk80dGNmdlpvTUx1a0c2M1JlaFdrNW91WmNDLTVKS3JPMEpscXZxM29UbGR2QmxNd1Z3dVl1Z2lqUTg1TncxOFFJbXQ2MXBCY0VHRXhEZDVpenkxYndOVXZ3VVFNUllPc3lFV1VLVzhn?oc=5",
+   "titre": "Derrière les « casseurs » du 17 octobre, des profils bien plus divers qu’il n’y paraît",
+   "date": "2026-10-19"
+  },
+  {
+   "n": 45,
+   "nom": "KOHA.net",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1RwMXppaEtEREQxbVYySXc0ZlhDNTBXUU5QMTNWeDBJUC03dG1HaTRhenNqVFlBakhnblVHYm5lSG1iMkZyVlBzb0djWVA5RlhwRFREZnJydG1wOWZIeWYxS0UyZThkeUJ0aUlnWUdzamRSb1QxZk95STJncmdGcDFha3E?oc=5",
+   "titre": "68 personnes ont été arrêtées hier lors de la manifestation en Albanie.",
    "date": "2026-10-19"
   },
   {
@@ -373,5 +373,5 @@
    "date": "2026-10-19"
   }
  ],
- "genere": "2026-10-26T18:10:45.091997+00:00"
+ "genere": "2026-10-26T19:20:37.272569+00:00"
 }
