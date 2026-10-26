@@ -25,7 +25,7 @@
    "libelle": "manifestants en France",
    "detail": "selon le ministre de l'Intérieur (non recoupé à ce stade)",
    "sources": [
-    50,
+    13,
     51,
     47
    ]
@@ -59,22 +59,22 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon France 24, Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés (repris par 3 médias). Selon Echo des Tribunes, Huit interpellations, deux policiers blessés... Le bilan de la manifestation à Montpellier. Selon La République des Pyrénées, 28 interpellations ce samedi à Pau après les affrontements de casseurs avec la police. Selon Actu44, Vie chère : journée de tension à Nantes, 31 interpellations en Loire-Atlantique.",
+   "texte": "Selon France 24, Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés (repris par 4 médias). Selon Echo des Tribunes, Huit interpellations, deux policiers blessés... Le bilan de la manifestation à Montpellier. Selon ici.fr, Mobilisation du 17 octobre : plus de 5.000 manifestants à Dijon, six personnes placées en garde à vue. Selon ici.fr, VIDÉO - Mobilisation du 17 octobre : 5.200 manifestants dans les rues à Metz, 19 personnes en garde à vue.",
    "sources": [
     1,
-    5,
-    17,
-    24
+    4,
+    6,
+    16
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Ministère de l'Intérieur, Bilan de la journée de mobilisation nationale du 24 octobre 2026 (repris par 3 médias). Selon Virgule.lu, Une mobilisation contre la «vie chère» émaillée de scènes de chaos en France (repris par 3 médias). Selon Yahoo Actualités, Scènes de “chaos” en France : les manifestations contre la vie chère “dégénèrent en émeutes et en pillages” (repris par 3 médias). Selon France 24, Mobilisation contre \"la vie chère\": paroles de manifestants.",
+   "texte": "Selon Ministère de l'Intérieur, Bilan de la journée de mobilisation nationale du 24 octobre 2026 (repris par 3 médias). Selon ici.fr, Mobilisation du 17 octobre : près de 35.000 manifestants à Montpellier (repris par 3 médias). Selon France 24, Mobilisation contre \"la vie chère\": paroles de manifestants. Selon franceinfo, Mobilisation du 24 octobre : des centaines de milliers de manifestants dans les rues.",
    "sources": [
     2,
     3,
-    4,
-    6
+    5,
+    7
    ],
    "theme": "Le mouvement"
   }
@@ -88,7 +88,7 @@
  "jour_long": "samedi 17 octobre",
  "acte": "Acte I",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -106,30 +106,30 @@
   },
   {
    "n": 3,
-   "nom": "Virgule.lu",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkpTc2ROSXZzTlVqRzJ2ako5MEMyU2FsNW5STXRqVXNfT1VSYW9RRUFudndPSmhEVXl6cXU2endjcXZicUJMSFVXTWtpRnU0czFXdE40dTBwaUo2TVNiSnQzNzB2bjZJRTZBT0duX0RNUHlPN0xYVkJnQkxLMjdRSjdoNFNSTlp3Z3lGbThORmV1WUEtU2FGNzQybGh0eHQ5VWNCX0RIbjB2dm9wZWJyaUVsMXM0WngxdC01amlBa0ZaV3Zs?oc=5",
-   "titre": "Une mobilisation contre la «vie chère» émaillée de scènes de chaos en France",
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVDE1QWJhYjkxN2FBVkpKV05qUnBBbHU2NTBnNDFFbUZPVV9nRmM0NnNndGxNU3BJVzBMa0xrSmZ0SURsVlBBOHE5cTRkNGRDR05fYUJPTFN2VEVzQ2lSTy15QjhyWTl0azh2eG1HMkw5bUhZZlptS3dmZ1NwYTJOWTUzUGszZm5EM1ZMTDlTV3ZuZWdjeXhFQlRuQld5SDBiNlhQellaSkpYN2trSGo4eUdWNkhBRVVhb21ocGxsbVBCQ3dpY0F3TGV3YVpINkhoRXVaUlhhcU1TT05CWk9ZY2s5Y3BKM3FzSlh0bFVUUXB3VGI0YzJsb1pRODkxSzlhUlNuVEJYSQ?oc=5",
+   "titre": "Mobilisation du 17 octobre : près de 35.000 manifestants à Montpellier",
    "date": "2026-10-17"
   },
   {
    "n": 4,
-   "nom": "Yahoo Actualités",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDhxcVh4cV9Vend4S0E4Q2FxSGIyWHp6MlNicVljRGItZGwtNHJaQU03cHVNa3lBQk5SY2RZY0MwdGt2QndYbHdlLTNmRlJCRzRkNENSWlVsS3Nsa29zbGktU2RTY2tWc09oYjVLaHFhdWlQZUtDcTBXNFNMVEd1MHhUODd6NGd1bUZvWWY5ajA?oc=5",
-   "titre": "Scènes de “chaos” en France : les manifestations contre la vie chère “dégénèrent en émeutes et en pillages”",
-   "date": "2026-10-17"
-  },
-  {
-   "n": 5,
    "nom": "Echo des Tribunes",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzhDc29IWGFxM2I0Umh0SDR0cl84b0I1bTNOOEN0M0QzTFpkUllGRy1leHFoS1lwckd4OEFKQlpTU29Zb0V6T3VuOF9VWUNqSzlyczIwcUNxb2NzR3pkV3NDdDdrdUVLYURqTjBiYzJqYlQ0bEZlNFRNNndhdTAwcDlmemllckZrZmk2T0hxN0xacVM3ZDAzbXhYcjBWbC0yZF9GVE40b2h3dnpvV2xSSHNVSVlqdFhBUTBJM0VYSTdJVkpFR1hyb3ljX3BDeUpZbWxHTndNa2E?oc=5",
    "titre": "Huit interpellations, deux policiers blessés... Le bilan de la manifestation à Montpellier",
    "date": "2026-10-17"
   },
   {
-   "n": 6,
+   "n": 5,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0VmNnZ4VjRFWExzUW94R0kwbHdMRWVuUjAwSkduX2syU2ZQNHhZdnUxVHFKMjhFSGh1eENnOTR1bU1VMDE5WFpoT2hkQ29WM0owaTVfbGJXOEZnZUZ4dU1XOVE2Tld4WHFtRGpJZTN4dkM1R3dxSUZzel9haU9xZTI3di1pa2pKQ0xIUmRLbTVCLUEwODZOVmx0NTVJbGtJdjFaa1FtVUtyei1RaUlQMmY5U18?oc=5",
    "titre": "Mobilisation contre \"la vie chère\": paroles de manifestants",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 6,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSDdVdG51VVlrVFZ6MHZDdmFwbVB6bXNTck5NMzBDQ2FPdXlQWjJQSmZ0bmFsQUp6VVFrUVUxSTR6c0lEYmhKQ1dFcFRXcWdxbE1kelZkZW1LSnNibFAyV3RVYm1UN1ladmpJLVRfcTJWbVNmNjRHV09vaFE2S0FlYmdleTlHMkdwSjVOSjJJcHVyVTVIYjFrZThPZWpSY0pFeHlSempYV2VPOFRVY0IzSVBBTHpUMEpURW5XQk5GeDJpUGVKcHNocTNFRmpSY3FZTDhkWmlFcG9TSWx3WHVweUprNHJvMy1Ja2Ftd0RLeThRRmlJ?oc=5",
+   "titre": "Mobilisation du 17 octobre : plus de 5.000 manifestants à Dijon, six personnes placées en garde à vue",
    "date": "2026-10-17"
   },
   {
@@ -176,9 +176,9 @@
   },
   {
    "n": 13,
-   "nom": "ici.fr",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVDE1QWJhYjkxN2FBVkpKV05qUnBBbHU2NTBnNDFFbUZPVV9nRmM0NnNndGxNU3BJVzBMa0xrSmZ0SURsVlBBOHE5cTRkNGRDR05fYUJPTFN2VEVzQ2lSTy15QjhyWTl0azh2eG1HMkw5bUhZZlptS3dmZ1NwYTJOWTUzUGszZm5EM1ZMTDlTV3ZuZWdjeXhFQlRuQld5SDBiNlhQellaSkpYN2trSGo4eUdWNkhBRVVhb21ocGxsbVBCQ3dpY0F3TGV3YVpINkhoRXVaUlhhcU1TT05CWk9ZY2s5Y3BKM3FzSlh0bFVUUXB3VGI0YzJsb1pRODkxSzlhUlNuVEJYSQ?oc=5",
-   "titre": "Mobilisation du 17 octobre : près de 35.000 manifestants à Montpellier",
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVHJZREJoaUpFWl9yZlVGeEhhTFpXYTNvSHl0US1iOV9WYUdFX2lzYm5ubm45MXVSLUtMLTVIRFNpdGZKeEVQeEhleExGVFEtUHBRc1F2MldhSEdMcldKZHlpY1R0X25WRVlDVGhaNVF3QTAzSG1pdkN3S3lzdnBHQmN5RWw1Um03ZENmZEtNc1hocGVZYzN3T2ZyNUUwLXNXc3NHenRFM2lMNGJ1YkcwTEI4MHJiZGpuMUdYM0ZSVjBJaWxzeF9sT29wV3J2UGpNOWVUbjdEWjZJd1E2S3JhLVR2ZzVzQWNzMFFTWWE5SXlHanRab2N0QWhBYjJabTlnczktZ3ZjampCcG14Mjg5LXZ3elJVLUN2ZV9WRXA4RjdrTkdN?oc=5",
+   "titre": "La mobilisation du 17 octobre a rassemblé entre 800 000 personnes dans toute la France selon les organisateurs et 550 000 d'après le ministre de l'Intérieur",
    "date": "2026-10-17"
   },
   {
@@ -197,9 +197,9 @@
   },
   {
    "n": 16,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZVJlR3Vqb1ZlQUVoSXN4UTVuWkpXQmR5NGd6Snc5LUgyb05GNUo2emdtcWdzQWhvcFFsN1E3c1JKZHFseDhDS2o0ZktTaU04emRYaUd6SUd1bU1NMWJ3X1d1eU4zSzBfVnVCUFcwdlRfaFhFS1I3eG14ZjZFeTdJSUx5QWtORGVlUXo0SWF6TzZxeDFQWFlPR01qaUZtQzdoNmVCVG4tWEgtQkZxUV9FLVVGcmxuY1NuV1RDNEE1bVZYclZQendBcFoxbHc3MERYTEtxZ2haUEZzWlJkanVoa1k4YndEengyejljMFRYaWl1djFjQUczUEtYYUF6VFROdE0xMW5SMXpJaVlR?oc=5",
-   "titre": "Manifestation du samedi 17 octobre : une marche citoyenne contre la vie chère se déroule à Redon",
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV21lcjhlWWRMMG9XTDVwZ1Y2MVRNZ2MxTkxfM0duWGt6RzZjeEVEbExHYjBEeUdtdFdIVzZNV1djU0RZaUdWVzU5NFBrd2RVSU8wclphRFNuQ0lwQWRZR2dxakZXOC1RYzVBbVlIVm9jZ2dRV2MxdTYtdEg2VXdWdFZOeWtreDV3LV83SEtwbV9fZ3BNZ29oWkhseGFvSHA5Wml0TmtFaWIwLU9hWm9MRE1TR2p3Mk9EckZ5OWR2dHBGRDVDUS1rd3FRSU9KS1BsZDhEdGFmdTB4Z2x6eDhmcDRwMGlTUUt5Qk1oMm93?oc=5",
+   "titre": "VIDÉO - Mobilisation du 17 octobre : 5.200 manifestants dans les rues à Metz, 19 personnes en garde à vue",
    "date": "2026-10-17"
   },
   {
@@ -435,9 +435,9 @@
   },
   {
    "n": 50,
-   "nom": "franceinfo",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVHJZREJoaUpFWl9yZlVGeEhhTFpXYTNvSHl0US1iOV9WYUdFX2lzYm5ubm45MXVSLUtMLTVIRFNpdGZKeEVQeEhleExGVFEtUHBRc1F2MldhSEdMcldKZHlpY1R0X25WRVlDVGhaNVF3QTAzSG1pdkN3S3lzdnBHQmN5RWw1Um03ZENmZEtNc1hocGVZYzN3T2ZyNUUwLXNXc3NHenRFM2lMNGJ1YkcwTEI4MHJiZGpuMUdYM0ZSVjBJaWxzeF9sT29wV3J2UGpNOWVUbjdEWjZJd1E2S3JhLVR2ZzVzQWNzMFFTWWE5SXlHanRab2N0QWhBYjJabTlnczktZ3ZjampCcG14Mjg5LXZ3elJVLUN2ZV9WRXA4RjdrTkdN?oc=5",
-   "titre": "La mobilisation du 17 octobre a rassemblé entre 800 000 personnes dans toute la France selon les organisateurs et 550 000 d'après le ministre de l'Intérieur",
+   "nom": "L'Indépendant",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQXYwTlFLeXBpbmdJcmo5M056WTJQWGUxLURZSFZkNzBoTXlwTzFDV3JVVHdlYUl5YW04dkpfSzVYNC1fOWZuNWp0djh4M0Z3cXJxZWNmNzc1cEFldDRPRVlaZC1IbENDTmFSNVVaNmR4VXQtMXpzcXVQVWhwX2hfRnpzWTdYSUt0YTJQVWl3b1k1NUJiWFRTUzV4Q0JpSURJOG1ZZ0I5eEZqUV9Cb2Utd3ZDWTdNaXdHenJRXzVtdEprMUtzaTNZUTFuNVlqd0NIa1E1NTZzSVJ1dWluT1BrejVJNkJUZ3ZnVXpHeGxka3lIbzNhaTB5ZUM1LWt2REM2X0dpUWhfa1lKQ1RnSnJLVTBydlpsV3Vl?oc=5",
+   "titre": "Mobilisation du 17 octobre : Jusqu'à 800 000 personnes ont manifesté en France, 1 200 ont été interpellées, 150 policiers et gendarmes blessés",
    "date": "2026-10-17"
   },
   {
@@ -491,88 +491,256 @@
   },
   {
    "n": 58,
+   "nom": "RFI",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVlV2Y2VlUVRkM3ZCU0VkWG1xSnJrdWs0TmItb21IYVJvbGNOQmR4UzFCaGxvTWhaNjhSU0x6akdzUXN4RUFNWnMwRk9wQWpJMnVMTzhhaVlENUtrelp0ZWFTajFieGdhd2ZrcUZvNnE5aVlqdGNpdFVhbkpUN1NOWGxzVHptSUhvN0FBdUcwNkV4YmNldTRXdHJLbDd4c20za2Q3YU15LWNOVnRjX3hWQzdLS05mTUx3cC1IX0V5ZzlhYm03Z3E1NVdySi1jZl9paUQzVm00YTdvdlgzZ3dSR2xUT0pyUjJJWXp3a1ZiYVZWQzQyNFo0?oc=5",
+   "titre": "Mobilisation du 17 octobre: près de 2400 interpellations, «ceux qui ont détruit doivent payer» assure Macron",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 59,
+   "nom": "RTL",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZENWbEt4UVFyRWZPMXRFWkdUajBKMm5TN3ozR1ZTNHJOMVF1NzFVekM2emxDc3ZVTzhpb3JIRGVXY1NHWmZFbXBmbHdSNUJRWlREMExYRVRGQnpKMzhFT1RoVFhlMUFCQWZLTElCUk1hXzVJMHJtWjFrMURXdGdSMV9fYTFFU3R3eGF2WXBLcjZTNWRaUU1RNHB5MldyYzhXXzY2Z2Vuc0x1dlBsZEFMcEQtNFZzd3kxdXdEMkNvdlFqU2VmWmxsOGtmeW9GTWE0UEtYRjJlSS1pNEduYkVidWhodmFEa1NVOFVxVi1lNmg4LXhXVWdadHlaTXNnQXRxZU5FLUFhOA?oc=5",
+   "titre": "Mobilisation du 17 octobre : 2.397 interpellations dans toute la France, 7 membres des forces de l'ordre grièvement blessés",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 60,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3ROcWRKZ2d5aWw4UlVsLTR5NDJENnJoTFpuTTB4OFhLQVViQlpReHVNY1QzT205MGxYR3BOZE1waXFtelF3bzlzQXd6NE9VdF9NTFllMmJWVE5iVWRISXQ3aG80UkhCeE1SbGNpUm5OYVNLTDhLT2IzcjNSeEtYZnRta3l4NGVmQkJRYWJoakZLRkUtakV2RlBvdEZ5aHlKeW5ncXhQN3pxOGJwd2tKQVFVSE5rVzJsTEE?oc=5",
+   "titre": "En direct Mobilisation du 17 octobre : 2.397 personnes ont été interpellées et 997 policiers et gendarmes ont été blessés, dont 7 grièvement",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 61,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDMxWFhyeFdxMk93ZmJ6ZThLdzNaMDB4eWdsUGw0T0wwU1NpaE1TUkxGRFB2Y3gwRm1MRGhPeVNOLS0yem8tUkc0Mzk3OEI3cV9VM3ZxTk1tYzZwT1B5MmFsb0h5RjlvUXVITnBEU3JlZGt6U3VPQ2VoajdIUXVKXzJJY040MldyRkphdk1XRTlwNnlSZWJSS2w1MlZXRmpFTkJfb3MzSnNmOU9iSHcxYXdzdGNFZjZrMjJWYlRwZlNUY1NkTVNNSDVpeGtpYkRPMlZuTTl2cHZjMjFmZVEwS2x3?oc=5",
+   "titre": "Mobilisation du 17 octobre : 2 000 personnes ont été interpellées en France, selon le ministre de l’Intérieur",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 62,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcS13a1VVY2JZWFRTR1lhZ2g1Q2l1VERjWmpDWFYzeHJkWnM4dC1qUFloMDVkU0E4S3JvUF9tM1Zzcm1Ga01oNUdWTjNMTlRvY1ZSZTZuRlVXR3VwQW9PVXNVLUZEeHd6dnI4TTJqb3ZMVGY1U191LTI5eHYwTFhtU0lxa2NVNlEwalpQTzlFMWoyVXUxZnVmQk1XRm9MUG9KNENhVVZmVVJxTTZPdHM0VjVrVHFfX056U0ZMNmVhSHhBaElfRWJCOVlqOEZYNV9KU1ltTFNpWFdVdWpGekhGX255TE5rQ2RaV1dQUUIwTENFckFPSk50Ug?oc=5",
+   "titre": "Manifestations du 17 octobre: plus de 2.000 personnes interpellées en France après les violences et pillages",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 63,
    "nom": "Europe 1",
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR25WQjVTdmpEcm04TkNDV3M0Z3o1QnFITDRPcTdVX0M0dW1JSk1WdGNPbGZmaUhYNEkxLVVKWENuNXFZVlRfeTY3a0VVenVPV3U0M1R0d2Y3eHY4aHZyUDJLTUdYalUxS2Y0VjZ0N2dMYkdJVjdRdzhiQmtZc056ZWd2bUlDaHo1NXZJYklseV92RTZVNjdOb3FiNVdJd1h3YnFNVExzeFFTeTkzeDAwZ0tvamtHUDRNTlNMVW5pdUJuNTQ1MDhtcjBQUHdIT0FBTnBXUjk4el9Id25ldV9GRUh4eGtsdUFyRTg3VFNiR1Q1bzBCZmg4UDA5YTNwMVROa2M4b2F5dFk1SjF40gGSAkFVX3lxTE1jdHhnZ1R6U19EdkdXRTZpUU9Mek1iS2UwVVNXSUNySlUzR3k4REJWNWZTVzFidWM1WTd5cTNiMVdpQmxMT0dJcG8zVTJXaEJwQ1M2Nk4zT2JQQWRSa09wc3N4R0Z4dE8tYUl6NmhuQ1g1MXhPTHVBeU1pV19La0hxNEVGTmNjUmxtVHhHX1pGNGVHSHE5RkVFaVVjXzc0SkdPTXRkM2VkWVNwT2pqQXJjRXIwMTE3ZlpJNWl1ZnliWDUyV0cxc0pweFg2azJ0dzEyWVB1ZnFtTmtWc1dVVy14SVF0R1JrRk81Q0lLZ1NpWGx2akdlNGJNRTQ5VWdmY2hJUEJpN2JMM3RoV1dYWDVabkE?oc=5",
    "titre": "1.200 interpellations, 150 membres des forces de l'ordre blessés... Le bilan sécuritaire de la journée de mobilisation du 17 octobre",
    "date": "2026-10-17"
   },
   {
-   "n": 59,
+   "n": 64,
    "nom": "Corse Matin",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTlpQR0xranFONzBXeDZyRk1sUVJVUHpSOF9MV2ZIaVR4aF85eUJQNUI1bGZuY2VncEF6aVV0cUlxOW1IbjNSSVU0eWFIRTF4Q0Z2cDVNX2lENVQzSkhndV9OTldDTkhncVVDZjhRZDUtUGdkQVZDNElMdXdvMXlkajNxSm1iUHdqNncySzRSWUlldWxQaFVRbi1DcVlpWXRNRkpmZU5CaEVUNTlDbUFOVkdzRkxqX0hiTFFDcC1ySkxPNFF6MzN6cVVQbWI2UkV2dTVzM3NkQks1cmM2ZGxIcjNuSnVvOTBQZ2pYbmZEMzYtX2x2NkVtQW5rT1hOODQ?oc=5",
    "titre": "Mobilisation du 17 octobre : 1 200 interpellations, 150 policiers et gendarmes blessés, le bilan d'une journée de chaos",
    "date": "2026-10-17"
   },
   {
-   "n": 60,
+   "n": 65,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjBLdnRiZ0dqYzdueWcydmtYMnFHR2FXZGVsbVlFdE1hU1lqXzRCY1ZmZkczY21jNnA0TGVFZlZtOG1BU0thOWFMMU5NVVI0Yl9FRVhVV1RnRGpQdFdfZ011TEg2SlBfWXVsSkdWVGJuNU9LMW5mcjdqSm11NkZwdHU2Z0c0QUlSd25FcHA3aW55OHNsVlBvLVJuTkp6Vm5jS1JHU0FJamh5aVNnc0RIemhKbUtNUUNXTkxDTXoxR1JCU2p3TzZUZDZIUV8yNHI1b2ZwYjNwYi16b0pRNjlaeFVkdzdFX3NuS1paZzdfTW0xVkxlblZGZQ?oc=5",
+   "titre": "17 octobre à Paris : un manifestant succombe à un malaise, un « record » de 855 interpellations et plus de 500 gardes à vue",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 66,
    "nom": "Pressafrik",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWJ2LVJrREo3OHk3TmhfUDB0UmlPbl9TLUpUamxjLXA1LXZXTnlHcGVCY2lWVWNOUHlnSk04YXJRc0pvU25NTXRfQzdRX2pRYmhRd1htRF80cHE0OU5KU2NUTl9ESEd3RG1YbF9RUExTMExsYmYzMEtINl9HV1d0Y0UxTVpKYWxZQWNhU0RmNUpGTXBSaHdTVHNZdEJBLU52THpBRUM1bVVHcmIyZWdkZjJaSnBYMUk0VGxpdDNRX3JLZkhOSjhvbnE2TGE1MVRiOHc?oc=5",
    "titre": "France : 550 000 manifestants et près de 400 interpellations lors de la mobilisation du 17 octobre",
    "date": "2026-10-17"
   },
   {
-   "n": 61,
+   "n": 67,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYUtPazZyTDdoVXhZWnl1eG1PZHQtTjZ6VHpHNGNQckV4WjBBRVVlNXQ5TGxGLXR1NlRMWmRueGQ0anQwclFPRWYyTk9DbVU5QW9Nd01TazZMOGxQcW9NeDRyTDk3N19IcTJWQl9BVnktMjVxMS1DeUtkdWc1RzQ1U09WZUViSDRKMU9KRFdUU0JGblNLazNmVExTTllMVEdjajBZbkNLejZuM2JOT0l2OVd6OVJoSEI5MnViRVlLZkl3anJzQ3RNMFRWXzZlbFY0ZnNwUGN4LWc1cURCYXZpTkNyVlJxOGhqRUkzUHFZN0xPY2JV?oc=5",
    "titre": "Mobilisation du 17 octobre : 110.000 manifestants à Paris, des \"cortèges sauvages\" et 195 interpellations",
    "date": "2026-10-17"
   },
   {
-   "n": 62,
+   "n": 68,
+   "nom": "BruxellesToday",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSTl3UF85dEJvTTgtdDVpb3l3UEYxYnQ2cGd4aHBBUFE2REZTRXZubVJTc2hqb0VyWTZRRElfMXAyVlVQUGxoUGZIdUY2NEtpWVU1c3Z3TmQzRVZobnhjM3NQWFIycGRqa3g2WC1weE1EVmxOM3hKZUlzOHJKRk5LWUR6VG5mSzlMby1Xd1dSS2xENFpaLUIySFp4Q2RRUQ?oc=5",
+   "titre": "Violences lors de la manifestation du 17 octobre dans le centre de Bruxelles : 150 personnes interpellées et cinq policiers blessés",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 69,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOF9CdUpxMHBUYkZUMTJPQzdQdGlQOHJROUw2dHl6aDBIQTlfd2R3WG5WenRWZnM5Q29BN2QzUlR5M2l3MlBVQ19zQjQyOUpsYlVWWjVmT0l6V2VTZGRMbnJkcDJmbkxDRHJuTmZhcUo2alowT09hSFREZTJtUnRUa2hmMWpmM0ZGdlNuLVE2MS1Tcm5Hc0pTbVdjTXo1YjV2TW5TeklBblhXN1pYOEZPOVB4V1FRRVQ5REFkMTlJM2lyeVl4Wkw5aGxyY20zV1FISTdVUmhHN0F0QnJjMHRJRDBhTl9SYTRtbnV3WWhKaXhPZ0dRODRNbTRRSHM?oc=5",
    "titre": "Violences à Paris : canon à eau, voiture incendiée et déjà 133 interpellations avant la manifestation du 17 octobre",
    "date": "2026-10-17"
   },
   {
-   "n": 63,
+   "n": 70,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWFpMUFljc0M2Q1A2UXdMQVM1N1k0ckRMV2FkWTFFTU1YWVA2T1hkdVZfeXhPRTg0QTBKMC10djI3a19XY0J5RE9XR25sVjFyOFVESUI2T0NGN1hQcE55LXJRR2JUaGJtcEpmSVNuUjIyVGZFSzVVWl8zdWI2ZUhsSno4RjA0a3U1TUxIUm1vZUtncnFuXzlwOWd1Wmd3X0hueDZpSDRZVllONU8tczlwTkFmNXpMclQ5Q1J0YkYwak1KRi03ZWo4bzd0dXZwSjBPempPcG5EUWRJMVhXb0Z0WnJzRTRiTll4UUNaVnRYMzFIMEtPVDM4NU1ONXNHblBwN3N3R3F2Ylp1ZFJ0ZVhmbTRheDVrNk9DQnlHZw?oc=5",
+   "titre": "Mobilisation du 17 octobre : 71 interpellations, 40 policiers blessés, commerces ravagés… Le lourd bilan des manifestations dans le Gard et l’Hérault",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 71,
+   "nom": "La Voix du Nord",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTRUckZPSUN3SU4xM0xNb0JEVkVIR3c1UjdFTzNOQ2toMGppZ0hSTHp5Y2RVTTVVS3dyeWtnVDF3MHVrRTBsNlFtZkZTQ0xuXzlNaDdoWk9KQ0RyT09yVFk4c1BaWEJxLWdVOV9zZEl3SkZBUzVWbUdUejlPRTFZOGkta2pOeDJraFBjaTljc25INEdKWkcyb25Hd0tjMnh3VjlGcmFIV3NSMkJSVno4QWo4Nkx5RWFFSWpVT1RqYzZMME04Y3dmSHF3?oc=5",
+   "titre": "Manifestation du 17 octobre : 69 interpellations dans le Nord dont 56 pour le parquet de Lille, annonce le procureur de Lille",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 72,
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTjdkeG1YMEVjOVFKdEthdjdPcXV2SHc0WW41Q0FZX1dOQno1WmZLYnlCaUljcmZzSkYxel9IdHZPbk42aTdQNWNwWHpqSlE1Y1pfaFdDM2xVOC05OHhaMGJ6RXMxcGNCQURHLVc3Ni0wejUwLVJMUUFPLWdTQWFvQnlXZC1kNmY0QlNTYVdRbmVSaHR1YmVoMnFuc0M0R0lYU3lsMElXMmlMZkdGMy0yZkllQ2VRZ05Ec29LTzkwQkxVcWZCWDM1LXQ0dnF0UFlqTDZ1WVE5WFRJb2x2bFM2NXNVZ0xoWGZYMUlFYQ?oc=5",
+   "titre": "Mobilisation du 17 octobre : au moins 67 interpellations et 26 blessés en Normandie",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 73,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0lURjkwXzFiOEdPVkRtQ0R5YnZTVjdyZ2dJalh2UkFHSW5sYTZ3bnNWNUJ4R3NuNTlCR0J4eEwzT1FwdV90RjlDdXNRYVRBeHNJOWRkTTNIUXBhRHlxbkhGNlYydzV4Yi1JYXNMRVVKM0U5ZDJWLUJuNk9PbWpxTGZ6UlNrUkxSWFlfZHhSXzFZdHU0aFQzOGxFTnZRZlJucW9hc0hNRkVrbFRreE5jQjlPS1FDbGlYUzRTMUU1NEhzLXFnbDFKWDdNTjY3ZEZKRUlkYmZ3?oc=5",
    "titre": "Manifestation du 17 octobre à Montpellier : 63 interpellations, 36 policiers blessés",
    "date": "2026-10-17"
   },
   {
-   "n": 64,
+   "n": 74,
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZzA0VE5NWGFNMi1Uck5mTTJySENrcmxvQ0dGZEMwSnVDQi1JYnlLejZMZ0pERnZZbjRublduNzhuNmVwbkxlWjdUVThLRXJCZU9BYkd1cElXdndvMnp1TVExWG1DNlZaOHB6T1ctTzdoaHB0WlBUWUxHd1dRc3ppQ1phdnJsT2tRS3FTZkxYVTZjQUcyUENtRExFWk5JZVZXcmptNWRJWExjYlJsd1JVV3pqV2pESWp6RWotcm43eVFkUG9PZDZxdkhiT09xcG1EY2dnV3dUUkVERm1TRlpRUFNXOGlTal8za2RTV3J4RU8xTjAtdEFuVU9FSENEcWs2U2NfREQ3SDREbmlVc1Y5LTNZMjdSZ1NuTXJqczhLX1hvMy1Rb1RDb3NnVWNDaE5kY25Dc3h3bw?oc=5",
+   "titre": "Manifestation du 17 octobre à Montpellier : 63 personnes interpellées en marge du cortège, 36 policiers blessés et d'importants dégâts pour les commerces",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 75,
+   "nom": "Le Progrès",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQmZxUG42Q2lueTQzenhnTGFFRFJBbldSY2NRT1FVeURDTWdUYWlQbm9USWpfdzQtYjJYT3VzendnS3dIMGc5b0tfbjhtTHU1QmxjWm8wanZrcVNDMlJjUlJ5cVRIZ2pOR3hISHNHN19WbGdZVHZ6b1hEUWgyY3FDRHpuaF9iOUlDakVrNGFxLWh4eGdIRDhzdmJtZjRLcEotZTFfbUlhcGQyRVh5VHowc1Fjdi1sblhqVTlpbmFLaC1pMDhSeVZWd2E5cWtieF8xQUlNaUZsTEY0bHNWbjFfcDNxOS1LSWRGUnplaE9kbw?oc=5",
+   "titre": "Loire. Violences du 17 octobre : 63 interpellations à Saint-Étienne, premiers procès pour les casseurs ce lundi",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 76,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc190RG9DUGd6RWRhaktBS3RYdjBGTy1JOTZ0Zlk1QUhBNEoxOUdpeENxYjBvcjYyQU54UEpfV3BVd1pyMHJ2TFZ2ZUpZMmdQUU1NRjNkOS1scHhJTHFBX2toVmFnTFhTZl9vbW1EcGRHZVJBVlVuVkFZQlVLS3dEQWdSRVB5cXEzWFhjVzhR?oc=5",
+   "titre": "Manifestations du 17 octobre: 61 interpellations à Lille et 56 personnes placées en garde à vue au lendemain des violences",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 77,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdk4xaEktbTZ2NGNrYzFSMnBTdGlPZTBQaksxazg1ZkdhUEFHX1JEOGYwQWhRMHBXTFN1cTh6cElzVzV5Zk13LXp6d0VjRVlvcWdVSVE3YXJrM3ZxSVNlVGlsYWdOc2xjdHFvb05MamtlRW1XNjhMTmZmQWpfNnR3bWVrSEZfYjNERWxpZWtiYTdwcVdQVTVSekx5OU04VDFMY1JteFc2QXlmUkRjQ3c5MUhqU1RRNGRjYlJYMk83MEVWZ2ZEYXVhV01sdkpvemx3TkNHY3ZmQ3QwR3pSQ2FLR0l0Q0YwbUY1ZnZ2dTZXdHRSUG40V1hrdA?oc=5",
+   "titre": "Violences du 17 octobre à Caen : 28 interpellations et plusieurs blessés, en marge de la manifestation",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 78,
    "nom": "20 Minutes",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa284c3V0Q3pPV3hRdVdCaDhjVVNYaElJMHo1Y1dYOGdBNHU3OUxSd2xOTGhwc1FfMmtnWlBRenVHN1Z0S0hkaVFVREk2akE4Q1ZtSVVHQ1c0NW9MUmlZN2lOMlF4WV9Da3hGbDhfWFlFbFozWjFWUXYtWFA1eWpmanBpNkdPdDR3NHJUYV9BSzBuZVhTLXJXMWxyRkNsVldkdERhQnFfTU1uR2oxNzFRbEt2R1MwS3BpdEtKS09BZ01tZS1mVVE0?oc=5",
    "titre": "Mobilisation du 17 octobre : Le siège de CNews ciblé par des manifestants, 21 interpellations",
    "date": "2026-10-17"
   },
   {
-   "n": 65,
+   "n": 79,
    "nom": "La Provence",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEtlNlJXTjk2cFBSb3ZWOVhHeXEtOFFSSERGNFRDZVZ3U1g4Tkhxa2lwd2QzUEs5dmZNeFRIVm5IRV9GcmJJVDVmN2t0ZTJ6TzVsc1BnbFpUUGdaWmJaX1pzZnc3d2ZhRDZNWFVXbi00M2xOYXBBZ3JGNjBHblpCTlpaSERwUF9UX1lzUFNjX2xVWFowNTBaQ0xPYUtucVk5X0pPWXk1Z1N5QW5xLTkwb243RWJ4YjZmRi1lU2ZIMjNneGVybGEwdmZOb01zNVVLM3czc3dxRm9KdDg?oc=5",
    "titre": "Mobilisation du 17 octobre à Avignon : 21 interpellations, des policiers et civils blessés",
    "date": "2026-10-17"
   },
   {
-   "n": 66,
+   "n": 80,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkhHbGN3bXEtR09DZlgyOU5FMkpCOWgxQllSTnVMdk5DOWRPOEhvWVNoYmJxb0ZRelEyVE9lTVk2THZQZE1VV0dyTm9UZ0s2NHM1R2ZqbnhFTWJjaWJRZzEwZWVzcV9ZRVJRM0hfZER4OUFoMnhUdEh4bTAzOHdQZjR5OW9CbE9NSzlWVFMxOFp2VHplTHV2SG56cXBDU3ZubFhBUVVOblJoNmZNbXFkYzJoV0ZQSFBOTnpIbHRDYnFYbTZDMFRNUjdQRFZTaXIzSkJUWjA2c2ZyTFg4dV9ldHhLcVRLQUJsWGZYRXJWT2wzOWM?oc=5",
+   "titre": "Valence : les 19 jeunes interpellés après la manifestation du 17 octobre en centre ville, devant la justice",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 81,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQckJsR2pRaVlsTUlHTFdYUlI2Rm1PcTRRbk9LZVFVRmZ0Q1YtUmFheXdMZ1RvQjMzNlBHUTRtNmVBZVJXRHM5aGFYRy0wUmQwNTd2NFN5ckE2eWstOGx3RFZOMFZxbEIyTjVVcnpvMkkwb1FCdmRMVlRqeWxPOHpUbkhpZ0p1NXZGVG9RMzN6UkdjM2NRRnlJajRzRGw1anRlUFVJY2xrLVlkd2J5RXBhTGE1dHBQLU92NlpfcmtCdnlDMUJZM196d2ZSY3VQVDNjVUtVQlVKYTBxV2JuSlZkQW90dXFxbHVHajhMV3dOTjhhcHpwNjA1Z0p3b1pGenRyNFpiQnpmZXF2by1MSW9tMXRpejlid2FndF9NSGZR?oc=5",
+   "titre": "Violences du 17 octobre : manifestants, interpellations… Quel bilan par rapport à d’autres mobilisations ?",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 82,
+   "nom": "La République du Centre",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWnlqUnUzSG9nOERINXRpVC00endneVIzc29qbEZTN2x3SXVPVXhXX2FCa2JxdURiTUpjUDNDZEVxbXRtMnpCeXo4NzZsT3lOMmJSNTVFdGlUMlFUZ0s0Yl9aR2NoSTA3M2JGMHVCOGhzQTA1WXBBbzB1SGNLS1MwRmM2Yk9YYXc1aFBfZk1KZUhKYVBvTG96NUwyRmpJMi00TXA2clo0bHJoTDk5VVBSRFdOU21fUWYyWmJkMTRsTzl1T3U4dkJTdEJWZVRyejlIRXVtTHV1WWZOS0xNTXVmQzVCU2VsZw?oc=5",
+   "titre": "Mobilisation du 17 octobre à Orléans : huit interpellations, un commerce pillé, un collège dégradé",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 83,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckpjdlhwZW1xaEVkSkNYTGgwa3gzc3FZVWRRZjhkWlJlRVNJWXlvbTI1MTFJR1NXSmlnSkRILVBacnpfTU9NZS1DZTd6MkxBSXlra0phR0FJVHFuZnRCY2E1NFV5NEJvOTUzM1pXVnp5R1k2WFFOOEgxRE1EVS00LVl6a0VWOExabmZJTm4xZTdndVBma2YzVHBfMjItWVJ2d0NCbmpybDg3SmdDSnJnM201eW1BUG9lb1I5LTk0OU9yMU1yeXJsNGF2Tno5ZDk2a3hMWFd4blRHQkUycHVJU3BKYVBDYTdF?oc=5",
+   "titre": "Manifestations du 17 octobre : 11 interpellations dans le Haut-Rhin après une matinée calme, de gros dégâts à Mulhouse",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 84,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZWJDZmZZcmZUN1BiNUx5dzFPNWdLV1Y4dk1nYnVzd0ZUbWlWMExSTTZXV20wNm5XUVBJNkU1WVZpU1hUeEd3TGVKRDlpTmZtbFcwV2pzYjJzUUFuYXMzREFfWVRXRmlsNlVTRVVjcG11ei1ZVjhwWmpmQ1dDbmRyOGY5Q1ZwVmpubXREM014VlhxNGVITDZpR2F1ejZTRW00R213dGZmNXNMTm5FakJncE9IUFpxcHVIYXgzTjJZdTY0dUdvOVMtM1BVZFAxOVFUQlhDV1VmblI3SU9KT1BxQXJvZ2NkYkR3YWYyX1l2Y2RUbXdoUmZVQk1aVWVOdw?oc=5",
+   "titre": "VIDÉO - Mobilisation du 17 octobre : 8 blessés et autant d'interpellés à Poitiers, LBD et grenades détonantes utilisées",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 85,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbW01TE9lWkZJaDNqUmgyVDlIRElEaFFIWW1qbkNoT3QwazFXbGpucEtsR05oWEg5U1piNGtTVWlycmJfRXZiNmkyUjhsTWR6b1hnU183U3hxQXhrNTNRTnJCNzFUR2xCdndDNVlha2c1X1lNTTlZWG5zZm9ZY0thY2FQYjZWR0p0ckVaY2dpemNZaHl4OVNZUkQxYXl1T3BRSkxVTGR6TDcta3A1NHROQTliTXk4NEpPVU4zSnI1WHdjb2RobWw3NHNzNm9zd21rMFVzTFh1b3ZWbURkeGxNYklQWlFfTm9D?oc=5",
+   "titre": "Vidéo. Mobilisation du 17 octobre à Bayonne : 5 000 personnes dans les rues, 7 interpellées",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 86,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVTJaa1BGYU1XVkxvYTJzVU9SSm53ZEd5OHROWlR2aW5kbjBKT0Z1NjBuSE0tdGt0cEsyY2wza3lPR3N3TWJGWDVfT0xaX2huenQtM1luRk1vdkFrOUVzRnA4SlpMTUUyUk9LVWl1VzJJclotNUk0ZEFCNHdIZzVudUU2c211WjNYcm9PUWhHUkNYSzhZd2k1RzU0R3h1T0E3eVZvNEtLcUhGUVBHbW9VZ3B5eEFlTjA5a25qVm1aajRoYUVCakVjMEdDdVNHSXRYT2VSOC1waS0xY0Z4dUExcFpR?oc=5",
+   "titre": "À Lens, 4 personnes interpellées dont un ado de 13 ans lors de la mobilisation du 17 octobre",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 87,
    "nom": "CNews",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnJpblJRMXROMDVjZTlBN0dxQ1RiRmlUUU1pZDBuNUFJdUJScmxYY0dKeDJPbXdkWko2bklxbk9pRmFhaFhTUWNSdXVsd0dndWx1MVYwXy00dzRoN2xUakVZSmxOUnlBWEF2Y0xvZEYyaWhKY3VUcEM5YXF1bGdzbUdNc1BlOWxDZG1icU1kUHFrNEdVenN0YWgtWjdiMGJveVVIeDNnNjNHdTRtUmROZWJoV2dIMW_SAbwBQVVfeXFMTXhGM0ZkNC1HdjcwNnZhX1NNNFA3cmZPeHJKNWxQdG5fWXZzemZIWXpqTmN4SGFCczhiZHpDUUZXcUtzQ2JITFd3X1ZWS0ZhWVVFc0F5RER4WTZFNVM2MzZXQXJ3YjVRZUZ5TkRBUWI2dEZBNDJKUk5EcXdEdGRfUEVROEJfUnhXOGhHMXl3NHpxc19PY3B5bkd1NmxrTDU1Yk96MldvQkl1WF9xbXBKeXNLRXoyQllGaVFBOHc?oc=5",
    "titre": "Blocus des lycées : 7.950 gardes à vue, 937 policiers et gendarmes blessés... Le bilan après un mois de mobilisation",
    "date": "2026-10-17"
   },
   {
-   "n": 67,
-   "nom": "ici.fr",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV21lcjhlWWRMMG9XTDVwZ1Y2MVRNZ2MxTkxfM0duWGt6RzZjeEVEbExHYjBEeUdtdFdIVzZNV1djU0RZaUdWVzU5NFBrd2RVSU8wclphRFNuQ0lwQWRZR2dxakZXOC1RYzVBbVlIVm9jZ2dRV2MxdTYtdEg2VXdWdFZOeWtreDV3LV83SEtwbV9fZ3BNZ29oWkhseGFvSHA5Wml0TmtFaWIwLU9hWm9MRE1TR2p3Mk9EckZ5OWR2dHBGRDVDUS1rd3FRSU9KS1BsZDhEdGFmdTB4Z2x6eDhmcDRwMGlTUUt5Qk1oMm93?oc=5",
-   "titre": "VIDÉO - Mobilisation du 17 octobre : 5.200 manifestants dans les rues à Metz, 19 personnes en garde à vue",
+   "n": 88,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLWtJTTZrd0F3ZlZnVVZIa213QkF0dlRqaDNRUFA1b0JNcmdrZ0JUMGNyYTJFUGNlcnZWa2hhRmc3ZHU0dVQtZWdhdzRzelZfYVlWbENRWnhWNWk2Zlp2X19WV3c5TnMzelB4RjhwSDB1eEVDU0Q3by1sX0VVSmRrckd1YzFGR0RLSmswNFpkOF82eG9XUWE2SDhIUHhCRVRiYnZ6M200STl6MmNhOERqQlk4RkRmVlJqS25JWk11T0sxdWs2bTJHLXRibXFXRjVScFp3MUdERW5zUmJSV1NFTFJueUprMENrZ3h1ODA3WW5fX2Jrc3p4NmVpSnpUZw?oc=5",
+   "titre": "102 gardes à vue dont 24 mineurs et une dizaine de boutiques pillées, après la mobilisation du 17 octobre à Toulouse",
    "date": "2026-10-17"
   },
   {
-   "n": 68,
-   "nom": "Angers Info",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblNLdzBQZ096YW5lcC1RdXlLLWdEVUktWlVzd2JvUVBvVUJTYXlFXzVYR1pnMXJaVFplakppY2s5ZFBQMFJvNHpiT0JJLTVwdEQ2U25LMDRIQlZrcnFLeHV2d0NkVGRaTUdsNm9ETC1jUVFwV2V2VWNGTFdNRVk4djJaMkF1MUV0eUxYZWdnTTBEelU0NTIzdkVnWmQ2SjNOUVhMNmVncU1XTjEyQUlhaTIwU3pWbDZGUWJHTVpnNVBJYmc3UWxybjlNMUVoRzR2SUNVS9IB1AFBVV95cUxNblNLdzBQZ096YW5lcC1RdXlLLWdEVUktWlVzd2JvUVBvVUJTYXlFXzVYR1pnMXJaVFplakppY2s5ZFBQMFJvNHpiT0JJLTVwdEQ2U25LMDRIQlZrcnFLeHV2d0NkVGRaTUdsNm9ETC1jUVFwV2V2VWNGTFdNRVk4djJaMkF1MUV0eUxYZWdnTTBEelU0NTIzdkVnWmQ2SjNOUVhMNmVncU1XTjEyQUlhaTIwU3pWbDZGUWJHTVpnNVBJYmc3UWxybjlNMUVoRzR2SUNVSw?oc=5",
-   "titre": "Manifestation du 17 octobre à La Rochelle : huit gardes à vue et deux convocations devant la justice",
+   "n": 89,
+   "nom": "mesinfos",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXY5VWJYYnBqc3pwenNIYUtuUTlXTUZ5RG5TWVFfdWpmQ3RXRFB0Ulh5NXJnVjRjMzF1TlBpTXRvQUJfMFYyeldzUVo5cFhpN00zQ25ZTVpHbXhvLTM0T1hmM3hKQ3ZwOGhEdnMwazVPWHZ0Zkh2eTR1TVhRNlJVMDMtTkpLbmZ2T3ExRXZOTGZSeWNWeFdyVVlQeUpxRU5IY0RySXVNQjlpQkR0VGUxSWFROERGMzlGdXFnMk9BckM4RDRLblJjcDBB?oc=5",
+   "titre": "Mobilisation du 17 octobre : 63 personnes placées en garde à vue à Saint-Étienne",
    "date": "2026-10-17"
   },
   {
-   "n": 69,
-   "nom": "La Semaine des Pyrénées",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTk03czRiT1FuUHVIV3ZrZzVDdk5DZ2JKRGQxNzZ1ZUJwWEQ4ZHp6RE1FX1c0Z3dYUkZFeEhfVk1vc3FZMGJvcnlnRkdoNnFzN2JaZHgtZlpiR0psQUhKdW1iNHV4NUhhTmxZZDNHX2xjODlqWjBmYnItVUNYMExOM1MxZFYyWFl3M2kzZl92ZExfcmdPQUI1bUNsY0xBZGI2VkxoQlZFZEdoSGpjbC1BN3NyMmF1bElEWFpERmYxMjR6eEZFRmFPY2ZxSUY2Ykh4RDdV?oc=5",
-   "titre": "Hérault - Montpellier : 36 policiers blessés et des commerces pillés après la mobilisation du 17 octobre",
+   "n": 90,
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNajlhTmxqa2hlR19mWDhQZE9ibTRvOW83UTBjX0U1Wk9BLXkwNEw4LUdVZmhsLUNyY3prcloxQzdRSGM2dUZuMXdENHNuVkYtQVM4eXpxcktNeFhJU0dvbWlmQjJPcEtrdnRFV2JEbGl4OTdDR2J5Qms4dm1BVmhObGthV1lmbUxKWlc1THZqTkxUQzFfZ2gwNEZvNU9mNkRwN19TZWtpUGlDNDJ0UDhiWXdtbjlFYzdFeTNVWXBkU2o3dGtucE1wRTlwaHhURnFYelpMazNBZmQ3ejFZMVBYZDNYdzJHUC0xcld0YWg1YU01aVlDVkNhUF9rc05Bb2I0bEpCa1VsZEd4MDNTR0UtNVhB?oc=5",
+   "titre": "Mobilisation du 17 octobre : 56 personnes en garde à vue et 30 commerces pillés à Lille, le parquet mobilise d'importants moyens pour “faire face à cet afflux”",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 91,
+   "nom": "Le Progrès",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxBWUdscGdaUkhqOVhrdFVqellNd3BtS1FQQlpLMFZ1VmhBQVB4UTNlR2NvSGd0THBKMDFIa2hYeHFYMUU5d3ptNW9oZGh3N25tRW5Qdm9YVTZkT1dzR0JyQlk2SF9oV2Z5MVhta29laXFFakIxVWtzSENJX1NSMzZFRmhrNWhKNDZUSXY3cEFzc2tkY1E?oc=5",
+   "titre": "Ain. Mouvement des lycéens et 17 octobre : 53 gardes à vue dont 89 % de mineurs",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 92,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWFZuTzlYRTNpVG5xdVh3eV81NGxCOXp4S0hCOTZVZVNKT1I2dnhiLWJzMW1hVVRIVkR0Mm5VMktPS18xUUJhMDBsTnRJZlhnOVpVbXE4R0V0UEVGRFVCc1Jmd0ZQcy1KMlpXUVJlc0NlbjEyUzloZkVGOXRaNmJtN09oMmY4TjhObl9JU1VPLV9JNG95VnZzaUFpWjAtMzFUd0ZvNEpPSXRROXQyb1BfUWdjV216VlgxYTBLWEZRM3YxT255ZVJwV1NtN0dxMEtQNXA5TTU3QTdLazlQRVlqQmdR?oc=5",
+   "titre": "Mobilisation du 17 octobre : à Pau, 28 personnes interpellées et placées en garde à vue",
+   "date": "2026-10-17"
+  },
+  {
+   "n": 93,
+   "nom": "ICI-C-NANCY.FR",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYjJRTjh4V2k3aDdjemNKNWlKZVBmV29XdnRSNHBlQmxGOEZSclJoN3Q5Qk5wdWxLWjJkby1pYXZyZzdCQWlabHcyall0QTNFVndaUHEzb1hvTFdicXJqOTg3cXNzek1IbUJzNGNBcGdwS3ZyXzdlYUwySVhzdWprX0xzNFBxWVBtQ2dweUVvZkpDRU96ZDVNX2xTSkZod05VdEg5SG5WcWdYUDlGdDNJbjdkN2ZwRkNlZmhSZFRNMHoxZ0hwSHNpVWNCYjlTa2wyV3dQQ1JVQ3VjOUp6Y2w4OXVzRFRPMzlT?oc=5",
+   "titre": "Manifestation du 17 octobre : 24 personnes en garde à vue dans le ressort du tribunal judiciaire de Nancy",
    "date": "2026-10-17"
   }
  ],
- "genere": "2026-10-26T14:45:11.228724+00:00"
+ "genere": "2026-10-26T16:03:22.316986+00:00"
 }
