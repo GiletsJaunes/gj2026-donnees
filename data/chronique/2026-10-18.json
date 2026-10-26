@@ -5,37 +5,37 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon CNews, Mobilisation du 24 octobre : 1.314 interpellations partout en France, 53 membres des forces de l'ordre blessés, selon le ministère de l'Intérieur (repris par 9 médias). Selon هبة بريس, Manifestations en France: plus de 1300 interpellations et des dizaines de policiers blessés. Selon L'Union, Mobilisation du 24 octobre : à Reims, six personnes placées en garde à vue à l’issue de la journée. Selon CNews, En direct Mobilisation du 17 octobre : 2.397 personnes ont été interpellées et 997 policiers et gendarmes ont été blessés, dont 7 grièvement.",
-   "sources": [
-    1,
-    4,
-    7,
-    9
-   ],
-   "theme": "Répression"
-  },
-  {
-   "texte": "Selon BFM, Manifestations du 17 octobre: la France sonnée au lendemain d'une journée de mobilisation ayant viré au chaos (repris par 4 médias). Selon Euronews, France manifestations : les « gilets jaunes » disent venir en soutien du mouvement lycéen (repris par 3 médias). Selon maville.com, Manifestation du 17 octobre. « On s’inquiète pour nos enfants » : à Saint-Lô, la colère contre la vie chère s’exprime. Selon maville.com, Des cours (vraiment) à distance pour les lycéens : l’œil du dessinateur Foucault sur l’actualité choletaise.",
+   "texte": "Selon هبة بريس, Manifestations en France: plus de 1300 interpellations et des dizaines de policiers blessés. Selon CNews, Mobilisation du 24 octobre : 1.314 interpellations partout en France, 53 membres des forces de l'ordre blessés, selon le ministère de l'Intérieur. Selon L'Union, Mobilisation du 24 octobre : à Reims, six personnes placées en garde à vue à l’issue de la journée. Selon Free Dom, Manifestations du samedi 24 octobre : 1 314 interpellations et 53 policiers et gendarmes blessés à travers la France.",
    "sources": [
     2,
     3,
     5,
     6
    ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon CNews, Mobilisation du 17 octobre : la France sonnée au lendemain d'une journée de violences et de chaos (repris par 4 médias). Selon maville.com, Des cours (vraiment) à distance pour les lycéens : l’œil du dessinateur Foucault sur l’actualité choletaise. Selon Euronews.com, France manifestations : les « gilets jaunes » disent venir en soutien du mouvement lycéen. Selon Boursorama, Scènes de chaos et pillages à l'issue des manifestations contre la \"vie chère\".",
+   "sources": [
+    1,
+    4,
+    7,
+    8
+   ],
    "theme": "Le mouvement"
   },
   {
    "texte": "Selon L-Post, France : journée de violence inédite en marge du rassemblement contre la vie chère. Selon RTBF, Vie chère, violences, tensions : Paris au cœur d’un dimanche sous haute surveillance, incidents à Lyon.",
    "sources": [
-    13,
-    19
+    15,
+    20
    ],
    "theme": "Colère sociale"
   },
   {
    "texte": "Selon Gnatepe, Dette publique en France : Amélie de Montchalin alerte sur un risque d’« étouffement financier.",
    "sources": [
-    15
+    17
    ],
    "theme": "Argent et crise"
   }
@@ -49,167 +49,167 @@
  "jour_long": "dimanche 18 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
    "nom": "CNews",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzNpNnowcC1FRTlIcDdqb3R4cF92d1QyX2pYWHFCUnlBMGdHUDF4aE45VktXQWowaGdka09vUk55YjZmZ0ZFREF4ejQyV1h6WTk1S1dwb19ZV1ZvYlBSeDhmSGF5SkRFWlZrVHV4MTBfYkVGdFU0ckg1b2FvazZKaG9yRE0tWmc3Z2U0eUJObUpWODBqMG0tTk9BWXduY0VUZEJmaF83M0ZKZTRoX19kM2xCanRzb0w3ODZN0gHAAUFVX3lxTE82cjJna0x4ZmRzdXpBTXF1TXdJMVdnSFhac3BjRFlBMmZKa001cGpLNUZMYWczdl9oVnRwckxBel9GMVZDZUpDSkdoOFJKRThBUk9GNXhZQm1EM2RLOE81Ynk0bmpfMlJYWktjNnhGUUdyLU12SVktY0wxRF9OOWVGTl8xVDB0NzdVM0QzOVdPVmtFRWdXZ29YT2NlTE82X0Y5V0o0RzZNU0VjZEY0YzFIRzRmcDFGSUZ5WFpuRlZ0Ng?oc=5",
-   "titre": "Mobilisation du 24 octobre : 1.314 interpellations partout en France, 53 membres des forces de l'ordre blessés, selon le ministère de l'Intérieur",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTI5b0M3SmIxRXJ3QlVMNUZaSHdWWEdCN21ObFVfSjhoNmEtbnplZzg4MXFfN1hkOC1hZUIwMXZJMUxBTTNrS3djWHNfMFBwem5ZWVdvenhmMEFnOHBFWnVmcERUVTdnVVJOanVZbE5aYnN1SEdETTNYR2NIdUFEanhOODN4bzdaM2E3UWxwd09UYktoLW0zUjJ3TzlhVF9WZ01HNW1qRWE4RUMtT0lyVtIBtgFBVV95cUxOVmhISkJuMnBVU0l2RGJCY2xmcHBkakZKYTZGbUh0anYtVG1jckZYeWhGeUVWa0laUHdvVlRXZG1Ea3BRZkRZRDVCSm9KRkIzRmpKUmxJeUtZTm5HWEc0dFlKRFdxMkhOOTJlbXYzbS1ud1Q5QUhRSWJhbmNtR2ZnUXNTTFhabDVGZUJqQTZ1bl9qc00xSkFweXh6N1VwZnF4RUZFVFRnYWg4YTZ1VGpVbEhBdTR1dw?oc=5",
+   "titre": "Mobilisation du 17 octobre : la France sonnée au lendemain d'une journée de violences et de chaos",
    "date": "2026-10-18"
   },
   {
    "n": 2,
-   "nom": "BFM",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEZCdHNpemlnSWxhak9hTFg2VGl4dmxpQUFEc0htVktteW1aTnYwMmpDMG5JeGoyd3lDc2NqU2Rkbk81T3pzSlhvUkhURG43b0ZPTC1TakxEUEJ6enphdXhQR0Z2QUNESUQ3VHFLODI3UzJKSjVkLWR0V2NySDdzUk9lMDBBMjdOUlBpMTBiMTJwVlpxOGZ4a0t6TzZXX0ZCOTVGSE9LRlU4TGVVUVZrSnVBNmZVdWlTcGpxdlNjdEI0ZWxDWjV3eC1sMTMwa19Ha3dmcGxQRUpBZjNHZ2RVekQwRVVPZGFCSU10amdUVGxMOFVsZ2R1UXl3?oc=5",
-   "titre": "Manifestations du 17 octobre: la France sonnée au lendemain d'une journée de mobilisation ayant viré au chaos",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 3,
-   "nom": "Euronews",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHB1NzdOT0d0Nll5TnpPaG0wUnZjV0s3bGdhUHRnX2lKakxvRldZNFJvazhJX0hQWWoyc3JqRDIzZ3diTE9ENVhLdWEweG1wYXlFYlE1Y044UnFuNzk5RG0zVXFZWDVoZEFSazkzTlEzLTM1Um9fVzllbTBsY00xZ0NPeEtreFl4dmpnYnBUMUJ4ZlB3V3c3XzVNMGNEVXJvLWFmazBaZjhQeEV3N2M4Y3N3Q3pGMUxGNWc?oc=5",
-   "titre": "France manifestations : les « gilets jaunes » disent venir en soutien du mouvement lycéen",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 4,
    "nom": "هبة بريس",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNnJISXZrMXRuRFJXdkd2WTBBbU5vTFc3TWlhbHhxQlQzQ0stQmNGazV5QkdtUGNyaHhsdTFET3FNcWNPSnozTnNwSGJoMTRRdVVJ?oc=5",
    "titre": "Manifestations en France: plus de 1300 interpellations et des dizaines de policiers blessés",
    "date": "2026-10-18"
   },
   {
-   "n": 5,
-   "nom": "maville.com",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQajV0S0NkQ2d2akNDTEdqVjdDTDRTV0pRd3ZGWU9xT3NYZ1gwVlB6RHZjMHB5TWgxWDNTMmR0QmpwRW1KRzRjUTdycGRBQXRlQWZ1ZTVldXpRQTJNb2xVdlpzUjRiaHN0aEFpUHpBZThIclFodDVJS2l5SU9PT0FhQUZXdVBoc2gtT1ZmVlIyOGFZcXk1akxTa2lUWXdSYnZCVEw5VWk4RFNianJ6SHhNOXlBVWMwNXpoVW83Tk9wSkNNV1BkZ3FTY09iMUd3QjRGTV9wb2FoUTB3VklGNllMUl9UemN3N2FVUzJjeXBNRHNlajI1R3ppUVd6TkRzUmpKbnlTSV93?oc=5",
-   "titre": "Manifestation du 17 octobre. « On s’inquiète pour nos enfants » : à Saint-Lô, la colère contre la vie chère s’exprime",
+   "n": 3,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzNpNnowcC1FRTlIcDdqb3R4cF92d1QyX2pYWHFCUnlBMGdHUDF4aE45VktXQWowaGdka09vUk55YjZmZ0ZFREF4ejQyV1h6WTk1S1dwb19ZV1ZvYlBSeDhmSGF5SkRFWlZrVHV4MTBfYkVGdFU0ckg1b2FvazZKaG9yRE0tWmc3Z2U0eUJObUpWODBqMG0tTk9BWXduY0VUZEJmaF83M0ZKZTRoX19kM2xCanRzb0w3ODZN0gHAAUFVX3lxTE82cjJna0x4ZmRzdXpBTXF1TXdJMVdnSFhac3BjRFlBMmZKa001cGpLNUZMYWczdl9oVnRwckxBel9GMVZDZUpDSkdoOFJKRThBUk9GNXhZQm1EM2RLOE81Ynk0bmpfMlJYWktjNnhGUUdyLU12SVktY0wxRF9OOWVGTl8xVDB0NzdVM0QzOVdPVmtFRWdXZ29YT2NlTE82X0Y5V0o0RzZNU0VjZEY0YzFIRzRmcDFGSUZ5WFpuRlZ0Ng?oc=5",
+   "titre": "Mobilisation du 24 octobre : 1.314 interpellations partout en France, 53 membres des forces de l'ordre blessés, selon le ministère de l'Intérieur",
    "date": "2026-10-18"
   },
   {
-   "n": 6,
+   "n": 4,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcFAzMUhjTlY4cTFKazFPdHQwVE5QNDhVcjlKWHQxa2gtOUkybzM3VEdUUjZJQkpOMHREWG14WFU4eDN6dVBTV1JZcEU2WVFmcFVDZVFwUnBRaW43SjFZeWQ1SEhiMHlJSWdhUGE3VkhpSDc2Z1NaZGJCcXFucEZXcTIyYk40cndJMDdHZGNyZXVleEg2MDJYamUxVUp6SmV0U2MxS2FWQW5RLVNUQkRqWjNfWEZKUFVudTNLdndSZGMtcUxEMzNzblpLNVd2VVp0ZHZiU2RyZVVwbUlxOTJNRTZNcGpLM1kyYzhfaVpRS296SVdsRVFjVWNR?oc=5",
    "titre": "Des cours (vraiment) à distance pour les lycéens : l’œil du dessinateur Foucault sur l’actualité choletaise",
    "date": "2026-10-18"
   },
   {
-   "n": 7,
+   "n": 5,
    "nom": "L'Union",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTk5NUWtQUHlBSzdxbnFfM2hwZ0FSQmNERFRraWZzdUsyeG1JODU4U2JHV2RTY0V3MUJYYmY1Q04tT2VfZWhjZEh0TTZZdS1mTm5rOVZYMThIaWlnOXFyT1JXYkpkUFNENnFuYy1OM1YtdTRRb0Q4bkQ5NXhCM19TZWhBcUxROEE1UTlBcE9kR05WcTBPV05QNEp0cWxRWDBZam8yXzhwek1rTEFoeWdYNVhCbjVnWTRmaG1HcVd0NHk0VTZwdXUxdEJB?oc=5",
    "titre": "Mobilisation du 24 octobre : à Reims, six personnes placées en garde à vue à l’issue de la journée",
    "date": "2026-10-18"
   },
   {
+   "n": 6,
+   "nom": "Free Dom",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUo0V1JKWU92Wl9WcFhVb3Nya1BGZWNUYl9oNXpYNFpTamlyemg5aUp1VWJiYmhIVjF0clFoMy03T05JR2xUSlVTSnlDSkpuS0tOTDZDQ2hZRS16NHNqelcySDYtWFFvNkgwSVpUX3ZXcm1iYmMxX0k5WjRDMkdlbTFzSTR0cUVVeXZQY0J3ckZJVkpOOEo1dDB2QmxnX21ZdWl1Qi1lZW9QRzJ0eF95SEJ2cXRGeGR6MFdBSl9kWVRrYkZxZy1MVmNtMUZpNWM?oc=5",
+   "titre": "Manifestations du samedi 24 octobre : 1 314 interpellations et 53 policiers et gendarmes blessés à travers la France",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 7,
+   "nom": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHB1NzdOT0d0Nll5TnpPaG0wUnZjV0s3bGdhUHRnX2lKakxvRldZNFJvazhJX0hQWWoyc3JqRDIzZ3diTE9ENVhLdWEweG1wYXlFYlE1Y044UnFuNzk5RG0zVXFZWDVoZEFSazkzTlEzLTM1Um9fVzllbTBsY00xZ0NPeEtreFl4dmpnYnBUMUJ4ZlB3V3c3XzVNMGNEVXJvLWFmazBaZjhQeEV3N2M4Y3N3Q3pGMUxGNWc?oc=5",
+   "titre": "France manifestations : les « gilets jaunes » disent venir en soutien du mouvement lycéen",
+   "date": "2026-10-18"
+  },
+  {
    "n": 8,
+   "nom": "Boursorama",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQazRkUnA0VXp3YkFnbDRoNFZ0RnZIQUUyOFdjMGpVTWxFWDVCVVV3eU9KdkNIaU15RzFxeVdRMHBqYXJFMC14WHpIaUZoUzRXVV9NXzdKblJhb0pBa0l2RnRTZ1VIczg5UGd0TjZQLTNVS1RQU3pEZ0pNaGRWdDMwS25VaDVkdzB5YUhiaXh4Mk1kQWk3WDVYWjFWNlkwbDFId2FZTk5qSlR1Q2dsNk1mSnFpSmxsS1ZXSFp6dF92T25RcS05NGd3aGp6UFJnakFvNFNuZUpXajl5SVlkaGE3bHR0eHd6eDYyRS1JWGhHU0RTSWs5WnAtb2w1YUrSAYICQVVfeXFMTWNYZjlnSzBiRURLZXFjS3JWR0VITzlZRE0wZ0F6ZTJLdWlmYkdTSHoxZ2FzeERXaFp0dXNCenJMWmhiUm44anJZOTY4Vi1MM3VnNDJDdEtYSnY5X3lBQjloQ3dqeGlncDJlVm9LcjYwTVV2djBSNy1qNjN6NjV4THZkVXNlNk8xbGlMejcteHNrd21VaVM5UGM0aXl6RTZ4el9VemM1enY4MmRLMkluUHNpS3Y4LTU3TElZdnVUSTRWbHdmZTdJZ0JhSWFpNEFmSUJCZ3BVdGRONVZ3Z1F4WHhjSmdKQ0ZDM01FZVdPTVZTckhPOVc0UU96Wk1rTnN2Y3Fn?oc=5",
+   "titre": "Scènes de chaos et pillages à l'issue des manifestations contre la \"vie chère\"",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 9,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNLTB2WGJGVEVWN1F2OHMyVXowSnZ1ZUlZT1lQNUxscl9uUzZ1Ym0wYTIxUjJON000VklpZmFNNnJKOHFBWXFkQ1ZMT0psbmRGUTZDcTlvOWE2NVlVd04xeUUzbm1Xd3NCSjNIbW8yT0ZrdndiaWVEN2lLWjdFOGNJSmJlck4yYWdycHE3T3FOd21CdENCaDNHV295X01nN3lndHhHSlVKbjd6ckNZVWlQTkJaWXVyN0wtSU45VE5jY2ZSQmYtSU1IeXNtN0RTQzJvSXFzbnJMUUVKLXNMNzltOEVJSkp6NF8wVVM1ekZSTGtpeTd2X2xmbUlJRVNKaHAwTHRKemljbjJqTkk1SXh6NWtJaVk4T2VweUcxMEYzbw?oc=5",
+   "titre": "Manifestation du 17 octobre. « On s’inquiète pour nos enfants » : à Saint-Lô, la colère contre la vie chère s’exprime",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 10,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONEtHcHREVmxvT01HcUtEZG1OdFRHWlE3Ry1HazJ6RWpidEJJVWNzcXNSN21iUkEyUGpJYjBSSDlNdDRUNzhwWXNqT1dPeml5a2VHb09SY0Q2UFQtQWRKMi1GWGFCcHNKNEhIc05mZmJCQmladTZDV3dzZDM2dEVFUEItYVBWZ0NJYkFTcF83VmctbkE2eVNpb3pxWTYtdmN1YVN4eHp4Ykg5SnYzaHhxY3Q4VXUwWUJrNVEyOURoMS11NC1FRWlZMEpnSVpETXhDWjh1c01kN1FQanhnZEhwd3V1WVJCNER3YjFobkVTYVNGWEV1dUE?oc=5",
    "titre": "Des tensions et des incidents ont eu lieu à Paris au lendemain de la mobilisation du 17 octobre",
    "date": "2026-10-18"
   },
   {
-   "n": 9,
+   "n": 11,
    "nom": "CNews",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3ROcWRKZ2d5aWw4UlVsLTR5NDJENnJoTFpuTTB4OFhLQVViQlpReHVNY1QzT205MGxYR3BOZE1waXFtelF3bzlzQXd6NE9VdF9NTFllMmJWVE5iVWRISXQ3aG80UkhCeE1SbGNpUm5OYVNLTDhLT2IzcjNSeEtYZnRta3l4NGVmQkJRYWJoakZLRkUtakV2RlBvdEZ5aHlKeW5ncXhQN3pxOGJwd2tKQVFVSE5rVzJsTEE?oc=5",
    "titre": "En direct Mobilisation du 17 octobre : 2.397 personnes ont été interpellées et 997 policiers et gendarmes ont été blessés, dont 7 grièvement",
    "date": "2026-10-18"
   },
   {
-   "n": 10,
-   "nom": "Yahoo Actualités",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMllueEhSREN3aVpiUjRGUDZpdmtWMnJXbFlxbXhlTlJ6QkJyVWt2ekdyR3F2YTZENWMyWm9kUDFoRERRYkYtT0hqRjJQbmFvN1BnNEZwLXhaY3hwLVJwLWdXbFl3WFhRcmFuRXlJQXNBbUNIT2Rnd2VEbXlRTkRRR2JWWlNFelpxdFIyano3cDVwWU9xMWhWdg?oc=5",
-   "titre": "Mobilisation en France, manifestations en Albanie, violences en Cisjordanie : la semaine en images",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 11,
+   "n": 12,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSjhVZzljeFRXWmxpdkd1eFpVSFJWMlMxQ2lURm5CVk1tMVEtdmtZMjFqajQ4M2h5NWg5cUtqb3poc09pcGJBMi1rYXJJVThHRHVPTGdmblFxZ2xFUlhtckpuRENCQUdZWVBTQUROYnFvZGtvWERhdzVhbWlhWlZPTmFTUTRwVER0RDZBTUpvdDFEeC1uVlI0akVIYjVOLTNDTExyX0xlT29RSTQ3NDZxaWxCR3JHTXhHRDZBbHdtQzVuZkdvc1h1akRuWGN4WGFoUkdXR0pIR2ZidDhlRHB2dWV2VWQ3QjdnelFHWXFXRFVEd0ZGa2dnRk15a2VDVmFvXzlXejl4UGh2R2ZzQnR3Z2dn?oc=5",
    "titre": "Manifestation du 17 octobre. Sept policiers légèrement blessés à Angers selon la préfecture de Maine-et-Loire",
    "date": "2026-10-18"
   },
   {
-   "n": 12,
+   "n": 13,
+   "nom": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclpDakt4UkJxT1hoS0NvU1BjTkxUY0F4LXI1a2dXVVdZNW50VDdsYWZkV1I3cE1XS2RRcjJPZlUxV2p0Z0dCbzVmNTdNZG53Qmh2LXRCc1oxOXRYN2ExeEg0VDV0U25vSDZsSlNiUTNQU2ppQVpRNS00SVdTeEFXMlVubGRUMVVHUUdQSnVnX3pxaTNxQ0NJekhiY0tmVmtjbGJhY3ItYTcwMWhPV3FLTzdJV1BaNnNKaEE?oc=5",
+   "titre": "Manifestations contre la vie chère: 50 interpellés à Milan, heurts à Turin et Bologne",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 14,
    "nom": "DW.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVpVcm5GRkZ5QUJ1NnBoUnBBd1pPTlI4bzVLQ3BfZjNaRFlTeVh6dHhmaUUybWxzOFlhQlhoVUVxTzFnNmtWLVp3RmFPV1I2T3pjMVNmR3RLRGpka00zcnZEa3BkcWtuUFdELXRfRUMzbDZ6WGo0MTZXWDlaVkdyaTdFREZtWlBJZlQ1Vk11SzlqLTRWb0syWHNHWElVVU53YW9OclREUGgyVWxuSFNpdlo3SV8zUdIBtgFBVV95cUxNelRfSVVXOTI5R0RRSFFEREtJemhHSGliZzd0UEtyUmljanQ4SVkwZG1YX3UtLVJlY05sS0JLWjJUdlFQY3hZY0hsclVmT1lzbWtvb0VfcjBkUDgtaEtnc28yUVlHR3k2UG5PWWVpUVFJaUdBS2M3QlFwMmV6LUZ3NkliSXBnWFF3eGxMb2h3UE44a1ZWTG5ZdnFDeDB1SFFPbzV0X1NqTWpnbEx6OGNrUVBNUi1rQQ?oc=5",
    "titre": "Manifestations et pillages en France : Emmanuel Macron promet la fermeté de la République",
    "date": "2026-10-18"
   },
   {
-   "n": 13,
+   "n": 15,
    "nom": "L-Post",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1ZjemlTN2FrdERvMGJobm9pWnR2dWJrSkRpMDNVQlRaVXJpNjV0c0ctRnJ1WENFMEQ5SWY2QVFfSF9XcEpfcWl4em1vd19VYXhMZldEMHZidnRIbWpsSnAtaVdmZmg4U3RLdGtmTlBQQ3lxcndWd2pSZmI5elpuRm04Uk9GYUNUaTI2OU91R0kweEZzOWNucUY3b0dSeE3SAaQBQVVfeXFMTW9mSFI1OGE4ajFDRnJ1UU5LT3V4SjhkRFNFUlp5eVNzNWN6V0w4bjYycDJsckVySzVzQmhKYktOMWplcEotTFpJXzRrZkxhZ3BNeE1tY0wwYnVYMmlDMzJqaGpEdWtyTHZGT3RlVnlnRmp3UzliWmhEMlJ4SkpEallIYnpVU0JXaWdKSHM3Z3JsS1dZS01zajdUQndObHZrdEYtdjg?oc=5",
    "titre": "France : journée de violence inédite en marge du rassemblement contre la vie chère",
    "date": "2026-10-18"
   },
   {
-   "n": 14,
+   "n": 16,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZm9XcWtPazZCU3J0a0ZCSkRoMVI1WjZmODRvalVaOEk1bGUtTk9hRlBkMlVWSDZJbXZZLUNFVWU3ZmxTcHlxRlRHZXo3d3p4TDdxUkUwTVVFWml2ZlE5SFRQNDF5TGVDOFdSQy1UU3oxdmQ5bU5ydVVpVlF5UTdvWDUyWVFNOHRlM2VZVVNqUW9WTEhyN0c1NXM3a0hYcm1jT3JMMVlickg?oc=5",
    "titre": "Gilets jaunes : les motards défilent à Vesoul",
    "date": "2026-10-18"
   },
   {
-   "n": 15,
+   "n": 17,
    "nom": "Gnatepe",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDhGaWt0QmxvZ3A2LWo3S1BlRHZDaVp6VGd0djF0dlBfZHV6THJ4bFpyeDZWbUExTWpHYTgwUGFXSFNkU0xfVXFaVURNMGZSaVBTV0R4VTVidXF6NHJBRG9maV8teGdJZ1B5enY4Zy13R3p6TUxsOFdUald3V3gydXRWbkg1SWs5YVFNU24xMmVKM1NpcWhmLVp3TUlSU1VSdzh1QzJrV3Z2NHIwWkdKcA?oc=5",
    "titre": "Dette publique en France : Amélie de Montchalin alerte sur un risque d’« étouffement financier",
    "date": "2026-10-18"
   },
   {
-   "n": 16,
-   "nom": "TRT Afrika",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFhfU04wbTVqREQ1b25BY0RXUVpzSmhjWDREUTRSOTdqZlhsamZCM1VUTG0wcjR1Yk9jSTNWVWNGNG1rOE5idVZtNmRiMV9hb25sUDVmaU1wNncyN0I0V21uV2pYaUE3M2RUTVAtdU5feWgwQlhqU0pmQkQwZW96U0hDTkxIMDBTNTdvd2p6OExERG51TkZLYlBHWDItZ0RGOEF3SHdMbWt0dXRFYnJWOEpmMEdDTWMzcUstTDBUbzFXTE1pTjlTcFIzaEZ0WEdGZ09RMk1wWGsyV00?oc=5",
-   "titre": "La France secouée par de violentes manifestations contre la vie chère",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 17,
+   "n": 18,
    "nom": "ICI-C-NANCY.FR",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYjJRTjh4V2k3aDdjemNKNWlKZVBmV29XdnRSNHBlQmxGOEZSclJoN3Q5Qk5wdWxLWjJkby1pYXZyZzdCQWlabHcyall0QTNFVndaUHEzb1hvTFdicXJqOTg3cXNzek1IbUJzNGNBcGdwS3ZyXzdlYUwySVhzdWprX0xzNFBxWVBtQ2dweUVvZkpDRU96ZDVNX2xTSkZod05VdEg5SG5WcWdYUDlGdDNJbjdkN2ZwRkNlZmhSZFRNMHoxZ0hwSHNpVWNCYjlTa2wyV3dQQ1JVQ3VjOUp6Y2w4OXVzRFRPMzlT?oc=5",
    "titre": "Manifestation du 17 octobre : 24 personnes en garde à vue dans le ressort du tribunal judiciaire de Nancy",
    "date": "2026-10-18"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHo4RF95cHJrQlEwUXpadGl2ZmM2V1lBTWVDcVgwZFdkZzNyWXdWd2UtTkhRR0hmcXpVOEhjVy1Fb0pmeUhzOXNsZUd6WV8wTWRlcXluYkJyby1kZkhncm5TRTZNcXVidFE2b1lLZUhNZGFteW00WDdtWVB2N0psSEIwTUk?oc=5",
    "titre": "Violences du 17 octobre : A Marseille, Laurent Nuñez promet davantage de policiers pour samedi",
    "date": "2026-10-18"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "RTBF",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUV4WFlSY1hwZnIyaXJlckJmZm93OURIMVRNX2lqMWR6ekhHbEFtcmtYdHphNWZVNmo0aHhCd0FWYzVYU1JTdFpZUkdsRjU3VzItQmlVMkNyeUFNOThTRlFTU2twbGt2elRHVEoyVlBHbGQwc0tKQnRsTXI4cVQ2b25hVEMwWVBWTmowb0pjMkhuSjY4aW9hNkdmNVpCTDNEbnpTbzdmcGI0THBjOE9tbWdra2hRbkkt?oc=5",
    "titre": "Vie chère, violences, tensions : Paris au cœur d’un dimanche sous haute surveillance, incidents à Lyon",
    "date": "2026-10-18"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "www.lamarseillaise.fr",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1pIcGdMdFVYU2dDYUVLbnN4OHdEZTN4QlBBUFNFUmlXMlVTTTJCLVRBckh6NnV0RWxqYTc1c3JUQ25Paktnakd5T3pwU09TQ0Z1NzM1YmR0MFNVRkgwbmxpZ3N6Z0l4amFjVTAtMk1kRV8wQlBtX1U3RmxCbUxvVm9NeU5NbUVpaDdlZHdVLW14QlRFT3I1NVpGZHZtdUxSZkJiVlBlQnV0Z2dXQ0Rn?oc=5",
    "titre": "À Aix, une mobilisation sans débordements, menée par la jeunesse",
    "date": "2026-10-18"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "KOHA.net",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2hBdmVWUjFuUW1iV2JTYlN4emRrbUR2T0YwVjNUdGdLb1pEVFdsQnZFTGtwdUtmdDR5RnZnWU1GWGc1TnZucjRNWmJ0LWdWWExVU2NjaENmT2tSMUltemxRQWN3RE1Hem83ZVdDdWM2OVJaQWh3RjMxX09jSndqVFJRc0FORFpSQ3NlMEF2STNDMzZ5RlpERw?oc=5",
    "titre": "Ministère de la Santé : 28 blessés lors de la manifestation de dimanche, dont 19 policiers",
    "date": "2026-10-18"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORWN2YnlKMURrU1BTTFNmMnp0aXd0M3FjOHM0MGZHR3g1a1h3T3Z0WmRSNzAwTTZJallKTE12LWItU2trNUJXY0MwY2dQSDN5UEtTaWw2MWtKR2RzZTY3Qm5iTThGdGFzcjk3b2IyZU43SkxiaDhZdHVCM3BycHIzYUdvc3BRSnJSaGhfMmdGenJUMVNOdExnRVlvcUN4Q2U4Tmg1dC1WdE5IS2ZzWW5RQ2JZYjNzLWVjYjlvYmlxUUVTdFQ3YkVsTXhzYnBwTGptTmdNZ0RBVEM2Y3BDNHkxa21KV0VGay1vNkViZA?oc=5",
    "titre": "\"Deux manifestations en une\" à Lille : comment 2000 casseurs ont éclipsé la mobilisation du 17 octobre",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 23,
-   "nom": "Libération",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFljRURVbWRoNnAzdVEwaW9iOExIajY1OUtQR3h4OER4NmFzSWxIUWpPTjRVeWJWMlZvTERQUGt0Mkh0QWkwX1Fsak9YbGhDR2hOaUtPeFprUDFGU00yMVN6ZWlzQ1ozWFJ0UmpNYzJha2tMWEQxNFRocXFsUVkwSnhWZ0lxTVpZVlU3SWViUFJyclNaczN6QnBSR1BKM3AwRzJjaG9PQXZyMEZxNGd1LXlTMnRWWExvRXBZ?oc=5",
-   "titre": "Manifestations du 17 octobre : anatomie d’un fiasco",
    "date": "2026-10-18"
   },
   {
@@ -256,114 +256,114 @@
   },
   {
    "n": 30,
-   "nom": "L'Alsace",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0thNnFFMXh6RGZhd2ZselJBRlA0Ym55S2NPcHhpUnlRR2ZjRllMNEZYeGhVX3VsVEJtZEZiUi16OE12Ums0a3FQN0k0eTU2QkhMamtDV1l1b3hILTFubENINnVGYVNUeHdnNWNJUnFfSHZmRGs3YzJOeWRqcmZzWkZudXpERHd2Ynk4S0hFWDd0cHNUQVRMQzNSUEZyN21PT3BRUzhMTzNCRVZOenBYVjlIZU5LcTJqQ19feGdBN3JhQQ?oc=5",
-   "titre": "Les manifestants ne veulent pas que les affrontements « effacent » leur mobilisation",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 31,
-   "nom": "Outre-mer La 1ère",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObjh6dWRRZ213UlFpeUFJdXBpam5SeTBZSW1Gc0JlTjMzWFkwZjhvdjFoMXQwa3pUS0QyNXJLVW94alQzNExrYzBDWkJma2JrYllnYWx1VXBDTml2S1I2dmQ5eGJ4VW5hUV9SamsySFZmOGZOdHloMEVlXzBCWEVMbE1Td0lUTmxWMFpRR3BDSU1SLUVTRGRuUkNFU2lTZ1FuNWM5SUhoX1VySnBMU29rcDNuZ0lKMVo1Z1loRGxaQkJpa2h0ekkwM0FUTUtWdjNGZGM5V3hxTk0xd1hINmRWWEhabkpSdG5JRXhZQ0cwSDA5N0JmSkJnVVRRUHdCSjRHdnZreExueW9LSmNJZHpiWEZFVFFPU05rY2V2UEk4eG5nSEtVVkZj?oc=5",
-   "titre": "Reprise de la mobilisation contre vie chère en Martinique : des commerçants redoutent les blocages, des établissements scolaires passent en distanciel",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 32,
-   "nom": "Sud Ouest",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcTcxYktxbmdXQlJIcUtnazRmUDFCUy1XTGh6d3EwZ0VuMlZuazZsbkQ1eXExS29Yb2pFelVMdzV2TnVneDg2WmN4cnpxZWMzT3R6NHM4ZnBUNmlYRlJWOVVKaHlLb1FfdV85SDNRZVI4MHd2djFqREtEcjhDSjhsbHhQeG9ZR0N2VURodFIxTEEyUGw1dkNSVzZLdVhIenJwOEJ4MEJJMWhoT2p1RFJ6RWxXcnY2WXJOTmg0azV4SDJkdTkxaFBIYkJCWUxMV0l6dGR0UEZVc0tMSkxBMzd0MWUxRkVjOG9TNlo0U1dETUxTTi1GdG5mdXJESVQ2cXpRVnc?oc=5",
-   "titre": "Mobilisation du 17 octobre : neuf interpellations et l’une des portes d’entrée de la mairie cassée à Bayonne",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 33,
    "nom": "tv5monde",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNWV0b3ZWc09mZHM0V0sya01mOGNrRWdwVUwwS05fcVdRT2VwU05yWWdxQVd5OVhMeGF3VjNqRTNNR1pnZW9yM3RmNmVLWlJXV1BYYnZHZlQwQkdBVXVFZ2Y2WktTSDU3X2thR2RUdzlpTUNMS0tWMHc3cUpUUVVwZFNxQTZlTF9ydFpIa3JLelp3eV9hZU5NYWdycHYxOXlQbDc5RjhjZmdXQzNxYXBxaUpiUW96Z1V5eU5TY1NBSExJck0tOTZBVUNoUktKYTAzc3d5aGVORndROTF6TGE4SWZpTTc5Rlp1Sk9TVXNqd2ZuZ21XeVhDX1JNVjJCNlFl?oc=5",
    "titre": "'De la honte et de la colère': Macron dénonce les violences sans répondre aux revendications des lycéens et des gilets jaunes",
    "date": "2026-10-18"
   },
   {
-   "n": 34,
+   "n": 31,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDZnVi1McHdJVWtSVjhwbkRHUkZXMGhtd3IxNGF2TERiSGRONl96OHN2MFI3bm1JTWJxMjVVNVhOSHJadXpDZDNPNGVnYjVLNFZ4VXdlVWZoVGpmMmVmcGJvNl9rYVJLbnZwNEFwS2lTZ0hrb3lDUzJrZTU2ZGdxNW52NGxPY2lCQ1d4ZUM4ZU1jdmYteXhUYlMyelJCMmxYWnJsT2pOblpUdGdiUEM4?oc=5",
    "titre": "Les dissensions se multiplient chez les gilets jaunes",
    "date": "2026-10-18"
   },
   {
-   "n": 35,
+   "n": 32,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRDhIeE5qSk45WUdtVWdHU0NCeFNtQVdmV0cyckcxbU5GUFNrNlBydXc1dF9uM1VqMDZ3QkhnT3lkS0ZaMXpQNHVmbTJFM3kzWjlwQXdzTzBhdG5kcWVQd3ZodFdEUjNpY21PNGxYSXVMclV1VDVFR0VCbDdacVZTbDM5Skh0cVVpN3dzU0Y3U1FUZnVTOUdVOG4xd3VhM19WZk5lYVZuTHYtYWlTOGhLX2s1bGxYNzdRZHUxeTFqallXY1JJNlZ1ZjVCUlFLZTZOLXdtY2xRdHd1b0Y0U3VCQnRSSkdud3Z5QkZsWGN4V2V0U3REVU5VZVh1M1hCNlVEU2Q0?oc=5",
    "titre": "Mobilisation du 17 octobre : pris pour cible en marge de la manifestation, les pompiers du Doubs vont porter plainte",
    "date": "2026-10-18"
   },
   {
-   "n": 36,
+   "n": 33,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdW1HZ3hQdkQ0WHRBX3MxQ296UFdNZlFETWRvNjNjR3YtZXozWnI5bXY2d21Rd3VBaGxPb1FtWUQ0dUFlU2RrZ3lPemQzdVJxMVMySFowN1otckMyREcycXM3R1B1OTkzTm1IWGlQWEc3aU92R202cW05N2haeU9TZ05MMDlBVmtQcFViSTNXdW5iYkdVbTNaYXZTU19XYjYzZml0MVJOS0o3ZENlUVNhWElKakN2UVJ2Q18xR19faFhsbmFadGhkXzNzdUNuTWg1b240ODQ4RFJ3UngtWG9vZW5PUm5LV1ViSDMwT1Jn?oc=5",
    "titre": "Franche-Comté Gilets jaunes L'opération escargot s'arrête devant le centre des impôts à Belfort",
    "date": "2026-10-18"
   },
   {
-   "n": 37,
-   "nom": "France TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmxtblcwMTZ6NzFjOWpSQU5IYmM3dkg1UHJ4eDRtTlFIdmFBUzNwT3lQbGRNSW5VV0FoOFZCZFl4dWpiUk1rWHdRVUc0N3BNanh0aVNSU1prVkMyQjRNSnBFbVBMdU40eTlwQWktbnozVEJRb1k5T2NDZEN0aTRxNEVnWE5nVFV0Qmg2SGl3OUVZMzM4aGZLYnpKVzF2ZHk0NXNsWVFYNWhRTnRCaGU5QUNPMDZDYXlx?oc=5",
-   "titre": "Carrièras Occitanas à Montségur (09) et manifestations lycéennes à Toulouse (31)",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 38,
-   "nom": "franceinfo",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZGxKQVRZTHFrUlBvZ0ZlbHVpSWRRc18wUUZ5QzZ0TzV6TTBKQ1k5RlZGa1RrMHJFalFLUWtTTm1oM1pnZGVzTDZ2Y2VCaXh0ZkhpRTdTVHh3SHFYSkRZaGRTRjk5RU1YYlA2QnN6UWFNR1ZiVGZvSHBwdXlGYnd6Ty1vWG5tWDc3Y2p3dGNvMlg0bDJFZlIwOGRTamE4RFA5Mnl4M3V5cF9laXpfVk9ra2h5NWZjZVJxQ0lScWUtOUl6bzdpa0J1Q0Z2LUR0RU05dTlRX3pTaTZPNWtEX3hCTEpSTjZTRUpQc2FHc2hha0FBY0U5TXJIVS1nWThXbmlsUnBXMlR2Qm4tdWF4TnY3WDZYOVYxZzY3aGU0alVwNWJXRzI0Zm9UaU50MEpFTHdBQlBNR2VhSUJsaVNOR1p3ZA?oc=5",
-   "titre": "A Limoges, 7 000 personnes rassemblées pour une marche après l'incendie de l'hôtel de ville en marge de la mobilisation du 17 octobre",
-   "date": "2026-10-18"
-  },
-  {
-   "n": 39,
+   "n": 34,
    "nom": "Le Journal du Centre",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaEl0MDlRODZfYWpzTFNTZm1zTHFQNFljOFBneUtWNVhvdjZvN2hkWmk0TmlNRFA3RmtMVHVWNXBldjlvUk1kdlRTTGxzbkg5blBhcHpmWGJpbmZlZGxPSm95UUFESGJhSExSTHEySjZRazQtQWpxYno5Y0JWTjZFNjBGZkxaWTlJeGdDRi12VmpKZUpMbE1HQTUybHUwc28zMGVWY2ZocXpMZVc0Sm0wbEtSVmgtanR3RU9nTVRUUTdZVGY0N3lYVjBocmxEclcyWVZBVkYxWnFKd0dHVXR1NXM5V21SbE9kSG12VHIzTGp0amIzZG5hVGZIOE9hR3VV?oc=5",
    "titre": "Les Gilets jaunes, les bénévoles nivernais, des serpents chez les pompiers... L’actu de la semaine dans la Nièvre en 11 images",
    "date": "2026-10-18"
   },
   {
-   "n": 40,
+   "n": 35,
    "nom": "France 3 Régions",
    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPMWlWcHJMeVhxazh5MVY0WHJtSVdOdWlneFFjYkprdmNaZUdMQnNXYVlhX3JYZGhKNUpPZEJLaUN1dUlRWV9ycUFjOTFiaFNYVDBrSTF1OTQybHJ6WF9XcmotQUNZSnlqOENvZ2NObDV3akJYWTJ3VHJYYVE5OHF4SDRNOWlxLWJmWWN6QnEzWTV5dmFsN3NUanJxekhDUjNqcUZMM0NuTjYyRU1XYVNVRXpxRlF5V3VybTc3UDBCVkRqLVhjdkVybzFYY3lCcGo3Vk5RS1BoM1ZkWTduOUxBQTVxdWxfOEhSNjdRc0IyNGJFWUdDNlJkNWwwM3VaNS1DbW9wU1B5dFR5TF9DMmZKeDRpRzRiYjFpRU10LWlwNHhJT25oeWxtNkxmWU51VFJkWGV2UUc4OHNDZlA0VVlwb21KR3J2a3R5UmxuSHNn?oc=5",
    "titre": "Manifestation du 17 Octobre : Nouveaux affrontements entre manifestants et forces de l'ordre à Toulouse, la situation est cependant jugée \"plus calme\"",
    "date": "2026-10-18"
   },
   {
-   "n": 41,
+   "n": 36,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1JkTkdTNmd2QXRIMDI1bWtJMVdJTElCWVpkcl9wSTFIR0JVb1d0MjZfYUVRZW9VUlZNaWpROHN5RWdMTU1iSGFmUi1ycEdNaHlFSktEbW5Sd21kWGdfSWZZa25oelZzdDBuUktQdUM3RE9zeW1yTHllc3E2MzhJenFLd3doNTZvSVkyYlZwQVRhZloydlFmWDNRTTJjczYzS3pHSS1OeG01UkVFR2RQTTZjRGp4ZUUzNE9xblFNYjVsOWJLNW1ndF9iZGU2bWZCT25MZUI2VV8zMjBoc3FON0Q0OFRidw?oc=5",
    "titre": "Montpellier : un homme de 21 ans grièvement blessé par un tir de mortier avant la manifestation",
    "date": "2026-10-18"
   },
   {
-   "n": 42,
+   "n": 37,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPa3psZmRBNXBmdXlWOGpvM0p3aXZ2TVBHU0NXVnQzOUlhYUN3RzJmV1AyaG5JbnNoNV9KYUttYUpiZW1jdzdyZ3NmdHRMZU9xZTE2LVFPU1paaVJhbzRwWFlnbjVXblhFOTcybEJjVm9OMm9YVkZEeDZFYVMyd2xYSHY4RnJqM05EZHlLVHY1b0VnOThBTU1rXzFwU0E2LXBxdmtyM25rbXJKOTJhbmVQc0tfMDZKM0R0Q3RXVUV5T0U1ZDd4Y0tVR1B6Ym9QblByTThrX2RETTVWUjNEYkpWcFhqUE93VndmNkJYYmlORTJ0ekREYlpBMTNhU25kNDhmbVc1aUJMSmh5bklybTlNakVR?oc=5",
    "titre": "Mobilisation lycéenne : Solidaires et la Ligue des droits de l’Homme évoquent des « pressions exercées » à Quimperlé",
    "date": "2026-10-18"
   },
   {
-   "n": 43,
+   "n": 38,
    "nom": "Mondafrique",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnJ2aUtkTlFBUUpIa1RELV8tSld2RnFob1V4YVd2b242dDZ2QmxfZmJMclkxYVg3ak5GY1NYTEhrVjBkUXFKTXhuV2Q3d1R3YVRtYW1PQU5xcjcxOURNZ0xzVDE0dEZPVXhlZlNheVpNcnRocUpnaFFsNmp6blVCRXNZVGxUSk05aHRJM1otNHpxdkNkT0pHRzRHTWNERW9sbTJieUlyTQ?oc=5",
    "titre": "Le pouvoir français désemparé face à la mobilisation du 17 octobre",
    "date": "2026-10-18"
   },
   {
-   "n": 44,
+   "n": 39,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVDR4SWhobWNDVUhxWS0tMnVlbTF1c25uSmNzeFpLYTduZE9IV1JDdWl0R0FzT0lUSi1kcEc5SDNabHVTRjQxSWlkNldVdWtoMTZ4dTNaaVBILWwxaDBidmRwM2Fqa2Q2WjFhaTlBdHJRNjlsVXluTlNFYWIycDBCYXctQlhYZHN5TjViNHJPTVROenJfeDF3TlVJM2tidWNOS3IzQzVmTGpCZHFjTVA3SzhpeE8xdi1lcnBFOUNIRnFCcllmZUxDVGJKS3lWZVFqdXZDMVJlWENRYVBEZ1F1bG1iSFRBNm5U?oc=5",
    "titre": "Valence. Violences urbaines en marge de la manifestation du 17 octobre : prolongation des 20 gardes à vue",
    "date": "2026-10-18"
   },
   {
-   "n": 45,
+   "n": 40,
    "nom": "Le Monde.fr",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaEl2a0NpMGxHREE2U3BRUHdaOVRUNmk3aHFrOERYeS1haXB1Z0hYaWdzeGhJWTJFYVo4eTF2MlJoc0Z3MHR5bUFxbkZwLTVzYWNNOVItS2ZlSDF1QUNSX0JOQmhxWmNRMVg4aG1fbEhDWFBwTXlJUlM5Z1RIbUxNMUhSdlR1dGE3d1JwZmo2YmtwMXJuS1BMQzZ0RHNGWVd4ZkFoYWpaN1hYVzF0aF9fc05ZT2hxYUc2ZWJrWE1zVWktWHN3bkVPRDRGQ2lEbGJKa1MyNml3bUthRnp2c2RDQjZnYnlzb3l0QjZCY3pR?oc=5",
    "titre": "Manifestations du 17 octobre : retour en images sur l’incendie de l’hôtel de ville de Limoges",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 41,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUzVIWGNtZFFELVl2ZFMyaEpBc0U5ZGVrc2I3V3RDajlrcUI3dWZUQkE1M2xBMi1yYUZzRDhCVWptaC1sN3drUFZFNGo5YXNId0dPV2RBdlZwcTZCZG1DQS1nTXZkeGtlUjNLbGtuc1lHRmtNcURrN1o3MEVaZ3N6NmVxQnYtbjNNRmljV0FIOHlwZkc4S2hjX2swTjJwaWhZaC1Bd3FpUGJpTmc4RVJGdmZMVGdma0I5QXFBS2JHb1R2MGR6Z0NDSHhDVFByYl8yX2xwT0FVZ0tZQ2hNUURBY2RXa09tb19QRWwzM2RTeU1QejVhZGJnd3JwWkJ2VHpa?oc=5",
+   "titre": "Manifestations du 17 octobre : faiblesse du gouvernement français, focus sur les Gilets jaunes... qu'en pense la presse étrangère",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 42,
+   "nom": "Infos Dijon",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQ09OY3RyYndLZXJpaURiVkxZVnZ2Umx5aGF1RVBlYVVReTgwN2tDMTlEb21Mdm5ISEgxTkptR3c4dnVVQnZaem53UHpoTmtDQTFqeXlBb2NoRDZVRjA3VEhtRHNMQXUwWE9nZzRRWFpPSzVuYjZCUEtNenFLbEE0QUpObjJzNWxUWTFVeVZFa1pTUGVWWlpwaUZCeTFiU3I4YUNLbEx5QWdkT29sa005bW9XbkZuLUFxUVg5Sm5Hc0NkaFNXZENhRDFTZGdreVhaMU9UY25GMHQtcFJZV1hxQ1pRc2pEU2phMkg5bV90UG1rNXRLcThGZkNkSUtuZEhLTG5SeA?oc=5",
+   "titre": "«Des expressions pacifiques et des violences urbaines», lors de la manifestation «contre la vie chère»",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 43,
+   "nom": "Citoyens.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXVTOUptX25mY3ZySEVpakhoRWVqbnJrVm1QQV9iN3ZIWHRBbmZpdlE3a1BBMUNhdWxRWlBsanAtMTZrcnJESVctMTRzQ3NMSjk2UDFXbVYyWk96MEZCeXpnTVZIQm8xRjZaSFhZTGF6cTdtUUxrVE9tMS1PX0RWdmlaTnZlbmVUSXpEVHc4dXBReG1RaHJJNnFReHVFYWk4OVR5V3ZLeUs5SGpscldpc3dOeXlGWlNMVHd6SjA4MkdMTTg?oc=5",
+   "titre": "557 gardes à vue en cours au lendemain de la manifestation et des violences à Paris",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 44,
+   "nom": "La République du Centre",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQT1BzSk9XTnowTkctU2lwM1lyQ053c1NTNktsdEVyU0VUZmtxM3Jpd0NrV3Z5ZFlrcUhIZk1acFUwUGRRcnpYdlBVSVJ5aUJIck1ka1IzMm15ZG1TRTBreV9EZXFOZDlCeW9nUDZ6TDFmNXJmamRuZmJ6azFDazBuSW5VeHJ1ZFZTYjdSaDBSRGlQajJBYUVHQTc5OFdYcnhlcjhEN2t6UEN5dTVJWXZNaTg3cDItTlVfb0g2LXdlNkhrUnI2Zlp5eTdlOEd4MF9wWGc4TWV6cm9INGx3cU4wdWNrZzBzUTdUREVyU0w1Z1cxNFNKUmlZNWlHN1U1TDNqTEx1c2ZDSUV5UQ?oc=5",
+   "titre": "“Ça va vraiment être quelque chose d’énorme” : dans les coulisses de la mobilisation contre le Rassemblement national à Orléans",
+   "date": "2026-10-18"
+  },
+  {
+   "n": 45,
+   "nom": "Libération",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQTZRbElOXzZHT213UnlQTlR6a0hmOGJsMUZCOTBIcUtqWkJiNkxubU5PSjVVSkhKQTRDMk9iVENka1Bndi11b2FYVTExVTd5RGluV19EYzg0YUdqaEtxdzJsTHhsZmRfVzl1Qi1kbGlEYlA2ZEdiVWhXOUEydGFlUU9iN0M5TjJZSWRWdVVNbl9EYlJWWm0zZWNpcWZsbmZ5MmdIQTVSbi1IbFVyNU5ZZVM5ZjFBQ09XM1phZmlnZmlhUXltd252TzZfQkw1anhzWnFmUUdSNUIxRTJFdzczd0VFdy04bE1Ua05jN3FiWkx0MU1JVEZEaENhOA?oc=5",
+   "titre": "Paroles de lycéens : «Mon établissement, c’est une passoire thermique : un four l’été et un frigo l’hiver",
    "date": "2026-10-18"
   },
   {
@@ -389,16 +389,16 @@
   },
   {
    "n": 49,
-   "nom": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclpDakt4UkJxT1hoS0NvU1BjTkxUY0F4LXI1a2dXVVdZNW50VDdsYWZkV1I3cE1XS2RRcjJPZlUxV2p0Z0dCbzVmNTdNZG53Qmh2LXRCc1oxOXRYN2ExeEg0VDV0U25vSDZsSlNiUTNQU2ppQVpRNS00SVdTeEFXMlVubGRUMVVHUUdQSnVnX3pxaTNxQ0NJekhiY0tmVmtjbGJhY3ItYTcwMWhPV3FLTzdJV1BaNnNKaEE?oc=5",
-   "titre": "Manifestations contre la vie chère: 50 interpellés à Milan, heurts à Turin et Bologne",
+   "nom": "Le Soir",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXBDLVJVeHVpdkVaVVFPVjZnS29yVkxxVG5Pc0hiZmZwZTJwNGh5Q2Q3azBqOTRjVG1vcklhazczNkI5U3NDTHRvcHprSDlhNnQ0VElpZ1lHUTZ6SDR0WWRSVTViRmhTbHJxODBqQUExZW1JNWdtYjdlWm1FeW1TRnkwQUNPa3FaLUcwZWQ3TS1VTGZLMExUc2F2aTFieFd6bWwyU2d5eXd0eE9sM2dGRk04ekdzekljSHhYQnFtUDd6Q3Zv?oc=5",
+   "titre": "Près de 1.200 interpellations, 150 policiers blessés : le bilan de la mobilisation partout en France",
    "date": "2026-10-18"
   },
   {
    "n": 50,
-   "nom": "Citoyens.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXVTOUptX25mY3ZySEVpakhoRWVqbnJrVm1QQV9iN3ZIWHRBbmZpdlE3a1BBMUNhdWxRWlBsanAtMTZrcnJESVctMTRzQ3NMSjk2UDFXbVYyWk96MEZCeXpnTVZIQm8xRjZaSFhZTGF6cTdtUUxrVE9tMS1PX0RWdmlaTnZlbmVUSXpEVHc4dXBReG1RaHJJNnFReHVFYWk4OVR5V3ZLeUs5SGpscldpc3dOeXlGWlNMVHd6SjA4MkdMTTg?oc=5",
-   "titre": "557 gardes à vue en cours au lendemain de la manifestation et des violences à Paris",
+   "nom": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHFEdWN1S0VIWDI0aVdWOWx4cFptT0dQbEx3SFZtOFVFeTktQjJXam5sai1ZRjVncW0yNTRuZGVEem1TZTRvZVM1b0l1MlhPV1NuR2xCaHNsRVJOYjB3N2x5Y3NBLVdQeU9FMHpVVUFIMUhBMmNVWUp5a0lzRXBtbDZrMkctaWhUbFVn?oc=5",
+   "titre": "Manifestations contre la vie chère: 50 interpellés à Milan, heurts à Turin et Bologne",
    "date": "2026-10-18"
   },
   {
@@ -409,5 +409,5 @@
    "date": "2026-10-18"
   }
  ],
- "genere": "2026-10-26T14:45:29.091217+00:00"
+ "genere": "2026-10-26T18:10:24.835492+00:00"
 }
