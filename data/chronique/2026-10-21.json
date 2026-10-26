@@ -7,42 +7,42 @@
   {
    "texte": "Selon Libération, «On est en train de traumatiser des gamins» : à Bobigny, des lycéens interpellés après le 17 octobre détenus dans des conditions «abominables». Selon Bondy Blog, À Bobigny, la solidarité s’organise face à la répression des lycéens.",
    "sources": [
-    20,
-    34
+    18,
+    32
    ],
    "theme": "Répression"
   },
   {
    "texte": "Selon Actu.fr, Mobilisation lycéenne et étudiante : le préfet interdit la manifestation prévue jeudi à Lyon (repris par 3 médias). Selon LeSiteinfo.com, Paris, Lyon, Rouen… Les manifestations interdites dans plusieurs villes de France. Selon ici.fr, Mobilisation du samedi 24 octobre : les manifestations interdites dans les secteurs commerciaux du Havre et de Rouen. Selon maville.com, On ne parle que des violences, nos revendications sont passées à la trappe » : à Angers, des gilets jaunes déterminés.",
    "sources": [
-    2,
+    1,
+    3,
     4,
-    5,
-    6
+    5
    ],
    "theme": "Le mouvement"
   },
   {
    "texte": "Selon Les Echos, Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028.",
    "sources": [
-    36
+    34
    ],
    "theme": "Argent et crise"
   },
   {
    "texte": "Selon Le Figaro, 17 octobre : épargné par Macron après les émeutes, Nuñez attendu au tournant le week-end prochain.",
    "sources": [
-    39
+    37
    ],
    "theme": "Politique"
   },
   {
-   "texte": "Selon France TV, Dette française, le taux d'emprunt au plus haut (repris par 4 médias). Selon Valeurs actuelles, Dette française : le taux d’emprunt de la France à dix ans dépasse les 5 %, un niveau inédit depuis 2002. Selon franceinfo, Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français. Selon Le Dauphiné Libéré, Économie. Le taux d'emprunt de la France dépasse les 5%, du jamais vu depuis 2002.",
+   "texte": "Selon Valeurs actuelles, Dette française : le taux d’emprunt de la France à dix ans dépasse les 5 %, un niveau inédit depuis 2002. Selon franceinfo, Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français. Selon Le Dauphiné Libéré, Économie. Le taux d'emprunt de la France dépasse les 5%, du jamais vu depuis 2002. Selon 20 Minutes, Le taux d’emprunt de la France atteint un record depuis plus de vingt ans.",
    "sources": [
-    1,
-    3,
-    16,
-    42
+    2,
+    14,
+    40,
+    43
    ],
    "theme": "Marchés"
   }
@@ -56,323 +56,323 @@
  "jour_long": "mercredi 21 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
-   "nom": "France TV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlpIa1lnYWhVTnBpY2tsY0REU1ZLc0s1SHZkMHFIeUhyN25sZ0VadXNCU0lZRmcwX0QyNDRDMVE4RjBPejFDaXJzVDhkZVQ4ak9VMFA4MlZPTEpSUVFwZWpxZFFnUGEzZkwtdV9xWDBIZVNzRjFEbkQzTUU0NGkzb2lzREcydEh5RnhRYTdWVzhkbl9kSjVuaFExT25ncXV2bzZqSnhHZw?oc=5",
-   "titre": "Dette française, le taux d'emprunt au plus haut",
-   "date": "2026-10-21"
-  },
-  {
-   "n": 2,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQzloWVhaRDhYTlJBc1RvVEJSWGhRWDFMUnpXYVBNU0VhVmFWWHlZYnpoRm5rUkV0OEROQ0FPSVRfTjZKVHlfMm9rUHAxc2lvYi1hQ3M3S0RlQk44aW5QLTBCQWRqM0cwMWVqd09NQnBNMUVhYkp4dF92NVZoOWF6VzNDX3VXQVZZWDZydHk0RkZ1bEc1NlRtc0ttdHBqT000YU8xdTg1Q1J1OGpBYWRuYVpOd3NuX1FJblRQMUxBWmlsRVVnd1Fja2tTOEpCR2NYRm9WUlpGV0x3RFp0cTYxQ1FJSGVwU0k?oc=5",
    "titre": "Mobilisation lycéenne et étudiante : le préfet interdit la manifestation prévue jeudi à Lyon",
    "date": "2026-10-21"
   },
   {
-   "n": 3,
+   "n": 2,
    "nom": "Valeurs actuelles",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3RCZmVreC1YcG5XT1hVM3M4V0g1THg4Tnl4aHVSRzF0alJsN2lPTGdVWHB2UzRqVlpoV1Q1bl81OXJiclBISUhfb1hjb08zd2ppaVExUllNZHhfNzI0Zko4MUF2eW04RzdQU3NISFZTVWhLcjNKQzl4OS1nLU0zZFByV2dFWUZjV0pUTmhmS0llZkZEZ2FjUVlHbW1YZVRoQVRzd3NHS0dHcjF1bmtQX01JUkFaSERSRGZyY0I2ZzBGVXNvQy0tdDRqSXA1UFJXUFZHNWNhSQ?oc=5",
    "titre": "Dette française : le taux d’emprunt de la France à dix ans dépasse les 5 %, un niveau inédit depuis 2002",
    "date": "2026-10-21"
   },
   {
-   "n": 4,
+   "n": 3,
    "nom": "LeSiteinfo.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHFTUlhJUzAyRUYwZ01GbEtBaFhQRVdycUMwaXRVVG9HZ0REaTJ4U2JNeXRTQWRYQUZaYUtpZ3VoVzFoaDcySnZ5ZHBsMzhVRVN6UkdvM2RROEhBbEJUZ0p6N3ZpUmZhNDJHeGxDRE9EZnRMTmZQOWpXQ0I3enQ4dzk3aFpKOGxBeDVWX2xLaUFETlVaS2NSQWU5cFlmLWpzUHV4Z2tHRE9pMThMb0F2aE5wbnZTQUZZVzF1OEQyX1bSAcYBQVVfeXFMUDN3VlBWN0VJTzJjdWlYM0drSllYdWtjYTlYVXBXVzQ5bnNleVlwSEVXdS04Y3M1R0trZG1wdUdQWFNrak1OcDJpZ2djZUdpd09xRHEzY3JBNlNUREt1Y1JYamp6NnRDUXRXM1VqVUJUN2txU0NtYnc1eWx0QkxUQ1ZoWl9TSFpVUFIzNkgyamI0NmU1X0NkUGxzbTNsSlYtTmJCSGRFZmYtNzVWMkpteTEwVG5PV0txWTRMemhnXzNZTkhKTWtn?oc=5",
    "titre": "Paris, Lyon, Rouen… Les manifestations interdites dans plusieurs villes de France",
    "date": "2026-10-21"
   },
   {
-   "n": 5,
+   "n": 4,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRWhVdkJ1VXhsaUJuTGlNS0huUEdBZ2NUV256NEJPdGpaY1k1Y1NNcXZVMGJORkRWbGtlZU4tSkJKM1FGNFpzc2Z2OVRWYUtqNTNVVzhDclJqQUQwQ1VlYWh5TVdvV1diSTN5V0EtempJS1B0NngySU1ORzhjdDh3c2ZHeVlVMlgtSzcyUGFnNWhHekFXS0hvTk5VR3NMWmg0WFlndlNNTmM1WjJtNkZtSHVWLWxrUGlyeDlOT05BNHZqVnNqa0RfanByYXZxcTJPeWY2TXJ3RGVwRE5BTmFtbnZ3TEY0YXA0QUxQUkRJMEh4bFRpbnpZbXdaTzN6VkVvdHdzNVNzUzBPdw?oc=5",
    "titre": "Mobilisation du samedi 24 octobre : les manifestations interdites dans les secteurs commerciaux du Havre et de Rouen",
    "date": "2026-10-21"
   },
   {
-   "n": 6,
+   "n": 5,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdzhTQU54dURKUmRNZDNha0RKNDNXMkFWZ1lObjNESUVHeTB2WkRRRkVrcEdSd05vWDEtNUdNMTQ3U1libWR2MkxqLWExai0zMWhWdWswZ1k4bVVyclR4WEZLaW1VUGVPZTc3UHBEZ0JvYXI3bHRSZGxyelo1NVY1b2ZPSmVsVDMzNmh5bjFjTjdrZnA2dDBDWVZtZTNFczg4YktuTW1GYXgxZ3JxbmNqUEZXeWZUSFgzWEZJRTJ0eHJRck1DQzRPYUdoWU0tdVlaaTRwcmhtTlE3T1QycE9qY3ZXQ1BYbEZEU1B1NEM5OU9wcHUzc0FLTVR5cGUwcmRISlhV?oc=5",
    "titre": "On ne parle que des violences, nos revendications sont passées à la trappe » : à Angers, des gilets jaunes déterminés",
    "date": "2026-10-21"
   },
   {
-   "n": 7,
+   "n": 6,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPenUtamNVZDkxRTAtS2xuSjRBVXRERGFIdnVxdXNKR1B3anNMZC1UTGVvZnJKR3BQeWZmLVBPT0I0Y0RGbUNjNnpkUU9keXN2MHlfLTVvNkU1YUxUcHJ6MGdieGdaekVRRmM2blFsOG9mS0M2X3VTbUlhOEhGNndwa2RsY01GWkdmRFRZYk85ZXhNc2VqcFg3eXR0Z1NWQ2J0SXNYcnRNQVZEd2gyVEFYbDVfUm5ZSlRLdmtZakpmc2ZpeUtQalBhb2JSTGR1SVlzbnNRVmtIMEE1WGFkcVUxbg?oc=5",
    "titre": "Manifestation : une nouvelle mobilisation étudiante annoncée jeudi 22 octobre à Nantes",
    "date": "2026-10-21"
   },
   {
-   "n": 8,
+   "n": 7,
    "nom": "InfOccitanie",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnN1MU1JLWlZRlJ6MXltaGJIcE9zYWhjYnFkbnY2YVhrZEF4cDJ3X1BzRnBOR05CSVdKTURjLW51R21xTFJiV3ltMU5FLTZWLWczaTJkRHNvaXdaakRwWXJXcW83d1luVUJiU0NPemphTkJMRzJTY0pkWVBmUlEyVHd3NzgwX0RvU2hadGw3STVZWW4tMGdRR2JlaXNmd1JYM1VWU2pR?oc=5",
    "titre": "Mobilisation du 24 octobre : où sont prévus les rassemblements près de chez vous ?",
    "date": "2026-10-21"
   },
   {
-   "n": 9,
-   "nom": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzk5QW1rcmdxbld0d0dyQm03cjFZZ2hJZFVfVEgtZld1NGIzdjgyaVZlS0FjQzk0MHI3U3FsY3hyaWdoRmxLcVpXeEtxT1FJcGhMSEhjQnhRZ0xUWWZnN0E2MGxFcWdwRDVfcnFsQlllLXNQRnB4RnBEQklCcURBT2FxLUJSWkhJWVVkNnBvaUhULUk2aERRcjhWd3lPb0ZodWgtOVpvVzhGeXRHMlpTbmlvM1VSMDF3UjVhUjRfNEl1Y28?oc=5",
-   "titre": "Violences en marge des manifestations en Italie : Meloni présente un nouveau dispositif de sécurité",
-   "date": "2026-10-21"
-  },
-  {
-   "n": 10,
+   "n": 8,
    "nom": "France TV",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHlQU2tZYV8weTlMRi1ZY28xelluVzU5OVNjLTJja3lxVGZOVGl6N2RKdTJXRThaWmx6cVg1RzVVVU1kRTB0UDBaRjBLTjBKbl9NSE9pYXVzNDUxTFNiVDFQajFHMGozRjZITWxRUlQ1Q1kxalNRd2VrVnB0RE13Y1dFcjZ6N2RWYm45TDJoZFBwOVhmTmRCZXNoa0FRbDY0VUdoVEk3SklNQnFXbjUyc1B1LVZ5NTZ3?oc=5",
    "titre": "17-Octobre : la mobilisation lycéenne éclipsée ? en replay - C ce soir",
    "date": "2026-10-21"
   },
   {
-   "n": 11,
+   "n": 9,
    "nom": "La République du Centre",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTkJpYUZ2VlZXbExFeTNwQ2ZyRFlYZmNURS1yWXlodmdLdGlqZ2tUOVhHMUhOdEpwWDcyWE8wN2lON05OQnV1NWxoZ3VGcGZoZDVBSnJTaDEzeldoU2VGcjJ6RU9yemJkN09BdlN1V0haYl9sSVAyeUZlNGhBYVBZdlBPbERCalUxcTdrcDU5XzAyOEMzMG9pTHVvXzJZNHhQSWQxM3FxM0VveFBMLTdFOEM4T0dlMWNjdTRGaHNhZmhmX28xNDFwVmNHd29RRmVVNnhxSk9ELXpTdUxyaVJ2R1NLNVFuYmV4TEdfcGp6djlUb3gyMGdtcWNEOEJ0QQ?oc=5",
    "titre": "Un “paumé” ayant agi “par mimétisme” : un homme qui a “dérapé” lors de la manifestation du 17 octobre, à Orléans, condamné",
    "date": "2026-10-21"
   },
   {
-   "n": 12,
+   "n": 10,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQamZ4dWpRWG9ySmdPWHhhZ011T0FRNFI2RDY5cDE2alBoX1R3UmlMeW1iNDcyX3J1YmpLaDVkTnBPVndpY0pOelBqOE9aQU9sOEhBbGRhTzEwa3k4aEppWmhPd2hoQWM3M05pYmxoTnpMT2FXWmpHSWZCRTNMeW83MGs2N1ZaeDRtX2w3ekNBckl2RWtJ?oc=5",
    "titre": "Manifestation du 24 octobre : Des couvre-feux jusqu'à lundi à Paris, Macron va recevoir les représentants lycéens",
    "date": "2026-10-21"
   },
   {
-   "n": 13,
+   "n": 11,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZDA2cFR2cDJjZlBjNVdoM3RKbE5xMzNwd2Z0QXk0eEFCOWpzSDhEdFM0VWhKMTZPcHZuSWQxZHN3VDhIelNLYlhiZ0t3Ql9mTGh4dFIzTE1MRTE0WDlSdk5xMzJYX3hmS2xOT2wxQzRkZFU3b250OElaTWt3c1FlSWs4bDU2RWE1SloyUmNMSzMydTdha1Q0R3ZSOWVNejN3V0pUSjRWZkhVTUpaWUpkaVB0a2xCZFdLUmRCY29tM0FxLVRQWWRCTWZaZndlRm1JTW1EOXFwaEUtbDZaX2xsb2lEWVNfbGo5SFlETWllcXgzdzhlRUNLemxCQk0zNnJvcGJoUlpR?oc=5",
    "titre": "Orléans : ce que l'on sait des mobilisations prévues contre le congrès du Rassemblement national",
    "date": "2026-10-21"
   },
   {
-   "n": 14,
+   "n": 12,
    "nom": "BFM",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0JGR1JkVDdOeGhPMGowRkN4Y3k0SXp6OGZybTZMa0hSWEpTWndiUHNBRC1jUEwwS1RObEczeXdZYVVkUThCY1RHX250Y3VIYU12WGZPUE5YeEJHY0tKZHVsdzQyYUNrb1Y2STRBcEM0Tk90aWg0Vk9nMWNTN2NQWmtkeTlLSUh4TG1HbTBGcVEwcE1YdmZrSTU5VGVOU3l5WjdIcTgwMDA1OU9FNDRERkNDN0doWjBqOWVjc1VLOXNCZEEyT1VoRDJyS1lSc1lqdmFySFRJLXQxYlpHNWVmZFpuZUZIMlM4MzFJcWNEUG1YaEI1azktRlk1ei1UeDZodWVXTVR1WXdWdUE?oc=5",
    "titre": "Mobilisation lycéenne: Marius Mesnil, cosecrétaire de l'Union syndicale des Lycéens, demande une \"réponse politique, maintenant\"",
    "date": "2026-10-21"
   },
   {
-   "n": 15,
+   "n": 13,
    "nom": "mesinfos",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjJBRTVXX3UyMmQ5ZDRIZTBtMVJ5M3M1WWtYdnl6M25fdVRwdlJmRGVOSXM4UGk1Y0JzQW5PT3REdEJPcEFYeU5RaFktZFVoYTB0VW5VbjIwRlVNLUxremZNMUlUZVVlS0l6ejVzS3E0eXlGNHFTU3REbWZtSm5DM0hLN3pDY00wNERvUndOd3pnUm5LZTFWcjdSWEZCUjhmeHQxWnFDX1BxRk9GYmJ1VlhTZFppNTA?oc=5",
    "titre": "Quatre manifestations annoncées dans les prochains jours sur Grenoble",
    "date": "2026-10-21"
   },
   {
-   "n": 16,
+   "n": 14,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmJHa2E0Wk1jOHJVTklMU185UUl3cnZ1SVBTY2xxWlE4TzliQ0FJRlVGVVdhM1ltQy1mYVpDdDc2Q3R1LVB0QURJZEhPMnUzMUNFRV9KM3gyZDdWaHdrWE1xSjhxZlRic3hCUThoLUZqOGxtamdwZXE3cXF6QnFGTGtkcGhtYnh4MjB3MzlSMml6bGg1aFkxdHNxa1B4UHI0eHBWanN4VW02R19fOHl5M2lLTXZ0QlQ3V2QyWUwyVG5uM2xSOU9hYXdKdmc0aUtuMTRacVBuLUdkN1RkanpZVXhmUWJWMks4RFVqNVRzRzhsc3BIRFM3eVQ1YkRvZkdqYkRHM2d3?oc=5",
    "titre": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français",
    "date": "2026-10-21"
   },
   {
-   "n": 17,
+   "n": 15,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOaGdkZzlBNmNyR19QNnV4djlmWGFpWjdza200TGJ1enBvSWVmQi0wRGQtOWxOQmVvZlZxbUh4NlhuMTZOZTZRUWkwbnJHOElnR3BrZjNBeUphTDFtSnVETzgzUUxFNV9vbURkOHlwdW1NenNYM0JQdUN6bkl2NnByMldzWUdQbDBrRkc2SEtwTDVHdDM2cjI5N1NUUzAySkpZYzJxb2NCVTNMVkNZRUgtSXJwTE1GTXVyZmlmWHNXV0Y0MW43M1J5Tm8ydWdEc3FXcTZPMWNSNkNkSW15dThHdGZWbXRZTTFzRkRSbWFkYkNVd3R6UE5ONnlhLVMzOENQRGxJUGRfaXhKN2dFS3l5UGM0LV9Qc2dLaGFOSTE1T3oxZnFfd25rUHM2UnJYUUxKdURoRHpPZzVUNlBLYndVckFqeElrQQ?oc=5",
    "titre": "Les rassemblements et les manifestations interdits dans plusieurs secteurs de Paris, jeudi entre 8 heures et 20 heures, annonce la préfecture de police",
    "date": "2026-10-21"
   },
   {
-   "n": 18,
+   "n": 16,
    "nom": "Sud Ouest",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRV9mRHMxLXB4SXFHZk4xNTBrM2hOXzlvajJPNGZFT2pnUGhZTWZMc2lTWXNEa1dQNkppcE53YWRJYzQtMTRXbDkxbUJoU1J6NWU3eHlNNEcxR3ZNVnBKZEh0cVZwRWVBTkxmaGhwa3NFSUNqQ3NBMHUybWswNlRMUlRUeF95UzdqVnhaSkRfdHlzUm9uX0VJN1ZtUlFEZ1RZUS00MzJBZ1JtY0hjdi1FN2pTTDlJSGpwQXhTVVB1dXRqMXcyLVNPTk1sSldrRFpMOVEwU1FXR204M1YzRVczbHdQZmpGS0ltMUhB?oc=5",
    "titre": "Mobilisation sociale : comment la contestation s’est propagée aux campus universitaires du Sud-Ouest",
    "date": "2026-10-21"
   },
   {
-   "n": 19,
+   "n": 17,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcXh4NFZneFZqLW9TRzVtcVVWbHZYV01iN2MzVlFXS2xzVjctUGtrNWZDdnlwWFBDU1pkUnc5WDY0VDNmemhtMkpmVmZpQ0J4enRaMTNJQ2JqUnN4by02NFZ1SDd4SHlYaVlyaWg0M05FQnlhSnlLSWtPRndvazB0Q3FUdFY3bG1LWVFKbGM0d18yQTIzLTBQd3J3Q0V0VHN1N2Y4WERndmVPVllEMHNFM1U1R2NnVEIxNnZQNHdobkF1NlBhRW45X0F0eTBUckRSRVNsMy0zLVpKVm1Nc0Eyc2ZsVVNRaEJHV1dyWTVDb3lFQ2p0TThIOEFJRUhwYU9JY2dnUQ?oc=5",
    "titre": "Mobilisation du 24 octobre : la préfète de la Savoie interdit les rassemblements dans le centre historique de Chambéry",
    "date": "2026-10-21"
   },
   {
-   "n": 20,
+   "n": 18,
    "nom": "Libération",
    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNDNpQmpQWWVIUkcxdkhtbkhFZTFQcU01Z1NhazJSLWd4cGxyLUlDc25Md2FfOXNEcEVYdTYtQVNWVWhiRHZGWG83cWZ6RWJqZ1Eya01CZXk1SXdiSWVmREI1UE0wNktoVVd4cGxiNWVkN0s4bmIxV2FMeUQxMWY5aFZ4QXpOMU5zeFNGWUxMaDNQVzBtODd5TjZQZmJqZnVjanB3UmQ2bnlzLVBjc19EVWtacjVpT1VLalpzdnhFZ3hDcl9nRlBoQnJwdjNoZ1pub1FZVVVzQ3ZkNk0xVUZ3RU9YX3A2YXpOOFJSWmI3OFQ3UkpHaXdXWGtXLTFaVzVzNUUwcG4yc2NNZ0M0NG1malhCODQ2TWVfRHd2WjB3Ull2cGF3RVVwcXkzb3FkWnM?oc=5",
    "titre": "«On est en train de traumatiser des gamins» : à Bobigny, des lycéens interpellés après le 17 octobre détenus dans des conditions «abominables»",
    "date": "2026-10-21"
   },
   {
-   "n": 21,
+   "n": 19,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTkNvOTE2MUF0WkVKeHlOUHI3YXpXb3VSM3lHSkd2a1hYTTJUU3FBZHpZdldLb3NMWU9iSy1QTFRCVENWcnN1bWk5LUgwLXNTbHg1d1VORFR3eV91VVNSNWx0eWIwcUNSbHA3T1ZDS1pNNUpIdzVLOVN6WW0zeFJNTkVQYnliWUJzZnhMTEV6alJhV3FzbWk2Q2xjbkpkMVVOQ285bVptMnU3dUY4YTdLRi1Za1p5SHloS2dqSFZrcEIzQ0pSRTAyS0UwRWRMblZaT1N5eFBDR3BPcWUtMnY2R0g1M1JNMXBfcjlDaVdrN0pxQjJ0dTJuSVNDZFB5UElPeUJqRHFjcnFJd0ZqQXJmTExQQ0JCaTZZZkhReEJpblZ2aTl4RlJETUc0RnNrZWtmWUt1d19wWkdpaWRjR2lBSkh3UElERDRhUzRyR3NhRE1ZQVdzeWpaY29Od3dOZw?oc=5",
    "titre": "Manifestation du 17 octobre: \"Il y a une colère sociale et une détermination très profonde à aller jusqu'au bout\", estime Marius Mesnil, co-secrétaire général de l'Union syndicale lycéenne",
    "date": "2026-10-21"
   },
   {
-   "n": 22,
+   "n": 20,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNWFJ0QXpTT2tPMkNxOEVRTnA0eEY3MlllelB2N181RHdNM3RnaDlvbjkxUVVGXzJqbEpLX0xIRk9EcHZUU2ZJYnZqMlZEVmxZWjdPZHY3VzMyaDhZY2tMVWFQUnU4OVhDVm9reXdNYTUzb3VyNkczSGZkMkI2Vml5YzZuTHVkX29UamZOZXhQa181WWFYVUdQVXVYZnlYUDlfclU1UW9VTF9DZzlaT014X1dWeHVDNXF4V2o1MXN5c0FHZ2JGX05WbzN5UG5hcW9iaTNoQ1ZDaU51YW5qd240QmRUZU5EQkVnNUE3bWhBSTY3STVSMFptWGxBLWt3VXZPcHpzNmdUaktnekRGTXkwYXcxTzRjNUxaNzZZODFYWE1MY05mVTVTZlJ0TTRycEpFdERCM1BQMjBkdkI4ZEZMUlBnYlY1ZmhhZ0pINzlna0xDcU5aVmZSX1hNbFFYUzZaSUpHdFVqQWctX0hhY242YQ?oc=5",
    "titre": "\"La violence ce sont les jeunes qui rentrent au lycée avec un œil en moins, des dents en moins ou une main explosée\" : Soumaya Sarré, présidente de la Fédération Lycéenne des Quartiers (FLQ)",
    "date": "2026-10-21"
   },
   {
-   "n": 23,
+   "n": 21,
    "nom": "TF1 Info",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZDE4VFp5U0ttZjVqVkY3MmJkTU15TFpiQnNpME9JQm1kLWFab2J0M2pvQ1RvVE5VcHJBanloNzNwR3hRTnlmb1JzZXdZdkNNMzZNbTFLRWdia2FnSXdVenZFQjczRVFzWW9lanFscWFYWlFydzd2STJ2Z3drcXMyeTc5TUltYlZuU1pQbU5RWDFNeG9fY0dDa3ZBV3o2bVRydVUyNnppS1g2QjlFU2dHbngwaW5GRGpudUhDTVVRVTdVTVRIam41cXV2SjBGWFhkYmhDOUZwZ0ctZHJVdG1PZGdfR1NCMDN1bFBhMmRPVFkzYjBDb252cEhTU1RiNk13RGc?oc=5",
    "titre": "VÉRIF' - Manifestants blessés ou mutilés en manifestation : la France est-elle le \"seul pays d'Europe où il se passe cela\"",
    "date": "2026-10-21"
   },
   {
-   "n": 24,
+   "n": 22,
    "nom": "Outre-mer La 1ère",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSnh4c0JjelNTeG1WSXlBYzRtc3I1d3JhbjRFRHJrNlBFRFJBQlJ3bzlaQkNaODhIbllPbkpfZUVmMVdMRi1rc0hESTR3V3JjMlFfcUcycVdhQjBkSV9FbE9Sd2dJTXFrb2s3R18tY09MamxGanZLeGFBanBSY0pBZ3ZWeWF4YTFsb1piRHY4TXc4N0tRUDM5dTZxTmduWFMtZm1VSWhWd0ZJRmpJaEUyR2hycGR0V0pHb1FrVkdZQXlPLWwxbnBUTHA4SS1VZE53ZTJfUHI5TkxUOThSelFnWnBBWVhnMXVoQzdrUnZlYjYxa1c2NnY3Wk5VWnRnYTJSZDRsOHlR?oc=5",
    "titre": "Mobilisation en Guadeloupe : à Capesterre Belle-Eau, les revendications de \"Nou Las Palé\" trouvent un écho au-delà du collectif",
    "date": "2026-10-21"
   },
   {
-   "n": 25,
+   "n": 23,
    "nom": "BFM",
    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNaV8wcDJRRzMzSlk4RGFhLTJNWVk4aGJTOHA0dTdzT2tXenI5NE05a0xjSkRYTVB0b0RxQmwxMVliNEZIeDhycXNaVDZHaXBfWFl4MEp1Z0lJTWR5Rk9acFZtRGdmV1dzTVBxQ1pybmJTRTUxMXQwYlhtazlBdkh6U2E1NkpRNFJoNHdvVHNLNDJfeGhuQVBaTkg0XzkzZWtRRWl4OGVTc1EyeHppT2s3RDg5cld0SlN5MGVYNnRta2pRSTEzUFVyV1VSQ2lsMVdTcVlrNjctVnpoYnprREQybFZWVHJOWFgxdGtwUHQ1bFkwNHRGa0t3T1ZLYjJYVi1rNTN3YlVBc2E5bzZteGlfQkJ6ZU5uMGNSZ2tBVnNyMjNWOGhxSzBuQzVpVzZQUHdydWZpcVJFWVA5alMxN2paLTQtdw?oc=5",
    "titre": "\"Je comprends une partie de la violence\", explique Marius Mesnil, co-secrétaire général de l'Union syndicale lycéenne après la mobilisation du 17 octobre",
    "date": "2026-10-21"
   },
   {
-   "n": 26,
+   "n": 24,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPRFFEUUNZaXdCRC02VDVCRDdJNFBveV9XZDNkM1FpeFNZWmo2cXZhZ25ocjFrR3Y3TG9yalBlcnZNQ1ZSeVdtZUZwaUFJWkNLSjZPcDRwWWsxTmtsZHp0dFdpRGlFOVVfb1FiSUJhVEJncF9BSzVxM0hCdVNPNzczeTk3U0FFNkk5U0V3ckVUS0g3ZEotdGoyVDIxeTZiekwxSk1UMmN2RENudl9NR2ZwY1NtZEhUdTlucWFCZXRiTVVfT0lTRllPS09QR2ZJZENVcWlmMzNTMGFlYWY0Z3pTN0FpY0NYSDJUU1pHMGZLU1pleWdQZHZNVEljMmNDM2FLUjdGVkZBclBrRmNvOXpxemtJVQ?oc=5",
    "titre": "\"Dans tous les mouvements sociaux, il y a eu des violences\", lance Marius Mesnil, co-secrétaire général de l'Union syndicale lycéenne",
    "date": "2026-10-21"
   },
   {
-   "n": 27,
+   "n": 25,
    "nom": "Jean-Marc Morandini",
    "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPYVVfTWd3dER5eS16UDRmVnV1ZGczWTliSnpZR1FYNjR1QUhhckFISUo2ZFNhYk1jREMtRFY5U3I4NlNGRUo2ajVpVncyNE1Pb09ReFVYblY3UDM2TlA1Vi1XVFlfSDJVOXJEVUM0LUhtS1RkcXlTeXJwRW9JZ1FDeEc1SXdjcjJodXFZWU9JdURmbGY3dHUwWmdBbjc2ZlZvOWg2QkVSREtKS2lFOW5QS0wtY1NSN0xRUUZvTkhfeGY5akRscWpQdWp2ZmJIUGhzUFcwdFh4ZW1kaDd3YjMwYVZUenROLTBuSEQ5aVpRVk9JOG95SHlheWM5a0l3Sl9yVEpIVDVSZjV4OGpMRmxydmxuNS0xSk1zSW5oMFl5R2pyaS15bWZHMElBNlRHZjJpd1ZDclJLb19WLWhPUXdRNk5veEsxWTVHOUI1ci1tQmZ0Y3ZMNnhiYzNJbWxSank20gHmAkFVX3lxTFByZzYyTkJyQzZaVjBjNk95d2VYNGJORTFWaTVfTUlQcFBvVUlMSER6ZDlkTXphNjE1UUR5RHRTY3hSUmpFQVBNeUJ5T0Z0MG9XV0dPTTZPeldTRUFKUlVCbXhKaDhaMS1pVC13RWV6LUZmWHdXVXA3ekdXbVJUVDJ1WkEybnFvNS03cTJoclEyNk9zNW8wdDZkejNrbFB1RFo2WmxDb281bjdnZTRKYTFUMjdQN0dtWkN0Wi1mWHBjNDJELXdjY0J6bmM1elo2ZDlXMUI4YVVIa3VudnMwZjFhaHpIaVN3RUdpUXN5ZkJOOGlEV0JjTTY3LW1LZmJNV1VYTkhVVERTYk5wemVNVlZjTW5KZDIxNkpzRjVOckE5dkNhOXhvdE4wc0lSZ3YxSklMa0RQLThXMGFWLWl1MnF5ZXhaU0QwS1ZPaGlLTXRWNXJITktJY1h5cEZPVmN3eEZnLWVnR2c?oc=5",
    "titre": "Chaos : Les rassemblements et manifestations interdits demain de 8h à 20h dans certains secteurs de Paris ...",
    "date": "2026-10-21"
   },
   {
-   "n": 28,
+   "n": 26,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVXk1ZXhKT3gxSFJFWmdTdHJPb3BNTmcxaU9MNHI4T2hqbS1KUmFCcUo4OXVES2FtUko4UkNMcDlxdDJDUWdnTHNKc1MtTmlNMEE0Z0JqT3E0OW9rOWo2SGZLc3N4S1RfcUN0Y0ZFYUt3TDE2Q1E3dEhTMEMxZjhtUGZOTTJjNzQ0Y3o4UTM1RERFdlFHd3NLSWRUMy1Jb3BGNnlvZlJXRldrM3FfQml5QlhSdWdwZnpZMUxGTmwySk9QWnFvVk9wNTVhV2JQRk52M1hsaUpZSXdEb0c1eTJzQ2dEa1NhXzk3WkxtLTFhOE5GNHU3NHQ1Rk5XT0RUY0FrN043U2dwcnIyVkdpZ181TmRLamxGTFR6MFVRVA?oc=5",
    "titre": "« On a payé notre dû » : entre amertume et lassitude, pourquoi ces Gilets jaunes ne se mobilisent plus à Lisieux",
    "date": "2026-10-21"
   },
   {
-   "n": 29,
+   "n": 27,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTXhyV1VLSWtSVUd2OTJCb3JKWC1kbFYwWVgyYlB1RkFqMHJpQUhCeFdKUFVnYm1YTlNtblI5MlFoOS02OEkzNzRWMkM1a2NITzNXSEhTNUJxQ1M0X3lsT01ERmctRTdGOUdoNzBLdGlvUFJ2YVQ4OC05TC1PX1hLT3VfV2h5WnpEWDFtamhlTDRWdHU5QUNRdndmUDF2T0xaOFplNElpank3ZXR5U0F3czRUczJMcmhGMVAtcFJSbi1UeTdCekxad2FFeXZrSkdWLXZYd2lHek1pWFhjWWxNWUk3ellCOGxEOUMwLWhzanVHUDYwSmdlVFJxTjNNMDQtSDd0Z0c4RG9oY0dGR21UVXJCTVpVUGpUQnFPRUdudll5N3A4SGJ0M1Z1NXF6TTN6MzJEdzdPYkdSME14UVlmN3dOc1U?oc=5",
    "titre": "Mobilisation du 24 octobre : \"On sera présents là où les conditions sont réunies\", annonce Bastien Bonnargent, secrétaire général des Jeunes communistes",
    "date": "2026-10-21"
   },
   {
-   "n": 30,
+   "n": 28,
    "nom": "Africa Check",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLU5hN1I5ci12bV9ZMlN4a1VTcVJMSGk4VnFuTVFCWFFaVXRvTkdMblNveUlsWlV3dnpWX1BoUlZsbmhTUzRfbUNWaTU2YlBmSVhZVVFGbzJfUFJEWW5jLWRqLWpHUHJ0UDFQX055MHk3R1lhTWg4UnRvQ0RmQzlTdFdzVnpLZURLTHRBalEzVFNjaTk5TFEtS3NJOHNEYTFYdTNDMFc0eXJiME5QeFBNTDZxeVNMZG10cWhTTWloeVlQdkxQWjJ6NDNBNTNETTF6VFBHWTF5bWNFYXo5Zk8xcEdiYWtObllqd2c?oc=5",
    "titre": "Un manifestant distribue de l’eau aux policiers en pleine protestation en France ? Faux, la vidéo a été filmée en Albanie",
    "date": "2026-10-21"
   },
   {
-   "n": 31,
+   "n": 29,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ01Gd3kxVUlvMVQwSDJOekVTMThjSnU2V3RucV9ESG0zbC1OQ3lmVktCZlItNUVMbjZScjlCSTI3d2x2OThaekxQcVBNUm5Bdzc2dzZOUHItZElDYnF2Y0tXYzNFVHpWaGdmbko5VEdKbTlTaWU3aDlfTEdxZWhJMWpqUDRha3gycmhoWlBPN3dQOURBNHpDd1lQV3E0QjZjcnlaX3VLV3NSbkcxdFR3SW4wcEFpNTg3OHg2S0FIdTQ2cjZWeWxnN0oySFQxbmdWUUxrVHNzUzRoeVZfRVVQRTBjd1N5WVBiZGNTSlVrUmZJRUdiOF9v?oc=5",
    "titre": "France : déçus après la réunion avec le gouvernement, les syndicats appellent à une mobilisation le 5 novembre",
    "date": "2026-10-21"
   },
   {
-   "n": 32,
+   "n": 30,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORmUwRVhZQXJJYkswMmhlVkFwMGU4MF94MklnNVVocXhKZ010Z3ZDX0ZEM0FoMDdNcE9qREdoOUJCTkoxdlFQci1PX1ZmOVdCRldBbEhNWTEzcE5ENVpfMTRQLWxPZVBPazdYdjRvTVZSZzBLSHhfeGswTUl2ZWs5SkVUbkZjcDJ2SmhlTUhYb3BHUXhERjhCbWY2MXBkT3ZIbkdrU0l2SF9sXzBYME9vTVJpblB0TjVoeWpRM3JiQjNjcVFUWXE0eDRHeHRPUkRISlVmWGZ4UW94TVJhTDNsZ2w1d2U4ZldDcmtkYTV5djltWGZoNE10Ny1QR0ppTXkyUHQ1YjdUOGttbGFhcjFCLUdNUnRJU2xzYnd3bThQSXJEUUIwMVIydlNLUDlFQQ?oc=5",
    "titre": "Mobilisation du 24 octobre : en Seine-Maritime, la préfecture élargit les zones interdites aux manifestations",
    "date": "2026-10-21"
   },
   {
-   "n": 33,
+   "n": 31,
    "nom": "L'Indépendant",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM29hQWFBQ0ZrVjNQa1F6anpxXzZyRS1OUnN3WUJoM3UxWEZ5U1U0NnNkZHZ5M1VnVE9iNmhyV1FERW1CMzRMZHVjTFd2YzBnb2pVc25LNVpJY1V6RmEwUGQwYU9Tdk15UWVhclcwVGF4ekJqWG82eGZzQWgyZXVzYm9ZbjE2bEpwdWRPZVdhR2M5RFVpazVDaG5rVEJIQ0JvZ1RrOUJSSnE2OGlRNHB6cmxFN29JTmtxUjFwRTI5ZDZGMkd5NlRNUFVya1R1eUd3VFFISF9mLTQ5enZjMXFVWmhZV1VVMlJuV2JkaWJBWW5uQXpuTlJvQ0hURk1FUVMtclkzNFdieENmYV9BRlRKNm5OYkZjNmVGSlItWW13ZXU3ZnItbU5J?oc=5",
    "titre": "Mobilisation du 24 octobre : \"La police n’encadrera pas de cortège. Je ne suis pas la nounou des manifestants non déclarés\", le préfet dévoile sa stratégie de \"fermeté\"",
    "date": "2026-10-21"
   },
   {
-   "n": 34,
+   "n": 32,
    "nom": "Bondy Blog",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEgta2JtbjMxUUVkLXVqV1VaWEwtZ2lqVHlHeThMZm45VDdCZnZ4eDA5bUZ4WmloSFZDUmFpZl9JZkNMTGhrX0IxTl9ISnhjbHNXVUpUTkFLbnVYOEdUd3NwZ2dub3Bpd0lYV09lNEN0SU9KV18tY2xCbnZDQXRwVzhvaUR5Z3hSb3o2YlRrbXZla3Faa3AycDhGWm1WYWRIaTh6YnVn?oc=5",
    "titre": "À Bobigny, la solidarité s’organise face à la répression des lycéens",
    "date": "2026-10-21"
   },
   {
-   "n": 35,
+   "n": 33,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeTJsZnpVdlVzRFNNeW1DbFlWdHBNSloyU1FNZ0NOM2htU2xRY2YtX1doVUNfbktOTDNqZWhNT2hFSjdGbzJjZy1Dci0weFlQRlRYTS1pOFN6ZzRzakNUeVgwSUMyX0tMZ3ZMbWZxSGRXZkVNRzBUNU9CRERxcVlaX184a0NtY3BMOHYwd3RNSXNzdVlYYnJ3Q0hhVjltbDdwd2F6ZmhSa3lHczBrTTNybWZ5ZVdab1hsQWRqQno2Z1o4M3Y0SWdVQk03eG5sUEJDbnc4UzRfTk1qQl83TXNxWW5GR2I0eUFaMFJ6YUplU2NYU2c?oc=5",
    "titre": "« Le mouvement est toujours prêt à se mobiliser », les gilets jaunes annoncent une manifestation à Flers",
    "date": "2026-10-21"
   },
   {
-   "n": 36,
+   "n": 34,
    "nom": "Les Echos",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcV9xa3ItYmFjcEhLcXFhZy03U3BSUlJyNDFWdnNwamxRcGRrVU9QZVlqc25zQzg5WU1jb0hrLUtqajFtZGREV2lPa2UtdTM5cVo5Z2xSVC14WVhmN3dYblNmSEo4b2RmMjI4TnV4QklIVktkbmhwelEzai13a3EwdTBVYjQyVmxMYnltUXlBRFpmVU1KN1JRN3JsQ3lCNWxhWWlldk5ZczlQekl4clZXaC12alFadmkzWndDckVneVJZM21LajZNYlNTcng2WDZubGdwbnFsQ0tyUHkzUFFScQ?oc=5",
    "titre": "Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028",
    "date": "2026-10-21"
   },
   {
-   "n": 37,
+   "n": 35,
    "nom": "Le Figaro",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOU9nQjFkVmxxbXZJckV3aVg0XzRQdkxNUXJUMlhMdVV3VEU1THo4WElBM0FnS25tbERtVk5nMzJrSEtzeEtNWmJLbWNiN29YMFVpYWxKemJHbDM1d0w1T2pWREtteFZRbGtYQ3c3TVJVRl9IQUJZbG9uOW5kRC1wWjdFcWwtWHhlOGV3STQ4bFJOLUdRZzZESnB4ek9qaGhVQjBvTkppU0FMRUJ6aWp5VEdhX3U1U3BKUlpPZWVGWXlsVVdmbklPWnR2OFA?oc=5",
    "titre": "Mouvement lycéen et étudiant : le préfet du Rhône interdit une manifestation à Lyon prévue jeudi",
    "date": "2026-10-21"
   },
   {
-   "n": 38,
+   "n": 36,
    "nom": "Le HuffPost",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUi1Gd0NvWmxoX0xfUGcza013S1MzaGYwWFZlSTU2d0hnNy1FZjMzVGVBTExQVWpPeVhCY2FScVBjZkZ3TGFPMVo0TkFYbjcxQkVrWlV2UkQ3MHAwcXh0T3NHWFZTbklsOTJmcHZYa09TVG1JYy0wSm5kZTBETHlsQ3QzN3p0MmNtWHhHaFN2b2NRZDR3MnIwQ0hWY3lET2hQQ2FjTDFqdXh3ajg2cXFndnppVGtvRGt6XzFmd1RzS0stakxvSnkxdXBFY2U2aFA0NC0tYzgtWHNtZ3hTTGRnQ1F3OHNTMlVC?oc=5",
    "titre": "En Italie, la réponse martiale de Giorgia Meloni face aux manifestations contre la « vie chère »",
    "date": "2026-10-21"
   },
   {
-   "n": 39,
+   "n": 37,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/politique/17-octobre-epargne-par-macron-apres-les-emeutes-nunez-attendu-au-tournant-le-week-end-prochain-20261021",
    "titre": "17 octobre : épargné par Macron après les émeutes, Nuñez attendu au tournant le week-end prochain",
    "date": "2026-10-21"
   },
   {
-   "n": 40,
+   "n": 38,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbVlYaF8yZXdWdHhFN244ZmltRElaelMyM3F2VmJiZkZFVjdOMFVIdml6RXdQTzNJUzhvZEhadmxnSGl1ZHJDQkVBYzdzcXp0emwydWhwQkIwMFhJdjlsalh1dUhWelNzejA3RlRPYTEyb0dpcFJDV0YtMWtOcXRPMGtobkVwOGlINUM0V0ZoQVloMXN5WnN6UzdLRC0xUktqcy1VTFowaDJWSk1WU1J6TVJPbDJzc2IwRWVUZnV1SzNfazlNV19NcDI5cFZxbVY2aUZFQ0daWUhjSkRLNXRON01ERG9MbEF5bnZhMVNwZ2ZaRkhkX3N2VTF3?oc=5",
    "titre": "CARTE. Le préfet de la Sarthe interdit les manifestations dans le centre-ville du Mans | Le Maine Libre",
    "date": "2026-10-21"
   },
   {
-   "n": 41,
+   "n": 39,
    "nom": "BFM",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQlpodk80S21vU1NvR3RXX2ZQaWlTX2lhRjhaZmdQbUktdjQzOUI5cmhDaHU3M3Y3Qks3N3NvU2dzU0VyeWN0QzRJbENobDUzd1hlY0lxQk9tWnpkV0RxV2RiLV90SmVhclZ2ZllqdnpaSVFSS3JxNDFiTnBZdkh6RzNjZW1MWDJyV3NDUjFTVUd3RTlqblBVbG5OTE94LWs1QTdVTnVlQVFvY0tDMjVVQk5KYkVHSU9QakF4cWRiZllOYWxrNEx5SU9ZSHFpNGtMaHZHOWhCUnQ0RXR0ODVJRWZ3U0hjWTZqc0NteDQtWWVVYjNMb3V1NFAtZmVwN3gxRnFJNA?oc=5",
    "titre": "SONDAGE BFMTV. 91% des Français condamnent les violences perpétrées en marge des manifestations, 24% les comprennent",
    "date": "2026-10-21"
   },
   {
-   "n": 42,
+   "n": 40,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWt2VUZBbjM3OFBEeGl2Y3VCSGMzemxWZF9STTR2OXJKREhnTEtHWGlUVkIyWDJ6alBoNnh1TUpWSDJxT0FoUS1CWXZXXzdrOG8wMzF5bHEtWEF0S3kxY2pRcnBhaUMtXzdmY3ZrY2lEYlYxNHk3Ql9SS2wxZnZLaWt2U21Ybjl6dDRzX1JydmJTMWE1d19mbVRUV2xsYzhpSm14TkZQY3oyNEw4YW1fQU9XaGNDSUU?oc=5",
    "titre": "Économie. Le taux d'emprunt de la France dépasse les 5%, du jamais vu depuis 2002",
    "date": "2026-10-21"
   },
   {
-   "n": 43,
+   "n": 41,
    "nom": "Le Figaro",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR19LOW5TTGwyanB2TXVXZzRhYXd4SlVKMzdfakVNTExNMDdxbVBTQi1nOHN1NFZ4SEViSmJmVFZiR1YtVkhrNEFCaTh6Z0ZoclpVQ2toY0FoREkwRl9QakJveksxbmNrQ1RjOVJpbG9NWmZIVUh0Tnpwd05NUTNKOHJYMV8zNjNIYU9ZREhpUVliMVlZeEZqclJuNEVzUFFWUUdpblJpRFJSaFg2aC1hYXpPaEd0VGZSbzZkeHVnU2VGTjJUdHJEWVJIXzlnYk5vRW5IelRwZE5pRGhMVUdmVU14TkpCaUxmZVUxbw?oc=5",
    "titre": "Mobilisation lycéenne : le ministère de l’Enseignement supérieur lance une concertation flash sur Parcoursup",
    "date": "2026-10-21"
   },
   {
-   "n": 44,
+   "n": 42,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3lqMW9PMF9yTFJURmNZMlZES0hCU0FQbkxra1J5Mndqbnc2Q0UzNnc4MWh3eDRfenVtYk02eTJfQnpmektQcDlGaVg5NEpGWWYwWVNVUGtQM2RqT0ExUEFVSEppMi1zYmJzMXF3ZjR1ajByTzc1Q1BVM1pNUWdxbHJjc0VqQ0NNc21IbUxYUWFacFRUcTBlMmlMT0JrRlB2SkRvWUQtUW9RYXZvak5mTDlJV2R1b0xmb00wZDhBZjdqYU5jSW9CTXB4QnpicHc2bWdWUUdZbw?oc=5",
    "titre": "Mobilisation du 24 octobre : manifestation à Laval, mais des actions encore floues",
    "date": "2026-10-21"
   },
   {
-   "n": 45,
+   "n": 43,
    "nom": "20 Minutes",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakU4VzJaSGpLWVR0eWptbWZhdzVBMUZ3MjMzX1FtbEF0SHR3S1o4T2FqeWFnSUk5MVRDekpSNFRwWUNteTZ3czhKNk8tS2tZM0ZRTVNkN0NpcVNCb2JrZzQ3em5qTlNkQ3YtQ1gtS2sxV1BWVGNyZU9fYzVGWFQ1ZXptejRhMlMzLXBnNmZYTkxUYmVzUkw2S05IU1pWWV91WnhJQmFwNUsxS0RyMTJjZTlnaXNJc2lhMTU1cg?oc=5",
    "titre": "Le taux d’emprunt de la France atteint un record depuis plus de vingt ans",
    "date": "2026-10-21"
+  },
+  {
+   "n": 44,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa25rT3ZlMDRnZXhPQWZtZWVpMUpJc3VnUVF2SFpLN3hCOG9aUHE5NHczZFRDVjJRekdrUjl5QmU4dWFfeVdWd1dRbVJVUTgwRWF5dDcwbWh2cEtVcm1FRWZoVFJKMzNZcXp2YVFwUG9QaXBLY2NQbjlEb3lmSmNCVzdwYVcwQmNiWXR6eWtWTDZDSmNHTHdHVjVXc1E4YTFUYUR1Q25sVkMzeEJNdjJN?oc=5",
+   "titre": "De la France à l'Albanie, les manifestations menées par la Gen Z continuent à travers l'Europe",
+   "date": "2026-10-21"
+  },
+  {
+   "n": 45,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSUpGQy1wRnhmWFVJU0o5Q2l5Wlo2UVVlRnYxaEFlYXpURnVrVkVwRlJFaVlWSzVwV3d3bUU3Y1V5WUhLSk5FU0NiRVRMcDNpQXlSaXEzQlV3VzZBM3cyT1BQMFNZMEQ0YVRUUnh2enRFTWg2bUhId2ItM1RJVVlyclpLcFdSaldiZDR5U24wS0YyU2NTMnVfdnNXNWkyNEZJNnlXU3VYbks5V28zTnhQcWpKMWFGR3lyT19lMHZPVl9xLTlhY2w1bC04d0w4dFdnUGk0djVqVENMdHZ1eVdnWFk3RXh4UElwbWhvMkQyekRYT3NwRXp5bWpoMWRoSjk2ZXpSWVhyTlZxU19DYmJ3SzVlVVBBZW44YWc?oc=5",
+   "titre": "Bourgoin-Jallieu : malgré une mobilisation pacifique samedi, les commerçants ont vu leur fréquentation s'effondrer",
+   "date": "2026-10-21"
   }
  ],
- "genere": "2026-10-26T20:05:47.182595+00:00"
+ "genere": "2026-10-26T21:05:34.242107+00:00"
 }
