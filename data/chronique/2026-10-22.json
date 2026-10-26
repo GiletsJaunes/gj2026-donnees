@@ -55,7 +55,7 @@
  "jour_long": "jeudi 22 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -373,5 +373,5 @@
    "date": "2026-10-22"
   }
  ],
- "genere": "2026-10-26T22:04:48.979947+00:00"
+ "genere": "2026-10-26T23:05:00.972247+00:00"
 }
