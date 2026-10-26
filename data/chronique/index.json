@@ -11,7 +11,7 @@
    "date": "2026-10-17",
    "numero": 16,
    "titre": "Samedi 17 octobre : Acte I",
-   "chapeau": "Le mouvement continue avec l’Acte I : 800 000 manifestants en France selon la CGT (non recoupé à ce stade), et la presse suit les suites de la journée.",
+   "chapeau": "Le mouvement continue avec l’Acte I : 800 000 manifestants en France selon la justice sociale : le gouvernement doit répondre sans (non recoupé à ce stade), et la presse suit les suites de la journée.",
    "auteur": "automatique"
   },
   {
@@ -40,6 +40,27 @@
    "numero": 20,
    "titre": "Mercredi 21 octobre : ce que dit la presse",
    "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+   "auteur": "automatique"
+  },
+  {
+   "date": "2026-10-22",
+   "numero": 21,
+   "titre": "Jeudi 22 octobre : ce que dit la presse",
+   "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+   "auteur": "automatique"
+  },
+  {
+   "date": "2026-10-23",
+   "numero": 22,
+   "titre": "Vendredi 23 octobre : ce que dit la presse",
+   "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+   "auteur": "automatique"
+  },
+  {
+   "date": "2026-10-24",
+   "numero": 23,
+   "titre": "Samedi 24 octobre : Acte II",
+   "chapeau": "Le mouvement continue avec l’Acte II : 410 000 manifestants en France selon l’Intérieur, et la presse suit les suites de la journée.",
    "auteur": "automatique"
   }
  ]

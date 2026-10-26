@@ -120,22 +120,22 @@
  ],
  "recit": [
   {
-   "texte": "Selon ici.fr, Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations. Selon Ouest-France, Mobilisation lycéenne : deux jeunes de 16 ans interpellés avec des bombes artisanales en Charente. Selon franceinfo, TEMOIGNAGES. Menottes, \"coups de pied et de matraque\", insultes... Des lycéens et leurs parents dénoncent les conditions des gardes à vue et \"des intimidations\". Selon TRT Français, Manifestation de lycéens: un policier effectue un tir tendu de grenades lacrymogènes à Nancy.",
+   "texte": "Selon franceinfo, TEMOIGNAGES. Menottes, \"coups de pied et de matraque\", insultes... Des lycéens et leurs parents dénoncent les conditions des gardes à vue et \"des intimidations\". Selon maville.com, Mobilisation lycéenne : nouvelles interpellations dans l’incendie d’un établissement de Nantes et premières poursuites. Selon TRT Français, Manifestation de lycéens: un policier effectue un tir tendu de grenades lacrymogènes à Nancy. Selon maville.com, Mobilisation lycéenne : six autres adolescents interpellés ce vendredi pour l’incendie d’un établissement de Nantes.",
    "sources": [
-    4,
-    8,
-    12,
+    9,
+    19,
+    21,
     23
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Ouest-France, Après la mobilisation du 17 octobre, à quoi s’attendre à Rennes ? (repris par 4 médias). Selon RTL, Gilets jaunes, lycéens, syndicats... À quoi va ressembler la mobilisation contre la vie chère les 31 octobre et 5 novembre pochains ? (repris par 3 médias). Selon L'Alsace, Mobilisation des gilets jaunes samedi 24 octobre : à quoi faut-il s’attendre dans la région ? (repris par 3 médias). Selon mesinfos, 24 octobre : manifestations, blocages, sécurité, à quoi s'attendre ?.",
+   "texte": "Selon France 3 Régions, Manifestations du 24 octobre : à quoi s'attendre à Toulon, Fréjus ou au Muy, lieu historique de mobilisation des Gilets Jaunes. Selon ici.fr, Mobilisation du 24 octobre : à quoi s'attendre en Vaucluse ?. Selon mesinfos, Mobilisation du 24 octobre à Paris : quel est le parcours de la manifestation ?. Selon Radio France, Mobilisation du 17 octobre : les gilets jaunes tentent de structurer le mouvement relancé par la colère lycéenne.",
    "sources": [
     1,
     2,
     3,
-    5
+    4
    ],
    "theme": "Le mouvement"
   }
@@ -149,321 +149,321 @@
  "jour_long": "vendredi 16 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORFBDWkJHWWN1UHhtVmVfYmJQMS1iSWlwN2Q4WHExc2l5c0R6VnJWNmh1bEJYb25QeWZJWmZ4aEJfcWk4MGl5X2xXa2trZXVZQS1ZMEVCRm9PNFN0akUxbkRqdnF0SFFMdVUwTERkbFZnU0tDaXlONHJ5UXN3SHV1akZMSXgxVmtSN21xMUp4VWI3bWNJcDhHek5UY09QT2x3ZVF1ZGIxdVk1bzhUaFV1UFlQOV9Ubmpac1VIZEwwNFNFdVp2Vmt2SnlkYUlKbWJ2TzcyU19xamF3MkZ0Nlp6SXlB?oc=5",
-   "titre": "Après la mobilisation du 17 octobre, à quoi s’attendre à Rennes ?",
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRnhsYkRmTVpCVHdhb210Qk0wTHVVcUlKTm1nMUZNaXRKa1BiSmQzSkdWRGZ5Q3ltTEFFZ29XZDBsWHF2NTFkekRYWndMLW5tS1NVYm9LUmRvN2FXSk1MQ1JYbm1oRVpZSFRIN25XZnNRRTRPWm1xc2I2OWs2R3JhcnRmYWVDLVVLMXZERmhYN2NMWmw5bDhMU2NFaWFoOWFpUy13b3c2dFhfanRWTVVIUUlhak8zR2ktalFvSWI0VWpiZ0NHMUVxYWJ5YTNLOUJtSU9Nc1cwcnVXS3pzLXIzMFJLNGR0MkdRQVh1QzluQ2o1eElIeU9yMG0tam5QUTl2WUVzZUxiVGhxZWZoQTZtaldnc2dRai0yNXR0VFZsMzM0dmh3Q2RPa3NjU2RfT1N0YVVValZR?oc=5",
+   "titre": "Manifestations du 24 octobre : à quoi s'attendre à Toulon, Fréjus ou au Muy, lieu historique de mobilisation des Gilets Jaunes",
    "date": "2026-10-16"
   },
   {
    "n": 2,
-   "nom": "RTL",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNnV5aGtaRndLLWtFbTE4TEo4bTRqS1VqQ2FFN1lpQThBM2hYUjU4OU04RnNOYkV0Tzg2dkRSbG5haGh5STkxTTd1ZGRVWWNOTXZkMDg2V21uUTB1Um5wSUpiQjM1UlI0SUIzdVhNV3VnamttSmliZU9UOG96V3lPUmdGbERvOTBRODlmSGhzOVlFQzF5SGJPNmpDR1hVV0pPVFVnX2xubm11UndrV194WDhUSENrWGl3V3ZXX0NnS2lpZFJmODdMTEpELU1lSzNJSHoyS1VWbzRLcEFYVFNsekZCOVdLbFN1Z1l6OGN2cDBiNFhJOFJUNDNsczgxbllt?oc=5",
-   "titre": "Gilets jaunes, lycéens, syndicats... À quoi va ressembler la mobilisation contre la vie chère les 31 octobre et 5 novembre pochains ?",
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTFwaW9oSkdoRGQ0T1ZPV01GTm5MUGozdjRvXzk2U0JrTktHa19sdkczeTAzOWRCTE5wUlB6TzlCUkdnQnVHeTF3dEtXaHppaGladHdoQXVzYlE2UkItSWtXd1NzS2RtUmpFTGcxM0dPSGxRazF3UHp3VzhuQkplTE41RUtrYl9xTW45MndScEpDSi13dWhraUFpblJVQjBEWHc1bnYwXzV6eXVkdVdJbHFsU29jWHZlNF9UdWVrUQ?oc=5",
+   "titre": "Mobilisation du 24 octobre : à quoi s'attendre en Vaucluse ?",
    "date": "2026-10-16"
   },
   {
    "n": 3,
-   "nom": "L'Alsace",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0Y1UE9lQTdDdjlvdXk1VjR4WTFGS29rODc3MFVUVVM1OVNYQ2FJOWZ2RWc0MGUtLWZHcURvVE04OEE1OWRZNkJwQVFvdEV6ODVfRk9Ua3RSdVFqQTZSRXlfeFRlM1NualhpT3NDeEhYd25ROXpCcWhjM2VnQ3YtQjFfZ3F1d0E1R3R3ZjZpendsbTk3NFNHY284TVl4cERRM2dTM29zV2E1ZW8xVWN3cmI3Tkc2N3ZMczk2R1hObXd3TW5xOWNVZTl4Yk14LTYyRjFBNGN3?oc=5",
-   "titre": "Mobilisation des gilets jaunes samedi 24 octobre : à quoi faut-il s’attendre dans la région ?",
+   "nom": "mesinfos",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3pQTmFTS1ZVUFloSnAtRnNla21TZ0kzRGVsMUllZUJyYWY1emduYWJpSXdnR1o4UXJteWQwOHRBd0ZETDFncHVScWlKWUI0Sy1vRTEwSXVHM1J6OEFva29OQXJqVHhTaVdVUnlkem9xejByZFRTUjREcXFEYVlhMnNmQ2FURl9LaTZXVTJQRzNqNG9KYmM0WDRWM2J1eWg0VFpDZ1ZCMHRuSHpPenBNZUNUdXN1dDYyeHJB?oc=5",
+   "titre": "Mobilisation du 24 octobre à Paris : quel est le parcours de la manifestation ?",
    "date": "2026-10-16"
   },
   {
    "n": 4,
-   "nom": "ici.fr",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVlXSGUwc2cwcWxoNkZYaW9oNHg1Z3ZEU0dkcHlPSENmMXZLSUFFVGNzS05wUUlRSktxMUs1VENRVFJBWWJ5eGR4Z2NlWkpUMS1ack56WWRfOU9XOF9fQVdHelRSWG8wcWFicHNydjlaTlVzcVZfcW1vTHNEWTh4Q0NWbmYyQzlEX1lFTnBWM3BUbE91SENmdG1mR2pBUms0N3pMYVk2VWh2M0ltNWJfbFN5UHE5T3pwdU1nZDVXOUNtei16MEN4TUQzZ3U2OGtYN0VjWA?oc=5",
-   "titre": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 5,
-   "nom": "mesinfos",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGRWeXRFVEJ0eGotSml2Wmg5TmdnX1JkbGZ2S0FuSDBGc1ZaMzc0RmtVNHhybkJOeURXRzBHdkVxcjFYN3M0em1iUGs1NWtzaFZHYnd5dGpWaXB2aGFHMHJvZnhtU1pIdHNISk1BMTBSNWEtb0Y3YVotWm1IaWRWSHVuV3R6anJOOWFKb0lKbE1WTlJ0SWliUA?oc=5",
-   "titre": "24 octobre : manifestations, blocages, sécurité, à quoi s'attendre ?",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 6,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWWt2OWZOWThfSm02WElFbm1GYWZCVTRxVlk4MWhrSnc1cC12bW1lV3ZGclZ4dlJIUVVxWTNfa2ZnMU5fS3Zab0hRTlhwVmZwc0YtODdvZHJPNjdWeU5YZXJtc29jU2YzMlJJanVzR09JUTZ4MDJlQWlkamRka2hQSExqT0V4eEZ5QlRuNTNLT2NoMEF5UG1wOEVGVW1SN284WXpJcWNZLVFkT29jbnhrLXp0TmNJeXdoaEdCdUFsdTQyOHF0bFVOUmdxUmt6Rk5PUnlvQ0k3SXBIUnJ1M19RMldiNkpQVW41WVZjaW9GbDNsaG5KcS0xdjZhaC1faHhuc2VodjhOaWwtcXBWSGJ6bmc5Qi1lNGFVZHMzZ3d2NUE?oc=5",
-   "titre": "Manifestations du 24 octobre : lycéens, étudiants, syndicats, Gilets jaunes… Ils se mobilisent ce samedi mais pourquoi ?",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 7,
-   "nom": "Actu.fr",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTkZpaEJNdXE3ZU9rdjhYZFFYSUw5R1Zqb2dXekVjM0c4YjgzMWZESWtpQzJLRnhwMXVtTnU0OGw4UnF4cTdPMTVYRFV2Rm02SXNxdGp4aVZvaTZPUVdDNk9EbzFzNVY1Vldld3YwdjJzRE9IYkRRYVNxWnpIbVEydjZhVnRiczRob1BDVkhVWDQ0NlhGUjcwWXg4MV84OTZHOW9LdE4yRmktVGNvai1MS2NVclFsNXNKbjdlbnB4WTQ3c2liV1lOVEQ5dVlNT1F6TTU3WmtLT05EelJXWmJMOG5RbXkxSVFT?oc=5",
-   "titre": "Convergence des colères : après le 17 octobre, quand aura lieu la deuxième mobilisation dans le Morbihan ?",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 8,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcWhrbnkyYm5vYllzMXpzUVNJenVGMnd0UnBPRUFLOFI2ODR2cEtEWUNOQjhSMzIzZlN6cGhXdERROW01RXVsNG5Fa0dyVjJIdjNEV2p3X0ZmQ1BVbTJsUmZwd09vdVJmNE1IeTFGektsaVFPSV9tRXRzVUxSR1RYc0dZcF9sZlhrcDQ4RDVUS0p4Z1FCbF91Q2RHNlpicmdTTHl1RFAwS2VxeERaUmZBcU1OLXUzck14dmhpMzNDTVdiMEtmZmc4aVVDWWV3clN3RmVCTV9UbzBRdnJ5S3NBZUxlbGJxbl82ZkJtaE9qT2lsR1h2Z1N2bDN1UTJscFZiOTBvOVJseC1BajZkZ1E?oc=5",
-   "titre": "Mobilisation lycéenne : deux jeunes de 16 ans interpellés avec des bombes artisanales en Charente",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 9,
    "nom": "Radio France",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObm1uYTV6ekk1UVFYSWd4SThjS2NodF9uQVIxRDM0ZjlQeFZLZEhiUmxVdEkwX3JzcDJ3eEFUZ1F0b3FzbjM1VnNtVnZEOTRxMnFXbjJkQjFjV2hKMHREb3ZkbEtNVThqT0JwSFQydzdaYXpOYWxPUWFoWDVyZHlHOEtFV1hmUmxhODlsZE8xOVZCU3ZpNlM3VjM0YUxJN0FudVNVRkVqYzRYTWgzWnJzSGhGM2xMMDJ0eEhUcUJ2akUtQV93Zk9ZWnAzZU8xMlh5QjhRYWRJdG1BVG9VdGY1TWZEdWVvblJHVWluS0JvNA?oc=5",
    "titre": "Mobilisation du 17 octobre : les gilets jaunes tentent de structurer le mouvement relancé par la colère lycéenne",
    "date": "2026-10-16"
   },
   {
-   "n": 10,
+   "n": 5,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGNDdHNLREs0d2k4VXRIaFVaS3pERGd1Q2lHbzFQd29vbFJueWxReVdIeXRpb005Wi1nSFlIdGNEb1VIZ1AzaVlDQzNZX015VzBkVlJnZ09YX05JVE03UmItTm1mWXE1Ylh6Vno5ajRhNkxOSkNtaThtT1l1bnpqTlFCbHZ3Q2xTZ09GZHQwTUZsRUVqY2xESDJZVW1HSDdYdkJlaFU2WThaX1g0MHpybU94cTZzV2RsaUVELURjUXZaVDJzSGZWRHI4VW1Ydw?oc=5",
+   "titre": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 6,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTgwUDYtRE80SElJVlVCZTZtTTEwZU4zNUxUN3NpMlZFYmlZbDhCM0s1ZUdyUXB3OWprb2JPdWQxNWpDUGNsQnc4TWRZMTAxem5XejlXNU05dEpSTWowSzFCSnJudGdPaTFGSXZSM0tqeEN0WWJIUjJWQlJLWmpDZlNRVEgyWnRYTkZwUDNxT3hIblptMDN2SFVBd3E1ZE9LWWw5TUVJeDJzS1VQZXVpY2RSd1oxSVRPbzVmS1VOVXdMZ2FjQkplQ3h6YnhKckRBRVVR?oc=5",
    "titre": "Italie, Grèce, Allemagne... la mobilisation française, source d'inspiration pour l'Europe ?",
    "date": "2026-10-16"
   },
   {
-   "n": 11,
+   "n": 7,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUlmT2o0Q2gxUEZHVHdnSmUwYV9KWXQtNm9VQzBHOXBGYU16WmhhVldUU3Z3LUUtcEl2OHZyLUo1dEYwcE1KcTBBaWxLbkhwTGY3NkdEanRvemRZSExHT1VwaHdtY200Qm9SS3RVNzdnbVVrUUtLbkVvYmtaNHNMOUlqektGaXpMczYteFF4bGRLdVhTbU82cFRWZjRRb3NvSkRyejJLTndRUi14NHNVb3VzVkNFTGJCUDdmV3VtTkJfTHRhRDhrTHJiMkV6dHFXdGtoQzdpN0F6aWs1QjRpN3NEZEw5OHZSVmk5VQ?oc=5",
    "titre": "Manifestations : le gouvernement en alerte avant un 17 octobre entouré d'inconnues",
    "date": "2026-10-16"
   },
   {
-   "n": 12,
+   "n": 8,
+   "nom": "Les Echos",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdG9SZ0EzMU9yblN0UWt2a0dLckd4MVdPQ2RCQmkzelJqTTJyUlZtN016LWphNVVmSFhOWHc3VUFFT0RFRDJxZFhhdFVZeHZuQ2hnUVVSbmVMMURTdUMzdmhYdFhwVnNvWXdMQU54TjFFRzhKYnd0Qy1UbTFHZTZvODdqdlNrVHZ3a1piMGVwTkhqeXZBaEUyQS1PcDhFMXZJVm1TLURmRFBXc3F6NDRwSDhnWW5fbk5nNFVteV9peFBZdjBjeGtDSFlnMUZCeGtJci10Z18wMnJ0SGVWanJFSUdpb1g1bHM?oc=5",
+   "titre": "Mobilisation du 17 octobre : des « gilets jaunes » à la « convergence des luttes », à quoi faut-il s'attendre",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 9,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQRV9ndzEzZUVlYkFURGItMy1PUi04ZndoS2RINWxja3NqRC1zMklGVElSNE9fTW9Cdnp5akxCYW1VYmwtTFdUdnAzWVVIckdaSEU4TTlTZHZ3Z1REcUFYaGozNDVmb2RMZU1ielRJMEFhOWRweXdZRUJvS2x0ZXROdGFGU3FBdnlfVjlLc2E0MEtGODdwckFCSzNINEFPMWVUZS1nb1FjUEV3eDJmTXlIX01ENWRwQWNXZFczWXJiSmJWMXN0RllhenR2NDkwS2JlSGdyLVB4UzBQQ2xNNkRSMGw0eUgzT0dSX2Y2WTI3Szd5QmZpODZJRmhSb3JiUTlxT1JEQW5hSk5OY2h3NlFkTFFTY3BCYlFLZWZ4Tl9fcUY0b3RIZUE?oc=5",
    "titre": "TEMOIGNAGES. Menottes, \"coups de pied et de matraque\", insultes... Des lycéens et leurs parents dénoncent les conditions des gardes à vue et \"des intimidations\"",
    "date": "2026-10-16"
   },
   {
-   "n": 13,
+   "n": 10,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMTU3YVlkbzlDaGdRbllsdElpcFVERHdYX0g2QVl2bl9xcEZzb2pzdjJWMzZnU2FkMVJMWXN2R3htM3lVOXkzai1HQUJfU19WYXpKUVJRMEVPQ0JRM0gzWHhCaGlvb1NfOGctMkd4bHFISmlZS1JscGJHR0xodWE5QXdZVGRTT2VQOHh4MnRQV2RiN0tDQmszVXhvd1R5VDFkSmZvN0lFRmdvZmNJd2otMEJROHh5VDItTmE2SEFGZzdSZEliVUp3MjJEQjVscExTTDZaM09TN2V0aF9QRk1fNTlIc3RUMzVwVnpiQ2hOOUpncERMcGR4X1ZfcXJqUQ?oc=5",
    "titre": "Mobilisation lycéenne : le parquet de Bobigny ouvre une enquête pour violences sur des policiers",
    "date": "2026-10-16"
   },
   {
-   "n": 14,
+   "n": 11,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQnJDY1E4ZWN5a2tVZEJDM2RqYkRDZmRxQzNGX0g4VGJtVUpEc1daVWpjLVVtZ3U1elYxWURSYy14Tm54NFNmSU8xTEhqd2JOdl9PcTE4N21obWNJOTlEQmNBMkV4RzFaOHVGbURsSlc2Z1YtbG1BNmpnMXVhcGhObmNnZkFaNHhtTUc5VkotSVBTc0dLYVlNdjNhQTAzaU0wRjV4cVZWZXpGQnhGaWxaS2c2dVN0Y0NBSzJONUx4V3JlX0l0UlQ2WHpGUGhxSnlGUmRqZEFIbHZPRVY1RjFKQnNwODFvNno0WEJteEdKUHliX3NoakxSV3B3R1JNMjZiTHRLY1Z0YWVFUQ?oc=5",
    "titre": "Blocus des lycées : une adolescente devant la justice pour des tirs de mortier en direction de policiers à Saint-Nazaire",
    "date": "2026-10-16"
   },
   {
-   "n": 15,
+   "n": 12,
    "nom": "KOHA.net",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDBCbklvQ0tMWk9JcjZVT3pYeGtyUlI4UlAzVmV0N295c3JUQ1RKM2lCb0FCMV8xdWItdm1QaHRJR0Y0Vi1RdC00MUkzaHJ1VUFzRTJVMm8wT1BqdE5LbURfcmd1aWxsd3FjQ0Y5ZEpPNU12aFJnS0JwaC1UZ3pSbmxjWVhxT3BZQXgxaldhc1dOYVpOS0pla0hZMHNLdw?oc=5",
    "titre": "Onze personnes ont été blessées lors de la manifestation d'aujourd'hui à Tirana, dont trois mineurs",
    "date": "2026-10-16"
   },
   {
-   "n": 16,
+   "n": 13,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0ZIUU11bC1seTZ1ZV9QNG4taWdaOWpCOF83bUFvcVhmQjhOeEpnYnFIV2lUYUlHOHp4djk1b3NsMUFOYllNM2RXdHBFU29IMkRqSUpmUmM3VDJKQmhScHM2cWhGWXR6dDNscXVkbmRRT1JJUVY1V2d2UG1Yc2ZDNm9FZjlOMlRDNnZOalVJRDRPZXJUblhCa1JNT2VYcDdHUVdicVoxQUN6c2xrdVFMZU9LRzhLMEZRVHViX2Nfdw?oc=5",
    "titre": "Mobilisation du 17 octobre : le spectre d’un retour des Gilets jaunes plane sur l’Oise",
    "date": "2026-10-16"
   },
   {
-   "n": 17,
+   "n": 14,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWTVVSFlJTlpFQ2kxZl9RcHB4RTF6bGFJLWpfTm9vVG1lb3Uwd3doeloySTZLWWVRNFpnRzRiYWJLU3FHdlBlZ3BnMURVblJ2d3pDbkMzSUg2R0I2WjVvSUFqZm9GVk9fVk4zaU1PcHBCUW9zQkZST1V3TGlWSXpfa3BBVEF3dlQ0Y000d3VjbnYtMlZGOXUxemNfOVJ0cmpfQktRcGVNWDRNVFFsNTljWm10TnRXSGQyRk1Mc3NicDZxQ0Z6aUsyaFVYczFyY0NOb3U5WmI2S1FHNWpYYy1QMDc3cmp6ckRkTjJNRHF6ZnRVQkhQWGZmVVVXRlM?oc=5",
    "titre": "Manifestations du 17 octobre en Maine-et-Loire : à quoi faut-il s’attendre ce samedi ?",
    "date": "2026-10-16"
   },
   {
-   "n": 18,
+   "n": 15,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXI3bUZSUEo3UHlyaC1uWm1oTlNqZEo2MXVfQ1hqOWFPR0o2S29ITVc5MDNCeGU3bEJWSnczam8tdDM2d29zcXc4eDFhdnJETlQ1eENlYVgyNlpCTGZadWtuMjVfaGJEcGtSb1F4dmRvX2d5VDFGWmxUeFBOTmM2VVlaQ0pCWWhzMnRUZUNvMWZvQi1NNXFuUEg1dUJXNVlCdFQ5T1VB?oc=5",
    "titre": "Pierrelatte. Mobilisation lycéenne : ils attendent la copie du recteur",
    "date": "2026-10-16"
   },
   {
-   "n": 19,
+   "n": 16,
    "nom": "Mediapart",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmdoOHVNLWlrYmxuRFV0SV9zY0hETXZmZnpaSy1ONDdQSkhLWU80ZzQ2dDhVVWhDd1V3RGs4UHBTNVBNZXRZdENWTk9PTGYyWVFIbmZCZmEwZ0FFWGgwSUJnUTJmdThicHVYa2poSEh5SzNxRHc3NGVONEFzYXlZTEgyWDJwb1o1cWllZzVBOUFGYWVWc2dBa3ZLRHNSVzRTQWtFdVBLRVJBZzQ0S1BFbzIzTmZMQ1ZFZ3pFSWdB?oc=5",
    "titre": "Des blocages lycéens au 17 octobre, ces semaines où les luttes ont convergé",
    "date": "2026-10-16"
   },
   {
-   "n": 20,
+   "n": 17,
    "nom": "Made in Marseille",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOUozRDVmU3M0MWotUENibHpVcmxRQWdTOFNvV0s0OFZ2YjF0VHZxb18wTURfT2t5dXoyVXRDcFpaLTRTN3U1akxvclBlYkh0QUFTdVBvek42NDBHTFYwT0JDVUhlMmNiSXhhRWxMU1h5eEdVQTlldUtGMkxpZk5vcFB2a2RtQUZmZkNXZ2gxeEUxNnU1TTNUMmt0eDc4S0ROdFkzSlgtem5WWHkyQjM3M2xxdExzeUFsVVRpX3RyM1lBbG5mODc2RnE2cFU1SXpaSy1pOGN5V2w2SW16OXhpQUh3?oc=5",
    "titre": "Gilets jaunes, lycéens, salariés... quelles perturbations à Marseille pour les manifestations du 17 octobre ?",
    "date": "2026-10-16"
   },
   {
-   "n": 21,
+   "n": 18,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNGd3LVpmMXQ3NXBzZ2FlWkpJd3o5N0Z3TVJLQjV6eWhXSmozSE9YU2dfOFdaQndSNTRkRG9LaEFzT255TENsM0dabXNrZE8zNTBSVmlvekxldW1PVEFIVXIwQXZQZkE2MzQtNDM5eWw4MzFPcVU2RXkxb3lHbVB4Y1pLYlM4ZmdjVzhkb041ZklDLTZWbGg4MXBjenQ4SFB6UjlpOEZOYTd5Y2dON19PZlI3dE1zT3JHTFgyelFrU1AyNnQ3TzV1cFdVUS1wUGFLdXJIMkdvY3JVaDBONHJjUWxjRzBRbmNHOUtoT1FfZTh4bUNDcVVjWWs3ZDk?oc=5",
    "titre": "Barricades et incertitudes : dans le centre de Rouen, les commerces redoutent le retour des Gilets jaunes ce 17 octobre",
    "date": "2026-10-16"
   },
   {
-   "n": 22,
+   "n": 19,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTmg4czRjX3JxV2VETEdGWms5MXBxb2UyMXNLcWlNV29sXzlZTHpTSGlNTUt0d1huMHFvOVlhUTNhZHBDdlRuZU5yR0t0RVdiMG5JUWxldWtmbVI5bVhNOU1XTnBmQkpoTFlxVlFZTjZVVzdlMnVTUUlSUTFjR2ZGTmNCeFVZZkVXRkFnTTlBU2QtM1hXRWE0RzRYMkdESEh5d0JtX3hLcTZ4a3BZQUdadFhfcllLcFE2SUgxQTFuOURBZ1VuMnA5MkV2WUNNXzE5UnhRdnpCYmdvc3BRTEd6UklISkJoZElkRzlNaURQcnkwd3pXUVJBa3lXMTZHeTZxRF9DZE9UaEwwUQ?oc=5",
+   "titre": "Mobilisation lycéenne : nouvelles interpellations dans l’incendie d’un établissement de Nantes et premières poursuites",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 20,
    "nom": "FERC-CGT",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDl4d1pSTWN1YkVqVy1XVHU5blg0STZkQVpKZGNkTWdtelNXbjJHM2ZCakNqcFE3eXRmOV9mTnpRNU8zemdFV3A2OFpfVTdDT0FucEZwOFM5bWVkcmVoZzd1STB1OVBpa0ZSUW8tOWQxNjJfOC1ZbUJmSWF0RFZxa1VoZXRFQmlVRXdUbkZsNFk4d2dGNkpOR05jczEwY1JuWGc?oc=5",
    "titre": "Une première mobilisation réussie pour les salaires de la fonction publique !",
    "date": "2026-10-16"
   },
   {
-   "n": 23,
+   "n": 21,
    "nom": "TRT Français",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRmwzTXFBc3FkTzJFN3F2dW1oMXN2MFpvdVBLcElNMUlXV1Q0cnNHaGhDQm9XS1NjNzJrWWpjTjhDTFAxLWdGZUExT1B0a0ZPZmVtOHdGRzVfdldl?oc=5",
    "titre": "Manifestation de lycéens: un policier effectue un tir tendu de grenades lacrymogènes à Nancy",
    "date": "2026-10-16"
   },
   {
-   "n": 24,
+   "n": 22,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNYkFjVm83SjhvOVFmY2k4TEZuVDFKaTR4YUxTbU0xb2FaOHl6M2VBdktlRnZYTDRXdXlVV0FSRXBQb09aMGVrNDNfMU1aa0kzLWxMVFNhR25VTzlSUUxiT3U3QTVQalI4ZFRsUlFwcWNNVWJEa21uYzdzZC1RRDZiZWRUVWpXaHVUR3FrcUdUT2JfdDBaSTNOcTlQUUR1T3hyUHpIMmR0eHEzWW5zVkhwRTQ4bFJCNjA3ZXhVR1pxU2lodFBtcXFMY25LWTRnNWZqWU5fTHZZTi00RmYyRzVTZlhJSVdKYjB0TzJBZHVXR1dyZEt4TDdnTVVPNUZxZm1Sck1zVlktVkJIaHFudV84S3pncC1IcnZ4RUJ0MkktaE1Kc3Q2TWRkbWI1VUZ6dw?oc=5",
    "titre": "La publication des cahiers de doléances des gilets jaunes \"est espérée en 2027\", selon Fabrice Dalongeville, maire d'Auger-Saint-Vincent",
    "date": "2026-10-16"
   },
   {
-   "n": 25,
+   "n": 23,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdnlIMUxPdzJlZXl6dldyaHpzMm05cGhhUXF2S1FGc2RMOTJiTnpHbS04NmxOck5OLTJIZGVPXzlLNmR0Tndqd2tjTnRpN0xrSkZ3YzZSMzQ2RHUzQmFYT1J0YlJNdmpZRXBvOFMwYUhraUFXZ2k0Znk3cUUtdVB6ZjhhR1dHZWp5TVd6YXdvX2lFUzViR2swWEdIOTA0dThDZHEyWVRPTF8zdXh3aHNTeDFRaHJ1TW1QZE1ReVE1UDFvV0lfZUJ4LThIVDBWQWk5QWl3eE83SnJCVE9lSUNmYjgtdXBSXzFhYnc0R0tmQ0dieXJNYUdweTJDeXBmc3huTHlBME12dlU?oc=5",
    "titre": "Mobilisation lycéenne : six autres adolescents interpellés ce vendredi pour l’incendie d’un établissement de Nantes",
    "date": "2026-10-16"
   },
   {
-   "n": 26,
+   "n": 24,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFlaN1dZVWFybmhITkxoR2dKaEpLZHh1cXdDcnh0QTMxNGlEZUFmZXphaWlMeVZiUkNxamV4MnA2ZGNoVzF2ckc0WVhqdy1EQkRmci0yMWlZWHBaNXVBdmdMUG1jTXZhWnNaUlFzWC1LNFFjM2NWWDBWY19qN0tZYl9rZzBjQjJraXppOXBUbFoxOUhGVk9PeFBZMjM?oc=5",
    "titre": "17 octobre : les Gilets jaunes entre le scepticisme et l'envie de \"finir ce qu'on avait commencé\"",
    "date": "2026-10-16"
   },
   {
-   "n": 27,
+   "n": 25,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblAxUHNTRTZadE9wNndhM3dLWFdvUVFtalhlY1REWVYtOENTdXBlaWRZb2NoT2VRMEV5dGxaR0Fza3hucGVkX1lkamVwYmFyNGxwSjlTRjlIVU1uYlYxV1RiblF6Q3BMR1dreGF4MGdVUjJlUGl6R2REOEt6bVlsUnAyYmtocmxzVEhjOEM3d1dIUDQxVTdWY0tiWUUza1JBWG5pUUc1RXlIdkxWNXRkRWc1QUZmWWVQcVNKZS1MYmM4RmZEZWE0RkFaZVV5a211LXg5YlpISGVZLUgxRG0tUGp5azJhWi10RTlsNQ?oc=5",
    "titre": "Retour des gilets jaunes en Bourgogne : à quoi s'attendre pour la journée du samedi 17 octobre",
    "date": "2026-10-16"
   },
   {
-   "n": 28,
+   "n": 26,
    "nom": "Courrier picard",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQXZ2OXBnbUdJb0pwSDNoLU9ERUk2TnhBY0kyX05JdGIyVElGb2RHMG1Va1lVY3NxMDRGVENoeUxyc1FPelQ5aHlDWTVOYXhlUVhsOXNFb0N0bElqZ2UyNHNHV0gtaVJFM1N6Tlp6VUNqLTg5LVoxbjNaSUdVckhKdFhJenFTck80SFdQcXVDaDYxR010TWNHVmwtWnlFeWtGZHFPdTE3TTFFYkpBenpFTDhKd0FnUjJpZ1JTLU5IMXhaZlpxUTBHNGNKVDZhUF92dHVKMg?oc=5",
    "titre": "Gilets jaunes : aucune manifestation déclarée dans l’Oise et une carte interactive pas forcément fiable",
    "date": "2026-10-16"
   },
   {
-   "n": 29,
+   "n": 27,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMW5LTWhPa3lwUnIzYzdheV9DTUJrSTJwcnpYOGtJWWIyUzJ4RGllaUVwd0hua2RWOVdVYlcwSEpPZVBaZVVVV2dNQ0RLY3k5Tnd1NzY1ckZmZGpNc214ZlI1akNvVjVRWFl1N1kwSmNlR3Zpd3h4RTZYTU1zQi1NX3NCbzl5S3NxSFM5NWhoaEVxYUtvTzEtdlZ2aXlqWk9MaEEzdzc1VlMwSHRqaldVV1BocktjcWRjQlBTS1Yxb0pyOEVqODB6YWdKUjVGYjBFZVByX2R3cmNpeG5RNVF2T0JRVEFWeTllU3VyQ3QyWXlUQQ?oc=5",
    "titre": "Gilets jaunes : voici les actions et les blocages annoncés à Toulouse et en Haute-Garonne samedi 17 octobre",
    "date": "2026-10-16"
   },
   {
-   "n": 30,
+   "n": 28,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUpUUzRMck92TENXX1p3UTNUaF8zeDI0TmRMS1lkeV9YT2FpRlVkTWF0aGVyMXhwYVo4SGZiLXRGQl94X0F4bFdYOXRFLXNqd2dSQnI3VUdtSGdPTk4zdHFuaW9SZEpKT3VDbGg4U1FOOHpuTDNpRHdFMHlwcnI4a1gyMGJadzFqMTNpem1tQy1Jd1FkWC1uOGlNc3IwaGpkVUpBRU9LT1NrVzNFYnFhdjVzcTFBMTdCMnB1dW5SQ3dfd0duNnNCd21ZYllibU03X2dpUGIzMkZLWkZ6d3loc1N3?oc=5",
    "titre": "Avranches, Saint-Hilaire-du-Harcouët, Granville… Quelles actions sont prévues par les gilets jaunes ce 17 octobre ?",
    "date": "2026-10-16"
   },
   {
-   "n": 31,
+   "n": 29,
    "nom": "LCP-Assemblée nationale",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeThfbGlVbmpuZGJRWU0yWEozbjgwektfZnhkSjRyY1NnX005Yl90WmVzb1ZtcVVEZUxsN3NFQ0QxcU8wa192MTl0NEctVkp3OHhZNmJ2WU9GcTVpdkpyT0pHb0xRYlVqQ1cyZ0dtR3ozQWVKWUFvQ0RNTW81Z3duNjJvWF95emRwUlFCSkl1a2lRNVEyblR4OU1aUW1TQVB3cnNXV1dZN1Q3ZEIxVTJZ?oc=5",
    "titre": "Mobilisation du 17 octobre: des lycéens aux gilets jaunes, qui appelle à manifester et pourquoi?",
    "date": "2026-10-16"
   },
   {
-   "n": 32,
+   "n": 30,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ0RyaExFWTVncVIyNWV1UldMN3lCQ29xZElpWHNacDJhZlB6OFNfdjUtWGFwMTRDQzVVaDF0UktyV2xhc0dsXzBFT0lxRHRqcDY1alllckxfYWxLZkpsaXFEVUpRWHRxd3E0bTlCQTVoZlRoMmlyVTRkT3dBc0QtOG80NEFWSlE0Q0xtY2N0UTFwYm1zT1B4d19QVUZaN0dYaENJd3V0d0tfWkxXWFF4M3AxNkNidWFySjN4N1ZHMFdCdXM3MzR4eWlCU2k3bGZ6OEpxWms2RlNOSFJUQzdsdm04dGZrZGMzZjQtM2ZwNEFDN3dMV0M4dEY5eHRYRTBWN0Z3?oc=5",
    "titre": "Manifestations du samedi 17 octobre : l’appel au retour des Gilets jaunes sera-t-il suivi ?",
    "date": "2026-10-16"
   },
   {
-   "n": 33,
+   "n": 31,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTERQZzVTVHREbmgtSjdHSXdPT001UWw3aWV4MGZ0clhJRUdpeWdtM1JWQVU0M2VxY1g2YURNNzR1blp1dkdFZ1JtMXp5Z2w4QTM2YThadHdQd2FPZE9ENG9VbnJYQzM5em1YelJZeERyd29iY1RjRndKQTJMUG4zMXNDMFc3SXRoSkxqRnNCOU1lTjJpWDE1TXFjQ2hwQnVfaW1ERHZWbjZyVDV0TnRvRHczMTZtTUtrYmZWMS1XRGhxR3BqaDJOSzc4clc3b2taX1ZwYVFsRWRpU2tHRmh0MmM1Z0dYdnlreE0ya3pQNEdndFRucmFFOG9R?oc=5",
    "titre": "Les Gilets jaunes veulent manifester ce samedi 17 octobre, le préfet des Pyrénées-Orientales prend une décision",
    "date": "2026-10-16"
   },
   {
-   "n": 34,
+   "n": 32,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTzVFVWxVeE9NZ2FwbGFUOXQ2V0pZOWNqSTdpb0RKR3BzTmc3M1Fla1NWUE9oYjUwUkxjaTBuVTAweWJCQmZOc1BPWUpNV1ZLLVhVOGlaRFMxQnlRLXRySjhyT1ZqY2pjb3pZOGJhN3ZKVjJOdlZ1bzZFQkhBSUlPbWVELVFsNTVmODRzMmg2TjNFdlBoNTUzNW81Rzk3SnRsT0cyd25UM1Uxbzg5RE1EdmRSazFacnVrZDFkdW5SaHd4UElUUEtrcEtSc2dXS0RrWHVVcm9IakstUFM5MnhIOWpOWFAyOGhFVjhj?oc=5",
    "titre": "« Rien n’a changé, c’est encore pire » : les Gilets jaunes vont-ils se mobiliser à Caen pour soutenir les lycéens ?",
    "date": "2026-10-16"
   },
   {
-   "n": 35,
-   "nom": "Place Gre'net",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVzek9YOTl3Y2VzUHBld0NTYXBhdzRMZmJGY3p0T005UGs0enVwR2xOb2R1aXY1MnF1RFJsQUZxQlIwNGdtdmtxLWNWemtWWVBWd2xaNEtmZVJJYmU4aHViTmtUYThJY0sxRW9GTVVySE9MZV9STklhUlZqdXIyRnRSUWF0WTZPNlNqX2NDUzlqLWZWblVmUnBzVG5MSHVTaGsyZ0V6dVpDUnJZSzAwZzdULTJGUzh1QUdjbVhybVRCVTdQelVpOVZ0OVJYR0tORmhUUE50SVZPc0JDcS1ZV3hxWmFWNmREdUhFS0VKN092OWs?oc=5",
-   "titre": "Grenoble : les Gilets jaunes de retour dans la rue samedi 17 octobre, aux côtés cette fois des lycéens et des étudiants",
+   "n": 33,
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPcXhvSnNHUGowaXFUS2t1QTk4UnJ4UnZCTG9SOVdFbzhjNC1UcVlpRkl1WjFCZF9fR0paTXFhSDFQdDY5aVpDdS1aS0RzdVRkOEVLektjSzhaV0ZrNDhQSWxRVTkwNTlRd2FSTmRoQ3lqVDRON0dDTWNtZlAtTDN3bFM5bnBzNVByWVdXNWhFUnF4VTljQ2xRdFNiSXhjcVRDVUYyTWNQTWd2UzJCUkhNVHA0bDBvTXlFLTBKajgta08xVnBlT0poQzd3MWRGU0FoN2l2TEJOSm50b3Brd2RSWnhCQmc5NGFoVWpGa3F3MGlEUjdsR0d2TW5fb1hnbmFIalo1cDk5S3JWQzdDNDRkV3BtZWhuMFd3ZFFhOGRsUmR0S05n?oc=5",
+   "titre": "Manifestations du 17 octobre : où sont prévues les mobilisations des Gilets jaunes, lycéens et syndicats ce samedi ?",
    "date": "2026-10-16"
   },
   {
-   "n": 36,
+   "n": 34,
    "nom": "Le Monde.fr",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLVZ4QVpUUE9QcjNBVkFtaFZSN3NmdUloajlOSVVKOC1mSlRSdTBuUDktYWxER0pjZGtDS1JTMGx6RVBFOEdtTzIzUUoyU2J1LUJIR19JTlNZMTFPMVdiYVphNm9tT09GTTdhNWJzOHhXQ2t3c2ZSaTlOQVhsb0xxakJRMzZ3QVVGZmkwYlVwbHo4cDN0Tl9WSnI1aWtqS0c1UGY1SFVhQVJ4aTZrSTZ4dVJ0TF9uSHFVTE05b0stclhfTGpvN0s3bU5pUHExWFI2M3RHcFFpRHNPcjJPdUN1T3hwU1dIcjNQMHQ1Q1pZQWtFZjdsR1dJOTJGVTBPNGljb1VqaDZGVDVVS0NfRjJr?oc=5",
    "titre": "Manifestation du 17 octobre : Laurent Nuñez prévoit des centaines de « rassemblements spontanés », « manifestations » et « blocages » dans toute la France",
    "date": "2026-10-16"
   },
   {
-   "n": 37,
-   "nom": "Le Média",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1hmTGs4bFdhbW12cjNBSUdPUFNEdk1YWF9HS3lMR2h4LUdtYzZoZWRBUTJocDhHdTU5N2o1S1BvWUNINTJDcFZOcDIwN2hocnBWaTk4b1gzMWhUWi05bDRUUXE4dWkwX2hYLUhtNG0zYkU5eXdvV25ncnFUUzh2T2RJWEVFOExUYjlOZGlWWFdUZmx6dUd4T3hRRUxOUkFLOHRmZmx2U2IzRUxPYXpMZEpodlpGSDkyeVE?oc=5",
-   "titre": "Lycéens, gilets jaunes, 17 octobre : la joie de se révolter",
-   "date": "2026-10-16"
-  },
-  {
-   "n": 38,
+   "n": 35,
    "nom": "Le Monde.fr",
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQc2psOS1iVEtTMkQzTzFYSDNPSDhiVjFYZnBacXZQNHJMZllQV0FpSVdIM3NRTU9zZ2xDaF9hZXNhM3ZXX3NzdEdwdWk4NHM5eTlMbjJ3al9WSEh4NnRtZHpPcWlzX3lRQktBeEN0UzZiS1JHcFY4a21nTVNpQ3NyRWgzWWN1ODlqTnBzc05GejFoUDBaejQ0empiN284em9WcjRpbjFZS3Iwbmh0RHh0Wlo3NTJHNW1mT1drejV6U3B1bWtYNkxKa3hWY1U1RXdubmlBQ1BmTUNhWWRNcWpOUlRINlJ2VHFFajJ3Y3ZlNzhJanB3WHpLTy1LX1h5OEY0MWxIMnlkenRLZ21ZVGx6RVloOUFIZk56OXVLZWVGV0V5a05oQVROdVdDUzY4UQ?oc=5",
    "titre": "Mobilisation du 17 octobre : la préfecture interdit de manifester dans plusieurs secteurs de Paris, autour de l’Elysée et Matignon notamment",
    "date": "2026-10-16"
   },
   {
-   "n": 39,
+   "n": 36,
+   "nom": "Le Média",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1hmTGs4bFdhbW12cjNBSUdPUFNEdk1YWF9HS3lMR2h4LUdtYzZoZWRBUTJocDhHdTU5N2o1S1BvWUNINTJDcFZOcDIwN2hocnBWaTk4b1gzMWhUWi05bDRUUXE4dWkwX2hYLUhtNG0zYkU5eXdvV25ncnFUUzh2T2RJWEVFOExUYjlOZGlWWFdUZmx6dUd4T3hRRUxOUkFLOHRmZmx2U2IzRUxPYXpMZEpodlpGSDkyeVE?oc=5",
+   "titre": "Lycéens, gilets jaunes, 17 octobre : la joie de se révolter",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 37,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkwtbFR4QU9pcTZlTnMxNzZ2M0tEUDA0NFJJeFEzRlFUc0MtTldHN0duTElIc21IR0FpWHNUQnY1a2prUEQ1Z1hDbW9zZUJCcFNFNVpnc1IyaFJOM2ZtY05kRzA4c2x1SzZ2eUZyNjJWY2JwZFRHRDhIbkFyMy04UHhCeDh6bU90R20yOE02VGhqRklXWUlSNEtPZDJqZ1FWWF9DcXZzQU15elZNeVZnaGNlWEw3Y09JcHctcFFaYmgwZEV1NkVwRzZSM3VrdHFZeFc3cnhuUm9RX0xjUXRubGkxd3BjbURZTF9Rc293UXFVUzhYbEE?oc=5",
    "titre": "Les Gilets jaunes de retour : de nouveaux blocages annoncés ce samedi 17 octobre dans les Pyrénées-Orientales",
    "date": "2026-10-16"
   },
   {
-   "n": 40,
+   "n": 38,
    "nom": "mesinfos",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbndyeWJBSjVrWmgwZjNUWnJZNFN3TVFmVk1PT3MwdjNYTl93N1BZdFBGQmRNaEpvY3NGU1FYRkgxaUdVV1BRckJQTmVPYmpxejI5VTN1alZKNi1ROGNjNEdXNEIwZ0w2RnNvZ29WSGhiNTZiaDRUQl9nd2MyaGJ5Y3p5aWpWVVk5RlFRZ1Y0bFYtTmsxU2JhU0E1amVlNVI4X0NMMEVXU1Z5a2FvOFBPWmdOdGktejlVN0pYVw?oc=5",
    "titre": "17 octobre : ronds-points, péages, manifs, quels points de rendez-vous pour les Gilets jaunes ?",
    "date": "2026-10-16"
   },
   {
-   "n": 41,
+   "n": 39,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMWZEY2xNWkgxWnhzMjlGZGNPUUE0YlFJdTBQOS1YNE1vNkhhcXM1S216UFZzalh1TEpLR1lWSnhXY1Bod3BkdF9tX0JwQURQYkRycFZwMHVzZkxVOU4tUE9TN2ZRblN3Q2tPNUxZTWFnc29KRVltaFd3YWdxVG1rNFdoMUxKYUktN3A2cGVXOHlnbi01SnRfYWdnd2RsTGpPd3otcG5qTEREZUZRQUpNeEVXV0NkREtsNVdkeENFZGRST3drV3BrRk5taXR0RTVjSDJ3OWYxd3JuLVNnaGNFbEF4WFN0T25EdHRUSFdlQzBGQk1Ld2ZpRmVwM0luUlBMTS1IQnlRUmVLLS02UFFxRnRJdUFOTjFNUmpWYUVzUQ?oc=5",
    "titre": "Manifestations du 17 octobre : circulation difficile, cortège, Gilets jaunes… À quoi s’attendre dans le Finistère ?",
    "date": "2026-10-16"
   },
   {
-   "n": 42,
+   "n": 40,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN3BUc3R3a1lZM0N4ZUIyel90bk9fUGpkMG5xV01fRkRZTHhoeUVKY3F4OFhFSGIwRzdlWHdxckR6WjhYdFVTQTlOeU53ZTdaUjB1cllnRzBXdGRDN1RRYUxTSnNwbktoTlo1dEdjejB1RlZ1VXRxb1dPQjZfbWJkQnJOVVRqN3F3UUFHaC1oTTRFZHowRkRuNjFsbHlSLVJkeDQ2bWtNcFdCano4WjNTQm5DalJxempmWUw4RXY1WEZIRUVDSFR6Skc0M2VMZmhXSFR3?oc=5",
    "titre": "Gilets jaunes, manifestations : voici ce qui est prévu dans le Nord et le Pas-de-Calais ce samedi 17 octobre",
    "date": "2026-10-16"
   },
   {
-   "n": 43,
+   "n": 41,
+   "nom": "Nice-Matin",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUzhGME1uSHM4Rzh3cm1aNmItUHBTYnRZaXl4VXRQdHN3cVpUXzZYcFd2SUQzNjZQam1xMEQ5VEpud3prSlZneldvblhyM3RmdFpmVG15OW5BX0lOZ1BVdV9XZUhBY1hESGNYcGlTNVhOekJRemV5RHJ4MENqLUVlWUJidDdzYy1pTE5xbnBoblRNaTdtWFNCY3FjeDY2Q1N5MUdMSjZFcXNjM2lOQUE1dWtkaVVlbmhkM1dtenBEYnhqOFVhU2ViRWF1ODFxNDRONnlYVl9FVDB4ZEF6cC1zWmtOMkJMSzFuMXdCbUZnZTNYNnF4cjVvSFhlMGt5N1ho?oc=5",
+   "titre": "« C’est le nombre qui fera la manifestation » : les Gilets jaunes des Alpes-Maritimes dans le flou avant la mobilisation du 17 octobre",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 42,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPV3VwWmt6RzhwRERMX29URF9LNHJNc2N1d0tWWndYdjBrUmp4cDF5dkQ4UXhaaF9zS3oxUko2a04tVzctaVlicEJUNkVyRTk1bUI4MUhKZzZyVTlEcVhka3lTUi1qeDdrMFQ1TXNRMUVkcjY0RnEybEZQRnIxdElQaXFWOEJuZExGbHo0N0EzLVE4TG5ibHpqdUNjQlZKQ2xpOEpzWnRGY1ROc3ZuTTQ3dE1wbnpqU09Jd01tTm95Q2VycUxXa0NCeTRJSmx6dlUydWhTdFRTSWdLb0RodXdkcm1QelBxVGR3RnRMQTJKNHlOVXQxLXc0eC1VVGRWNkMxdmlfYzluNExVQXdfSWQxa3RVMlN6Z1lZaHZGelN3a3l3SlBMNTQ4?oc=5",
    "titre": "Mobilisation du 17 octobre : Emmanuel Macron \"appelle au calme\", estimant que le \"droit de manifester\" doit s'accompagner du \"respect\"",
    "date": "2026-10-16"
   },
   {
-   "n": 44,
+   "n": 43,
    "nom": "SE UNSA",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDJHcTI3NUhZZVNuZmI3M09YWDcxLW00aHAyVnhJSnpTR2Q4dnZYRXpYa2pWTHhLbW1qRUNBcU5Eb2MyR3NPX2IwaXRseTQ5R3RMbWFNc19qWGJIcU9vZm55bFRzeDlzS19KVk9nc1YyTXAwdUdGdkFWbFYtc0kzZUpKeFZKdVF5cnFhZ25n?oc=5",
    "titre": "[86] Mobilisation interprofessionnelle du 5 novembre 2026",
    "date": "2026-10-16"
   },
   {
-   "n": 45,
+   "n": 44,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNT3pVV1pjTmxPMmNVNXFadV9oNWVzUnA0eDdsSkppR0R2RkZjR0E5aGRoZkI1NExaNUJ1aW5KSXJFS3B2czVrWklBUkc2QXR6TFV1LUlhZXFiNUdfNnQzM0VxRzh5aDFYdVJlTnUwTGlNXzVGXzNIRFlPNUVvT1RuWmxvYmtnRzNtOFpnVzNaa0ZnNGNmejAwakk0UEVxZmtTV3RqMmd2YWdPWTZXNzVpRGRNaXBHWVJwTUFleGxNM21qMEVBNlEtdmVpSnE4Vm5aU0VXZ3hweGVvczdmNVg0MklmQ1dPRmdaUm80d2hCdjJFV1lzM0dyS0xaWXp0VDVURHMtS1hpSVZiMkpFWmpTenRMUWtHWEluZTA3YUpEMnlpLVZOUmRhWXZxdw?oc=5",
    "titre": "Manifestation du 17 octobre à Paris : la préfecture interdit le départ à Bastille et fixe un itinéraire République-Place de Clichy",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 45,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTW96bTg5QUlCblBLMFhMUGRsMXJnN2w2elItbXVFWHczcXNnTWMtVFpERFFQNGVOTTA4NG9SMWRVUGVyQzFMbE41QkV0TXBDeU93TlpTWS1ySENVUHBQU2xoMTN4UFViWlR1bmVfLWJlTnoxa2gyc3hScU1RSWU4OFdiQmxTaHRTTzNYQVN6OG94OXhzcmJLdFlhd2FNc1lRV2ZVNVY3MlE4VDNKU3FncGl2NnZVS0E0TWx6ZDZRSElBWFVBaHZvQ3FYQUFjRWVwRkNmelVfRkdERmZzeFpHSktMV3hQYXVsSVFKcUd4czhPODVaN19RVDhwRHIxZjBFX1E?oc=5",
+   "titre": "Mobilisation du 17 octobre : voici le parcours de la manifestation de Toulouse, le préfet prend un arrêté d'interdiction",
    "date": "2026-10-16"
   },
   {
@@ -649,5 +649,5 @@
    "date": "2026-10-16"
   }
  ],
- "genere": "2026-10-26T16:03:22.101489+00:00"
+ "genere": "2026-10-26T17:18:04.752751+00:00"
 }

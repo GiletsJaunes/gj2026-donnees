@@ -1,0 +1,407 @@
+{
+ "titre": "Vendredi 23 octobre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon franceinfo, \"Il aurait pu être tué\", \"Contrôles à plusieurs étapes\"… Questions sur une grave blessure après un tir de LBD sur un manifestant. Selon Libération, Mouvement social : «Le maintien de l’ordre ne se gère pas avec un sourire et un bisou», cingle le préfet de Paris. Selon Libération, 24 octobre : une journée de mobilisation dans un climat de répression. Selon La Dépêche, Manifestation du 24 octobre à Toulouse : gendarmes dans le centre-ville, RAID, militaires de Sentinelle, véhicules Centaures... des moyens exceptionnels déployés pour la sécurité.",
+   "sources": [
+    14,
+    16,
+    23,
+    25
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Yahoo Actualités, Colère des lycéens : Quelles sont les pistes envisagées pour améliorer Parcoursup ?. Selon maville.com, Mobilisation lycéenne. Parcoursup, manque de profs, filières sous tension : « Le président a pris des engagements. Selon BFM, Mobilisation lycéenne: Emmanuel Macron a promis une \"refonte complète\" de Parcoursup aux organisations lycéennes invitées à l'Élysée. Selon cote-dor.gouv.fr, Mouvement « contre la vie chère » : aucune manifestation ne sera légale en Côte-d’Or ce samedi 24 octobre.",
+   "sources": [
+    2,
+    5,
+    6,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Ouest-France, À Lorient, contre la vie chère, un rassemblement possible malgré l’interdiction.",
+   "sources": [
+    30
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Libération, Dette : contre toute attente, Moody’s maintient la note de la France... avec une perspective négative. Selon Le Dauphiné Libéré, Économie. Dette publique : pourquoi l'agence Moody's devrait dégrader la note de la France ce vendredi. Selon lanouvellerepublique.fr, Déficit : Moody’s maintient la note souveraine de la France, ce qui \"déjoue les pronostics déclinistes\" selon Sébastien Lecornu.",
+   "sources": [
+    4,
+    10,
+    15
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon franceinfo, \"L'Etat sera là\" pour reconstruire la mairie de Limoges \"à l'identique\", promet Sébastien Lecornu.",
+   "sources": [
+    1
+   ],
+   "theme": "Politique"
+  },
+  {
+   "texte": "Selon La Dépêche, Dette publique : l'agence de notation Moody's maintient la note souveraine de la France à Aa3 avec perspective négative.",
+   "sources": [
+    3
+   ],
+   "theme": "Marchés"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-10-23",
+ "numero": 22,
+ "jour_long": "vendredi 23 octobre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-etat-sera-la-pour-reconstruire-la-mairie-de-limoges-a-l-identique-promet-sebastien-lecornu_8251528.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "\"L'Etat sera là\" pour reconstruire la mairie de Limoges \"à l'identique\", promet Sébastien Lecornu",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 2,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVNveUZfMHo3elBJUnQ3c0VHSTNxQUV2d2daUVlKVzNjTFUwY01lcmFoRGJJRVRvZDJHemRGTUpwcUFVMmhyZjU0akZuN25BYl94Q0h4QzFHOTFVNEtlU0phNUpLS1ZCZ2JqcHNMaXNVWWdKc09ILVlxNTBQRzJKLVVuYWtPUzVTcWl3Q2Z1ZVJvQmlaU1lkRTVqTWI?oc=5",
+   "titre": "Colère des lycéens : Quelles sont les pistes envisagées pour améliorer Parcoursup ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 3,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/10/24/dette-publique-lagence-de-notation-moodys-maintient-la-note-souveraine-de-la-france-a-aa3-avec-perspective-negative-13618224.php",
+   "titre": "Dette publique : l'agence de notation Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 4,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/",
+   "titre": "Dette : contre toute attente, Moody’s maintient la note de la France... avec une perspective négative",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 5,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbGJrU0U2Y1JKMktSNHp5TjA2TXpqUVFkcFFiMkxjUnFuSGY4dHVtaEc0Szg5YXdWZEFOTEx3cW43ejIzOUZtMTQtZml6NHo4cFQ2S0RNM2tBMlF5VGhvcVc1b1Ziel94dTdaZTZsSmdmcjFCQWxyeTdGY19ORUdfOVpuZUd4NkQyU0dUbWM1a25qeTNyNWdLVU95NEx1SDNWdEkwUEp4d01EemNFV2hYUGxmcksyTnNfektfdVVrMzhDbXRMWXhUbTNMZE1NUS1zOERjN2dFT0RLUDJsRVd4aktaeWxVT29NV0lnbjA3ZDk1SUhub1lSZw?oc=5",
+   "titre": "Mobilisation lycéenne. Parcoursup, manque de profs, filières sous tension : « Le président a pris des engagements",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 6,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZjJoYlZLU0Z2UUh0TFRBS3FrMktkRUdITmwzRXkzcGJDVTNkYlBFVWZyYUZpQXd0Nkk3THdNQVJEVXNJS080Ykg0cngxNDdsMmMtQUtCN2FoYlh1bFVycEI5dWZXRjZEY19fSk1udkhlVVpWS0g4b2VRVGZ4RUwzZXZacnJGallhSV90UjhHUUVQTWNxWU1NRGJ5OUdSY1N4eE96Sm0xSE5tSzBiYnRZME5vQkpCRzdrVUpzZ1RySEd6QXRSLVlTSlhNSlRibjdPNHNtV3AxX3VCQTZ0eXJCcU9IUDNvWTlud0l2RHhiRndJWGU0Q1R3ejZWRjlpeVUyN2YtQVFWSWJvcW9URUpEUU1ZZVc?oc=5",
+   "titre": "Mobilisation lycéenne: Emmanuel Macron a promis une \"refonte complète\" de Parcoursup aux organisations lycéennes invitées à l'Élysée",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 7,
+   "nom": "cote-dor.gouv.fr",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQ0g0TFpIb2p1aGhXeWhNRnNTQ0lKanRvemVJY3BiRXVqQmFoMEsyZ29QLTV6T2hiVHg0dmdaUTBkUzRTeG52VFlCSDlDaE1sbVNIb3lESWQ1VlVMN2xCbFFxM2J6eEJSaVVKLXlTMVpTTU5XV2J4YkMtdExEMGFYZXRPT19TMTVpaEtLa2o0X1VrdmdRVVNSNy0yU0R3RGdITDRhRzliSTZzM3FMUFg0MEpCZjdDYzdsTTZBSGJSY1c2TFMyVUhOdG9vUVduTTdnR3dadWZteUZYOUtvRl95OVB4dWlXOHZpd0ZMMUlFdFJrMVhtLW9OejRCdVdGV2dNbXR6YlFB?oc=5",
+   "titre": "Mouvement « contre la vie chère » : aucune manifestation ne sera légale en Côte-d’Or ce samedi 24 octobre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 8,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/tous-les-syndicats-de-lenseignement-prive-sous-contrat-appellent-a-la-greve-le-5-novembre-1176612?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Tous les syndicats de l'enseignement privé sous contrat appellent à la grève le 5 novembre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 9,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkcycXVyVkdORzhEekJvU1BfQUt5dVVTWGhjb0R2TGYxekJzdFBGcDEwbUhRSGVaaG5ydnF1aEFHMTh3SmlFc3BxNWl0d1pNU0JnaWpub0tCQ05ZVkF2a09CT1dmc3FsMDhMZ2hpampGazVLTjZ2Nk12TlVTNmt6ZnBOWmVPaE9tQndEOTdMRWVKY0R3U29RVV9rQXZad1ZGRExPRU51Mjd1Ul9RaHBxZmhVRG1GNnpUZ3g5TzEyNmtGYmU1Y1RxT1h0SlhnbnlidVgxdXl3VlUzWU1rODNmR2JTTnl3XzVOWHk3N1Jn?oc=5",
+   "titre": "Acte II des Gilets Jaunes : y aura-t-il une opération péage gratuit sur l'A75 au péage du Viaduc de Millau ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 10,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUy1UY3M2YVFVaDkwcUItb0dUcndiV0lUNi1GbDRXN2RWQ1dnWG5kOXUxZHl6Y3JXS044RFh4NmdlSmZTYWpBRzFMWHpVeXNuYjJ5ZXNjVEpSY0RaMzlsTUtqRnhUZ3RqZGVEWTVZWnE3TlE1dFFVUFlVZDJqSjhEd1VCeF9UajZLRmlRVkd0M2JzUDFiaC1UbmFlaTc4RnY1Q3NMb1Uxd3V4V2t6OEpQaWY0SUFGZ3BzVVNUR1ZpVkpiMGEtWDhUcXI1WG51N3dpVUVV?oc=5",
+   "titre": "Économie. Dette publique : pourquoi l'agence Moody's devrait dégrader la note de la France ce vendredi",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 11,
+   "nom": "Europe 1",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX0RUWDgtNTRQaUVwSU5Hcm5TcnExQWlqRGpPZnNsSXVQalFuV1dGc2xSblliNnBMckVtczBvTnl0LWNNWnB5NkgyLTRsaVJoSUpZeXI4UXY2NUVmX1BsNW52LTVlSmROODl2S2pNQmMxOUdyM0plQjdBZi1mOElzdm53T2ZsdEgxVFk3R3NLUklJVzI3dnpzTU0zWm8tM2UyOUlvMmk3RXVyWTJWZnFWVkFPeDhMWDQzRkRrQzM2WVo0RmdPOFlZcWdtZ1doWUVzV2FhMjQtNVQ2aWZfMU1IOVdKcU1iNWYyVDd1V3FLZnhWUTDSAfgBQVVfeXFMT3A2OS1oUGhXVmtzb1JGcHdxTXdUNktzMEduSURLNGhGUGVxWFA5bFhLZ3ZKXzNORV9INHVfeDZtdDZuUUdBYlhfLU11ZzhBQVhEY0RrUzNVdGxPX082WElSZnBWeXNkMlBCQmJRWTVsaThGQ3RGLTd0Sm9xVWttYkdGaVNrak9wRzQyVlNOSGk0akpNcTVUbERGNnhDLW5UUzMwR2NvcTd6UWJGTjk3bzg2d2x2ZUR6eGxKZWxsb3RVY2V1Q2F6d0tEV1FZYXpjNHcwZE1yM0IyVjIteExkUFN4MERnNmNZOUFLbGxYUVVmYzJDQ3NITHQ?oc=5",
+   "titre": "En direct - Mobilisation lycéenne : Emmanuel Macron a promis aux lycéens une «refonte» de Parcoursup, selon leurs représentants",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 12,
+   "nom": "Vivre villes",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdndtQU52allwU3JQLU5veThYTHA2V2pselJ0S21JWHZidzdqc2lTZGR4d3BiZGZMNXNQTjRzTHc1MlItaWtfOWNQUFVOSjJPV2RzaGVJckY0TUxPMmh5ZktFRHhCbWx4SFMxLTA1Zk5xdVVfRlFGbndFZTRqZ1JzMFNxTDkwQ0V6VEdLTTNRXzZhT1pSTW5naVRHZVZXalVBdUQ3TkFpNlN3WTFnQ1BzS0tJZzZGTGhNVFhfdVpGZzFuX09LZHlXYk1NcS04RENqckt0bWEzYXRaT1FfM3J0Z1Rwa1NvRXY0djNwdHZsemk0QVBUTkJxRGtyUzBwVG9WaWkzQThKcENWOGpjVnNUWkpLTjdWbEhWdjU5eUhSWFZFc2dQSEZUMzY0YzNCNjht?oc=5",
+   "titre": "Mobilisation lycéenne-A propos de la manifestation annoncée ce samedi à Vienne : pour Thierry Kovacs, « manifester, oui, mais dans le respect de la loi ».",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 13,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa0hZd3hRUVRDbmhMcHlmLXBiYWhpYjJOamJ4MFJRdmM3M2hSVW96UWkyVXNaTG1BQzRRc29pQVJPUVVmbk1lN3hrZjJBMXRuRWcwQXFnLVlISy1KU2plaHpZR3ZxaHh4WVJCSk50UVBmVjEwMzhYS1B4eHFHNThnZk12QVZydnY5dHZHbUp5MzBnby1pa3lpYkRJZ2ZwdXFDOVZmaURnSndlMGVkRjZJVkN0VWg2VjJrQUFDVkdQWnpxTGQ4RkVKRkF5NE5FaDRuVXRPQUwwdmlaaEtlel9WYkJ3YU9UcEIybUZOMkNhUndHeUs3?oc=5",
+   "titre": "Manifestations du 24 octobre : 70 000 policiers et gendarmes déployés, les lycéens toujours mobilisés",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 14,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeWV2dFQ1NmdLTm11M3Bub3hFX0RJVzBpZDNudFo2R190VHdhWHlKZVFCRU5udUdUdF94bzlPdlNNeExyUkdOLU1qamNYZFJPUi12T1ZldXNZaHJ3eGgyN3c0d1l4QkZ1cGc0bFVUZ0pBdV9HUGpCVDkyLTlwcnBvanNZSWlKcndKclFOUXUtY05MU3ZEM1YzQXVXZUhBV3lxcUdrQVlYYXg2TlJQYm56UXZ4RzJnb2QwZUxiRkZlMnZhcHVjVFg5eXRSSlBmY1ZGb1c1SWlRbUlCR2R3SW9jb1hKYlJpZ3AzZkhHVU5aSTcyNEE3OFZrUGpGM01YUWFDSlQxc2dnRkF0Wld6Tnc?oc=5",
+   "titre": "\"Il aurait pu être tué\", \"Contrôles à plusieurs étapes\"… Questions sur une grave blessure après un tir de LBD sur un manifestant",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 15,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0RNdHhmemlhdzNKYU1WaVRkWWl4d3c0dUNwOUFhMUhpUzZnQml1MTFZZHZmN3h4c1U0NU90THV5d242RmJaNDBoMDFjNUVnRzBLNXVqai1ucWZ1b0lBLW5sZ0MxNlMtdUlZcWswOXFyRjRvZ3hPaGo4YUZENkktZFBkY1VLR1FBaXFNOWtpb0gwUDhUMVB0b1liYW9OWXIzWGZtS0hDbmhYVFZOY2R4M3RGYw?oc=5",
+   "titre": "Déficit : Moody’s maintient la note souveraine de la France, ce qui \"déjoue les pronostics déclinistes\" selon Sébastien Lecornu",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 16,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
+   "titre": "Mouvement social : «Le maintien de l’ordre ne se gère pas avec un sourire et un bisou», cingle le préfet de Paris",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 17,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeWJYbGVhUmIxRHpVd1ktalBTR3haNnh5Y2J1NnEzQUI5Q3pZOGdPQmF3cTR6b1FaRkJPaTZYTERsYkozMlZvLWgyUEVFaFQwLXQ5MXgyZHNtOXByNDdyTnlFTkc3RFJ4YUdEaGhhem55TmlkNzh0b2dDZkMwc2NiSzhPdFdsVmVJckpKbEpNTHhudlgwZ3VaSlVLWVNLamhuNXpMbEloMmxMNVVMSFB3UUdhcjFjQWVBcXAtTnk5dlJVbDgxejJQaGVUN0VnRUozYVY4TXJIMVZsenRMWVE5SC1hSlZJdUwyZ1lPeHduUkpuY0VoeHhqSTM2S3VFN0dJamZoakRGbjc4cm5qM29sLS1OQklvdERFeHdGOA?oc=5",
+   "titre": "Manifestation du 24 octobre à Tarbes : \"les forces de police et de gendarmerie seront prêtes à agir de façon ferme mais proportionnée\", la préfète des Hautes-Pyrénées interdit la manifestation déclarée à Tarbes",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 18,
+   "nom": "La République du Centre",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSjN2VzNMOUNlTW1EeVdyekhmRzdkQ3pIMW9DOV9wdUlLdEhNenFZUjAtY29TeTZvUGNlNDdaWkVGV05UUl9EeVhITFNORU9mTTBOZ0VWanAwdG9wVEwyNlNGNE5yUjNERWxhMGpYUG9VQW5rMDZqUTVWWjFMQTQzdzltUlBXa2c3bngtM0ROcFZTcFFGZ2JxeUpoTGdsZ1l0cE0wLVRwR0llYkZFaXJtNFFGSWZqelJGRUNURzVlakpwSXRVanJUeGx6LXQwcm9WZV92YlJ5WlJWX3FsbU1YMTY2ZzdPVkdfcVljZ2ZvQVVldGtxcS1iT0tR?oc=5",
+   "titre": "Retour des Gilets jaunes et enquête sur un accident mortel parmi les infos de la semaine à Fontainebleau",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 19,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZ3Z0TmpUeUhBNDRtTWdHc0FCX0p6cGVjQmJyMHZCNVVIUFNVRTZ1Qm4zTnhTd3RzN2NMcnl3SHVnUzIzZXFGcjkyNW4zb084Vm5EX1k2OVlJZ0xIY18yM0l4U0otNW1EQ2JMOUhORmVvRkVQSXcxODN4V28wcGV2ekZWWVhQenVnUW5ScjhfY1BaTW1MQkIzcXY5V3h0eEF6S0QxVWVVSzVMUWVUWnNmS3JKQVNYT3VMT0RPbDZEWGxjb2Q4V2k3bmRwUVkxa1N4ZWhIWkdVZU1qLTBBdUNyTHZoa191V0FhYk1kZXAwWXJlSVBJSWF5UDFlVEhlUVpvR0tIY3NPNlFBY2dXbnhxTHRIQVRTZzhO?oc=5",
+   "titre": "Manifestations interdites, centres-villes sous haute surveillance, retour des Gilets jaunes : à quoi s’attendre ce samedi 24 octobre en Occitanie",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 20,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-7-violences-couvre-feu-dispositif-aujourdhui-20261023",
+   "titre": "Manifestation du 24 octobre : interdictions, dispositif de sécurité… Toutes les informations du vendredi 23 octobre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 21,
+   "nom": "Yahoo Finance France",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy1JaHFWQUwwdjk1bTE3YnVxU05KU2VpMXFoR0dibmJqbDRWdlhkR3pjcXdrUFR4LTAyYU50WUVDR1ZWejFlTjlkeEJDczlLb0xIdUNPVVNCUk1UblVJeHZ3elB1d19iSTk2NmRWanFTa2JIV2dHdHRQWXRPbWRGZklhSWs4QnhvYzlOTUNkLTMzUVp1dVktaEJGX0hJQWxHbWFLMGMwXzQ?oc=5",
+   "titre": "Nouvelle journée de mobilisation sous très haute sécurité après le chaos du 17 octobre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 22,
+   "nom": "Infos Dijon",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT0lEYlYzNmx5eC03QlRWTTdXTTlsbEp5QkNNM3pYcGJmdFVjeHNQWk15c0pCb2ZUQ3k2QVVlZXBkX3BaN0p6aXFXTVZjZGZEVUp3cHRXc3o1b3lGdXBrUmVlSVJBQl9rOGtDUGoxNTluNldCMVhVNUlHVXF3Z2lSYndzOFlHRDVBZWZVdFdKWi1PRVdfOEhmeUlMWEtvdEh4REJhZUZSQU9IRFQxbGZHQTBmaHpybFhVUTlITGhTcnZmZVEtMjhXbDlIY3BJUkJtWjlacTNqdw?oc=5",
+   "titre": "Interdiction de manifester au centre-ville ce samedi 24 octobre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 23,
+   "nom": "Libération",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEl3WVptS3pNZkpPcGpheXlmbTdNc1pyc3VEOFRBY1F3MS1nMVFMY19uR3p0Z3ZERDlVd2tTMDJMX3JzTUNHYXlZSXhnWFNCQ3J5Vk16dnNGRTFnMUxET2JaVU9NNFU2RElBeW1hY0RqVkFhamdUcE1pRWhjSm1UTWt0S2tUZy1qQXkzYVdURXdKdEZFeVlOT1lQRExtbVZ6THNQZU5fX1ZfZUJKU2R4bGFiOW85emRySGhKemRVX2FtQVYzazhKY1N3cVE4bHNKWkVvVlNIdWx6c1d6Z2FHRlR6dEVkMllW?oc=5",
+   "titre": "24 octobre : une journée de mobilisation dans un climat de répression",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 24,
+   "nom": "Le HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMGpLVU9hWWNWTEhsZ2F6SF9kSHhWMWdoMkVfYlNBenp5VGFJdGdrT254Vjlzd3BjREVrUWZ3MEFXbTlPWWlzNE5jZ1FvalljNmRiUWVRSS16eWdBZUVaMUEzMGhqVldTVlQxZ3F6eEotM1dWMWxfRHdHcmw4WUdZNGZDeGNSSE5RY3dYSjg2RHpxdDhqOFhneVpweWlIQld0YkU1T0dLNTZCNGlKQW1UVjY0VC1hTmE4WTNRN055clY5Umk0VXRqT0EzYjRsMy1wbGp4RlRsX2xjM014ckV0VE53?oc=5",
+   "titre": "Mouvement lycéen : cette promesse de Macron n’a pas empêché un nouvel appel à la mobilisation",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 25,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/10/23/manifestation-du-24-octobre-a-toulouse-gendarmes-dans-le-centre-ville-raid-militaires-de-sentinelle-vehicules-centaures-des-moyens-exceptionnels-13617333.php",
+   "titre": "Manifestation du 24 octobre à Toulouse : gendarmes dans le centre-ville, RAID, militaires de Sentinelle, véhicules Centaures... des moyens exceptionnels déployés pour la sécurité",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 26,
+   "nom": "Capital.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWFF5c0xkMkZrV1E2OWt4WVAtRmEtSVFmTDZuTFdrU01vRWtWdzhPMW8tZ09qZ3R3blU4NjVLaEp0a3ZobkhXNGJLd3d2VEJsdU5PdURORDBKZ2xOSzdWb09KNTFzbVZuRzVWZlRGc0JOQmhTZExHVnJwWE8tMmRzMnBFRG9oN3JCd0pMb1dwME15VURsRFgxdXBCYy1JZk5QUmotcXFoYm10Q2lWYVpKUHE0blR2UHdtNFAwNzAyZVZEbm5FdzF4T3lIdlA0NFl1SHF2WDdaNmxJYkY3V3R6b1VFTXptdTVOWm85Y25nOURuRmc?oc=5",
+   "titre": "Gilets jaunes, la carte des manifestations de samedi et les grandes villes qui les interdisent, vérifiez la vôtre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 27,
+   "nom": "Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTEpXNnI4YXM5RGktdGtOcTlGN0FDVTZXLUlaazRYYXZUamRYMmQ1NTlsR0ZvQ3M1MUNnSFRmTkRVejRLSjFUUE02WDM2SGtKNnY5dW9NSFo4WUZSaXhYMjhjQzFrSU1JQVE0MklFR3RtMmw2ZVQ0RTFMVUpieEI1SkV0SFpZelQ5WnAyYkhoVkpxZ3JIbGFsdlRwdVcxZDNrY2dSYWtnZS1zWVk5bkhuLWhBNzBXWVFsWjZyQWdjYmZHeGFKX3U1LW0wVTFnbDTSAdcBQVVfeXFMTUo2cllacVBXNS1pMGp2MGhUN0tKSERONU1qNGxtLWJPc25BWXMzU3ZDMXVOSXZTM0JhOVdoLUpTVUd4SGVQNkVYNTVQTU1kbFVHZjdYSHpFc0RSSVVUM09DMTNnZHgtR2ZDU2NMS0ZDbkVXMzFzVFkxWEVRYVl2TU1lUVhoQVU3SzhqWXZSMVUyUE54ZGo0OU5QMUs4bFAweW94Q0pFVEpxRzQxN080ZWxPeUNqNURVcUZ3akhaOFdNQWZMV0pOYVpLclBRYVRYVWx6dlJLWUE?oc=5",
+   "titre": "Mirail : Au cœur de l'occupation, les étudiant.es en psycho se mettent au service de la mobilisation !",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 28,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/international/cette-election-est-existentielle-a-acre-le-pari-de-la-mobilisation-des-palestiniens-d-israel-20261023",
+   "titre": "«Cette élection est existentielle» : à Acre, le pari de la mobilisation des Palestiniens d’Israël",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 29,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeUV0T0lBanNfWlpRNXpKa0lrcFphamtZR1Z1ZUdVLXVXYWxnRmQwcVc3S1JVdVNUWFZMd3g3WXNNSEY0Yml4QVZzVS12cUh1UzFSRGZtbG9uZERpbDU0aHN0UlBnQUY3UVVoZGl4NkFaLWNOcmcxMVd0T0ZIY2otaWo1YnhVYVdqUU5jUDBad093MnpZZzZZUlZoNTBhWEFHak5MY0N6U1VJV0dmd080Y2dKdFlTc0JGTHpYYWdDVTNIUC14Y1o1Nk52YmNVZHlkYVFERG5VTWRHSWNVNElza0RkV29GV3JzYVdhbDllTTQ4RGxCdnUwV1BfQzBndV82V2lzQXJNWDc3SlVJR3RuOVRPOGJ3Zw?oc=5",
+   "titre": "Après une rencontre \"satisfaisante\" avec Emmanuel Macron, les représentants du mouvement lycéen appellent à poursuivre la mobilisation",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 30,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbXRBdkJjMmFjbEhNeUdMQ2dRR2ZlcVJoeEtvYU1HTVJHM2tua0RCUkpyQkthZXkxaG9PcVhvSDRNNm50UFVOMFltTWNKTVNsQUQyM3N4SGstRzdTeWZaXzNzbUM3Zm5vS09zYlhmblpzdlNpMjIzbk85bF9CWENaZHVzaW1QeW0yZGExUVgySUtEdEQ2NWxTcjhxSzRETXFCOG1QV19CTnd0TTBtRHBueTcteFdhYUdwM3ljcU4wUEJ1cHlSeFN0dGFzc2lnaWx1UGZXWFIyOGFIYldfbl9hSFNJZEpVTDBhVWxoMGxPUjg?oc=5",
+   "titre": "À Lorient, contre la vie chère, un rassemblement possible malgré l’interdiction",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 31,
+   "nom": "Le Bien Public",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXJqN09nV09jYnJKVjNBS2ZROGtnb1czV2lrT1pZVEY2QmtSZExxMzFjcVJqc003MmRUNThJSnBJRmx2bU9qWWdORGd5U3Qta3ItcThJOThBRmRjekRCYzkzNG1qS1A2SHNvdGdoTEwtZnFoU2loVjBvRklyRnVkWnBsZjJNRmZydm9uaEprZE05VmRWYl9LYzRWb0VXTnFCNlppdDh4YjZvOElLcUdPTWZPMkVhdUVpY3dXTXZxLUVfa3piaGhRaUVsRE8xOTVMbDBTMjF1MDVmME4xX3FDNU9ncw?oc=5",
+   "titre": "Mobilisation « contre la vie chère » du 24 octobre : la préfète annonce qu'« aucune manifestation ne sera légale »",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 32,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdUhJTDljcXhtSVp2UktickJQeVZVSU5JRkhGcEFkRThhSXo0R1VOTXF3ay1lQW5OR20wdzBxLUk2cFVQQVdTXy04LWFrN2QxT0NPUjNmOHU4VloxbFl6dEJ1NGVkbFB2WEZFZXRId1V4ME9WcnlCLTJxTGFDaWNOd1NHVTAyUHE1MHYydnpVTDJrRjBfWTRKSERxaE1uUDNDNDRUaG91aUtmNkpvWXEyTm5nSWtlSjZ4WU0wcEFkaXBFMXBEb09kNjJSc0xZVno3VmhZa3cyaUZkUnNTMkVIdEJjNGxRZnlEUFo0SWpPYzQtekc5eUJ4Y0lRUHZ0dTRJ?oc=5",
+   "titre": "Manifestations du 24 octobre : \"une option possible\" … couvre-feu, interdictions, quelles mesures en Seine-et-Marne ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 33,
+   "nom": "Le Figaro",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSlgzQS1HV2FJdU5ha2RJeEJ5d20tNEFQQmxfYTBvN0lFbTNhWDh2S1BvS041VDJ0TTk0ZXJBUjYtZk80TU9VLXdUSXlXSmdmMXExVmY4MW9saG10M2dHbEk2anBtMkpjSmNMRThEb1V1aUx4THhLTm5ud1ZacUkwOXVvQVF0NWQ4dm9EampOVDdFNWV3U3ZHQTBPU3UybGlwaWVPeU9RWkpBWFAyWHlxUjlfYmtjWXp3R2hCamZYRFowODdDaDdNTW5MU3Nmc1FjUWotMWZlOVdOTDcyUDY0ZVZfZDg1WmlWeUZsRU1JTXowVm1VekJ4SThsbU1MMk0?oc=5",
+   "titre": "Retrait du mobilier urbain, des poubelles, des vélos en libre-service… Les villes vident leurs rues avant l’Acte II des «gilets jaunes»",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 34,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/manifestation-du-24-octobre-pourquoi-des-internautes-appellent-ils-a-se-rendre-a-clermont-ferrand-20261023",
+   "titre": "Manifestation du 24 octobre : pourquoi des internautes appellent-ils à se rendre à Clermont-Ferrand ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 35,
+   "nom": "La Croix",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlFUbkdVVXVsbzRXcmdWQUZXNWdISmxldmU0UGtXYzBNai1pQ25IR09mOF9MMFJOb0VJajdILWF0Sk5UMExLdHk5Y1lCUHZwM1F3NGpOend1Vi1PREl4UVg2aGtFeFZUR2FudGFCdVBGSnJ3aEloVDBwbDIwUUZzaXlweVJUdW1rRkU4T041NkdQUlJhbGlaSW9PbXNCYWluOWYwTGR5c1RhUElzUnhBbDVHNW9Xb2JHZEpQN2hDTDYwREthemlPRFIzS2o4SHhnRmJid01Pb3p1Vy1adkVjWVZ3?oc=5",
+   "titre": "Mouvement lycéen : après leur rencontre avec Macron, les représentants appellent à continuer à se mobiliser",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 36,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/incendie-de-la-mairie-de-limoges-les-deux-suspects-presentes-a-un-juge-dinstruction-1176792?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Incendie de la mairie de Limoges : les deux suspects présentés à un juge d’instruction",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 37,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/manifestation-du-24-octobre-mobilisations-transports-perturbes-a-quoi-faut-il-s-attendre-20261023",
+   "titre": "Manifestation du 24 octobre : mobilisations, transports perturbés… À quoi faut-il s’attendre ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 38,
+   "nom": "Le Singulier",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXQ3Q09tbTBjS0VMRU40UHd0MWpVT3liVnc4UDBRVlk5Z1h2TXpiOWk1M2wtcS1WV1JuczBOS0NzVEZzQWxLdTJTckN3VjVnbFBaYUo3bEFOanNkZ3l0SER0SHRqLXBHcGl5S0dDd09YM01MZVhwRHJPNi0wRW9ta1hrbjNZZGpJVjBabGZsNDZNam5kQnJ2d0IybHFTYU5hTnVOeUFBS1B1LTA?oc=5",
+   "titre": "Un samedi sous étroite surveillance pour les manifestations contre la vie chère",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 39,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/manifestations-du-24-octobre-apres-le-fiasco-l-epreuve-de-verite-pour-le-gouvernement-20261023",
+   "titre": "Manifestations du 24 octobre : après le fiasco, l’épreuve de vérité pour le gouvernement",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 40,
+   "nom": "Cluster17",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUZiVXRGa2pCLXpKdkNTX2U4anZtc3UyTEpkNGJ3Mm1CQVVOUi13RTRvRjNDbkZFRlZ2NDhWbkNNeFNVd2Z0NDNveFA4RGFPU18zOGNLRzNmOWNXRDdUY1ExbkpqRTRmSlJvNEdaeGRBMW1MLXl4LXJkRWh0Qm5XTkRIaG5zeVdMR0RQZVE4amg2OFpnejlyRVBBNXRaUWJpUjA1OHFkVjM3UFFHQ0xQbmFFM2VxdnVFTFVBS08talJlUDZianRESXhxVXhsenhBRmRyNXJ6eDFfTEdqaERDOHJn?oc=5",
+   "titre": "Sondage sur la mobilisation lycéenne pour l'Opinion (2e vague) : Après le 17 octobre, entre soutien au mouvement et exigence d’ordre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 41,
+   "nom": "Dijon Actualités",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOGFQZ2p4dDJfLVdFaENiNk5ueTlpc2VRbmhvU2NfdF8wb2xVSDVWNEhLbVFhTk0tSmlvVEp3REpzME1xWVlEYmlCakdwdGJlMmNtWFhUbXNCSi1NbDBta3RNc1U5dF9LUUhRWGNuczVzQ196SUVKcWpZOXlOdk5LRndxQXlZMVlNV1pxSm1STTh5MnpCV2s2Zlh0Xy03TDBMWW1KQVJZSTB5U2pmU0FCZlV2NWpwT1ZpM2ZXaC1kRUMwNGVfUktjUldfZjc5N0FvTG4wMC1RVQ?oc=5",
+   "titre": "Dijon : pas de manifestation contre la vie chère autorisée ce samedi, le centre-ville sous surveillance",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 42,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUUhHeW1ZVXh1eHNYNHRMbGxzeDRLYWEyeTdhVjYzc2d5TzR4ZUNwOC1LUnBUUlJmUEdiUHBTTy1VeGhSUnFOalF1SXZzRzJoNGFuUmZITThKQ3NEcmYzamRudndxLWdJTXprV0FNYmVUU0FsRlRscmlWWkZkcG5YZElaRFprdzdla3BlSjI1amZLQ2VackloRkFVUzdMRjR0RU1zWm1oY3B1OERVY1AxRW90bFlvUDh6R1UxekFMNFZCTks4clNlMDlaVHNXRnd5b0M5aHRneG9oNWlmRDVDTE8yTE5kZWEyRm8yX0lGQjRDY2NneFM4aE9EWDdrVmZVWTVDeDd1OFc3bC1iY2drSUFB?oc=5",
+   "titre": "Mobilisations du 17 octobre : « L’héritage des “gilets jaunes” s’observe dans les transformations des manières de manifester »",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 43,
+   "nom": "ram05",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYjN1S0YzaURoQ2RBbVhRdzlqZVBFbXB6Uk5rdVFMYXRTZU5rellrQ1MxcVhneS1tUmJCQlNGY3AtZTJFdnpBNmRYejU4NGxmY20wSzVXY2Nma0xjYXRwTkFHZTJHM1puSkh1dDJn?oc=5",
+   "titre": "La Vie Publique – Mobilisation lycéenne : « Il ne faut pas lâcher tant qu'on n'a pas obtenu ce qu'on veut",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 44,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPY0pQcDNaNDB1YnFzSVRBWVZhbXQ3UUxOVFFQUVRjaDQyTUU3V3Z0NWRUejV4aV9OMEFuWldST3ozaU9Ua1RhZ0cwbWJXektMVk5VdE9uS0FDS3BZTzA0cW54U1d0ZnFzb0tkVkVqa1h4NzhIbzVlbFR3T094R01VVTVodC1yeHhKYWNTVmhxVnZ2MUZfVWNtOFhYX3BORmsycURxbUJmU1B6MWFnLWNqYjZWcmNPNWN1MUhNVWhYREs0WG9LUmt1VDkyczBMSG1PZ3RnNmdrQTAwQ2dxc0ozY1F0NU15X3NrdkZaNnVNa0FseDE4aXdPX0ZMMzBMN3czeVBGeXZLQVhkQnRBM3pXWXMzaG5wTi1FZU9MeU9R?oc=5",
+   "titre": "Manifestations du 24 octobre. Tout savoir sur les mobilisations attendues et envisagées en Sarthe ce samedi",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 45,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/tout-le-monde-se-barricade-a-marseille-les-commercants-se-preparent-au-24-octobre-20261023",
+   "titre": "« Tout le monde se barricade » : à Marseille, les commerçants se préparent au 24 octobre",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 46,
+   "nom": "TV Sud Magazine, le magazine N°1 dans le Gard Rhodanien",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVlYUnVITXRINmF6LUVqeV9ESUZCT1Q3azJDNDZyNm5qalNrUFp6R2otM2J4ckFBVHpXOHRDdWxSX3dPa01kNlVVMEs2MjlzR2JTcFpUbzc1Vnl5R1FPYXl3Sl9xWVVEOC1SR1lMYmNQVFBTQU5QeVVWSFljVkFWZW9jc2h3NmhBYjhmSmxwVk5VY1liWDc0ZmpLcFhkUFNBMGRjcmFpR2Z3RkNIVXNJWlRFT0RlTGJ5eFlaSXp3?oc=5",
+   "titre": "Gard : 580 manifestants, 22 interpellations et 13 blessés lors de la mobilisation lycéenne",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 47,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/10/26/fusillade-a-trappes-ca-nenlevera-pas-le-qualificatif-dattentat-terroriste-raciste-declare-schizophrene-quelles-poursuites-seront-engagees-contre-kevin-13620805.php",
+   "titre": "Fusillade à Trappes : \"Ça n'enlèvera pas le qualificatif d'attentat terroriste raciste\"... déclaré schizophrène, quelles poursuites seront engagées contre Kevin T. ?",
+   "date": "2026-10-23"
+  },
+  {
+   "n": 48,
+   "nom": "mesinfos",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFRXRllDVWl3MFY1b2dSY1VRR0JoZzhXbTlETlNSeWVuZ05uNjhKS05mWDZjS19MNm13OEJUdkxWS0k1U3U1SzlvVHp1V3RQX0VIXzZBWHU2WUFqQmxCRS13U1VKbGtubkFLbDlzQ2pVSV9QR2tSMzYxWEpLUV9YSVNnRkNOeDFxOFVwSjgwbWN5ZnlET1MyaHBVVWhaRnJRUFF3OUdJWnBDeklTeElIam5WSWVIN1doRkxxQndXQ0p1WFhYQUhWSTNUNzA2R1lXWkpZSU9qQjRKdnhLRG85LQ?oc=5",
+   "titre": "Blocus des lycées en Provence-Alpes-Côte d'Azur : 6 millions d’euros pour les dégradations",
+   "date": "2026-10-23"
+  }
+ ],
+ "genere": "2026-10-26T17:17:45.543456+00:00"
+}
