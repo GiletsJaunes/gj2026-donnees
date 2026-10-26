@@ -1,0 +1,647 @@
+{
+ "titre": "Vendredi 16 octobre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 824 interpellations selon la préfecture de police, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "824",
+   "libelle": "interpellations",
+   "detail": "selon la préfecture de police",
+   "sources": [
+    43,
+    44,
+    45
+   ]
+  },
+  {
+   "valeur": "8 000",
+   "libelle": "gardes à vue",
+   "detail": "selon le ministère de la Justice",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "valeur": "5 000",
+   "libelle": "gardes à vue",
+   "detail": "selon franceinfo",
+   "sources": [
+    49,
+    50
+   ]
+  },
+  {
+   "valeur": "937",
+   "libelle": "policiers et gendarmes blessés",
+   "detail": "selon Sébastien Lecornu",
+   "sources": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "valeur": "215",
+   "libelle": "lycéens et manifestants blessés",
+   "detail": "selon Matignon",
+   "sources": [
+    54,
+    55,
+    50
+   ]
+  },
+  {
+   "valeur": "149",
+   "libelle": "blessés parmi les personnels de l’Éducation",
+   "detail": "selon Sébastien Lecornu",
+   "sources": [
+    53,
+    52,
+    56
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "824 interpellations en Île-de-France depuis le début du mouvement, dont 85 % de mineurs, selon la préfecture de police",
+   "sources": [
+    43,
+    44,
+    45
+   ]
+  },
+  {
+   "texte": "Près de 8000 personnes placées en garde à vue depuis le début du mouvement, selon le ministère de la Justice",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "texte": "5 000 personnes interpellées et placées en garde à vue depuis le début du mouvement, selon franceinfo",
+   "sources": [
+    49,
+    50
+   ]
+  },
+  {
+   "texte": "937 policiers et gendarmes blessés depuis le début du mouvement, selon Sébastien Lecornu",
+   "sources": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "texte": "215 élèves blessés depuis le 28 septembre, selon Matignon",
+   "sources": [
+    54,
+    55,
+    50
+   ]
+  },
+  {
+   "texte": "149 personnels de l'Éducation nationale blessés depuis le début du mouvement, selon Sébastien Lecornu",
+   "sources": [
+    53,
+    52,
+    56
+   ]
+  },
+  {
+   "texte": "147 personnels de l'Éducation nationale blessés depuis le début du mouvement, selon leur ministère.",
+   "sources": [
+    57,
+    58
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon L’Indépendant, Mobilisation du 17 octobre : lycéens, gilets jaunes 100 000 manifestants, grenades assourdissantes... À quoi s'attendre lors des manifestations ce samedi ? (repris par 13 médias). Selon Le HuffPost, Laurent Nuñez a annoncé que les grenades assourdissantes, interdites dans le cadre du mouvement lycéen, pourront être utilisées en cas de \"violences urbaines\" (repris par 13 médias). Selon Sud Ouest, Mobilisation lycéenne : coups, insultes homophobes et racistes… Deux ados portent plainte et témoignent de violences policières (repris par 3 médias). Selon Europe 1, En direct - «Objectif Elysée 2027» : Blocus des lycées : Marine Le Pen dénonce le \"laxisme du gouvernement\" face aux casseurs (repris par 3 médias).",
+   "sources": [
+    3,
+    4,
+    30,
+    31
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon L’Obs, 17 octobre : blocages, manifs, Gilets jaunes… Suivez la journée de mobilisation dans la Manche (repris par 21 médias). Selon Le HuffPost, DIRECT. Manifestations du 17 octobre: plusieurs rassemblements prévus en France, Emmanuel Macron appelle \"au calme\" (repris par 10 médias). Selon actu.fr, Gilets jaunes : voici les actions et les blocages annoncés à Toulouse et en Haute-Garonne samedi 17 octobre (repris par 7 médias). Selon L’Humanité, Mobilisation du 17 octobre : le siège de CNews à Paris ciblé par une centaine de manifestants, 21 interpellations (repris par 5 médias).",
+   "sources": [
+    2,
+    10,
+    13,
+    9
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon L’Humanité, Colère des Lycéens : Ce que l’on sait sur l’intervention de la police au lycée Paul-Eluard de Saint-Denis (repris par 13 médias). Selon L’Obs, Direct – Mobilisation contre la vie chère en France : tensions et gaz lacrymogènes avant le départ de la manifestation à Paris (repris par 12 médias). Selon ici (France Bleu), Manifestation du 17 octobre : à Pau, ces lycéen rêvent du \"grand soir\" et d'une convergence des luttes (repris par 12 médias). Selon L’Humanité, « Le 17, c'est war zone ! » : l'influenceur Rayan PSN placé en garde à vue après ses appels à l'émeute à Paris (repris par 10 médias).",
+   "sources": [
+    5,
+    6,
+    7,
+    9
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon L’Humanité, DIRECT. Manifestations du 17 octobre : une convergence des \"colères\" dans la rue en France, entre jeunes et gilets jaunes, à quoi s'attendre ce samedi ? (repris par 27 médias). Selon Nice-Matin, Mobilisation du 17 octobre : Gilets jaunes, motards, retraités mobilisés au rond-point du péage du Muy (repris par 9 médias). Selon Paris Match, Lycéens, gilets jaunes, syndicats : à quoi s'attendre ce samedi 17 octobre, journée de la convergence des « colères » en France ? (repris par 5 médias).",
+   "sources": [
+    1,
+    11,
+    22
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon L’Humanité, Marine Le Pen demande la démission de Richard Ferrand : le président du Conseil constitutionnel est-il vraiment sorti de sa réserve ? (repris par 11 médias). Selon Midi Libre, \"Nous ne lâcherons pas l’Ukraine\" : tacle au RN, soutien à Kiev, manifestations… Ce qu’il faut retenir du discours d’Emmanuel Macron (repris par 8 médias). Selon Libération, Mobilisation du 17 octobre : interdiction de manifester dans plusieurs secteurs de Paris, autour de l’Élysée et Matignon notamment (repris par 6 médias). Selon Le HuffPost, Manifestation du 17 octobre: \"J'en ai ras-le-bol de la doctrine de maintien de l'ordre dans ce pays\", assure Marine Tondelier, candidate EELV à l'élection présidentielle (repris par 5 médias).",
+   "sources": [
+    8,
+    12,
+    16,
+    18
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-10-16",
+ "numero": 15,
+ "jour_long": "vendredi 16 octobre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/direct_content_feed/lyceens-salaries-gilets-jaunes-dans-la-rue-suivez-en-direct-la-mobilisation-du-17-octobre",
+   "titre": "DIRECT. Manifestations du 17 octobre : une convergence des \"colères\" dans la rue en France, entre jeunes et gilets jaunes, à quoi s'attendre ce samedi ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 2,
+   "nom": "L’Obs",
+   "url": "https://www.nouvelobs.com/politique/20261016.OBS119257/mobilisation-du-17-octobre-gilets-jaunes-lyceens-syndicats-qui-sera-dans-la-rue-samedi.html",
+   "titre": "17 octobre : blocages, manifs, Gilets jaunes… Suivez la journée de mobilisation dans la Manche",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 3,
+   "nom": "L’Indépendant",
+   "url": "https://www.lindependant.fr/2026/10/16/mobilisation-du-17-octobre-lyceens-gilets-jaunes-100-000-manifestants-grenades-assourdissantes-a-quoi-sattendre-lors-des-manifestations-ce-samedi-13604851.php",
+   "titre": "Mobilisation du 17 octobre : lycéens, gilets jaunes 100 000 manifestants, grenades assourdissantes... À quoi s'attendre lors des manifestations ce samedi ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 4,
+   "nom": "Le HuffPost",
+   "url": "https://www.huffingtonpost.fr/france/article/la-justification-de-laurent-nunez-pour-l-autorisation-des-grenades-assourdissantes-le-17-octobre_340696.html",
+   "titre": "Laurent Nuñez a annoncé que les grenades assourdissantes, interdites dans le cadre du mouvement lycéen, pourront être utilisées en cas de \"violences urbaines\"",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 5,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/societe/manifestation-lyceens/mouvement-lyceen-guet-apens-insultes-racistes-violences-a-saint-denis-larrestation-dun-eleve-a-linterieur-du-lycee-paul-eluard-attise-la-colere",
+   "titre": "Colère des Lycéens : Ce que l’on sait sur l’intervention de la police au lycée Paul-Eluard de Saint-Denis",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 6,
+   "nom": "L’Obs",
+   "url": "https://www.nouvelobs.com/social/20261017.OBS119293/manifestations-du-17-octobre-des-tensions-des-les-premiers-rassemblements-a-paris-ou-marseille.html",
+   "titre": "Direct – Mobilisation contre la vie chère en France : tensions et gaz lacrymogènes avant le départ de la manifestation à Paris",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 7,
+   "nom": "ici (France Bleu)",
+   "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/pau/manifestation-du-17-octobre-a-pau-ces-lyceen-revent-du-grand-soir-et-d-une-convergence-des-luttes-7632825",
+   "titre": "Manifestation du 17 octobre : à Pau, ces lycéen rêvent du \"grand soir\" et d'une convergence des luttes",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 8,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/politique/conseil-constitutionnel/le-rassemblement-national-reclame-la-demission-de-richard-ferrand-president-du-conseil-constitutionnel",
+   "titre": "Marine Le Pen demande la démission de Richard Ferrand : le président du Conseil constitutionnel est-il vraiment sorti de sa réserve ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 9,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/le-siege-de-cnews-pris-pour-cible-par-des-manifestants",
+   "titre": "« Le 17, c'est war zone ! » : l'influenceur Rayan PSN placé en garde à vue après ses appels à l'émeute à Paris",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 10,
+   "nom": "Le HuffPost",
+   "url": "https://www.huffingtonpost.fr/politique/article/l-appel-d-emmanuel-macron-a-la-veille-des-manifestations-du-17-octobre_340727.html",
+   "titre": "DIRECT. Manifestations du 17 octobre: plusieurs rassemblements prévus en France, Emmanuel Macron appelle \"au calme\"",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 11,
+   "nom": "Nice-Matin",
+   "url": "https://www.nicematin.com/societe/greves/mobilisation-du-17-octobre-gilets-jaunes-motards-retraites-mobilises-au-rond-point-du-peage-du-muy-10742208",
+   "titre": "Mobilisation du 17 octobre : Gilets jaunes, motards, retraités mobilisés au rond-point du péage du Muy",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 12,
+   "nom": "Midi Libre",
+   "url": "https://www.midilibre.fr/2026/10/16/nous-ne-lacherons-pas-lukraine-tacle-au-rn-soutien-a-kiev-manifestations-ce-quil-faut-retenir-du-discours-demmanuel-macron-13605958.php",
+   "titre": "\"Nous ne lâcherons pas l’Ukraine\" : tacle au RN, soutien à Kiev, manifestations… Ce qu’il faut retenir du discours d’Emmanuel Macron",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 13,
+   "nom": "actu.fr",
+   "url": "https://actu.fr/occitanie/toulouse_31555/gilets-jaunes-voici-les-actions-et-les-blocages-annonces-a-toulouse-et-en-haute-garonne-samedi-17-octobre_64933486.html",
+   "titre": "Gilets jaunes : voici les actions et les blocages annoncés à Toulouse et en Haute-Garonne samedi 17 octobre",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 14,
+   "nom": "France Inter",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/mobilisation-du-17-octobre-les-gilets-jaunes-tentent-de-structurer-le-mouvement-1289964",
+   "titre": "Mobilisation du 17 octobre : les gilets jaunes tentent de structurer le mouvement relancé par la colère lycéenne",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 15,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/des-manifestants-dans-la-mairie-a-marseille",
+   "titre": "Mobilisations du 17 octobre: un poste de police municipale attaqué à Marseille",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 16,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/mobilisation-du-17-octobre-interdiction-de-manifester-samedi-dans-plusieurs-secteurs-de-paris-autour-de-lelysee-et-matignon-20261016_GWRFEAYARJGOVHUUOSRKHJTTYI/",
+   "titre": "Mobilisation du 17 octobre : interdiction de manifester dans plusieurs secteurs de Paris, autour de l’Élysée et Matignon notamment",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 17,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/des-dizaines-de-stations-de-metro-fermees-a-paris",
+   "titre": "Manifestations à Paris : de nombreuses stations de métro fermées samedi 17 octobre, voici la liste ligne par ligne",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 18,
+   "nom": "Le HuffPost",
+   "url": "https://www.huffingtonpost.fr/politique/article/la-france-a-macron-a-t-elle-un-probleme-avec-le-maintien-de-l-ordre_339968.html",
+   "titre": "Manifestation du 17 octobre: \"J'en ai ras-le-bol de la doctrine de maintien de l'ordre dans ce pays\", assure Marine Tondelier, candidate EELV à l'élection présidentielle",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 19,
+   "nom": "actu.fr",
+   "url": "https://actu.fr/occitanie/nimes_30189/direct-gilets-jaunes-dans-le-gard-blocages-manifestations-suivez-la-situation-en-temps-reel_64936453.html",
+   "titre": "DIRECT. Gilets jaunes dans le Gard : blocages, manifestations... Suivez la situation en temps réel",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 20,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/linfluenceur-rayan-psn-place-en-garde-a-vue",
+   "titre": "\"Le 17 c'est Warzone!\": l'influenceur Rayan PSN interpellé et placé en garde à vue après ses propos sur les manifestations du 17 octobre",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 21,
+   "nom": "Le HuffPost",
+   "url": "https://www.huffingtonpost.fr/politique/video/la-reponse-cinglante-d-emmanuel-macron-a-marine-le-pen-sur-l-ukraine-la-capitulation-c-est-la-faiblesse_340925.html",
+   "titre": "\"Nous ne lâcherons pas l'Ukraine\", assure Emmanuel Macron",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 22,
+   "nom": "Paris Match",
+   "url": "https://www.parismatch.com/actu/societe/lyceens-gilets-jaunes-syndicats-a-quoi-sattendre-ce-samedi-17-octobre-journee-de-la-convergence-des-coleres-en-france-277609",
+   "titre": "Lycéens, gilets jaunes, syndicats : à quoi s'attendre ce samedi 17 octobre, journée de la convergence des « colères » en France ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 23,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/on-prend-la-bastille-entendu-dans-le-hall-de-la-mairie-de-marseille",
+   "titre": "« On prend la Bastille » : Paris, Nantes, Marseille.... les manifestations du 17 octobre en direct",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 24,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/societe/gilets-jaunes/lyceens-et-gilets-jaunes-lheure-de-la-convergence",
+   "titre": "DECRYPTAGE. Manifestations du 17 octobre : une \"convergence des luttes\" possible entre Gilets jaunes, syndicats et lycéens ou un \"moment mal choisi\" ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 25,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
+   "titre": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 26,
+   "nom": "Le Dauphiné",
+   "url": "https://www.ledauphine.com/social/2026/10/17/mobilisation-du-17-octobre-ronds-points-peages-stations-service-suivez-les-actions-des-gilets-jaunes-en-direct",
+   "titre": "Drôme-Ardèche. Mobilisation du 17 octobre : ronds-points, péages, stations-service... Suivez les actions des Gilets jaunes en direct",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 27,
+   "nom": "TV5Monde",
+   "url": "https://information.tv5monde.com/international/aux-etats-unis-samedi-de-mobilisation-pour-transformer-la-contestation-anti-trump-en-vote-2842046",
+   "titre": "Aux États-Unis, samedi de mobilisation pour transformer la contestation anti-Trump en vote",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 28,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/economie/social/journee-du-17-octobre-peu-dappels-syndicaux-nationaux-mais-des-marques-de-soutien-20261016_G6AIAZUNDNGQ5F7L5QU3MOLZEQ/",
+   "titre": "Manifestation du 17 octobre : appels, cortèges… Suivez la journée de mobilisation",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/info-bfmtv-manifestation-du-17-octobre-entre-60-000-et-110-000-manifestants-attendus-par-le-renseignement-en-france-hors-paris_AN-202610160379.html",
+   "titre": "INFO BFMTV. Manifestation du 17 octobre: entre 60.000 et 110.000 manifestants attendus par le renseignement en France, hors Paris",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 30,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/faits-divers/mobilisation-lyceenne-coups-insultes-homophobes-et-racistes-deux-ados-portent-plainte-et-temoignent-de-violences-policieres-31093823.php",
+   "titre": "Mobilisation lycéenne : coups, insultes homophobes et racistes… Deux ados portent plainte et témoignent de violences policières",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 31,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/en-direct-objectif-elysee-2027-blocus-des-lycees-marine-le-pen-denonce-le-laxisme-du-gouvernement-face-aux-casseurs-1151948",
+   "titre": "En direct - «Objectif Elysée 2027» : Blocus des lycées : Marine Le Pen dénonce le \"laxisme du gouvernement\" face aux casseurs",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 32,
+   "nom": "L’Opinion",
+   "url": "https://www.lopinion.fr/politique/mouvement-du-17-octobre-deux-corteges-sauvages-et-61-interpellations-a-paris-un-commissariat-attaque-a-marseille",
+   "titre": "Mouvement du 17 octobre : deux cortèges sauvages et 61 interpellations à Paris, un commissariat attaqué à Marseille",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 33,
+   "nom": "ici (France Bleu)",
+   "url": "https://www.ici.fr/infos/economie-social/en-direct-les-manifestations-du-17-octobre-dans-les-bouches-du-rhone-le-var-et-les-alpes-du-sud-7759509",
+   "titre": "EN DIRECT - Les manifestations du 17 octobre dans les Bouches-du-Rhône, le Var et les Alpes du sud.",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 34,
+   "nom": "ici (France Bleu)",
+   "url": "https://www.ici.fr/bourgogne-franche-comte/haute-saone-70/mobilisation-du-17-octobre-a-quoi-faut-il-s-attendre-dans-le-doubs-et-haute-saone-1801902",
+   "titre": "Mobilisation du 17 octobre : à quoi faut-il s'attendre dans le Doubs et Haute-Saône ?",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 35,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vidéo/20261017-17-octobre-des-milliers-de-manifestants-attendus-dans-toute-la-france",
+   "titre": "17 Octobre : des milliers de manifestants attendus dans toute la France",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 36,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/des-nouvelles-de-lyon-marseille-et-clermont-ferrand-notamment",
+   "titre": "EN DIRECT Mobilisation du 17 octobre : Quelques actions dispersées ce matin, notamment à Lyon et Marseille...",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 37,
+   "nom": "actu.fr",
+   "url": "https://actu.fr/nouvelle-aquitaine/bordeaux_33063/mobilisation-du-17-octobre-le-pont-chaban-delmas-bloque-des-premieres-actions-en-gironde_64937853.html",
+   "titre": "Mobilisation du 17 octobre : le pont Chaban-Delmas bloqué, des premières actions en Gironde",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 38,
+   "nom": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-kiev-lance-le-stargate-un-drone-ambulance-revolutionnaire-capable-devacuer-les-blesses-par-les-airs-17-10-2026-3QQRSUQMRRFARF4BNQG5KWATPI.php",
+   "titre": "Guerre en Ukraine : Kiev lance le « StarGate », un drone ambulance révolutionnaire capable d’évacuer les blessés par les airs",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 39,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-17-octobre-bally-bagayoko-craint-la-mort-d-un-lyceen_8241655.html",
+   "titre": "Mobilisation du 17 octobre : Bally Bagayoko craint \"la mort d'un lycéen\"",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 40,
+   "nom": "actu.fr",
+   "url": "https://actu.fr/bretagne/lorient_56121/blocage-des-lycees-dans-le-morbihan-sept-interpellations-et-des-lycees-a-nouveau-fermes_64931391.html",
+   "titre": "Blocage des lycées dans le Morbihan : sept interpellations et des lycées à nouveau fermés",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 41,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/gare-du-nord-il-y-a-deja-du-monde-et-deja-la-police",
+   "titre": "Manifestations à Paris : un cortège part de la gare du Nord, la police tente de le détourner vers République",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 42,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/economie/social/paris-le-siege-de-cnews-cible-par-des-manifestants-cette-nuit-des-vitres-cassees-21-interpellations-31108941.php",
+   "titre": "Paris : le siège de CNews ciblé par des manifestants cette nuit, des vitres cassées, 21 interpellations",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 43,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/blocages-de-lycees-plus-de-800-interpellations-en-ile-de-france-dont-85-pourcent-de-mineurs-abc97d5c-bf03-11f1-b7db-555e86a524f6",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 44,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/blocus-des-lycees-824-interpellations-en-ile-de-france-depuis-le-debut-du-mouvement-85-sont-des-mineurs-1120223",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/colere-des-lyceens-plus-de-800-interpellations-en-ile-de-france-dont-85-de-mineurs_AD-202610030193.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 46,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/societe/manifestation-lyceens/mouvement-lyceen-pres-de-8-000-gardes-a-vue-dont-1000-de-plus-en-cinq-jours",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-8-000-personnes-placees-en-garde-a-vue-depuis-le-debut-de-la-mobilisation-26-en-detention-provisoire_AN-202610140638.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 48,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/mobilisation-des-lyceens-pres-de-8000-personnes-placees-en-garde-a-vue-depuis-le-debut-du-mouvement-20261014",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 49,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 50,
+   "nom": "Sud Radio",
+   "url": "https://www.sudradio.fr/sud-radio/blocus-des-lycees-le-syndicat-des-avocats-denonce-les-methodes-de-la-police",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 51,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-mobilisation-lycees-etudiants-937-policiers-et-gendarmes-blesses-dont-40-sur-la-seule-journee-d-hier-248-eleves-blesses-annonce-sebastien-lecornu_VN-202610140557.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 52,
+   "nom": "CNews",
+   "url": "https://www.cnews.fr/france/2026-10-14/blocus-des-lycees-937-membres-des-forces-de-lordre-et-149-personnels-de",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 53,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 54,
+   "nom": "L’Humanité",
+   "url": "https://www.humanite.fr/-/-/les-chiffres-depuis-le-debut-du-mouvement",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 55,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/ca-n-est-jamais-arrive-edouard-geffray-deplore-des-violences-commises-a-l-encontre-de-85-membres-du-personnel-educatif_AN-202610060319.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 56,
+   "nom": "L’Est Républicain",
+   "url": "https://www.estrepublicain.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 57,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-147-membres-de-l-education-nationale-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-214-lycees-restent-fermes-mardi-annonce-le-ministere_6793059_3224.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 58,
+   "nom": "CNews",
+   "url": "https://www.cnews.fr/france/2026-10-13/blocus-des-lycees-147-personnels-de-leducation-nationale-blesses-depuis-le-debut",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 59,
+   "nom": "Marianne",
+   "url": "https://www.marianne.net/societe/emeutes-lyceennes-les-policiers-veulent-siffler-la-fin-de-la-recre",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 60,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/agressions-de-proviseurs-et-degradations-de-lycees-l-education-nationale-victime-d-une-entreprise-de-destruction-20261002",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 61,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/marseille-rouen-orleans-plusieurs-chefs-detablissements-agresses-lors-des-mobilisations-lyceennes-1118927",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 62,
+   "nom": "actu.fr",
+   "url": "https://actu.fr/societe/colere-lyceenne-141-interpellations-en-essonne-lors-de-violences-les-rassemblements-interdits-aux-abords-de-13-lycees_64915728.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 63,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-expliquer-le-nombre-important-de-gardes-a-vue-depuis-le-debut-de-la-mobilisation-lyceenne_8235619.html",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 64,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-quel-est-le-premier-bilan-des-enquetes-judiciaires-en-anjou-sarthe-et-mayenne-155cf588-c7b9-11f1-9522-1f9ae0711c0a",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 65,
+   "nom": "L’Est Républicain",
+   "url": "https://www.estrepublicain.fr/education/2026/10/14/blocus-des-lycees-pres-de-8000-gardes-a-vue-et-26-detentions-provisoires-annonce-la-chancellerie",
+   "titre": "",
+   "date": "2026-10-16"
+  },
+  {
+   "n": 66,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-20-personnels-de-l-education-nationale-ont-ete-blesses-lundi_8235160.html",
+   "titre": "",
+   "date": "2026-10-16"
+  }
+ ],
+ "genere": "2026-10-26T14:44:50.605236+00:00"
+}
