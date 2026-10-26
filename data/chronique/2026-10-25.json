@@ -20,15 +20,15 @@
     6,
     7,
     8,
-    10
+    11
    ],
    "theme": "Le mouvement"
   },
   {
    "texte": "Selon Le Figaro, Présidentielle 2027 : Marine Le Pen réorganise son parti et lance sa campagne à Orléans. Selon Sud Ouest, Présidentielle 2027 : Marine Le Pen souhaite abolir la loi Hulot sur la fin de l’exploitation des hydrocarbures en France.",
    "sources": [
-    14,
-    41
+    15,
+    44
    ],
    "theme": "Politique"
   }
@@ -42,7 +42,7 @@
  "jour_long": "dimanche 25 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -102,261 +102,261 @@
   },
   {
    "n": 9,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzA4Wm1PUnozdG5Ob0Y2Q0JOaEppeE9YM1h2S2NOS01PUmY3eVk2RnZHQmZBV2lHUmJMQUtsV01ockRGUi1wUFU5ZUx0c3duQ1VqUWlVdEQ2Y0JiNC10ajlYUE9WZUh4TzVia0tqVnR0VzJXaWZFRWszR1RpemJFUm85MGVFdjZmNkVDVXBuWVRwTlFaZ25PaWFUZFB4VkNwNDdBNlV0NS10YXdtWk5TZVdJa3ViemdLSGNXZ1pUS0tNTGQtX2E3V0R4aFBtbzA3dDFYRV9zeWFzZVFNMjRld19VeFE?oc=5",
+   "titre": "Mobilisation du 24 octobre : 1 314 interpellations dans toute la France, 53 membres des forces de l’ordre blessés",
+   "date": "2026-10-25"
+  },
+  {
+   "n": 10,
    "nom": "RTN.ch",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEJWajFKWHoxT05ZLW5WMjRmMUhQYkpta19pYnRwS0N1WHFiOVR4aGIwUGExNzhwbXlRVGlXZVBtTnRYNlFLa3FPMzRhZ093bFI0ZTBua1lIRnZhTWgtYnM3UjVnSnc1cmFhTUhLR01RNHNVMXlDeE1TUWI3UDNmVWM1UTN5dk5NdEY4dTBLODJvZmxmcGc4R0l0ZFJtdjBya0ZlWVBjUXhhTWU3RmtfTzNXZFZyWjA?oc=5",
    "titre": "Manifestations de samedi en France: 1314 interpellations",
    "date": "2026-10-25"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "Libération",
    "url": "https://www.liberation.fr/international/europe/en-serbie-aleksandar-vucic-reconnait-sa-defaite-face-au-mouvement-etudiant-20261025_PW5PWL47JBB7ZH2SLXRIVPZDEQ/",
    "titre": "En Serbie, Aleksandar Vucic reconnaît sa défaite face au mouvement étudiant",
    "date": "2026-10-25"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-24-octobre-mobilisation-en-france-emmanuel-macron-a-tout-fait-pour-que-ca-se-passe-mal-observe-manon-aubry-deputee-europeenne-lfi_VN-202610250380.html",
    "titre": "24 octobre, mobilisation en France: Emmanuel Macron \"a tout fait pour que ça se passe mal\", observe Manon Aubry, députée européenne LFI",
    "date": "2026-10-25"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/des-organisations-lyceennes-et-etudiantes-recues-lundi-a-matignon-les-ministres-de-l-education-et-de-l-enseignement-superieur-s-exprimeront-ensuite_AD-202610250373.html",
    "titre": "Des organisations lycéennes et étudiantes reçues lundi à Matignon, les ministres de l'Éducation et de l'Enseignement supérieur s'exprimeront ensuite",
    "date": "2026-10-25"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSy1nUlc1bDB2eHdBdWtzY2ZLV283V255OGFyT3YweXp3bWtGR2RBM3dITGp6dEZMNWQ0WlZPYmJ2V2JSU1d5UU5mRTVybUJkVVRsS05iTkI0M1piRW4yTnFXYTA1X0k0UTZIZ1lYOGNyRWpFQmwzREVxcnB5R2tDU2F4N0E3SlhuR3ZBUm1TSzh0NWxKVExUZm5ueTgydE5HOXctVWFmSmNNdHpvQ1BsWU9LWHM5QjYzaFNBWVhxcHdRLXJIM1ZrNUdNZkVXVlNsUWpha2djdXBEQXNSRkdzclc3dl9BcXREM2t6MS0tbU1xdkgwbkpSRDdTak9teTA5NVRQbmpTcDktUGREY0NSYU9xRE1iel9CWjBHX09Mdw?oc=5",
    "titre": "Manifestation du 24 octobre à Toulouse : un blessé grave avec \"une main délabrée\", des incidents limités mais un centre-ville en berne. Bilan contrasté après l'acte II \"contre la vie chère\"",
    "date": "2026-10-25"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025",
    "titre": "Présidentielle 2027 : Marine Le Pen réorganise son parti et lance sa campagne à Orléans",
    "date": "2026-10-25"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTm5PLU53TVlEUGNJcGlwWTdudHY3dWNGZ3JCQmx5bmkzLXZJVWhjWFRXSGlSaTBxX2xkT3ZCVmRyTGg0ZlF5eC1tQzd2NHFzXzdnWlFaWU1nN05FaFZWa2QwSWZaNVBNRERCU3EzYWdlNzFSYzVSX3E1TC03QzU1VUpBQUtMMnl6RVUzNE5WSU9yRWk5eXV1NlpYWGJ3VzNEbEIzT2l3elhxNmJCTXJaWVo2V1pQVFd2ZU1wYW9QNmZqWXN0djJ2c196WlNDVDZtcDg3QTBxSkI1VHRNNXlIc1BRSHZGcmZ1T0k4b2pidWhoTEVGQUFFcWNoT3Y0RU5EeFJtbUNqVVhYUTgxMTZ4dDBSeVlVMFhFeDUzYQ?oc=5",
    "titre": "À Vire, les gilets jaunes continuent de dénoncer la baisse du pouvoir d’achat et « le mépris du chef de l’État »",
    "date": "2026-10-25"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "La République du Centre",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd0ZtUGRvU1pIN0ZKR2MtZFQtaW12SnFFNDJtTVJxaVgtM0pkb18zaWpUWk1GalVKMUVJLWdycXdENmRQRXNIblV5dXVKQnpZbzlKU0M0WXdlZEVGT3RCSk9sckl0SnJaV0ZCamhocXVncnJxMjkzbXpnbGVIR3Uxams3R2Y2V1FWSVMwSS1lTVVCMVAtb2F5TG9PbGlKaHNPcUVZM3VRdlJKSXlHLVh4UkIwV0M5V2xQMnNYNkY1OUw3LVdmQWhqUXVmcTdVRnBnMFdaZ1BiQy1rZWdPc3NvM2h0aU1nWjRrSUU2UUVMQXBYMWZYX0Y3REUza1pfNVE?oc=5",
    "titre": "Attentat raciste à Trappes, manifestations contre la vie chère, congrès du RN… Les cinq infos à retenir cette semaine",
    "date": "2026-10-25"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html",
    "titre": "En Albanie, le premier ministre veut durcir la gestion des foules après de violentes manifestations",
    "date": "2026-10-25"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/faits-divers/enquete-ouverte-a-nice-apres-des-agressions-de-manifestants-par-des-militants-d-ultra-droite-31235888.php",
    "titre": "Enquête ouverte à Nice après des agressions de manifestants par des militants d’ultra-droite",
    "date": "2026-10-25"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "Centre Presse Aveyron",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNejY5RjZhalM0YkphNHpIODl1dkNzbFFERkY1M2M1M2hBYjBBVEZVOWdXUU1ULVBIRlExbksyUHVOaHFsOHozUEZWaUE2V0kzUlBoZDgtNTc1OHFmaVYzeGdJTTBsU3d0bzI1elJSd0M1V0ZxN1lCaXFtQU0zZ2NaWHVMZU5kRm54RFZpU1hQblVTQ2lJbXFRTFdESS1zY2FURDdQc2EzcTdrRk5ORk5IX0d2MU1BZGdvT180V284U3c4bjVUSkZWVGtJYjY4Mk1NWGxxMmlpN0ZfdUJ0Q2VTbTg0ak1lY25fMGFsOGRfR1ZRLXVhWDRRS2kwd1hiRzQ?oc=5",
    "titre": "\"Une étape de plus dans la dérive autoritaire\" : les gilets jaunes appellent à des \"casserolades\" vendredi 30 octobre",
    "date": "2026-10-25"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/la-defense-des-libertes-publiques-les-gilets-jaunes-appellent-a-des-casserolades-vendredi-devant-l-assemblee-nationale_AD-202610250217.html",
    "titre": "\"La défense des libertés publiques\": les gilets jaunes appellent à des \"casserolades\" vendredi devant l'Assemblée nationale",
    "date": "2026-10-25"
   },
   {
-   "n": 21,
+   "n": 22,
+   "nom": "Journée Mondiale",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmpHVzdFOXBFWmpMb2Q1TzJBS0FuZnBJYllUQ1RnYktMQzE2NmQ0Y1lha0tpaTVTb09RcGhRRlFzWG9QQmNFek1jZ19JZ2xsb0JYTDJtVUJJdjFKNjFhZER5Z3RqeXVmMVpMb1ZkQXBGamt0WVk5OUsyNkJHRjhUV2duSHdoY2xYWFFvWTVfaUUyRXk4QnBWNll5MW12Ym42VGdxX05CNlhDUy1fdGZPRW9LR3RTZE54MS1XeXdHQ212QTdKeVdj?oc=5",
+   "titre": "Mobilisation du 24 octobre : le bilan actualisé au 25 octobre 2026, de 410 000 à 800 000",
+   "date": "2026-10-25"
+  },
+  {
+   "n": 23,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/31-octobre-5-novembre-quelles-sont-les-prochaines-dates-d-appels-a-poursuivre-la-mobilisation-sociale-apres-le-24-octobre_AV-202610250183.html",
    "titre": "31 octobre, 5 novembre... Quelles sont les prochaines dates d'appels à poursuivre la mobilisation sociale après le 24 octobre?",
    "date": "2026-10-25"
   },
   {
-   "n": 22,
+   "n": 24,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-mobilisation-lyceenne-louis-boyard-depute-lfi-du-val-de-marne-denonce-une-repression-violente_VN-202610250165.html",
    "titre": "Mobilisation lycéenne: Louis Boyard, député LFI du Val-de-Marne, dénonce \"une répression violente\"",
    "date": "2026-10-25"
   },
   {
-   "n": 23,
+   "n": 25,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQ1JZZXNSMGRvSXpyazhHMVMxQjYtcmRJd2lnSUg0ZW5XZTZpM2R6TG95TkZEbjZNS2l1bzJWSFpQcDFLZWNTYV90b3ptNFJoaTVIa0ZHSmJXbmZRZ2Qzc2lFSnEwbUd1eXc3ZFFsYmZ2OW1ySnRoRnJB?oc=5",
+   "titre": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+   "date": "2026-10-25"
+  },
+  {
+   "n": 26,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/marseille/manifestation-du-24-octobre-a-marseille-71-interpellations-61-gardes-a-vue_AN-202610250135.html",
    "titre": "Manifestation du 24 octobre à Marseille: 71 interpellations, 61 gardes à vue",
    "date": "2026-10-25"
   },
   {
-   "n": 24,
+   "n": 27,
    "nom": "La Montagne",
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSkEwcERvWHIwMS1qYmdrQ01yd2pCMjhSWkZhX05sNThWR2NhZHNzdW5haXpmZE96Y0UyajRmZFhna010UUd1cUdPWHd4bzdEUGFOVVpaenZmS2dUZmJnVEtDMl9aLVVmOUxiclpwd0Vfdm05X1Bjek5GNG9DYmhkb1FLdHJRbjJLcVBhS3lubTBHelVtdGlfQjFUaWZMRENLd2FnWUc5YkR2VmZtSTlDZ2o4Y2JSTEZnYjJRUUdvR3o3ZjBuckNRTkk5bDM2ZzNXa2hSN3FOcWt6WThLVnNHLS00LWVIQnhSMHpmbld0SUs0VU80YUVjd2JJcl9uZXNZd2FuZHJ6SVRnaTIw?oc=5",
    "titre": "800.000 manifestants, au moins 3 blessés graves, 142 interpellations… Ce qu’il faut retenir de cette nouvelle mobilisation",
    "date": "2026-10-25"
   },
   {
-   "n": 25,
+   "n": 28,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
    "titre": "Manifestations du 24 octobre : 142 personnes ont été interpellées à Paris, dont 120 placées en garde à vue, selon la préfecture de police",
    "date": "2026-10-25"
   },
   {
-   "n": 26,
+   "n": 29,
    "nom": "CNews",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VheWJFV3BhXzQyZjNRTmk5RV8yMW91TVlfZl9qM09wYWVPbWJHM0NqYVdmaUFVXzV3bUM3YTFhWEhDX0NoUlRqMlk5dGRHTlVoMnFXUXdRRFJkZGJwNDJjOXp6TnlSX1VGUVBBY21FVmF2dlJMUHd2WE9WM2MwUXJjRkVPYVlaV0J4SDBhSFZlQTVrblNKaUpfQTN2X2RmaWRSTlpKc1VybjNqd1pzN3RyMGlpN2JhVEI00gHAAUFVX3lxTE5TVTlrU2lEd1VWZk9CSXViWHNELUNhdVYxYTF3Wmg5SFRoSTdXbnlFLWdIaVBlVmpKZ0JnblhDY0loQzhLR1dCVFNmTTJ1SmFGRU8tcGdSbXlLQjVVWENvYVNWZzlRVkoweG05VFVlQ1NRR3U1VDVJTEZHM3R6aFJzZkI0V1R1RGhqN0IyeXc3cDUxLXFlelN3VG5faUVmVzU4aVBxeC1NU2lxb1k1YmU2eXRNWWxUTzBqbWg0dkw4MQ?oc=5",
    "titre": "Mobilisation du 24 octobre : 142 interpellations dont 126 gardes à vue à Paris, indique la préfecture de police",
    "date": "2026-10-25"
   },
   {
-   "n": 27,
+   "n": 30,
    "nom": "L'Avenir",
    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbHlyV0JMWXEyUmN1LXY4eC1ENHF3eUh3cXlEOUtZZVhkSlVhc2pTU3dIcjdHQXBITUxuam9MU3BCYjJhTElXak43WGtzWG9zT2tRaXhUeGNwVk1lUFh5QWhJSkcyWmpSUWhXSFVqeEZaYnJyc3VQTkhnb2w1X2JkaFlpa3FLWUktS0JtUnhrVHN1TGZxM214ZlZRdEZBeHh6SXNmcW1MODRVdkxlUlVsNW5GOEctRGt1NWp0MHBUTVQ5Qy15bkpIZEtHRGprMVlFT0xXTFllT1R3bURVWGZscXpVRXBnMlpKQ3dDX29pdE1YYTZKVWxUZ1gxMWo3Z0FDREZFUm0zMDhxc2lsRFlaRFhxRFFqWWJjWG1Hb1RJMjRKVDFtYzdQWWFFdnd1WURuWUE?oc=5",
    "titre": "\"Malheureusement, un commerce a été fracturé\": plus de 140 interpellations à Paris, dont 120 gardes à vue, lors des manifestations en France",
    "date": "2026-10-25"
   },
   {
-   "n": 28,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-apres-une-nouvelle-journee-de-mobilisation-les-lyceens-attendent-des-reponses-a-leurs-revendications_VN-202610250051.html",
    "titre": "Après une nouvelle journée de mobilisation, les lycéens attendent des réponses à leurs revendications",
    "date": "2026-10-25"
   },
   {
-   "n": 29,
+   "n": 32,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html",
    "titre": "Une journée de forte mobilisation sans incidents majeurs : « Le droit de manifester est aussi important que le droit de vote »",
    "date": "2026-10-25"
   },
   {
-   "n": 30,
+   "n": 33,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-congres-du-rn-a-orleans-les-mots-sur-x-de-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202610250423.html",
    "titre": "Congrès du RN à Orléans: les mots sur X de Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
    "date": "2026-10-25"
   },
   {
-   "n": 31,
+   "n": 34,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-discours-de-jordan-bardella-perturbe-par-l-union-des-etudiants-juifs-de-france-les-militants-de-l-uejf-se-sont-fait-tabasser-denonce-la-presidente-lea-hanoune-sur-bfmtv_VN-202610250421.html",
    "titre": "Discours de Jordan Bardella perturbé par l'Union des étudiants juifs de France: \"Les militants de l'UEJF se sont fait tabasser\", dénonce la présidente Léa Hanoune sur BFMTV",
    "date": "2026-10-25"
   },
   {
-   "n": 32,
+   "n": 35,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-on-le-voit-sondage-apres-sondage-que-le-rn-et-lfi-s-installent-dans-un-duel-de-second-tour-denonce-prisca-thevenot-deputee-renaissance_VN-202610250419.html",
    "titre": "Présidentielle 2027: \"On le voit sondage après sondage que le RN et LFI s'installent dans un duel de second tour\", dénonce Prisca Thévenot, députée Renaissance",
    "date": "2026-10-25"
   },
   {
-   "n": 33,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-les-syndicats-lyceens-recus-demain-par-lecornu-25-10_VN-202610250420.html",
    "titre": "Les syndicats lycéens reçus demain par Lecornu - 25/10",
    "date": "2026-10-25"
   },
   {
-   "n": 34,
+   "n": 37,
    "nom": "MyPetition.org",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEM0aDVuLXNrVWlyZlg5cEQ5bnp6dVBaaDJNdFJ5S2YxblY2ZmV3eXV4UXNOMVNmdGhCemx1TG5IOEpOengya3NaaUhnbXlqU2NmckZ6ZWp6LWlpUHNnOFcyTmRJWUZyR0xFcWpJUHJnbHVya2VnWG5VSkpsVjVZNzRpU3RlS0RpQ0J6QTFkZWhMRmttSmZwc3pHRQ?oc=5",
    "titre": "Aidez-moi à faire avancer ce combat : Pour que les candidats à l'élection présidentielle de 2027 s'engagent à instaurer le Référendum d’Initiative Citoyenne Constituant (RIC Constituant).",
    "date": "2026-10-25"
   },
   {
-   "n": 35,
+   "n": 38,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-suis-convaincue-qu-a-moins-de-2-200-euros-net-par-mois-on-ne-peut-pas-avoir-une-vie-digne-aujourd-hui-declare-nathalie-arthaud-porte-parole-de-lutte-ouvriere-et-candidate-a-l-election-presidentielle_VN-202610250411.html",
    "titre": "\"Je suis convaincue qu'à moins de 2.200 euros net par mois, on ne peut pas avoir une vie digne aujourd'hui\", déclare Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle",
    "date": "2026-10-25"
   },
   {
-   "n": 36,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-il-y-a-un-fort-sentiment-d-inegalite-de-marginalisation-de-la-part-des-eleves-explique-nathalie-arthaud-porte-parole-de-lutte-ouvriere-et-candidate-a-l-election-presidentielle_VN-202610250408.html",
    "titre": "Colère lycéenne: \"Il y a un fort sentiment d'inégalité, de marginalisation\" de la part des élèves, explique Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle",
    "date": "2026-10-25"
   },
   {
-   "n": 37,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-c-est-au-gouvernement-et-ceux-qui-dirigent-que-j-ai-envie-de-demander-des-comptes-lance-nathalie-arthaud-porte-parole-de-lutte-ouvriere-et-candidate-a-l-election-presidentielle_VN-202610250407.html",
    "titre": "\"C'est au gouvernement et ceux qui dirigent que j'ai envie de demander des comptes\", lance Nathalie Arthaud, porte-parole de Lutte ouvrière et candidate à l'élection présidentielle",
    "date": "2026-10-25"
   },
   {
-   "n": 38,
+   "n": 41,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-aubry-le-gouvernement-a-meprise-les-lyceens-25-10_VN-202610250405.html",
    "titre": "Aubry : \"le gouvernement a méprisé les lycéens\" - 25/10",
    "date": "2026-10-25"
   },
   {
-   "n": 39,
+   "n": 42,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/international/europe/espagne/video-espagne-journee-de-mobilisations-et-de-tensions-ce-samedi-24-octobre_VN-202610250401.html",
    "titre": "Espagne : journée de mobilisations et de tensions ce samedi 24 octobre",
    "date": "2026-10-25"
   },
   {
-   "n": 40,
+   "n": 43,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-mobilisation-sociale-tous-ceux-qui-nous-gouvernent-ne-sont-jamais-confrontes-a-la-carte-bleue-qui-se-vide-lance-segolene-royal-ancienne-ministre_VN-202610250400.html",
    "titre": "Mobilisation sociale: \"Tous ceux qui nous gouvernent ne sont jamais confrontés à la carte bleue qui se vide\", lance Ségolène Royal, ancienne ministre",
    "date": "2026-10-25"
   },
   {
-   "n": 41,
+   "n": 44,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/presidentielle-2027-marine-le-pen-souhaite-abolir-la-loi-hulot-sur-la-fin-de-l-exploitation-des-hydrocarbures-en-france-31243148.php",
    "titre": "Présidentielle 2027 : Marine Le Pen souhaite abolir la loi Hulot sur la fin de l’exploitation des hydrocarbures en France",
    "date": "2026-10-25"
   },
   {
-   "n": 42,
+   "n": 45,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-emmanuel-macron-n-est-plus-en-capacite-aujourd-hui-d-assurer-une-paix-sociale-dans-notre-pays-affirme-manon-aubry-deputee-europeenne-lfi_VN-202610250387.html",
    "titre": "Emmanuel Macron \"n'est plus en capacité aujourd’hui d'assurer une paix sociale dans notre pays\", affirme Manon Aubry, députée européenne LFI",
-   "date": "2026-10-25"
-  },
-  {
-   "n": 43,
-   "nom": "Ouest-France",
-   "url": "https://www.ouest-france.fr/education/ecole/mobilisation-des-lyceens-et-etudiants-les-organisations-recues-a-matignon-ce-lundi-une-conference-de-presse-attendue-1440cd5c-d0b3-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "titre": "Mobilisation des lycéens et étudiants : les organisations reçues à Matignon ce lundi, une conférence de presse attendue",
-   "date": "2026-10-25"
-  },
-  {
-   "n": 44,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-colere-lyceenne-les-leaders-lyceens-ne-se-laisseront-pas-balader-analyse-alain-minc-essayiste_VN-202610250385.html",
-   "titre": "Colère lycéenne: \"Les leaders lycéens ne se laisseront pas balader\", analyse Alain Minc, essayiste",
-   "date": "2026-10-25"
-  },
-  {
-   "n": 45,
-   "nom": "CNews",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGNDVFpnWk5EWkJTaTl3ZjFBOWhFVXE0SnluV183ejdTeWpCVnhSQ3p4cnF3akVmTHJBeTY3WjRPMFFxa2dOR3o5T1NPZ2txR1J0SXF0SC00M2FzWjBvaHpxTUdjUVdVWGU0WlR1UXU4NDBnWV9VYUx0emh6MzBPUklydW92ZW9yalQtRGt1SFdTdktsZ3hQOFZNd3NQYzJUVEZuU20xLWFMQXQxTjVmNy1nbVVwOU5xLUHSAb8BQVVfeXFMTnRtTWwwMEFIUEtmeXhRTGpxTjhnUlBjY1J6YWNORVhNU2pSa2lySWc5bmVod0RKbFRJREV1cjRZODNseEEwa1FLZGNpWkVlNGhXalBHWHJHUVlOY3BldEFDRWszN1M1WWQtc0ZBcTB6VWhJNGU1YmN1RHk1UWZVMEtObThTaEZNY3ZlM185Nnp5bzVrc2wwOWRhakdVdzRHUFZlcDBoY0FOR0E2dllIYWtxOU9sek84VktQLXp6TTA?oc=5",
-   "titre": "Mobilisation lycéenne : Sébastien Lecornu reçoit les représentants ce lundi avant une prise de parole du gouvernement",
    "date": "2026-10-25"
   },
   {
@@ -577,5 +577,5 @@
    "date": "2026-10-25"
   }
  ],
- "genere": "2026-10-26T18:10:03.026902+00:00"
+ "genere": "2026-10-26T23:59:32.520989+00:00"
 }
