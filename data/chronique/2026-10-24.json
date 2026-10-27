@@ -124,7 +124,7 @@
  "jour_long": "samedi 24 octobre",
  "acte": "Acte II",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -597,16 +597,16 @@
   },
   {
    "n": 68,
-   "nom": "Libération",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOEhucGdjbjczU2NuWXNrVGNDUGItN0pfSVAydVIyb3BQMEgxVFJfTTNGamJ2clAxQTBXQjFsU3B6ZTJGcFE2anJyWUNURlFvWU9JZEwxbHZEYTFtTGNJbENnaG94NnIzQVM1UmZXOV9Dc1QxRWRrbVo2Uy1ZRTNJUUxjX2VJeC1FbWxKalU1TERXWDZfbHBwVDNQSWx3azgwSWk3Ym9IMm5WN0dHOG9FY3JVdk0wVmFxVjdWaDF5YlhsLXFXMTNHbWhxc0FGNTlLMGhRX2tCU3hxOU5mbUZaSnZQRVZTN2I3Z3l5WW5ZYWxoclVnTnc4aEl3SDdFd2hJako2RDRVWGdGbHdrRlBOSy1jbXhiZ2UwNUE?oc=5",
-   "titre": "Mobilisations du 24 octobre : un total de 1 435 interpellations et plus de 400 blessés, selon Laurent Nuñez",
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/manifestations-du-24-octobre-1435-personnes-interpellees-au-total-annonce-laurent-nunez-1183041?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Manifestations du 24 octobre : 1.435 personnes interpellées au total, annonce Laurent Nuñez",
    "date": "2026-10-24"
   },
   {
    "n": 69,
-   "nom": "Europe 1",
-   "url": "https://www.europe1.fr/police-justice/manifestations-du-24-octobre-1435-personnes-interpellees-au-total-annonce-laurent-nunez-1183041?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-   "titre": "Manifestations du 24 octobre : 1.435 personnes interpellées au total, annonce Laurent Nuñez",
+   "nom": "Libération",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOEhucGdjbjczU2NuWXNrVGNDUGItN0pfSVAydVIyb3BQMEgxVFJfTTNGamJ2clAxQTBXQjFsU3B6ZTJGcFE2anJyWUNURlFvWU9JZEwxbHZEYTFtTGNJbENnaG94NnIzQVM1UmZXOV9Dc1QxRWRrbVo2Uy1ZRTNJUUxjX2VJeC1FbWxKalU1TERXWDZfbHBwVDNQSWx3azgwSWk3Ym9IMm5WN0dHOG9FY3JVdk0wVmFxVjdWaDF5YlhsLXFXMTNHbWhxc0FGNTlLMGhRX2tCU3hxOU5mbUZaSnZQRVZTN2I3Z3l5WW5ZYWxoclVnTnc4aEl3SDdFd2hJako2RDRVWGdGbHdrRlBOSy1jbXhiZ2UwNUE?oc=5",
+   "titre": "Mobilisations du 24 octobre : un total de 1 435 interpellations et plus de 400 blessés, selon Laurent Nuñez",
    "date": "2026-10-24"
   },
   {
@@ -841,5 +841,5 @@
    "date": "2026-10-24"
   }
  ],
- "genere": "2026-10-26T23:59:32.309995+00:00"
+ "genere": "2026-10-27T00:44:26.649048+00:00"
 }
