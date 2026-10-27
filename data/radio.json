@@ -1,30 +1,31 @@
 {
-  "pistes": [
-    {
-      "titre": "L'4mour",
-      "artiste": "Médine",
-      "youtube": "https://www.youtube.com/watch?v=1Rba7v1Ow7I",
-      "duree": 295
-    },
-    {
-      "titre": "V pour Vérité",
-      "artiste": "Keny Arkana",
-      "youtube": "https://www.youtube.com/watch?v=eQwxh68kKYc",
-      "duree": 249
-    },
-    {
-      "titre": "17 octobre",
-      "artiste": "Tisco",
-      "youtube": "https://www.youtube.com/watch?v=DpsHOUx5Ppk",
-      "duree": 121
-    }
-  ],
-  "interruption_toutes_les": 3,
-  "interruptions": [
-    {
-      "titre": "Appel à la mobilisation",
-      "texte": "Rendez-vous samedi, partout en France",
-      "youtube": ""
-    }
-  ]
+ "pistes": [
+  {
+   "titre": "L'4mour",
+   "artiste": "Médine",
+   "youtube": "https://www.youtube.com/watch?v=1Rba7v1Ow7I",
+   "duree": 295
+  },
+  {
+   "titre": "V pour Vérité",
+   "artiste": "Keny Arkana",
+   "youtube": "https://www.youtube.com/watch?v=eQwxh68kKYc",
+   "duree": 250,
+   "duree_id": "eQwxh68kKYc"
+  },
+  {
+   "titre": "17 octobre",
+   "artiste": "Tisco",
+   "youtube": "https://www.youtube.com/watch?v=DpsHOUx5Ppk",
+   "duree": 121
+  }
+ ],
+ "interruption_toutes_les": 3,
+ "interruptions": [
+  {
+   "titre": "Appel à la mobilisation",
+   "texte": "Rendez-vous samedi, partout en France",
+   "youtube": ""
+  }
+ ]
 }
