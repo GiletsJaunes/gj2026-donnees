@@ -16,10 +16,10 @@
   {
    "texte": "Selon Europe 1, Attentat dans les Yvelines : l'admission en psychiatrie du suspect «ne change rien» au mobile «terroriste, raciste», selon Laurent Nuñez (repris par 3 médias). Selon Sud Ouest, Casseurs-payeurs : « Un projet de loi liberticide »… Amnesty International demande au gouvernement de « renoncer » au texte (repris par 3 médias). Selon France 24, Les forces de l'ordre accusées de protéger l'ultradroite en marge des manifs, Nuñez conteste. Selon DHnet, Manifestations de samedi en France : 1.435 personnes interpellées au total, 267 policiers et gendarmes blessés.",
    "sources": [
-    11,
-    14,
-    29,
-    35
+    12,
+    15,
+    30,
+    37
    ],
    "theme": "Répression"
   },
@@ -43,7 +43,7 @@
  "jour_long": "lundi 26 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -82,282 +82,282 @@
   },
   {
    "n": 6,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/police-justice/manifestation-du-24-octobre-un-homme-arme-apercu-devant-un-commerce-a-grenoble-une-enquete-ouverte_AD-202610260512.html",
-   "titre": "Manifestation du 24 octobre: un homme armé aperçu devant un commerce à Grenoble, une enquête ouverte",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 7,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-si-nous-ne-sommes-pas-satisfaits-nous-continuerons-la-mobilisation-promet-louis-letoublon-de-l-organisation-les-lyceens_VN-202610260492.html",
-   "titre": "Mobilisation lycéenne: \"Si nous ne sommes pas satisfaits, nous continuerons la mobilisation\", promet Louis Letoublon de l'organisation Les Lycéens !",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 8,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-le-gouvernement-n-a-toujours-rien-compris-denonce-manon-moret-secretaire-generale-de-l-unef_VN-202610260486.html",
-   "titre": "Mobilisation lycéenne: \"Le gouvernement n'a toujours rien compris\", dénonce Manon Moret, secrétaire générale de l'UNEF",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 9,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-suzanne-nijdam-presidente-de-la-fage-souhaite-du-concret-ce-n-est-pas-juste-des-petites-miettes-mais-rendre-le-quotidien-des-etudiants-et-des-lyceens-different_VN-202610260479.html",
-   "titre": "Mobilisation lycéenne: Suzanne Nijdam, présidente de la Fage souhaite du \"concret, ce n'est pas juste des petites miettes [mais] rendre le quotidien des étudiants et des lycéens différent\"",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 10,
-   "nom": "La Provence",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSERMZXVsWk9GT3BVcVluSC1VWk02bUk0LW5EbVZtTURSdWU4Ylo2WE16dWFhV2xUUjY3eWhnNXNYYzRZZTVQbW5xMkFLN3d4dlBFYXkwNXlRLWtpbkFFbzRaQVJyOUUtTXkxWWw0QW96TWVTWjlkblNIT3p6aGo3dEIyMjhnN1FhaHRtSW5LdkJQWVVUalRZaGJiQkF2V3RmcTl6cXdzN0F1NzRIQW9ncWxLbEo1NnRKcGg3b2JQU1M0OS1ZQ2pnRGNmNnV2UHE5VTl2RnFzLWF4UkVjTkkzcFNJMUsteXlwZUVOSkRWdmlYX1ZYQjlNV3FXdEkwSkU?oc=5",
-   "titre": "Crise lycéenne : l'intersyndicale jeunesse appelle à poursuivre la mobilisation malgré les annonces du gouvernement",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 11,
-   "nom": "Europe 1",
-   "url": "https://www.europe1.fr/police-justice/attentat-dans-les-yvelines-ladmission-en-psychiatrie-du-suspect-ne-change-rien-au-mobile-terroriste-raciste-selon-laurent-nunez-1183275?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-   "titre": "Attentat dans les Yvelines : l'admission en psychiatrie du suspect «ne change rien» au mobile «terroriste, raciste», selon Laurent Nuñez",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 12,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-dit-etre-victime-d-une-campagne-de-harcelement-de-lfi_8253889.html#xtor=RSS-3-%5Bgeneral%5D",
-   "titre": "Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 13,
-   "nom": "Sud Ouest",
-   "url": "https://www.sudouest.fr/politique/emmanuel-macron/violences-du-17-octobre-emmanuel-macron-se-rend-a-marseille-pour-une-visite-surprise-sur-le-retour-de-l-ordre-31247239.php",
-   "titre": "Violences du 17 octobre : Emmanuel Macron se rend à Marseille pour une visite surprise sur le « retour de l’ordre »",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 14,
-   "nom": "Sud Ouest",
-   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/casseurs-payeurs-un-projet-de-loi-liberticide-amnesty-international-demande-au-gouvernement-de-renoncer-au-texte-31252887.php",
-   "titre": "Casseurs-payeurs : « Un projet de loi liberticide »… Amnesty International demande au gouvernement de « renoncer » au texte",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 15,
-   "nom": "Le Figaro",
-   "url": "https://www.lefigaro.fr/lyon/lyon-une-manifestation-interdite-mardi-le-couvre-feu-est-non-reconduit-20261026",
-   "titre": "Lyon : une manifestation interdite mardi, le couvre-feu est non reconduit",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 16,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-lyceenne-on-couvre-tout-le-champ-des-revendications-se-defend-edouard-geffray_VN-202610260823.html",
-   "titre": "Colère lycéenne: \"On couvre tout le champ des revendications\", se défend Édouard Geffray",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 17,
-   "nom": "CNews",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjJfN1l3RlRBcDJGTUViRVAzc2tDRjdQbkItUzd4enc3YWQ2Zy1HQmx6ZWhEMk82Y2MwdEFHUkwwY2NxeTdCM2hjQXNCUGRNaEE2WlVlNmdGSHdtOUtmZDZTbWo3TTBYVEQ5WlNGR0s4SDhMZUdzaVFNcDY4NDA4b0R1Vmp4aWNVQXRlTjZPdTd2djEzMEM5TXJoeU5RMFZyTzdCZ2VOTG1nVHFpZXExTFhiRks4XzNHaGJF0gHAAUFVX3lxTFB4b09yWDgyMkVQS19HSWR3VC04NXVyb1hoanlEQkp0NVJoQUdmUlUtRDNLZ1U4LU5tZDBtS1llZllnNnc1NHBDT1VSQ0ZUSkxIbUVzeHBodi16OWlDaHo2emYyNHFjLTh6TVh6UjV2Uk1va3pDOExISEFzVnJkb0xaMUVZZkJVdWRHUFJjQnk4Z29FZ3I5TjRKYzROdGk3SzhQTXpMMHBZNWlGWmpocmJiV2ptbEFrd29xb01lSUxSNQ?oc=5",
-   "titre": "Colère des lycéens : évolution de Parcoursup, 28 élèves par classe, bâti scolaire… Ce qu’il faut retenir des annonces du gouvernement",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 18,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/education/parcoursup-classes-reduites-renovation-du-bati-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-pour-repondre-a-la-colere-lyceenne_AV-202610260824.html",
-   "titre": "Parcoursup, classes réduites, rénovation du bâti... Ce qu'il faut retenir des annonces du gouvernement pour répondre à la colère lycéenne",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 19,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMXd0SFVubUNVdHhyRG1qM3VrbUNlUjhLTUZJQzAyYTNjb1ljelc2RXNFU05jNFVGY1pVQWJsM1BIZGUwR3ExVnRRRnRyY3MtYjdwbGFULVE0bjM4SnotZm5TbnZqV1pWTXNYRDFPT3JpajBLT1VpY2NodlRQZ3p3Um9hOWVTQ1RBVFAwSjBPQ25kaDVxa05rSzBZbU1hMFFPdFZ0ZWx2bHo1Q0ZXcTgzeENIbXFLZVpmdlBoTW5LaVlKT2VVYW03M3dqUFRGUnJjRGhFVWhLMUZrLWNIQW5NZ2xKNnVpcFU1Sndnb0tRakZuck1UWHdJRWRaY2F6WDMtTnFfWG1hU2VtNFpYVkE?oc=5",
-   "titre": "Manifestation du 24 octobre : à Laval, le Mouvement national des lycéens 53 dénonce « des pressions »",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 20,
-   "nom": "ladepeche.fr",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNW5wWFBHdW1XZVJnV1FBZlFyQ2l5RUlSNm53d3hWYmhSYy1rc2VXZ2t2bHFzOEVfVmJmVjZMUGhMYzhlSzdtQTkyUlZ1N2pJX21OTFZFdWFGZzR3aEZzNWx0Yy1zeU8zcFlBbnZ2XzV5Mk5WV1hsZkZsenRadEFlaWtpZm41R2I2SDZraTNCOG0tV0ZPRXdEdmo2N2RCZGlmVzJZeTlrOWFYVmlxWGFSOExocFphallVVnVYazIzNkI1bm1mN0xLTzZ3NEZMYkZQOV9fZnpINFJYUQ?oc=5",
-   "titre": "Colère sociale : à quoi s'attendre pour l'acte III des Gilets jaunes et les mobilisations à venir ?",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 21,
-   "nom": "L'Union",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTRuNHUzaHFmQWFJa1lEaDZTWG42VllGb3BlQVA3Ml9Qb2JWZ0E0NVphcVFUUTZ4ckgwZzNWVk5meHN1Y0VDdnk1VjBmTW5KOG5YM1BYdkpXUEx2TXlINDJMSUJxSzFpS3dfaHhGcWZndUZOVlBHTlJtNmpra2FrOXZBQUFnZnczNTY5UXh3YmZkcGZqSEtWVEotYk9VTkM3RjMzYXZSY0VXaWpVUXZ4YXhySXVBOG9sU3FRMHI3WHhaSmNreFdR?oc=5",
-   "titre": "Crise lycéenne : malgré les annonces du gouvernement, des organisations lycéennes appellent à poursuivre le mouvement",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 22,
-   "nom": "Yahoo Actualités",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFJmQTh6R2ROeUpqckt2NjFUZUdKZHlCUXgxYmZRX2oySUxKSzBGcnU0ZHZ3bUV5bF9ETnFTYnpuQ1R3NkE0ancybmxpMjNNOG5pYzl1VUJMVDlnUTlkUFNQN29CWk9rMTlpNjN3dVViLWlZRm5pODZzWHNrSHlWeTJ0ZzdJTk81bWJfM0J3WVFUUDJEN3pnY2t3?oc=5",
-   "titre": "Colère sociale : Quelles sont les prochaines manifestations annoncées ?",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 23,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/manifestations/video-nous-irons-au-bout-louis-letoublon-vice-president-de-l-organisation-les-lyceens-appelle-a-la-mobilisation-le-31-octobre-et-le-5-novembre_VN-202610260660.html",
-   "titre": "\"Nous irons au bout\": Louis Letoublon, vice-président de l'organisation \"Les Lycéens\", appelle à la mobilisation le 31 octobre et le 5 novembre",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 24,
-   "nom": "ladepeche.fr",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYzVxdVlpWFcxWENuY0Z3akJndjZZR2JTZWVTQ0lFWDQ0a3ZMWXlEbTR6cmtUdkU4MlRjc214UFdyb0F6Yk1jYjBiREVGZUFmR1FqN0ZtVTJLM0lMQ3VfempLb2NyY0ZUWUN0ekRlVzBaLURQZDlUdzJweFV5cDRsLWd4UjhMeVF0M2tLLWJDY2FYVkVPb1p3RkJGZW81WktzdVlNR1dQX205OXcxdzk5NTBmdDBiUDUtZklwemFTUU9sVUo5S2xGTlYza1dUZ1FVVHJUN29NQ1FXNlBmN0xjMV9oZ3pEZUJXWE1xVmJ6My1nQWxrZWNFUEZyNDg4bDRLODNtUUpxbTNlSDVhcldJQVNFaFpwd0JHdUJYX0IxSQ?oc=5",
-   "titre": "PORTRAIT. \"Ce qui me scandalise, c'est le manque de considération pour l'humain...\" : à 73 ans, Patrice, Gilet jaune de la première heure, a retrouvé les ronds-points pour soutenir la jeunesse",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 25,
-   "nom": "20 Minutes",
-   "url": "https://www.20minutes.fr/societe/4257736-20261026-colere-lyceens-remplacement-parcoursup-cinq-milliards-batiments-propositions-gouvernement?at_medium=display&at_campaign=149",
-   "titre": "Colère des lycéens : Remplacement de Parcoursup, cinq milliards pour les bâtiments… Les propositions du gouvernement",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 26,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSVlPaklOVlYzVVhUQ2U0S24zLU5vRzRzc3FEbGxtYU1oRy1vbzZVQ2xveGJHekhveTZld0gtd1ZRQVY3M0ZuQUNzRV9NaG9GSVRwUlNfczFPbjJnb2hzbHBzNldBNGUxd0xFa2VaN1h3MXZSdE4xMjEyR3psN0E2UTlhWHZINzJvTzhJRUU2ODhKSmI1WnFxd0hsOUVxU1ozOWc3VDA0TGhOU0tGUjdjLTdUcm5jenVrRWVxUm1QTFpvMHZqMmU5UnhtVTFWTDJRdkRXZUt2c3hvSjFydDhRRHlCNnlLUjdzTFZtOFdYZVMza2w1c05DZGdHY05kVTB1ZkV6WW0xMEI5TFVfLUc3QVlLWC0wcU02MVd2MTdYSzA?oc=5",
-   "titre": "La question du jour. Mobilisation lycéenne, vie chère : pensez-vous que la colère sociale va durer tout l’automne ?",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 27,
-   "nom": "L'Est Républicain",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSktGdkVheWRBZjhPQVA0bFFiUkFFUmNUZ0E0TGRGUEdmcEZudHk4c0hjMy1PZnFia3o1UExJRzcweTRlYXlibEI2azc3cFdibk9hWnFXZV84aXpIUExNQXBUVXo2Y2JZdUNKRWpLYUQ3di1CS09FTFhQeHd3Zlltd1NrZGFlLTRSeTRUWktJT1RYQWRqSUJwNjBtb2FPZzlUcTNDRDVvUXY0eE5iMXI5blg5dlllajd5dWdwVw?oc=5",
-   "titre": "24 octobre : Au coeur de la manifestation contre la vie chère",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 28,
-   "nom": "ladepeche.fr",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxObk01Skh3TWxNSjEtOWQzQWpwTE5JUXVUemlqenhQWDh1Rk1rN3h3SnVZWVhpQlFZMHVNMElmZWx6dTZvVlNlT2ZZNW1wWVExV1FhajU4NXVWMmZSb1BSTGV5Y1haREx2QklpaXB0VHp2eHpzMWdwS3pzR19EWHI2ejRvRjR6c1ZoRXdJODl2dTdPTWRsanlZNEktajU5d3lzQkktbHY1SC1UMDIwS2x0cy1PMEJkY0xYQ2tELUVjbG5JeVRCNy1Ld3AyRUFyd0VKQ19ycjEtcFZxQU9zNWFaa3ZlTm5aUWtsRmd0Z0tIY1JneXpWZUcxQ2o1ZXNiSUNIRmJDcnpucU9Bb1ltcTdTQXdSek9zZTJHMXhnVGhlR0RIU2wtOUE?oc=5",
-   "titre": "Colère lycéenne : Parcoursup supprimé, classes limitées à 28 élèves, milliers de postes supplémentaires… les annonces de Sébastien Lecornu pour apaiser les tensions",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 29,
-   "nom": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWkNIblUwc3ZMUk93QnFKVGFBZGxLTkg5UG1mb2lrMEFsdWxqYk5JV0pNaXR6dmQtdU5mbGtYYWhERy1IaHJ3ckxmbENaRkF2VlRNSnVqa3A4S2ZJVUdtQ0syUlRyOW02VE83d3FuOVRRSTNxcDlxRm5SemMySzUwSW9yQVdoekFsUVIwelk4eTBkUFMzdjRsbmw5SGFXYU1kVC1RNnlRRE1YcnRsMVNYUDhTeXRiT2FjTk1Oajh2ZmpnbE1HdnctS2g2V0V3VFZsUGJSVVk1N3RDOVJPMjdiVFQ1TlI3eDBUdWxDN1hjTlM?oc=5",
-   "titre": "Les forces de l'ordre accusées de protéger l'ultradroite en marge des manifs, Nuñez conteste",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 30,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-lyceens-recus-a-matignon-c-est-le-bal-des-tartuffes-denonce-sabrine-kharbach-porte-parole-de-l-union-etudiante_VN-202610260485.html",
-   "titre": "Lycéens reçus à Matignon: \"C'est le bal des tartuffes\", dénonce Sabrine Kharbach, porte-parole de l'Union étudiante",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 31,
-   "nom": "Brut",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXN0U0E1X2hrTVd4NWY0bDg1Z0tnaHk2OG9jSjRPRE1kN1E5NU1INzlpbzFIY2FQLU9tU3dVME5wcnYyZ3FFT2hERk43WmVzR1NBb2tBWVZXdVBLTTZNYmpxbVVvNW5STG0xeF8yVWNNOVNwOHIzVGdPb0hjeHlwZFdpc293Sk1Ec0ZjakdUMEJyWXdWWjhDREtrZTJuRFJvdHc0SHBlcG1QZXpoWHc?oc=5",
-   "titre": "Mobilisation lycéenne : les manifestations continuent en Italie.",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 32,
-   "nom": "franceguyane.fr",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcW9iX29jV0RtdzQ4MndPUGhqNTZaOTFWQVlBMTZoVlNqVUpSZFZUWVl6NWtkUW9LYWN2cGd1Tm9TZFp4b1U3WWJwcUUxblNBSllSanlaWkJWREpVb0Zfdm5JVm01SWY5RlJxcEZlblIwdjJVazFuRWlTcERSSlJzUEk5WFRXMjVxT0NQbTZtbWpvWFdMbmZBS1B4NTZGNEZacFpON3FWUUdBVHZDZ3Z3U3JRaWlMUlkxOFo1enV5RXlwN1JEUzRTbkhuay1qdzQ5QU5oaXktNWZpXy0weFE?oc=5",
-   "titre": "Après un mois de crise lycéenne, le gouvernement évoque le remplacement de Parcoursup",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 33,
-   "nom": "CNews",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnlIWmZTYkpFbjBCYk04S1Ezal9nV2d5VFZzRmhNa3cyNTRCeEM5VlAxbkxNR1Ata2VnUHVwZ3Y4RXNFSDA4ZlhMX3A2QlRPVjlJdnR2U05Nc0cyeGg4U1NBNmtncGZPUHB1TVlsOXNEMk56a25wdlAyUGV4aTVUd2hrcjVRbFcxWUVycnpnMEpyVGlnY1JadElQcUhBNzVGVW9pRFdNZFFSM0VmNEw0alhoVUJvZ9IBuwFBVV95cUxPZ1AwaEh4amNMZEc3MUtxTXprS1p2UUhBeTlJYXh4LUNISlcyY3d1blZhaldIMWVsR0hwaVd3MGF6ZHppdlRsOEJoWE1WdG1kWDZydlBVNGVxR19WbmkzejBqc1U0TU82N3ZpX0VXN0lzOHJOVTFKVkt3QkZETWRWZnE3M2FJOEt3emFyT3Y3aU10RldWVTlfZ1BIMnRxSnhHVGNIOGg1NzZZUjNOczVQUi1uVXlWcTNDc1lF?oc=5",
-   "titre": "Blocus des lycées : «En Mai 68, il ne serait venu à l'idée de personne d'agresser un professeur», souligne Jérôme Fourquet",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 34,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/idees/article/2026/10/26/anne-cordier-chercheuse-les-lyceens-et-etudiants-abreuvent-les-reseaux-sociaux-de-scenes-de-joie-d-espoir-et-de-solidarite_6800600_3232.html",
-   "titre": "Anne Cordier, chercheuse : « Les lycéens et étudiants abreuvent les réseaux sociaux de scènes de joie, d’espoir et de solidarité »",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 35,
-   "nom": "DHnet",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOHIyTldMbmdfQ0pQNC1sVW03eUJXVzc0VmI0RElDWlYzcElhYXUtMWNyZzhQTk4tbl9RemxGT3RteC1WZUp3cTdLbWxENkdvdEVfVkdrRWpFWDI2M0ZWTDBjUjlOaF9tNTRQSUFDSXdkQUQtOUhFVEJhSHo1VkZFcWNFazlOaDk1N1N1ZjZJUzNfZXg5WlZ0RElHN0w3cUJnMVg3QU5lZ2ZKdklmQmlkWlJHcGhMa2U4Slg3ODYxSlhtSEYtT19ZUmEyeUVRUDFtQ2t6ZGIxR2p6ZG16c3o1RGx3Sk1nd2hGS3MyLW1uY2hRY3ZodzNfR2lhYUFWWDBsMU5FUGxNSjQ?oc=5",
-   "titre": "Manifestations de samedi en France : 1.435 personnes interpellées au total, 267 policiers et gendarmes blessés",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 36,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html#xtor=RSS-3-[lestitres]",
-   "titre": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 37,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/politique/video-31-octobre-on-va-deployer-un-dispositif-extremement-robuste-annonce-le-ministre-de-l-interieur-laurent-nunez_VN-202610260247.html",
-   "titre": "31 octobre: \"On va déployer un dispositif extrêmement robuste\", annonce le ministre de l'Intérieur Laurent Nuñez",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 38,
-   "nom": "Nice-Matin",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSGZkNGhfRkVPRkdFbGt3OUxqZ2pwTmhLUUtsMVd0Y0VXWjFncGRVTjYzQ3ZuSkx3eTZiTC1sMWdKVHFwSXdNclF0VUhfSWZ5bDRDYzJWOGRfRzhYLUduVDJhYmVWakhveWtWMTJRTTZLUm9DNnhwWVZ4ZWpzd3E2bjN1TGFieENwalhYdEtXcGRLRDY1b2piSWpEbjZOajNRN2VZR0VyNmhaVVVEcWN6UXZJMkdJUE8wZWR4dHdoR1cyVXdua1VqaU5XSEhuWEZEVjVSOWZ5SGlnTWVZaFZhdkxpSzRyNDNxbzlvVzNGMnJld2ZHTVZQcEdlTG91Uk5OWE5HQjM1RWNIb3J4N2tpbnMzRUJ3dVBSSk9n?oc=5",
-   "titre": "Parcoursup, état des bâtiments... Après un mois de crise lycéenne, le gouvernement devrait donner ce lundi « des réponses très concrètes »",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 39,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/societe/article/2026/10/26/mobilisation-lyceenne-des-ecarts-spectaculaires-d-offre-de-formation-entre-les-lycees-de-seine-saint-denis-et-de-paris_6800498_3224.html",
-   "titre": "Mobilisation lycéenne : des écarts « spectaculaires » d’offre de formation entre les lycées de Seine-Saint-Denis et de Paris",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 40,
-   "nom": "ODS Radio",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlVvZy1BemhYNF8tSkhYNmw4a0QyMWNJWlhMdGNNSTBXSjZKRW9oVGhhNHU5U09LYmw1OXBWMkVpckZJVElvTXdlanAzTlRMOHRHNzE0TXBQMUM3OXE2bnlWbEhnV1otMEcxUEpKZ3ZFSllJaDNleHJuMmlLX0d4SmxDcjg3Wk1oWTl0S1U4aFF5U3YyalVkSVdLZGtXVUd0SURHdFZMUHRGc0FVQjkzblhxU0h1RVd3cDc2N2lLRGlYVWRiNDlYM3JPTmdzXzU4MEFzRWRPU0o0M0Zw?oc=5",
-   "titre": "Manifestations en Savoie : La VRU de Chambéry bloquée, deux interpellations et trois policiers blessés",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 41,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/politique/video-ce-n-est-pas-normal-qu-a-six-mois-d-une-election-presidentielle-notre-pays-soit-dans-cet-etat-d-ebullition-affirme-emmanuel-macron_VN-202610260496.html",
-   "titre": "\"Ce n'est pas normal qu'à six mois d'une élection présidentielle, notre pays soit dans cet état d'ébullition\", affirme Emmanuel Macron",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 42,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-colere-sociale-apres-un-mois-de-mobilisation-le-gouvernement-promet-ce-lundi-des-reponses-tres-concretes-aux-lyceens_LN-202610260096.html",
-   "titre": "DIRECT. Colère sociale: après un mois de mobilisation, le gouvernement promet ce lundi \"des réponses très concrètes\" aux lycéens",
-   "date": "2026-10-26"
-  },
-  {
-   "n": 43,
    "nom": "Le Monde.fr",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQejlHR3BVcmFBa1BnODk2SWIwNzBzeVpmekRiRWtralFKWFd0S3B2UG82Vmk0Nnd0ZFlhUmVYcGNsTFNHNnFIaEdDcHFBbDJ6QWpBZXRpeFcyLVl6cnBCUWRQal9DeF9mcmxBaTZIWGRlU3BfVFdDMTFXTW1MVExsTFNXa1ljNTdsbF9CRXhRRUhCd3lMenhvMEVZdGdoZUJpRnZGWVRNU3I1QVJ2YmVPUUFrTXFkREVlQnZ1VE9SUUVqR0FBLXgyU211YnVKMmtYNlpmUEVVWHdkN0ZGWktXdXNNdHRSOW1PVUxBQ3FPaEk2aFhfVElMRGVZRjhocHU4c3FiVlBjNlo?oc=5",
    "titre": "Mobilisation lycéenne : comment le gouvernement s’est appuyé sur une poignée d’influenceurs pour ses annonces",
    "date": "2026-10-26"
   },
   {
-   "n": 44,
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/manifestation-du-24-octobre-un-homme-arme-apercu-devant-un-commerce-a-grenoble-une-enquete-ouverte_AD-202610260512.html",
+   "titre": "Manifestation du 24 octobre: un homme armé aperçu devant un commerce à Grenoble, une enquête ouverte",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-si-nous-ne-sommes-pas-satisfaits-nous-continuerons-la-mobilisation-promet-louis-letoublon-de-l-organisation-les-lyceens_VN-202610260492.html",
+   "titre": "Mobilisation lycéenne: \"Si nous ne sommes pas satisfaits, nous continuerons la mobilisation\", promet Louis Letoublon de l'organisation Les Lycéens !",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 9,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-le-gouvernement-n-a-toujours-rien-compris-denonce-manon-moret-secretaire-generale-de-l-unef_VN-202610260486.html",
+   "titre": "Mobilisation lycéenne: \"Le gouvernement n'a toujours rien compris\", dénonce Manon Moret, secrétaire générale de l'UNEF",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 10,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/video-mobilisation-lyceenne-suzanne-nijdam-presidente-de-la-fage-souhaite-du-concret-ce-n-est-pas-juste-des-petites-miettes-mais-rendre-le-quotidien-des-etudiants-et-des-lyceens-different_VN-202610260479.html",
+   "titre": "Mobilisation lycéenne: Suzanne Nijdam, présidente de la Fage souhaite du \"concret, ce n'est pas juste des petites miettes [mais] rendre le quotidien des étudiants et des lycéens différent\"",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 11,
+   "nom": "La Provence",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSERMZXVsWk9GT3BVcVluSC1VWk02bUk0LW5EbVZtTURSdWU4Ylo2WE16dWFhV2xUUjY3eWhnNXNYYzRZZTVQbW5xMkFLN3d4dlBFYXkwNXlRLWtpbkFFbzRaQVJyOUUtTXkxWWw0QW96TWVTWjlkblNIT3p6aGo3dEIyMjhnN1FhaHRtSW5LdkJQWVVUalRZaGJiQkF2V3RmcTl6cXdzN0F1NzRIQW9ncWxLbEo1NnRKcGg3b2JQU1M0OS1ZQ2pnRGNmNnV2UHE5VTl2RnFzLWF4UkVjTkkzcFNJMUsteXlwZUVOSkRWdmlYX1ZYQjlNV3FXdEkwSkU?oc=5",
+   "titre": "Crise lycéenne : l'intersyndicale jeunesse appelle à poursuivre la mobilisation malgré les annonces du gouvernement",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 12,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/attentat-dans-les-yvelines-ladmission-en-psychiatrie-du-suspect-ne-change-rien-au-mobile-terroriste-raciste-selon-laurent-nunez-1183275?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Attentat dans les Yvelines : l'admission en psychiatrie du suspect «ne change rien» au mobile «terroriste, raciste», selon Laurent Nuñez",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 13,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-dit-etre-victime-d-une-campagne-de-harcelement-de-lfi_8253889.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 14,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/emmanuel-macron/violences-du-17-octobre-emmanuel-macron-se-rend-a-marseille-pour-une-visite-surprise-sur-le-retour-de-l-ordre-31247239.php",
+   "titre": "Violences du 17 octobre : Emmanuel Macron se rend à Marseille pour une visite surprise sur le « retour de l’ordre »",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 15,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/casseurs-payeurs-un-projet-de-loi-liberticide-amnesty-international-demande-au-gouvernement-de-renoncer-au-texte-31252887.php",
+   "titre": "Casseurs-payeurs : « Un projet de loi liberticide »… Amnesty International demande au gouvernement de « renoncer » au texte",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 16,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/lyon/lyon-une-manifestation-interdite-mardi-le-couvre-feu-est-non-reconduit-20261026",
+   "titre": "Lyon : une manifestation interdite mardi, le couvre-feu est non reconduit",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 17,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-lyceenne-on-couvre-tout-le-champ-des-revendications-se-defend-edouard-geffray_VN-202610260823.html",
+   "titre": "Colère lycéenne: \"On couvre tout le champ des revendications\", se défend Édouard Geffray",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 18,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjJfN1l3RlRBcDJGTUViRVAzc2tDRjdQbkItUzd4enc3YWQ2Zy1HQmx6ZWhEMk82Y2MwdEFHUkwwY2NxeTdCM2hjQXNCUGRNaEE2WlVlNmdGSHdtOUtmZDZTbWo3TTBYVEQ5WlNGR0s4SDhMZUdzaVFNcDY4NDA4b0R1Vmp4aWNVQXRlTjZPdTd2djEzMEM5TXJoeU5RMFZyTzdCZ2VOTG1nVHFpZXExTFhiRks4XzNHaGJF0gHAAUFVX3lxTFB4b09yWDgyMkVQS19HSWR3VC04NXVyb1hoanlEQkp0NVJoQUdmUlUtRDNLZ1U4LU5tZDBtS1llZllnNnc1NHBDT1VSQ0ZUSkxIbUVzeHBodi16OWlDaHo2emYyNHFjLTh6TVh6UjV2Uk1va3pDOExISEFzVnJkb0xaMUVZZkJVdWRHUFJjQnk4Z29FZ3I5TjRKYzROdGk3SzhQTXpMMHBZNWlGWmpocmJiV2ptbEFrd29xb01lSUxSNQ?oc=5",
+   "titre": "Colère des lycéens : évolution de Parcoursup, 28 élèves par classe, bâti scolaire… Ce qu’il faut retenir des annonces du gouvernement",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 19,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/parcoursup-classes-reduites-renovation-du-bati-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-pour-repondre-a-la-colere-lyceenne_AV-202610260824.html",
+   "titre": "Parcoursup, classes réduites, rénovation du bâti... Ce qu'il faut retenir des annonces du gouvernement pour répondre à la colère lycéenne",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 20,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMXd0SFVubUNVdHhyRG1qM3VrbUNlUjhLTUZJQzAyYTNjb1ljelc2RXNFU05jNFVGY1pVQWJsM1BIZGUwR3ExVnRRRnRyY3MtYjdwbGFULVE0bjM4SnotZm5TbnZqV1pWTXNYRDFPT3JpajBLT1VpY2NodlRQZ3p3Um9hOWVTQ1RBVFAwSjBPQ25kaDVxa05rSzBZbU1hMFFPdFZ0ZWx2bHo1Q0ZXcTgzeENIbXFLZVpmdlBoTW5LaVlKT2VVYW03M3dqUFRGUnJjRGhFVWhLMUZrLWNIQW5NZ2xKNnVpcFU1Sndnb0tRakZuck1UWHdJRWRaY2F6WDMtTnFfWG1hU2VtNFpYVkE?oc=5",
+   "titre": "Manifestation du 24 octobre : à Laval, le Mouvement national des lycéens 53 dénonce « des pressions »",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 21,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNW5wWFBHdW1XZVJnV1FBZlFyQ2l5RUlSNm53d3hWYmhSYy1rc2VXZ2t2bHFzOEVfVmJmVjZMUGhMYzhlSzdtQTkyUlZ1N2pJX21OTFZFdWFGZzR3aEZzNWx0Yy1zeU8zcFlBbnZ2XzV5Mk5WV1hsZkZsenRadEFlaWtpZm41R2I2SDZraTNCOG0tV0ZPRXdEdmo2N2RCZGlmVzJZeTlrOWFYVmlxWGFSOExocFphallVVnVYazIzNkI1bm1mN0xLTzZ3NEZMYkZQOV9fZnpINFJYUQ?oc=5",
+   "titre": "Colère sociale : à quoi s'attendre pour l'acte III des Gilets jaunes et les mobilisations à venir ?",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 22,
+   "nom": "L'Union",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTRuNHUzaHFmQWFJa1lEaDZTWG42VllGb3BlQVA3Ml9Qb2JWZ0E0NVphcVFUUTZ4ckgwZzNWVk5meHN1Y0VDdnk1VjBmTW5KOG5YM1BYdkpXUEx2TXlINDJMSUJxSzFpS3dfaHhGcWZndUZOVlBHTlJtNmpra2FrOXZBQUFnZnczNTY5UXh3YmZkcGZqSEtWVEotYk9VTkM3RjMzYXZSY0VXaWpVUXZ4YXhySXVBOG9sU3FRMHI3WHhaSmNreFdR?oc=5",
+   "titre": "Crise lycéenne : malgré les annonces du gouvernement, des organisations lycéennes appellent à poursuivre le mouvement",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 23,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFJmQTh6R2ROeUpqckt2NjFUZUdKZHlCUXgxYmZRX2oySUxKSzBGcnU0ZHZ3bUV5bF9ETnFTYnpuQ1R3NkE0ancybmxpMjNNOG5pYzl1VUJMVDlnUTlkUFNQN29CWk9rMTlpNjN3dVViLWlZRm5pODZzWHNrSHlWeTJ0ZzdJTk81bWJfM0J3WVFUUDJEN3pnY2t3?oc=5",
+   "titre": "Colère sociale : Quelles sont les prochaines manifestations annoncées ?",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 24,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-nous-irons-au-bout-louis-letoublon-vice-president-de-l-organisation-les-lyceens-appelle-a-la-mobilisation-le-31-octobre-et-le-5-novembre_VN-202610260660.html",
+   "titre": "\"Nous irons au bout\": Louis Letoublon, vice-président de l'organisation \"Les Lycéens\", appelle à la mobilisation le 31 octobre et le 5 novembre",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 25,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYzVxdVlpWFcxWENuY0Z3akJndjZZR2JTZWVTQ0lFWDQ0a3ZMWXlEbTR6cmtUdkU4MlRjc214UFdyb0F6Yk1jYjBiREVGZUFmR1FqN0ZtVTJLM0lMQ3VfempLb2NyY0ZUWUN0ekRlVzBaLURQZDlUdzJweFV5cDRsLWd4UjhMeVF0M2tLLWJDY2FYVkVPb1p3RkJGZW81WktzdVlNR1dQX205OXcxdzk5NTBmdDBiUDUtZklwemFTUU9sVUo5S2xGTlYza1dUZ1FVVHJUN29NQ1FXNlBmN0xjMV9oZ3pEZUJXWE1xVmJ6My1nQWxrZWNFUEZyNDg4bDRLODNtUUpxbTNlSDVhcldJQVNFaFpwd0JHdUJYX0IxSQ?oc=5",
+   "titre": "PORTRAIT. \"Ce qui me scandalise, c'est le manque de considération pour l'humain...\" : à 73 ans, Patrice, Gilet jaune de la première heure, a retrouvé les ronds-points pour soutenir la jeunesse",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 26,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4257736-20261026-colere-lyceens-remplacement-parcoursup-cinq-milliards-batiments-propositions-gouvernement?at_medium=display&at_campaign=149",
+   "titre": "Colère des lycéens : Remplacement de Parcoursup, cinq milliards pour les bâtiments… Les propositions du gouvernement",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 27,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSVlPaklOVlYzVVhUQ2U0S24zLU5vRzRzc3FEbGxtYU1oRy1vbzZVQ2xveGJHekhveTZld0gtd1ZRQVY3M0ZuQUNzRV9NaG9GSVRwUlNfczFPbjJnb2hzbHBzNldBNGUxd0xFa2VaN1h3MXZSdE4xMjEyR3psN0E2UTlhWHZINzJvTzhJRUU2ODhKSmI1WnFxd0hsOUVxU1ozOWc3VDA0TGhOU0tGUjdjLTdUcm5jenVrRWVxUm1QTFpvMHZqMmU5UnhtVTFWTDJRdkRXZUt2c3hvSjFydDhRRHlCNnlLUjdzTFZtOFdYZVMza2w1c05DZGdHY05kVTB1ZkV6WW0xMEI5TFVfLUc3QVlLWC0wcU02MVd2MTdYSzA?oc=5",
+   "titre": "La question du jour. Mobilisation lycéenne, vie chère : pensez-vous que la colère sociale va durer tout l’automne ?",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 28,
+   "nom": "L'Est Républicain",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSktGdkVheWRBZjhPQVA0bFFiUkFFUmNUZ0E0TGRGUEdmcEZudHk4c0hjMy1PZnFia3o1UExJRzcweTRlYXlibEI2azc3cFdibk9hWnFXZV84aXpIUExNQXBUVXo2Y2JZdUNKRWpLYUQ3di1CS09FTFhQeHd3Zlltd1NrZGFlLTRSeTRUWktJT1RYQWRqSUJwNjBtb2FPZzlUcTNDRDVvUXY0eE5iMXI5blg5dlllajd5dWdwVw?oc=5",
+   "titre": "24 octobre : Au coeur de la manifestation contre la vie chère",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 29,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxObk01Skh3TWxNSjEtOWQzQWpwTE5JUXVUemlqenhQWDh1Rk1rN3h3SnVZWVhpQlFZMHVNMElmZWx6dTZvVlNlT2ZZNW1wWVExV1FhajU4NXVWMmZSb1BSTGV5Y1haREx2QklpaXB0VHp2eHpzMWdwS3pzR19EWHI2ejRvRjR6c1ZoRXdJODl2dTdPTWRsanlZNEktajU5d3lzQkktbHY1SC1UMDIwS2x0cy1PMEJkY0xYQ2tELUVjbG5JeVRCNy1Ld3AyRUFyd0VKQ19ycjEtcFZxQU9zNWFaa3ZlTm5aUWtsRmd0Z0tIY1JneXpWZUcxQ2o1ZXNiSUNIRmJDcnpucU9Bb1ltcTdTQXdSek9zZTJHMXhnVGhlR0RIU2wtOUE?oc=5",
+   "titre": "Colère lycéenne : Parcoursup supprimé, classes limitées à 28 élèves, milliers de postes supplémentaires… les annonces de Sébastien Lecornu pour apaiser les tensions",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 30,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWkNIblUwc3ZMUk93QnFKVGFBZGxLTkg5UG1mb2lrMEFsdWxqYk5JV0pNaXR6dmQtdU5mbGtYYWhERy1IaHJ3ckxmbENaRkF2VlRNSnVqa3A4S2ZJVUdtQ0syUlRyOW02VE83d3FuOVRRSTNxcDlxRm5SemMySzUwSW9yQVdoekFsUVIwelk4eTBkUFMzdjRsbmw5SGFXYU1kVC1RNnlRRE1YcnRsMVNYUDhTeXRiT2FjTk1Oajh2ZmpnbE1HdnctS2g2V0V3VFZsUGJSVVk1N3RDOVJPMjdiVFQ1TlI3eDBUdWxDN1hjTlM?oc=5",
+   "titre": "Les forces de l'ordre accusées de protéger l'ultradroite en marge des manifs, Nuñez conteste",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 31,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/video-lyceens-recus-a-matignon-c-est-le-bal-des-tartuffes-denonce-sabrine-kharbach-porte-parole-de-l-union-etudiante_VN-202610260485.html",
+   "titre": "Lycéens reçus à Matignon: \"C'est le bal des tartuffes\", dénonce Sabrine Kharbach, porte-parole de l'Union étudiante",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 32,
+   "nom": "Brut",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXN0U0E1X2hrTVd4NWY0bDg1Z0tnaHk2OG9jSjRPRE1kN1E5NU1INzlpbzFIY2FQLU9tU3dVME5wcnYyZ3FFT2hERk43WmVzR1NBb2tBWVZXdVBLTTZNYmpxbVVvNW5STG0xeF8yVWNNOVNwOHIzVGdPb0hjeHlwZFdpc293Sk1Ec0ZjakdUMEJyWXdWWjhDREtrZTJuRFJvdHc0SHBlcG1QZXpoWHc?oc=5",
+   "titre": "Mobilisation lycéenne : les manifestations continuent en Italie.",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 33,
+   "nom": "Libération",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWGFCblFuOWdjbDN6eE5nekkyUEhKMGNBbExjVERWN0dBY1hsVmdXSmZnZDBDZTZvbkdyTlh6UUlOcThsWlF5SU92LXZjWFFfbkxkMW53anRqSFA1blVFbk1kWF83VDRqeEpXbnFvRUgyXzh5ci1EOURsa0pSd0szX1hMNGZma2dvY2lWcFM5dlJKZVR1VlVHeTFTZlZtMXV1bEs0VW1wVHBhajEzMkh2UnJwTlIzZXFUb1Q2aUFOaHhQd21Zc2NMRW1rbTNBVHVjUzFQQ1NxREp4a2NRQmN3eGNyTnExSUdBVGlERmV5UTdRMXNGZVhqMVZHT1NoampOTXBQcW5wcS1EQ0l1R2pEbG8tcnc2OTU2SkV0Mw?oc=5",
+   "titre": "Les manifestations seront hors des centres-villes samedi 31 octobre pour une nouvelle journée «à risque», selon Macron",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 34,
+   "nom": "franceguyane.fr",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcW9iX29jV0RtdzQ4MndPUGhqNTZaOTFWQVlBMTZoVlNqVUpSZFZUWVl6NWtkUW9LYWN2cGd1Tm9TZFp4b1U3WWJwcUUxblNBSllSanlaWkJWREpVb0Zfdm5JVm01SWY5RlJxcEZlblIwdjJVazFuRWlTcERSSlJzUEk5WFRXMjVxT0NQbTZtbWpvWFdMbmZBS1B4NTZGNEZacFpON3FWUUdBVHZDZ3Z3U3JRaWlMUlkxOFo1enV5RXlwN1JEUzRTbkhuay1qdzQ5QU5oaXktNWZpXy0weFE?oc=5",
+   "titre": "Après un mois de crise lycéenne, le gouvernement évoque le remplacement de Parcoursup",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 35,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnlIWmZTYkpFbjBCYk04S1Ezal9nV2d5VFZzRmhNa3cyNTRCeEM5VlAxbkxNR1Ata2VnUHVwZ3Y4RXNFSDA4ZlhMX3A2QlRPVjlJdnR2U05Nc0cyeGg4U1NBNmtncGZPUHB1TVlsOXNEMk56a25wdlAyUGV4aTVUd2hrcjVRbFcxWUVycnpnMEpyVGlnY1JadElQcUhBNzVGVW9pRFdNZFFSM0VmNEw0alhoVUJvZ9IBuwFBVV95cUxPZ1AwaEh4amNMZEc3MUtxTXprS1p2UUhBeTlJYXh4LUNISlcyY3d1blZhaldIMWVsR0hwaVd3MGF6ZHppdlRsOEJoWE1WdG1kWDZydlBVNGVxR19WbmkzejBqc1U0TU82N3ZpX0VXN0lzOHJOVTFKVkt3QkZETWRWZnE3M2FJOEt3emFyT3Y3aU10RldWVTlfZ1BIMnRxSnhHVGNIOGg1NzZZUjNOczVQUi1uVXlWcTNDc1lF?oc=5",
+   "titre": "Blocus des lycées : «En Mai 68, il ne serait venu à l'idée de personne d'agresser un professeur», souligne Jérôme Fourquet",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 36,
    "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/idees/article/2026/10/26/mouvement-lyceen-beaucoup-de-nos-eleves-estiment-qu-il-n-existe-plus-aucun-moyen-de-faire-entendre-leur-voix_6800826_3232.html",
-   "titre": "Mouvement lycéen : « Beaucoup de nos élèves estiment qu’il n’existe plus aucun moyen de faire entendre leur voix »",
+   "url": "https://www.lemonde.fr/idees/article/2026/10/26/anne-cordier-chercheuse-les-lyceens-et-etudiants-abreuvent-les-reseaux-sociaux-de-scenes-de-joie-d-espoir-et-de-solidarite_6800600_3232.html",
+   "titre": "Anne Cordier, chercheuse : « Les lycéens et étudiants abreuvent les réseaux sociaux de scènes de joie, d’espoir et de solidarité »",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 37,
+   "nom": "DHnet",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOHIyTldMbmdfQ0pQNC1sVW03eUJXVzc0VmI0RElDWlYzcElhYXUtMWNyZzhQTk4tbl9RemxGT3RteC1WZUp3cTdLbWxENkdvdEVfVkdrRWpFWDI2M0ZWTDBjUjlOaF9tNTRQSUFDSXdkQUQtOUhFVEJhSHo1VkZFcWNFazlOaDk1N1N1ZjZJUzNfZXg5WlZ0RElHN0w3cUJnMVg3QU5lZ2ZKdklmQmlkWlJHcGhMa2U4Slg3ODYxSlhtSEYtT19ZUmEyeUVRUDFtQ2t6ZGIxR2p6ZG16c3o1RGx3Sk1nd2hGS3MyLW1uY2hRY3ZodzNfR2lhYUFWWDBsMU5FUGxNSjQ?oc=5",
+   "titre": "Manifestations de samedi en France : 1.435 personnes interpellées au total, 267 policiers et gendarmes blessés",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 38,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html#xtor=RSS-3-[lestitres]",
+   "titre": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 39,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-31-octobre-on-va-deployer-un-dispositif-extremement-robuste-annonce-le-ministre-de-l-interieur-laurent-nunez_VN-202610260247.html",
+   "titre": "31 octobre: \"On va déployer un dispositif extrêmement robuste\", annonce le ministre de l'Intérieur Laurent Nuñez",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 40,
+   "nom": "Nice-Matin",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSGZkNGhfRkVPRkdFbGt3OUxqZ2pwTmhLUUtsMVd0Y0VXWjFncGRVTjYzQ3ZuSkx3eTZiTC1sMWdKVHFwSXdNclF0VUhfSWZ5bDRDYzJWOGRfRzhYLUduVDJhYmVWakhveWtWMTJRTTZLUm9DNnhwWVZ4ZWpzd3E2bjN1TGFieENwalhYdEtXcGRLRDY1b2piSWpEbjZOajNRN2VZR0VyNmhaVVVEcWN6UXZJMkdJUE8wZWR4dHdoR1cyVXdua1VqaU5XSEhuWEZEVjVSOWZ5SGlnTWVZaFZhdkxpSzRyNDNxbzlvVzNGMnJld2ZHTVZQcEdlTG91Uk5OWE5HQjM1RWNIb3J4N2tpbnMzRUJ3dVBSSk9n?oc=5",
+   "titre": "Parcoursup, état des bâtiments... Après un mois de crise lycéenne, le gouvernement devrait donner ce lundi « des réponses très concrètes »",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 41,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/26/mobilisation-lyceenne-des-ecarts-spectaculaires-d-offre-de-formation-entre-les-lycees-de-seine-saint-denis-et-de-paris_6800498_3224.html",
+   "titre": "Mobilisation lycéenne : des écarts « spectaculaires » d’offre de formation entre les lycées de Seine-Saint-Denis et de Paris",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 42,
+   "nom": "ODS Radio",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlVvZy1BemhYNF8tSkhYNmw4a0QyMWNJWlhMdGNNSTBXSjZKRW9oVGhhNHU5U09LYmw1OXBWMkVpckZJVElvTXdlanAzTlRMOHRHNzE0TXBQMUM3OXE2bnlWbEhnV1otMEcxUEpKZ3ZFSllJaDNleHJuMmlLX0d4SmxDcjg3Wk1oWTl0S1U4aFF5U3YyalVkSVdLZGtXVUd0SURHdFZMUHRGc0FVQjkzblhxU0h1RVd3cDc2N2lLRGlYVWRiNDlYM3JPTmdzXzU4MEFzRWRPU0o0M0Zw?oc=5",
+   "titre": "Manifestations en Savoie : La VRU de Chambéry bloquée, deux interpellations et trois policiers blessés",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-ce-n-est-pas-normal-qu-a-six-mois-d-une-election-presidentielle-notre-pays-soit-dans-cet-etat-d-ebullition-affirme-emmanuel-macron_VN-202610260496.html",
+   "titre": "\"Ce n'est pas normal qu'à six mois d'une élection présidentielle, notre pays soit dans cet état d'ébullition\", affirme Emmanuel Macron",
+   "date": "2026-10-26"
+  },
+  {
+   "n": 44,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-colere-sociale-apres-un-mois-de-mobilisation-le-gouvernement-promet-ce-lundi-des-reponses-tres-concretes-aux-lyceens_LN-202610260096.html",
+   "titre": "DIRECT. Colère sociale: après un mois de mobilisation, le gouvernement promet ce lundi \"des réponses très concrètes\" aux lycéens",
    "date": "2026-10-26"
   },
   {
    "n": 45,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/politique/video-pour-richard-ramos-depute-modem-la-loi-casseur-payeurs-ne-tient-pas-la-rampe-du-conseil-constitutionnel_VN-202610260955.html",
-   "titre": "Pour Richard Ramos, député \"Modem\", la loi casseur-payeurs \"ne tient pas la rampe du Conseil constitutionnel\"",
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/10/26/mouvement-lyceen-beaucoup-de-nos-eleves-estiment-qu-il-n-existe-plus-aucun-moyen-de-faire-entendre-leur-voix_6800826_3232.html",
+   "titre": "Mouvement lycéen : « Beaucoup de nos élèves estiment qu’il n’existe plus aucun moyen de faire entendre leur voix »",
    "date": "2026-10-26"
   },
   {
@@ -424,5 +424,5 @@
    "date": "2026-10-26"
   }
  ],
- "genere": "2026-10-27T05:07:46.229447+00:00"
+ "genere": "2026-10-27T06:06:04.833389+00:00"
 }
