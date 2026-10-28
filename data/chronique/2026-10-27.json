@@ -54,7 +54,7 @@
  "jour_long": "mardi 27 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -268,107 +268,107 @@
   },
   {
    "n": 31,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
+   "titre": "Mort d’un manifestant le 17 octobre à Paris : l’autopsie conclut à « une défaillance cardio-respiratoire aiguë » ; la famille dénonce l’usage de gaz lacrymogène",
+   "date": "2026-10-27"
+  },
+  {
+   "n": 32,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/il-faut-que-ca-s-arrete-raphael-glucksmann-est-il-empeche-de-faire-campagne-par-des-militants-insoumis_8256463.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "\"Il faut que ça s'arrête\" : Raphaël Glucksmann est-il empêché de faire campagne par des militants Insoumis ?",
    "date": "2026-10-27"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html",
    "titre": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
    "date": "2026-10-27"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/politique/loi-casseurs-payeurs-la-societe-na-plus-a-subventionner-ceux-qui-la-detruisent-fustige-david-lisnard-1187322?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Loi «casseurs-payeurs» : «La société n'a plus à subventionner ceux qui la détruisent», fustige David Lisnard",
    "date": "2026-10-27"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-grenade-lancee-pres-d-enfants-a-rouen-ce-qu-on-voit-la-ce-n-est-pas-du-tout-un-cas-isole-denonce-prisca-ancion-avocate-et-militante-revolution-permanente_VN-202610270887.html",
    "titre": "Grenade lancée près d'enfants à Rouen: \"Ce qu'on voit là, ce n'est pas du tout un cas isolé\", dénonce Prisca Ancion, avocate et militante \"Révolution permanente\"",
    "date": "2026-10-27"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-a-rouen-des-policiers-filmes-en-train-de-jeter-une-grenade-pres-d-enfants-une-enquete-a-ete-ouverte_VN-202610270884.html",
    "titre": "À Rouen, des policiers filmés en train de jeter une grenade près d'enfants, une enquête a été ouverte",
    "date": "2026-10-27"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "https://www.parlons-politique.fr/",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQamxGck4tTGktV1BKa21XcjhBVnVpMlhRREVJZXQzSHZ5RmxkY0M1VkhSMEJBZ3pRMnlWU1ZQcDRGNFFfYjBFTkI1MjMwRW92dGh1RERkOXloWHp4SjVQNzZzVUQ2cmZPRWRUNzRuWkR6ZlFBa0VGalF0dnRocmVaVm52alhxV0pnU181T1NManVQeWtKR2FkdFdNY0pDUEpCdURHQXBtWk1kZmM4RWN6d0VKLTNUdnV0cDJCUV9LRlUwSHdXNUtRTGJHd1U0SG4wYTZmYzVVaTBWX1p6cFJhaE9CN2FNbGZ2cDdfQmxvZUZPU2N1cWFyRmU4WjhPRkJFYmxORg?oc=5",
    "titre": "Mobilisation lycéenne : des annonces à l’épreuve",
    "date": "2026-10-27"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "Facebook",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFdjeDU2VzAtWFpKcTdxakkxYmdYeDZiSjlkQ3lESGhiVHVxa25oNzZGQnhWMTlPRU5nanZrWkdLbTJuc1ZsbnB4bGJ2QllhS09iNUpWQmlYZF9kX0Z0d1lxN3M4dlZPcU8yeC1pRHBxeVEyYUE2d1Z1RFRVUjNscGZMZk9EUVRUUVNmS0V4ZnF6Q2t6Rk9yc2dDcmlzTjBQRDVOMEpBdEtjWWdLRU52N1V3NXhsN1pRT3g5VktB?oc=5",
    "titre": "France Inter. . Les mouvements lycéens, ce sont aussi ces pancartes à l’humour contestataire, ces “battles d’aura” endiablées et autres formes festives qui égayent les cortèges. Aline Leclerc, journaliste au service économie du Monde et Lumir Lapray, militant",
    "date": "2026-10-27"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/ile-de-france/paris/homme-mort-lors-de-la-mobilisation-du-17-octobre-a-paris-le-deces-provoque-par-une-defaillance-cardiorespiratoire-31269403.php",
    "titre": "Homme mort lors de la mobilisation du 17 octobre à Paris : le décès provoqué par « une défaillance cardiorespiratoire »",
    "date": "2026-10-27"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-nuit-d-emeutes-en-marge-de-la-tournee-d-un-influenceur-d-extreme-droite-pour-les-legislatives_8256448.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "En Espagne, une nuit d'émeutes en marge de la tournée d'un influenceur d'extrême droite pour les législatives",
    "date": "2026-10-27"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/politique/le-probleme-derriere-parcoursup-cest-ce-mythe-de-labsence-de-selection-pointe-david-lisnard-1187274?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "«Le problème derrière Parcoursup, c'est ce mythe de l'absence de sélection», pointe David Lisnard",
    "date": "2026-10-27"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "lejdd.fr",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2xqc0Z3NlMwbHJJN1F0YlkxbXdXYWZJTE9XUXkzUEJxajQwVGhqNkVpbC16eFZSZ3RIN3k2UmpLS3VwbVREOG43NmM5clZIcTRyaUdvREZTSTVmcTI3SkN1SDJ3YTBSbDh3R0tWRnNmaXdmZFg3R1AtbHpheTBmLUc4YjJLVUNJRjFYdTkydEdaVjM4WUpZVXZqcF9uejBuSFkzY1RrbTg2MXBUSUNhX01YS0dlS1BVTnhjbEp0dXZ2MFk?oc=5",
    "titre": "Calendrier des grèves et manifestations : dates de novembre et décembre 2026",
    "date": "2026-10-27"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-c-est-une-mobilisation-sociale-par-bien-des-aspects-exceptionnelle-assure-olivier-besancenot-membre-du-npa_VN-202610270849.html",
    "titre": "\"C'est une mobilisation sociale, par bien des aspects, exceptionnelle\", assure Olivier Besancenot, membre du NPA",
    "date": "2026-10-27"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/politique/attentat-de-trappes-a-l-assemblee-nationale-lhommage-tourne-a-laffrontement-politique-20261027",
    "titre": "Attentat de Trappes : à l’Assemblée nationale, l’hommage tourne à l’affrontement politique",
    "date": "2026-10-27"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/conjoncture/plus-de-1700-annonces-de-produits-supposement-pilles-le-17-octobre-retirees-des-sites-de-vente-annonce-serge-papin-20261027",
    "titre": "Plus de 1700 annonces de produits supposément pillés le 17 octobre retirées des sites de vente, annonce Serge Papin",
-   "date": "2026-10-27"
-  },
-  {
-   "n": 45,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reseaux-sociaux-le-gouvernement-les-surveille-de-tres-pres-en-vue-d-une-nouvelle-mobilisation-le-31-octobre_8256403.html#xtor=RSS-3-%5Bgeneral%5D",
-   "titre": "Réseaux sociaux : le gouvernement les surveille de très près en vue d’une nouvelle mobilisation le 31 octobre",
    "date": "2026-10-27"
   },
   {
@@ -393,5 +393,5 @@
    "date": "2026-10-27"
   }
  ],
- "genere": "2026-10-28T05:39:57.644473+00:00"
+ "genere": "2026-10-28T06:46:35.767862+00:00"
 }
