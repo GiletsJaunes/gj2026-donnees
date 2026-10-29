@@ -1,0 +1,389 @@
+{
+ "titre": "Mercredi 28 octobre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Noovo Info, Des experts de l’ONU «consternés» par la «répression» des manifestations étudiantes en France (repris par 5 médias). Selon 20 Minutes, Colère sociale : Le Sénat adopte le projet de loi « casseurs-payeurs » après les violences du 17 octobre (repris par 4 médias). Selon Le Figaro, Le Sénat adopte et élargit le projet de loi «casseurs-payeurs», après les débordements du 17 octobre (repris par 3 médias). Selon Sud Ouest, Casseurs-payeurs : le projet de loi adopté et élargi au Sénat, en plein cœur de la contestation.",
+   "sources": [
+    1,
+    3,
+    6,
+    24
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon BFMTV, Colère lycéenne: Emmanuel Macron appelle à la reprise des cours à la rentrée lundi et \"que le calme revienne\" (repris par 3 médias). Selon BFMTV, Blocus des lycées : 54% des Français disent stop - 28/10. Selon BFMTV, Mobilisation lycéenne: \"Il n'y a aucun autre pays d'Europe où des jeunes sont amputés\", déplore Manon Aubry, députée européenne La France Insoumise. Selon BFMTV, Mobilisation des lycéens: \"L'ensemble des revendications ne sont pas obtenues\", fustige Alexis Durey, militant \"Le Poing Levé\" et \"Révolution Permanente\", étudiant à Paris 8.",
+   "sources": [
+    5,
+    7,
+    8,
+    9
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon ladepeche.fr, Colère sociale en France : le ministère de l'Intérieur aveugle sur TikTok ? Pourquoi la police met désormais des jours à démentir les fausses informations qui circulent sur le réseau social. Selon franceinfo, Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?. Selon BFMTV, Collision entre deux trains: après le drame, l'émotion et la colère des Espagnols.",
+   "sources": [
+    13,
+    37,
+    42
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates » (repris par 4 médias). Selon Le Figaro, Présidentielle 2027 : «Je ne suis pas candidat», répond Gérard Larcher à Yaël Braun-Pivet (repris par 3 médias). Selon Europe 1, Présidentielle 2027 : Gabriel Attal franchit le pas et prône une «primaire des démocrates». Selon Ouest-France, Présidentielle 2027 : Gabriel Attal, candidat Renaissance à l’Élysée, appelle à une « grande primaire des démocrates ».",
+   "sources": [
+    2,
+    4,
+    10,
+    11
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-10-28",
+ "numero": 27,
+ "jour_long": "mercredi 28 octobre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Noovo Info",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2JTb1dzWl93TFBpamk3VVVRSmpsM0luaktyelExRkxPcGNJZnpnQ1I4X2tGODNUN3ZHczAwS2RHYk5SVDg0bU52Umh2Y1RRNFhkNHZzQmpqekFYNXdzWVd6RlpnR3NrTDh1YkZlREpGb3NBTk00Wno2UGF1dU5LVXJ3T1RfTUNKNGViWkJwbnRwTkFNVWZHczhOWXhpNG94dm9BQ0ZacWJtQXNtbTFMTkFxLW5iTncxNzJJNHN3WG5ySkxXOV9keE9JZ25fT1VQTVgwUFBhOFZRTHZK?oc=5",
+   "titre": "Des experts de l’ONU «consternés» par la «répression» des manifestations étudiantes en France",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 2,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-31282748.php",
+   "titre": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 3,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4258150-20261028-colere-sociale-senat-adopte-projet-loi-casseurs-payeurs-apres-violences-17-octobre?at_medium=display&at_campaign=149",
+   "titre": "Colère sociale : Le Sénat adopte le projet de loi « casseurs-payeurs » après les violences du 17 octobre",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 4,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/presidentielle-2027-je-ne-suis-pas-candidat-repond-gerard-larcher-a-yael-braun-pivet-20261028",
+   "titre": "Présidentielle 2027 : «Je ne suis pas candidat», répond Gérard Larcher à Yaël Braun-Pivet",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elysee/colere-lyceenne-emmanuel-macron-appelle-a-la-reprise-des-cours-a-la-rentree-lundi-et-que-le-calme-revienne_AD-202610280960.html",
+   "titre": "Colère lycéenne: Emmanuel Macron appelle à la reprise des cours à la rentrée lundi et \"que le calme revienne\"",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 6,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/le-senat-adopte-et-elargit-le-projet-de-loi-casseurs-payeurs-apres-les-debordements-du-17-octobre-20261028",
+   "titre": "Le Sénat adopte et élargit le projet de loi «casseurs-payeurs», après les débordements du 17 octobre",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-blocus-des-lycees-54-des-francais-disent-stop-28-10_VN-202610281003.html",
+   "titre": "Blocus des lycées : 54% des Français disent stop - 28/10",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-mobilisation-lyceenne-il-n-y-a-aucun-autre-pays-d-europe-ou-des-jeunes-sont-amputes-deplore-manon-aubry-deputee-europeenne-la-france-insoumise_VN-202610280986.html",
+   "titre": "Mobilisation lycéenne: \"Il n'y a aucun autre pays d'Europe où des jeunes sont amputés\", déplore Manon Aubry, députée européenne La France Insoumise",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 9,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-des-lyceens-l-ensemble-des-revendications-ne-sont-pas-obtenues-fustige-alexis-durey-militant-le-poing-leve-et-revolution-permanente-etudiant-a-paris-8_VN-202610280930.html",
+   "titre": "Mobilisation des lycéens: \"L'ensemble des revendications ne sont pas obtenues\", fustige Alexis Durey, militant \"Le Poing Levé\" et \"Révolution Permanente\", étudiant à Paris 8",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 10,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-gabriel-attal-franchit-le-pas-et-prone-une-primaire-des-democrates-1190208?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Gabriel Attal franchit le pas et prône une «primaire des démocrates»",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 11,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-candidat-renaissance-a-lelysee-appelle-a-une-grande-primaire-des-democrates-33fc7c62-d307-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : Gabriel Attal, candidat Renaissance à l’Élysée, appelle à une « grande primaire des démocrates »",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 12,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/la-gauche-denonce-la-tenue-de-manifestations-et-devenements-neofascistes-ce-week-end-a-paris-20261028_LYRJRKK7S5E3HH5ZSW7E2RFZWE/",
+   "titre": "La gauche dénonce la tenue de manifestations et d’évènements «néofascistes» ce week-end à Paris et dans les Hauts-de-Seine",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 13,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNl81MW11UzJZZEt6ZlhzUEY1Mi1DRUV5SXo3dHExbFNYMWNNdDFkZnFhSHRJazU2T3ZkdktiTno1MGdyRVNMUW5CZkh2aWRxM0U5VVkzUGVLeWlKRGFNWlFRdEZKZ3Y5aGgwRzBhNFI2ei1MUnV4NEpmQUp6T1JmLUI3bXd3ZmtzR2MySVdEQnU2dVBKWlVzTXpXR29VRnQ4YVh4MmhrZUNGbm12ekg1SUVHNTFkenZTekd6N1BucnZGcDE2SjZ0X0ZacndFSVdxaG5BYjJIQ0laLS0wX1FsTDZsYUV3cThWMklwUS1VSklCLUFRSzN1aUJ1R0VjdTdZSnFWZHY0VmxsVnZVS1Q2UDNicUpYVjBydUNEMnRPRWlwOW9q?oc=5",
+   "titre": "Colère sociale en France : le ministère de l'Intérieur aveugle sur TikTok ? Pourquoi la police met désormais des jours à démentir les fausses informations qui circulent sur le réseau social",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 14,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/sondage-bfmtv-colere-lyceenne-et-etudiante-plus-d-un-francais-sur-deux-juge-les-propositions-du-gouvernement-insuffisantes-mais-54-souhaitent-que-la-mobilisation-se-termine_AN-202610280689.html",
+   "titre": "SONDAGE BFMTV. Colère lycéenne et étudiante: plus d'un Français sur deux juge les propositions du gouvernement insuffisantes mais 54% souhaitent que la mobilisation se termine",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 15,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/faits-divers/attentat-de-trappes-un-hommage-national-a-pengo-bossio-wangi-sera-organise-preside-par-sebastien-lecornu-31280746.php",
+   "titre": "Attentat de Trappes : un hommage national à Pengo Bossio Wangi sera organisé, présidé par Sébastien Lecornu",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 16,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbVYzdm9nOHVsM05GS19fV3NhRHFGVV96UW50VkxMRTltNjlqc1ZvT0h6a3ZpUG8yMzh0OHhNWmpRWXlpekQ5a210WDlQS1B4dy1DQ1pPdWZvcWswb2Q0MEZmYnBVaTRCcVNNN3NoUjZQR3diRUlEVGxHelFFNnprV2tVXzJtd3JubVpRbFhlTlpRbFpZSlBvR1Vmdmo0b2I0RUM4N3ZKLWtTckxqWkFaaEJVaFZhZE93UVhPbk51b0N4MzN2V3dlUldNWTNPQ2taM3RZOF90ZHgxVTFfd1dDRzBBYnYzb1M1dHNfbGJaaXdOenVBcktNRUdB?oc=5",
+   "titre": "« Pas de rentrée comme si de rien n’était »: ce syndicat lycéen appelle à poursuivre la mobilisation en Loire-Atlantique",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 17,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/28/attentat-raciste-de-trappes-le-gouvernement-annonce-un-hommage-national-sans-en-preciser-la-date_6801574_3224.html",
+   "titre": "Attentat raciste de Trappes : Sébastien Lecornu présidera un « hommage national », à une date encore inconnue",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 18,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261028-attentat-de-trappes-un-hommage-national-%C3%A0-la-victime-sera-bien-organis%C3%A9",
+   "titre": "Attentat de Trappes : un hommage national à la victime sera bien organisé",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 19,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/religion/toussaint/toussaint-laurent-nunez-demande-aux-prefets-de-renforcer-la-securite-des-lieux-de-culte-et-cimetieres-chretiens_8257213.html#xtor=RSS-3-[lestitres]",
+   "titre": "Toussaint : Laurent Nuñez demande aux préfets de renforcer la sécurité des lieux de culte et cimetières chrétiens",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 20,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUGRzWUxBMFNGYkdBTHJwUTFndF9JeWxyQlVVMWptVnRmYUIxZUp6X01QclNyZEFiZ0Q5ejN3MHJWWkcyLUFvWU02MVktMldlTGZxeHN6ZjRtUW5vMXROSlpJN1R0ZmhRdFhxQl93RTAwZmYwLVZhOHpST0oxQUpqS19rN0hKb2s3MGJHeDBtY1FHcjJhYm5oOG1RbUxBaXB0TjZFSE9NRWFCLXNQdExLNGhGRlkycFJJSHpNYXdtWE9NUFNMNGpkYmtDVjNzU05EN0FPTjgxZUV0bTkyWDBXRkNZcXc3enJnVVR0bm1YQlQ1T24xUmtJWA?oc=5",
+   "titre": "Manifestation du 31 octobre. Que prévoient les Gilets jaunes aux Sables-d’Olonne ?",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 21,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4257892-20261028-manifestation-24-octobre-groupuscules-extreme-droite-agi-impunement-proteges-police?at_medium=display&at_campaign=149",
+   "titre": "Manifestation du 24 octobre : Des groupuscules d’extrême droite ont-ils agi impunément et été protégés par la police ?",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 22,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNd3VXSC12Z1lfSVh6SHNhS0hONWpaVlVsQ0Q5Rk4xQWhaYzBXbFllN1o3MmVQbm5DQ2QwNi16WGdJR2wxRXNUa3RGNEJXc0JQZ21RZTBGRlVkdnhjTzdBRGxGUXphRWdJNHpOMGx5anNLbFZZNFFERHN0MjBCRVhVSmlVZ1RCTXJYM1pBV3dNUkFBaERQSVlwOXJVZmFCdTJpMTlNdUZhWGZfbDFNaWczYVVwaG5OWEJuYUJBeG1uS1BVV1hRbUhlS1Q2aExGcUJ0cTN6QnMydHRpMmNuVUNiNmVuSFMyN3pabk9uSm5nVnRoQkwxX0R5RTd0NkVEd1FqVjUwNm1jNE52U1M4ZG9pRXhlX3RJN01nc3RYd1VBVmF6dzRDTzh2OHJmdGJMMUVRV2tzV2xSbnEzbHZuQ084V0Q3SkRYX0hqT0ZGNmZOZEZwMnQwaVp4MzdESkN4d2dvSC1mZFJTaTlMdTFkZ2ttdHlEZy0?oc=5",
+   "titre": "Mobilisation des lycéens : Emmanuel Macron appelle à une rentrée dans \"le calme\" lundi",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 23,
+   "nom": "Radio France",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQLTljdC1RdWMtMzJJU1FCUE5yRjJUUkJZUV84Z1dCUVpGdklSVzN2aEh6YzJTOUFwV0oxLXZ3YXRuU1JsaF9nQW5iRWxMVS1fQnZaWXFBOW9YSUlSWTZTMzMycTluRGdIRUhtR2pzY0VPMWJlREZmRlc5bGt5cEFvLVNhNEhXemdxNWFNR3pXcWktemFpcnVJczNBa2ctZWxuNXNzem9IYUt4cnM3S0Y0Ql9POU5YUlJkU0NndERvYk9IWGRwdENGT253aWtrSnJ6cUZxOUVOUVdISkdXbzBraWhUN0NFMUItdXZ1eEwxc3E2VTF6Ui05QnhqUFltN0p1ZzZCdjAtSC0ySkJWaE1xcWNHbW9hcV9pREo1Y0hwNW11N0pwQmtKeUpn?oc=5",
+   "titre": "Manifestations contre la vie chère : les commerçants dans le doute à un mois des fêtes de fin d'année",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 24,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/casseurs-payeurs-le-projet-de-loi-adopte-et-elargi-au-senat-en-plein-coeur-de-la-contestation-31272337.php",
+   "titre": "Casseurs-payeurs : le projet de loi adopté et élargi au Sénat, en plein cœur de la contestation",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 25,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/28/mobilisation-lyceenne-face-aux-senateurs-jean-michel-blanquer-defend-parcoursup-et-sa-reforme-du-lycee-et-du-bac_6801616_3224.html",
+   "titre": "Mobilisation lycéenne : Jean-Michel Blanquer défend Parcoursup et sa réforme du lycée et du bac devant les sénateurs",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 26,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/28/remplacement-de-parcoursup-sebastien-lecornu-dit-attendre-des-propositions-et-des-engagements-precis-de-la-part-des-differents-partis-politiques_6801626_823448.html",
+   "titre": "Remplacement de Parcoursup : Sébastien Lecornu dit attendre « des propositions et des engagements précis » de la part des différents partis politiques",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 27,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html",
+   "titre": "Mobilisation lycéenne : des experts de l’ONU se disent consternés par la répression des manifestations, et dénoncent un « recours excessif à la force »",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 28,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elysee/colere-lyceenne-emmanuel-macron-assure-que-l-executif-n-a-pas-envisage-de-couper-les-reseaux-sociaux-lors-des-manifestations_AD-202610281002.html",
+   "titre": "Colère lycéenne: Emmanuel Macron assure que l'exécutif n'a pas envisagé de couper les réseaux sociaux lors des manifestations",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-crise-sociale-le-gouvernement-n-a-pas-pris-la-mesure-de-la-colere-estime-sabrina-sebaihi-deputee-ecologiste-et-social-des-hauts-de-seine_VN-202610280993.html",
+   "titre": "Crise sociale: \"Le gouvernement n'a pas pris la mesure de la colère\", estime Sabrina Sebaihi, députée Écologiste et social des Hauts-de-Seine",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 30,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-31-octobre-je-pense-que-ce-sera-l-acte-ii-de-la-defense-de-nos-libertes-fondamentales-declare-manon-aubry-deputee-europeenne-la-france-insoumise_VN-202610280988.html",
+   "titre": "31 octobre: \"Je pense que ce sera l'acte II de la défense de nos libertés fondamentales\", déclare Manon Aubry, députée européenne La France Insoumise",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 31,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/police/une-etudiante-eborgnee-a-mulhouse-le-17-octobre-le-parquet-saisit-ligpn-c1e566ac-d315-11f1-81f2-0d14b9f9c452?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Une étudiante éborgnée à Mulhouse le 17 octobre, le parquet saisit l’IGPN",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-annonces-faites-aux-lyceens-par-le-gouvernement-ils-voient-qu-ils-sont-en-train-de-se-faire-arnaquer-estime-manon-aubry-deputee-europeenne-la-france-insoumise_VN-202610280984.html",
+   "titre": "Annonces faites aux lycéens par le gouvernement: \"Ils voient qu'ils sont en train de se faire arnaquer\", estime Manon Aubry, députée européenne La France Insoumise",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 33,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/est-ce-que-ca-a-pu-causer-sa-mort-les-gaz-lacrymogenes-sont-ils-dangereux_8257946.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "\"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 34,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-echange-tendu-entre-rudy-manna-delegue-national-unsa-police-a-marseille-et-alexis-durey-militant-le-poing-leve-et-revolution-permanente-etudiant-a-paris-8_VN-202610280945.html",
+   "titre": "Échange tendu entre Rudy Manna, délégué national UNSA Police à Marseille et Alexis Durey, militant \"Le Poing Levé\" et \"Révolution Permanente\", étudiant à Paris 8",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 35,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028",
+   "titre": "Présidentielle 2027 : à la peine dans les sondages, Gabriel Attal propose une «grande primaire des démocrates» pour éviter un duel LFI-RN",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 36,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/parcoursup-sebastien-lecornu-confirme-son-remplacement-en-2028-malgre-la-colere-persistante-des-lyceens-1190154?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Parcoursup : Sébastien Lecornu confirme son remplacement en 2028, malgré la colère persistante des lycéens",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 37,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisations-sociales-on-a-peur-que-les-clients-desertent-nos-commerces-explique-solenn-amiel-presidente-de-l-association-de-commercants-village-popincourt-a-paris_VN-202610280934.html",
+   "titre": "Mobilisations sociales: \"On a peur que les clients désertent nos commerces\", explique Solenn Amiel, présidente de l'association de commerçants \"Village Popincourt\" à Paris",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 39,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/commerces-pilles-le-gouvernement-promet-jusqu-a-10-000-euros-d-aide_8257922.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Commerces pillés : le gouvernement promet jusqu'à 10 000 euros d'aide",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 40,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-[lestitres]",
+   "titre": "L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 41,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/justice/manifestations-la-justice-suspend-le-couvre-feu-pour-les-mineurs-instaure-a-paris-31283348.php",
+   "titre": "Manifestations : la justice suspend le couvre-feu pour les mineurs instauré à Paris",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/international/europe/espagne/video-collision-entre-deux-trains-apres-le-drame-l-emotion-et-la-colere-des-espagnols_VN-202610280921.html",
+   "titre": "Collision entre deux trains: après le drame, l'émotion et la colère des Espagnols",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 43,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/etudiant/lycee/parcoursup/remplacement-de-parcoursup-sebastien-lecornu-renvoie-la-balle-aux-deputes-pour-trouver-une-alternative-au-dispositif-d-orientation-des-lyceens-31282873.php",
+   "titre": "Remplacement de Parcoursup : Sébastien Lecornu renvoie la balle aux députés pour trouver une alternative au dispositif d’orientation des lycéens",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 44,
+   "nom": "RFI",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOODhxS1pWN3A5ZUpjU1MweDZ6cjJKX3haZjFHaVZacHJqSm8ycWFDdUxPbEVIMHh1dGo2V0NpUHZLWHJreW5HOExxNWVtWDc2RlFxT2FTNk1LcUVUU3ktX05tcUZKRGZzM1Q3eGVJd3U3TVRzNU00eTMzU1JWb0gxM290dDYtQnlTNnJVWWcyNkVPQ3Y0MC1RT19xRnZKUVhGUUtmb2JMcEdENXlhMmlMOTBWbWdXem11cUlod3JwelhaeDNfM0tzVFliTG1QNVdmUVZTeUJEXzJidXVRT1NGTmJBYy1xSm4yRkUyQ194c0tLTmg3aGdrcExhV0xnRWxPUDNhVWdSTWo4UQ?oc=5",
+   "titre": "Mobilisation lycéenne en France: Parcoursup «est vu par beaucoup d'étudiants et de familles comme un supplice»",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 45,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "INFO FRANCEINFO. Mobilisation des lycéens : l'enquête pour agression sexuelle visant un policier à Metz classée sans suite",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 46,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNV0FnMnZibEtScS1mVGZZd1Z5Z0xZYU42Z1ZKSVVrLTcya3pUOXZqSzd5SWZpQXZpMXJncnVtd25mSV9mT0FXRTV2Ri1PeHZybmdEdE9JLTBZSWJJaklVUHVnbUJDbTdMUldMNXp5STJSNFd4MzNDNnF1SDlPS2tVeC1PNjNIVGRpSjBMN0c2SDQyaFY3ZW1QYllwaVVEUUJwSEwzQ1kxSEFJOWpnbEdBSEpVSi1TTTVaVHNZVWVMbGRqTGROYWJha19xT2hob0hCOXB1UjZZdkR5bkNSSUZuZXNRX3Y5UVJsRGJ2M2JVNHI2dVY0MXhjMHpVLXotd2lTTWJoMW4xYjVGWEpzT1pZY2h6UmNHWEx1SkRNeVlTUUluTG45VktDQzZwZXJfYWpDa1RnSl94UE9FUkNSdmZMV2NQTElrN1F6dS15eXdqTHRlS0U?oc=5",
+   "titre": "La Rochelle Agglo : avec un bus caillassé et des vitres d’abris voyageurs brisées, la facture des dégradations en marge de la mobilisation lycéenne approche 90 000 euros",
+   "date": "2026-10-28"
+  },
+  {
+   "n": 47,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/10/28/presidentielle-2027-apres-la-primaire-raphael-glucksmann-face-a-un-parcours-dobstacles-13624628.php",
+   "titre": "Présidentielle 2027 : après la primaire, Raphaël Glucksmann face à un parcours d'obstacles",
+   "date": "2026-10-28"
+  }
+ ],
+ "genere": "2026-10-29T05:42:27.872481+00:00"
+}
