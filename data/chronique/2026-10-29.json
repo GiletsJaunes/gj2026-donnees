@@ -5,10 +5,10 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Ouest-France, Manifestant grièvement blessé à la main : le parquet de Toulouse saisit l’IGPN (repris par 5 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée (repris par 3 médias). Selon Le Monde, Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main (repris par 3 médias). Selon Le Figaro, La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester.",
+   "texte": "Selon Ouest-France, Manifestant grièvement blessé à la main : le parquet de Toulouse saisit l’IGPN (repris par 5 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée (repris par 4 médias). Selon Le Monde, Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main (repris par 3 médias). Selon Le Figaro, La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester.",
    "sources": [
     4,
-    9,
+    8,
     11,
     23
    ],
@@ -30,6 +30,13 @@
     17
    ],
    "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon La Dépêche, DIRECT. Présidentielle 2027 : soupçonné de détournement de fonds publics au Havre, Édouard Philippe placé sous le statut de témoin assisté.",
+   "sources": [
+    42
+   ],
+   "theme": "Politique"
   }
  ],
  "a_suivre": {
@@ -41,7 +48,7 @@
  "jour_long": "jeudi 29 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -94,16 +101,16 @@
   },
   {
    "n": 8,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-previent-que-le-risque-de-violences-urbaines-est-tres-eleve-pour-la-mobilisation-du-31-octobre-dans-une-lettre-envoyee-aux-prefets_8258972.html#xtor=RSS-3-%5Bgeneral%5D",
-   "titre": "Laurent Nuñez prévient que \"le risque de violences urbaines est très élevé\" pour la mobilisation du 31 octobre dans une lettre envoyée aux préfets",
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2dqWTVsT1o1Zk1NUFNlSWt1Tm1Qc2Y3bnhQUWllendQbUhIM1pORl9QTV9XVnlJZjEwRE5mZG14TDJrTXhfOC1zUFVPbk55YTQyNWk2eGhxSFdDN2hvVkM5bHY4OVpZb3d2VFh5cmJLWVBCQ3ZFTEE0bWdjbDM0ZHM4TFpaWDlIcWpBdFZvN0hHbjU2bDR5OFBadF9NZVVtNTh3SVhUeVIxSWl5dG11REVkdndlRVRpajl1LWZIZWlndW5iTTI2TzFWcDZEWlFROEotZA?oc=5",
+   "titre": "Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée",
    "date": "2026-10-29"
   },
   {
    "n": 9,
-   "nom": "Le Dauphiné Libéré",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2dqWTVsT1o1Zk1NUFNlSWt1Tm1Qc2Y3bnhQUWllendQbUhIM1pORl9QTV9XVnlJZjEwRE5mZG14TDJrTXhfOC1zUFVPbk55YTQyNWk2eGhxSFdDN2hvVkM5bHY4OVpZb3d2VFh5cmJLWVBCQ3ZFTEE0bWdjbDM0ZHM4TFpaWDlIcWpBdFZvN0hHbjU2bDR5OFBadF9NZVVtNTh3SVhUeVIxSWl5dG11REVkdndlRVRpajl1LWZIZWlndW5iTTI2TzFWcDZEWlFROEotZA?oc=5",
-   "titre": "Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée",
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-previent-que-le-risque-de-violences-urbaines-est-tres-eleve-pour-la-mobilisation-du-31-octobre-dans-une-lettre-envoyee-aux-prefets_8258972.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Laurent Nuñez prévient que \"le risque de violences urbaines est très élevé\" pour la mobilisation du 31 octobre dans une lettre envoyée aux préfets",
    "date": "2026-10-29"
   },
   {
@@ -332,30 +339,30 @@
   },
   {
    "n": 42,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/10/30/direct-presidentielle-2027-soupconne-de-detournement-de-fonds-publics-au-havre-edouard-philippe-place-sous-le-statut-de-temoin-assiste-13627491.php",
+   "titre": "DIRECT. Présidentielle 2027 : soupçonné de détournement de fonds publics au Havre, Édouard Philippe placé sous le statut de témoin assisté",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 43,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-pouvoir-d-achat-vous-voulez-vous-debarrasser-des-riches-moi-je-veux-me-debarrasser-de-la-pauvrete-lance-geoffroy-didier-president-delegue-lr-de-la-region-ile-de-france_VN-202610290964.html",
    "titre": "FORUM BFMTV – Pouvoir d'achat: \"Vous voulez vous débarrasser des riches, moi, je veux me débarrasser de la pauvreté\", lance Geoffroy Didier, président délégué LR de la région Île-de-France",
    "date": "2026-10-29"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-salaires-il-faut-tailler-dans-le-systeme-social-pour-augmenter-les-remunerations-estime-maxime-proprietaire-de-six-boulangeries-dans-l-oise_VN-202610290961.html",
    "titre": "FORUM BFMTV – Salaires: \"Il faut tailler dans le système social\" pour augmenter les rémunérations, estime Maxime, propriétaire de six boulangeries dans l’Oise",
    "date": "2026-10-29"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 45,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-crise-sociale-on-est-au-bord-de-la-faillite-estime-mickael-commercant-et-entrepreneur-immobilier_VN-202610290932.html",
-   "titre": "Crise sociale: \"On est au bord de la faillite\", estime Mickael, commerçant et entrepreneur immobilier",
    "date": "2026-10-29"
   },
   {
@@ -394,5 +401,5 @@
    "date": "2026-10-29"
   }
  ],
- "genere": "2026-10-30T06:49:30.918718+00:00"
+ "genere": "2026-10-30T07:58:32.487171+00:00"
 }
