@@ -5,12 +5,12 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Ouest-France, Manifestant grièvement blessé à la main : le parquet de Toulouse saisit l’IGPN (repris par 5 médias). Selon Le Monde, Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main (repris par 3 médias). Selon Le Figaro, La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester. Selon Le Dauphiné Libéré, Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée.",
+   "texte": "Selon Ouest-France, Manifestant grièvement blessé à la main : le parquet de Toulouse saisit l’IGPN (repris par 5 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée (repris par 3 médias). Selon Le Monde, Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main (repris par 3 médias). Selon Le Figaro, La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester.",
    "sources": [
     4,
-    10,
-    21,
-    24
+    9,
+    11,
+    23
    ],
    "theme": "Répression"
   },
@@ -27,7 +27,7 @@
   {
    "texte": "Selon La Montagne, Interdiction des manifs de l’extrême droite, tracé restreint des manifs contre la vie chère à Paris… À quoi s’attendre ce samedi.",
    "sources": [
-    15
+    17
    ],
    "theme": "Colère sociale"
   }
@@ -41,7 +41,7 @@
  "jour_long": "jeudi 29 octobre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -101,261 +101,261 @@
   },
   {
    "n": 9,
-   "nom": "Europe 1",
-   "url": "https://www.europe1.fr/politique/crise-dans-leducation-on-aurait-certainement-du-etre-plus-rapides-reconnait-le-ministre-edouard-geffray-1191540?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-   "titre": "Crise dans l'Éducation : \"On aurait certainement dû être plus rapides\", reconnaît le ministre Édouard Geffray",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 10,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
-   "titre": "Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 11,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/culture/louvre-les-syndicats-signent-un-accord-de-sortie-de-crise-avec-la-direction_AD-202610290835.html",
-   "titre": "Louvre : les syndicats signent un accord de sortie de crise avec la direction",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 12,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/police-justice/mobilisation-sociale-et-lyceenne-1-193-policiers-et-gendarmes-blesses-depuis-le-debut-du-mouvement_AD-202610290794.html",
-   "titre": "Mobilisation sociale et lycéenne: 1.193 policiers et gendarmes blessés depuis le début du mouvement",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 13,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/manifestations/video-on-a-un-ministere-de-l-interieur-qui-decide-de-nous-empecher-de-manifester-dans-paris-assurent-les-syndicats-etudiants_VN-202610290670.html",
-   "titre": "\"On a un ministère de l'Intérieur qui décide de nous empêcher de manifester dans Paris\", assurent les syndicats étudiants",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 14,
-   "nom": "Sud Ouest",
-   "url": "https://www.sudouest.fr/ile-de-france/paris/manifestation-du-31-octobre-laurent-nunez-reclame-un-dispositif-robuste-face-a-un-risque-de-violences-tres-eleve-31292794.php",
-   "titre": "Manifestation du 31 octobre : Laurent Nuñez réclame un « dispositif robuste » face à un « risque de violences très élevé »",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 15,
-   "nom": "La Montagne",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSUpSYlhFX1pkS2RXcEhER1RkU25NS2FnZlBLZWtSZzk1UzgxdGVEa0c3Mkk0dUFpbGNqcDFWdXZ5THRKTDE5amRqdkgyVWM1Yk5DS0NlWWFfaWR5RllYaDlJUWw2WElyOVVsbE5qZFd4SGtLS0RiYnE4SGlXbDRCYUtlNEhKekhMYS1TWDBZSjdTZTlZQlJCOFNQRVRqbWRsbVI3ZGFLd282di1jX0NUTGR4SmZTUGZaYkI1SGVIMTN3Y3NOSXFQMnJyRllQVnQ2T3pKdFRhUnpXYmZQUUwwem5sMnU1aEw5S3NWWlFmUGVNT1lWaGtVN3FIaVNZeXZDQTBmQ3ZYWTFBd0RDM3lEX0hB?oc=5",
-   "titre": "Interdiction des manifs de l’extrême droite, tracé restreint des manifs contre la vie chère à Paris… À quoi s’attendre ce samedi",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 16,
-   "nom": "ladepeche.fr",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ0M4R25GLUg2b1BpY2RDX1lNcGlSS3pkWTVJUzVzSWRYb0hFaGVhRUVoUUtmQzlOeWtBd0xWbE1qQlZWVU9FV1NnOWxBNjdTUnY0QlZyaXFIYndRTnYxOEUwelExR3BmN2VXRk1JX0ctMGx0V0VJQ0dSSkRFMm84eHJieHVkb0h2eEY5UzNPam5ULWZMR2pDcndGMDJDbjhaamtQc3dUSG1pZW5kbWhQOUJySElXVVhTZnpmbk12RWtkbFg2cWFsdk1EQ2x4emltMmIwdklXQV8ySUtQa0ZFSUx2aWFJV2U5V0ZuTFhHdnhaU1NxSWFFTk9pVzJVWHlPb2g4WXh0VS00Z1NMdnVBdFNFRVozWk9FUG5POFBjQ0VGbW5k?oc=5",
-   "titre": "Colère des lycéens : sur les réseaux, ils appelaient à \"mettre le feu au lycée\" et à attaquer la proviseure et une surveillante : deux mineurs identifiés et poursuivis en justice",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 17,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/manifestations/mobilisation-du-31-octobre-le-syndicat-solidaires-appelle-au-rassemblement-a-avignon_AN-202610290545.html",
-   "titre": "Mobilisation du 31 octobre: le syndicat Solidaires appelle au rassemblement à Avignon",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 18,
-   "nom": "BFM",
-   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcDhlTTV6cmZhbzhUTlZVS0pLZ0VRYUllTFRhdGtHcWNTTkZENVE5Wk1tOGt0aXgtU25aaDJVMU5lZmliMHBZTk96RWowRDF0RlIybTVXSW9NY0xtU1Buc3dxR0ZmRjJYcDdfWWFmX3ZDR3lkY2dhVlNMNVB4RV92eHprVVRHQnd4RlExOW0ySVU5TTc4bndYNGdWNFMxNm5xVEhjMEU5S2hzWWZpb0UyTlNFUnYxQUl2MThNa0xCQ1dUYUpUQjJWOWpYZ3l4bThLY1RwUDY5ZkVEZnFqU3M0WU0zUFlaVzFwLXZiUWNodl9LX1JVeUU1SEhOVC1oV1M3M21VOU8yUm5jNWg3WHJOdGxTMjU1MEVKOFBiVGljZE94eTNkWUlVZ1BCYktISzZoalJIXw?oc=5",
-   "titre": "Avant de nouvelles manifestations samedi, le ministre de l'Intérieur Laurent Nuñez reçoit les représentants des lycéens ce jeudi après-midi.",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 19,
-   "nom": "lejdd.fr",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2R3Q0haY245WWVhX0R4cnFWcEk2RHk4NGZBTFVVSWp3aXRJSWZUNlZ5S1EtTERmbllvWWdteGlmX0dxNmYyUXFYX2hGTE0wb1Bid0JHTnlWSE43UFJlYUp0WmtBdDBSM2F3MjI1M2VQUFhNRkdDb0ZVcW5ndEZtTjVaVjh6eHdTTWVZRlIxVE85TE4wQTRNNWlWdjE5YUR3QnZsVlNGelk?oc=5",
-   "titre": "Gilets jaunes : pourquoi les casseroles vont-elles résonner ce vendredi ?",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 20,
-   "nom": "Le Figaro",
-   "url": "https://www.lefigaro.fr/actualite-france/le-colloque-et-la-manifestation-d-ultradroite-objectif-remigration-interdits-samedi-20261029",
-   "titre": "Le colloque et la manifestation d'ultradroite «Objectif Remigration» interdits samedi",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 21,
-   "nom": "Le Figaro",
-   "url": "https://www.lefigaro.fr/actualite-france/la-cfdt-et-la-cgt-accusent-le-projet-de-loi-casseurs-payeurs-de-porter-atteinte-au-droit-de-manifester-20261029",
-   "titre": "La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 22,
-   "nom": "Sortir à Paris",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEM3OTlaYVdGN2hjN3g1SVNUbXZDN3E5Wlc4VElxeHotYnNQTFVPYkhMRVVMRnU0dXJZR1NmS2VCa19hMlFnRWFlWm55bjJHZEJsTkFKQjhpd1h4OHcxU0lzdTdUdkJkVjEzZXpqaWY0V2QzQTFib18yME1qbks2V2ZaRWZEZ1FaVmFPTV93ek83cEVrODJuV3M4RWVNNGt5WFNrQWlwRUJRQ1BNN2YzaFhqRHFZbHdndWg4N25tTU5QZXVT?oc=5",
-   "titre": "Manifestation du 31 octobre à Paris : parcours et métro, le point",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 23,
-   "nom": "Maritima",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3pNa25nN2VfNlRqOTlwcVFGaWFXVElCa255clR4ZVhtRlNNamdVNGZmUUNiQnV3aHE4R21aLTlvV2RPY2JCVjhfVXh3ZFRQS0wyNEN6TGp3ZHVhU0w3QVRfV0w4a1hXWDUtX3daX3JKLURLdDVtcU1wZk9NUGs2VXMtblNrZWxpWEJiaUxmTFZXbjRjcXk2TjhBSUNWdGxaX2Vnc2dVUVVFUW5rbnlFZU9tWXBHbnJiQWNUMkxTVU5KVklrbURjN0FmeUhNRFdaZ013?oc=5",
-   "titre": "Manifestations : les gilets jaunes veulent \"aller plus loin\" et \"élargir le mouvement\"",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 24,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2dqWTVsT1o1Zk1NUFNlSWt1Tm1Qc2Y3bnhQUWllendQbUhIM1pORl9QTV9XVnlJZjEwRE5mZG14TDJrTXhfOC1zUFVPbk55YTQyNWk2eGhxSFdDN2hvVkM5bHY4OVpZb3d2VFh5cmJLWVBCQ3ZFTEE0bWdjbDM0ZHM4TFpaWDlIcWpBdFZvN0hHbjU2bDR5OFBadF9NZVVtNTh3SVhUeVIxSWl5dG11REVkdndlRVRpajl1LWZIZWlndW5iTTI2TzFWcDZEWlFROEotZA?oc=5",
    "titre": "Mobilisation lycéenne. Soupçon d'agression sexuelle lors d'une interpellation à Metz : l'enquête classée",
    "date": "2026-10-29"
   },
   {
+   "n": 10,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/crise-dans-leducation-on-aurait-certainement-du-etre-plus-rapides-reconnait-le-ministre-edouard-geffray-1191540?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Crise dans l'Éducation : \"On aurait certainement dû être plus rapides\", reconnaît le ministre Édouard Geffray",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 11,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
+   "titre": "Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 12,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-mobilises-un-dispositif-exceptionnel-reconduit-selon-nunez-20261029",
+   "titre": "Manifestations du 31 octobre : « un dispositif exceptionnel » reconduit, selon Nuñez",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 13,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/culture/louvre-les-syndicats-signent-un-accord-de-sortie-de-crise-avec-la-direction_AD-202610290835.html",
+   "titre": "Louvre : les syndicats signent un accord de sortie de crise avec la direction",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 14,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/mobilisation-sociale-et-lyceenne-1-193-policiers-et-gendarmes-blesses-depuis-le-debut-du-mouvement_AD-202610290794.html",
+   "titre": "Mobilisation sociale et lycéenne: 1.193 policiers et gendarmes blessés depuis le début du mouvement",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 15,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-on-a-un-ministere-de-l-interieur-qui-decide-de-nous-empecher-de-manifester-dans-paris-assurent-les-syndicats-etudiants_VN-202610290670.html",
+   "titre": "\"On a un ministère de l'Intérieur qui décide de nous empêcher de manifester dans Paris\", assurent les syndicats étudiants",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 16,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/ile-de-france/paris/manifestation-du-31-octobre-laurent-nunez-reclame-un-dispositif-robuste-face-a-un-risque-de-violences-tres-eleve-31292794.php",
+   "titre": "Manifestation du 31 octobre : Laurent Nuñez réclame un « dispositif robuste » face à un « risque de violences très élevé »",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 17,
+   "nom": "La Montagne",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSUpSYlhFX1pkS2RXcEhER1RkU25NS2FnZlBLZWtSZzk1UzgxdGVEa0c3Mkk0dUFpbGNqcDFWdXZ5THRKTDE5amRqdkgyVWM1Yk5DS0NlWWFfaWR5RllYaDlJUWw2WElyOVVsbE5qZFd4SGtLS0RiYnE4SGlXbDRCYUtlNEhKekhMYS1TWDBZSjdTZTlZQlJCOFNQRVRqbWRsbVI3ZGFLd282di1jX0NUTGR4SmZTUGZaYkI1SGVIMTN3Y3NOSXFQMnJyRllQVnQ2T3pKdFRhUnpXYmZQUUwwem5sMnU1aEw5S3NWWlFmUGVNT1lWaGtVN3FIaVNZeXZDQTBmQ3ZYWTFBd0RDM3lEX0hB?oc=5",
+   "titre": "Interdiction des manifs de l’extrême droite, tracé restreint des manifs contre la vie chère à Paris… À quoi s’attendre ce samedi",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 18,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ0M4R25GLUg2b1BpY2RDX1lNcGlSS3pkWTVJUzVzSWRYb0hFaGVhRUVoUUtmQzlOeWtBd0xWbE1qQlZWVU9FV1NnOWxBNjdTUnY0QlZyaXFIYndRTnYxOEUwelExR3BmN2VXRk1JX0ctMGx0V0VJQ0dSSkRFMm84eHJieHVkb0h2eEY5UzNPam5ULWZMR2pDcndGMDJDbjhaamtQc3dUSG1pZW5kbWhQOUJySElXVVhTZnpmbk12RWtkbFg2cWFsdk1EQ2x4emltMmIwdklXQV8ySUtQa0ZFSUx2aWFJV2U5V0ZuTFhHdnhaU1NxSWFFTk9pVzJVWHlPb2g4WXh0VS00Z1NMdnVBdFNFRVozWk9FUG5POFBjQ0VGbW5k?oc=5",
+   "titre": "Colère des lycéens : sur les réseaux, ils appelaient à \"mettre le feu au lycée\" et à attaquer la proviseure et une surveillante : deux mineurs identifiés et poursuivis en justice",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 19,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/mobilisation-du-31-octobre-le-syndicat-solidaires-appelle-au-rassemblement-a-avignon_AN-202610290545.html",
+   "titre": "Mobilisation du 31 octobre: le syndicat Solidaires appelle au rassemblement à Avignon",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 20,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcDhlTTV6cmZhbzhUTlZVS0pLZ0VRYUllTFRhdGtHcWNTTkZENVE5Wk1tOGt0aXgtU25aaDJVMU5lZmliMHBZTk96RWowRDF0RlIybTVXSW9NY0xtU1Buc3dxR0ZmRjJYcDdfWWFmX3ZDR3lkY2dhVlNMNVB4RV92eHprVVRHQnd4RlExOW0ySVU5TTc4bndYNGdWNFMxNm5xVEhjMEU5S2hzWWZpb0UyTlNFUnYxQUl2MThNa0xCQ1dUYUpUQjJWOWpYZ3l4bThLY1RwUDY5ZkVEZnFqU3M0WU0zUFlaVzFwLXZiUWNodl9LX1JVeUU1SEhOVC1oV1M3M21VOU8yUm5jNWg3WHJOdGxTMjU1MEVKOFBiVGljZE94eTNkWUlVZ1BCYktISzZoalJIXw?oc=5",
+   "titre": "Avant de nouvelles manifestations samedi, le ministre de l'Intérieur Laurent Nuñez reçoit les représentants des lycéens ce jeudi après-midi.",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 21,
+   "nom": "lejdd.fr",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2R3Q0haY245WWVhX0R4cnFWcEk2RHk4NGZBTFVVSWp3aXRJSWZUNlZ5S1EtTERmbllvWWdteGlmX0dxNmYyUXFYX2hGTE0wb1Bid0JHTnlWSE43UFJlYUp0WmtBdDBSM2F3MjI1M2VQUFhNRkdDb0ZVcW5ndEZtTjVaVjh6eHdTTWVZRlIxVE85TE4wQTRNNWlWdjE5YUR3QnZsVlNGelk?oc=5",
+   "titre": "Gilets jaunes : pourquoi les casseroles vont-elles résonner ce vendredi ?",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 22,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/le-colloque-et-la-manifestation-d-ultradroite-objectif-remigration-interdits-samedi-20261029",
+   "titre": "Le colloque et la manifestation d'ultradroite «Objectif Remigration» interdits samedi",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 23,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/la-cfdt-et-la-cgt-accusent-le-projet-de-loi-casseurs-payeurs-de-porter-atteinte-au-droit-de-manifester-20261029",
+   "titre": "La CFDT et la CGT accusent le projet de loi «casseurs-payeurs» de porter atteinte au droit de manifester",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 24,
+   "nom": "Sortir à Paris",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEM3OTlaYVdGN2hjN3g1SVNUbXZDN3E5Wlc4VElxeHotYnNQTFVPYkhMRVVMRnU0dXJZR1NmS2VCa19hMlFnRWFlWm55bjJHZEJsTkFKQjhpd1h4OHcxU0lzdTdUdkJkVjEzZXpqaWY0V2QzQTFib18yME1qbks2V2ZaRWZEZ1FaVmFPTV93ek83cEVrODJuV3M4RWVNNGt5WFNrQWlwRUJRQ1BNN2YzaFhqRHFZbHdndWg4N25tTU5QZXVT?oc=5",
+   "titre": "Manifestation du 31 octobre à Paris : parcours et métro, le point",
+   "date": "2026-10-29"
+  },
+  {
    "n": 25,
+   "nom": "Maritima",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3pNa25nN2VfNlRqOTlwcVFGaWFXVElCa255clR4ZVhtRlNNamdVNGZmUUNiQnV3aHE4R21aLTlvV2RPY2JCVjhfVXh3ZFRQS0wyNEN6TGp3ZHVhU0w3QVRfV0w4a1hXWDUtX3daX3JKLURLdDVtcU1wZk9NUGs2VXMtblNrZWxpWEJiaUxmTFZXbjRjcXk2TjhBSUNWdGxaX2Vnc2dVUVVFUW5rbnlFZU9tWXBHbnJiQWNUMkxTVU5KVklrbURjN0FmeUhNRFdaZ013?oc=5",
+   "titre": "Manifestations : les gilets jaunes veulent \"aller plus loin\" et \"élargir le mouvement\"",
+   "date": "2026-10-29"
+  },
+  {
+   "n": 26,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html",
    "titre": "Mobilisation lycéenne : Edouard Geffray estime que les « jeunes ont besoin d’aller en cours »",
    "date": "2026-10-29"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/nombreux-policiers-raid-en-renfort-controles-accrus-quel-dispositif-de-maintien-de-l-ordre-pour-les-manifestations-du-31-octobre_AV-202610290164.html",
    "titre": "Nombreux policiers, Raid en renfort, contrôles accrus... Quel dispositif de maintien de l'ordre pour les manifestations du 31 octobre?",
    "date": "2026-10-29"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "L'Express",
    "url": "https://www.lexpress.fr/secret-defense/du-fiasco-des-gilets-jaunes-au-17-octobre-les-angles-morts-du-renseignement-territorial-BY33RQHLOJHANH4MDMITTUQMZA/",
    "titre": "Du fiasco des gilets jaunes au 17 octobre : le renseignement territorial, mal-aimé de la sécurité intérieure",
    "date": "2026-10-29"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/societe/manifestation/mobilisation-lyceenne-parcoursup-pouvoir-dachat-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-f3925bd0-d0e8-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Mobilisation lycéenne, Parcoursup, pouvoir d’achat… Ce qu’il faut retenir de l’intervention d’Emmanuel Macron",
    "date": "2026-10-29"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-mobilisations-du-31-octobre-les-lyceens-et-lyceennes-ont-peur-d-aller-manifester-temoigne-anais-eleve-au-lycee-kleber-de-strasbourg-et-membre-du-syndicat-les-lyceens_VN-202610290995.html",
    "titre": "FORUM BFMTV - Mobilisations du 31 octobre: \"Les lycéens et lycéennes ont peur d'aller manifester\", témoigne Anaïs, élève au lycée Kléber de Strasbourg et membre du syndicat Les Lycéens",
    "date": "2026-10-29"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-le-gouvernement-actuel-ne-va-rien-faire-de-plus-que-ce-qu-il-a-donne-ces-dix-dernieres-annees-raphael-a-paris-denonce-l-impasse-de-la-situation_VN-202610290994.html",
    "titre": "FORUM BFMTV - \"Le gouvernement actuel ne va rien faire de plus que ce qu'il a donné ces dix dernières années\", Raphaël à Paris dénonce l'impasse de la situation",
    "date": "2026-10-29"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-manifestations-pourquoi-mobiliser-systematiquement-l-ensemble-des-forces-de-l-ordre-interroge-axel-ronde-president-et-porte-parole-du-syndicat-de-police-cftc_VN-202610290989.html",
    "titre": "FORUM BFMTV – Manifestations: \"Pourquoi mobiliser systématiquement l’ensemble des forces de l’ordre ?\", interroge Axel Ronde, président et porte-parole du syndicat de police CFTC",
    "date": "2026-10-29"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-colere-sociale-j-irai-manifester-annonce-sylvie-femme-de-chambre_VN-202610290988.html",
    "titre": "FORUM BFMTV - Colère sociale : \"J’irai manifester\", annonce Sylvie, femme de chambre\"",
    "date": "2026-10-29"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-qui-sont-les-casseurs_8259329.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "VIDEO. 17 octobre : qui sont les casseurs ?",
    "date": "2026-10-29"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/faits-divers/police/revelations-sur-les-cellules-de-deontologie-l-autre-police-des-polices_8259413.html#xtor=RSS-3-[lestitres]",
    "titre": "Violences dans les manifestations : les cellules locales de déontologie, l'autre police des polices, sont-elles assez contrôlées ?",
    "date": "2026-10-29"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-mobilisations-sociales-les-francais-ne-sont-pas-idiots-ils-veulent-juste-de-la-transparence-estime-thierry-paul-valette-analyste-consultant-et-ancien-gilet-jaune-a-paris_VN-202610290982.html",
    "titre": "FORUM BFMTV - Mobilisations sociales: \"Les Français ne sont pas idiots, ils veulent juste de la transparence\", estime Thierry-Paul Valette, analyste consultant et ancien Gilet Jaune à Paris",
    "date": "2026-10-29"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-remunerations-des-exonerations-de-cotisations-pour-permettre-aux-entreprises-d-augmenter-les-salaires-propose-yoann-gillet-depute-rn-du-gard_VN-202610290977.html",
    "titre": "FORUM BFMTV - Rémunérations: \"Des exonérations de cotisations\" pour permettre aux entreprises d’augmenter les salaires, propose Yoann Gillet, député RN du Gard",
    "date": "2026-10-29"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-salaires-le-travailler-plus-pour-gagner-plus-ca-n-a-pas-porte-ses-fruits-fustige-lena-raud-porte-parole-du-parti-communiste-francais_VN-202610290978.html",
    "titre": "FORUM BFMTV - Salaires: \"Le travailler plus pour gagner plus, ça n'a pas porté ses fruits\", fustige Léna Raud, porte-parole du \"Parti Communiste Français\"",
    "date": "2026-10-29"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-mobilisations-sociales-regardez-la-casse-derriere-lance-isabelle-benevole_VN-202610290972.html",
    "titre": "Mobilisations sociales: \"Regardez la casse derrière\", lance Isabelle, bénévole",
    "date": "2026-10-29"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-du-31-octobre-des-internautes-appellent-a-manifester-en-etant-costumes_VN-202610290969.html",
    "titre": "Mobilisation du 31 octobre: des internautes appellent à manifester en étant costumés",
    "date": "2026-10-29"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/laurent-nunez-a-nie-toutes-les-vi0lences-envers-les-lyceens-denonce-une-porte-parole_8259515.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Laurent Nuñez \"a nié toutes les vi0lences\" envers les lycéens, dénonce une porte-parole",
    "date": "2026-10-29"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-pouvoir-d-achat-vous-voulez-vous-debarrasser-des-riches-moi-je-veux-me-debarrasser-de-la-pauvrete-lance-geoffroy-didier-president-delegue-lr-de-la-region-ile-de-france_VN-202610290964.html",
    "titre": "FORUM BFMTV – Pouvoir d'achat: \"Vous voulez vous débarrasser des riches, moi, je veux me débarrasser de la pauvreté\", lance Geoffroy Didier, président délégué LR de la région Île-de-France",
    "date": "2026-10-29"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-salaires-il-faut-tailler-dans-le-systeme-social-pour-augmenter-les-remunerations-estime-maxime-proprietaire-de-six-boulangeries-dans-l-oise_VN-202610290961.html",
    "titre": "FORUM BFMTV – Salaires: \"Il faut tailler dans le système social\" pour augmenter les rémunérations, estime Maxime, propriétaire de six boulangeries dans l’Oise",
    "date": "2026-10-29"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
    "date": "2026-10-29"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-crise-sociale-on-est-au-bord-de-la-faillite-estime-mickael-commercant-et-entrepreneur-immobilier_VN-202610290932.html",
    "titre": "Crise sociale: \"On est au bord de la faillite\", estime Mickael, commerçant et entrepreneur immobilier",
-   "date": "2026-10-29"
-  },
-  {
-   "n": 45,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-manifestations-j-irai-manifester-annonce-sylvie-femme-de-chambre-convaincue-que-c-est-en-manifestant-qu-on-obtient-des-choses_VN-202610290929.html",
-   "titre": "FORUM BFMTV – Manifestations: \"J’irai manifester\", annonce Sylvie, femme de chambre, convaincue que \"c’est en manifestant qu’on obtient des choses\"",
    "date": "2026-10-29"
   },
   {
@@ -394,5 +394,5 @@
    "date": "2026-10-29"
   }
  ],
- "genere": "2026-10-30T05:42:53.500155+00:00"
+ "genere": "2026-10-30T06:49:30.918718+00:00"
 }
