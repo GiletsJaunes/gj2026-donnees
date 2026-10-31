@@ -23,7 +23,7 @@ UA = "Mozilla/5.0 (compatible; GJ2026-veille/1.0)"
 TRIGGERS = [("blocage", r"blocage|bloquer|bloqueront|filtrage|barrage"), ("manifestation", r"manifestation|manifester|manifesteront|cortège|défilé|défileront"),
             ("rassemblement", r"rassemblement|rassembler|se rassembleront|piquet|sit-in|occupation"), ("marche", r"\bmarche\b|marcheront"),
             ("mobilisation", r"mobilisation|journée d.action|appel à la grève|grève")]
-FUTUR = re.compile(r"\b(appel|appelle|appellent|appelé|prévu|prévue|prévus|prévues|aura lieu|auront lieu|se tiendra|se tiendront|se rassembleront|rendez-vous|organis[ée]|organisera|manifesteront|défileront|bloqueront|invit|à partir de|dès|ce samedi|demain|samedi prochain|ce week-end|annonc|déclaré|déclarée|attendu|attendus|veulent|souhaitent|comptent|entendent|prévoient|prévoit|lancent|lance|appeler)\b", re.I)
+FUTUR = re.compile(r"\b(interdit|interdite|interdiction|interdire|annulé|annulée|annulation|reporté|reportée|appel|appelle|appellent|appelé|prévu|prévue|prévus|prévues|aura lieu|auront lieu|se tiendra|se tiendront|se rassembleront|rendez-vous|organis[ée]|organisera|manifesteront|défileront|bloqueront|invit|à partir de|dès|ce samedi|demain|samedi prochain|ce week-end|annonc|déclaré|déclarée|attendu|attendus|veulent|souhaitent|comptent|entendent|prévoient|prévoit|lancent|lance|appeler)\b", re.I)
 PASSE = re.compile(r"\b(a réuni|ont réuni|ont manifesté|a manifesté|ont défilé|a défilé|s.est tenu|se sont tenus|se sont rassemblés|s.est rassemblé|ont rassemblé|a rassemblé|ont bloqué|a bloqué|hier|samedi dernier|dernier|ce week-end dernier|avant-hier|ont été interpellés|bilan|selon la préfecture de police, \d)", re.I)
 HORS_SUJET = re.compile(r"marche blanche|hommage|commémor|marché|match|concert|festival|téléthon|pro-palestin|ukraine|gaza|israël", re.I)
 ORGAS = [("CGT", r"\bCGT\b"), ("FO", r"\bFO\b|Force ouvrière"), ("CFDT", r"\bCFDT\b"), ("Solidaires", r"Solidaires|\bSUD\b"), ("FSU", r"\bFSU\b"),
@@ -216,6 +216,19 @@ def maj(articles, data, maintenant=None, secours=None, aujourdhui=None):
     for e in ancien:
         if e["date"] >= aujourdhui.isoformat() and (e["ville"], e["dep"], e["date"]) not in cles and e["id"] not in masques:
             nouveaux.append(e)
+    # un rendez-vous deja connu garde ses sources et son signalement (interdiction...) meme si l'article sort du flux
+    anc = {(e["ville"], e["dep"], e["date"]): e for e in ancien}
+    for e in nouveaux:
+        o = anc.get((e["ville"], e["dep"], e["date"]))
+        if not o:
+            continue
+        deja = {s["media"] for s in e["sources"]}
+        e["sources"] += [s for s in o.get("sources", []) if s["media"] not in deja]
+        e["alerte"] = e["alerte"] or o.get("alerte", "")
+        e["nb_medias"] = len({s["media"] for s in e["sources"]})
+        e["statut"] = "recoupe" if e["nb_medias"] >= 2 and not e["alerte"] else "annonce"
+        e["organisateurs"] = sorted(set(e["organisateurs"]) | set(o.get("organisateurs", [])))
+        e["heure"] = e["heure"] or o.get("heure", "")
     nouveaux.sort(key=lambda x: (x["date"], -x["nb_medias"], x["ville"]))
     res = {"maj": maintenant.isoformat(), "evenements": nouveaux,
            "stats": {"total": len(nouveaux), "recoupes": sum(e["statut"] == "recoupe" for e in nouveaux), "villes": len({(e["ville"], e["dep"]) for e in nouveaux})}}
