@@ -381,6 +381,23 @@ def main():
         "faits": [f for f in faits if f["recoupe"] and (f["jour"] == jour or f["maj"][:10] == jour)],
         "articles": [{"titre": a["titre"], "url": a["url"], "theme": a["theme"], "nb_medias": a["nb_medias"]} for a in actus if a["date"][:10] == jour][:60]})
     ecrire_json(data / "etat.json", etat)
+    try:
+        import rdv
+        brut = list(recus)
+        if not args.fixtures:
+            for q in rdv.requetes(maintenant.date()):
+                try:
+                    url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:7d") + "&hl=fr&gl=FR&ceid=FR:fr"
+                    brut += lire_flux(telecharger(url), "Google Actualités", maintenant, True)
+                except Exception as e:
+                    print("Rendez-vous :", q, e)
+        vus, uniques = set(), []
+        for a in brut:
+            if a["url"] not in vus:
+                vus.add(a["url"]); uniques.append(a)
+        rdv.maj(uniques, data, maintenant)
+    except Exception as e:
+        print("Rendez-vous :", e)
     if not args.fixtures:
         try:
             import lives
