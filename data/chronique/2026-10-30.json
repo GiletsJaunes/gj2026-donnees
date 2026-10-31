@@ -1,0 +1,410 @@
+{
+ "titre": "Vendredi 30 octobre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Ouest-France, « Le vrai déclic, ça a été les Gilets jaunes » : dans les pas de Joëlle, observatrice des libertés publiques à Angers.",
+   "sources": [
+    17
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon France 24, Manifestations de samedi à Paris : les parcours de la CGT et des gilets jaunes interdits (repris par 8 médias). Selon Le Dauphiné Libéré, Manifestations du 31 octobre : les parcours de la CGT et des gilets jaunes interdits à Paris, retour des couvres-feux (repris par 4 médias). Selon Euronews, Manifestations en France : des violences \"comparables au 17 octobre\" redoutées par les autorités samedi (repris par 3 médias). Selon BFMTV, Manifestation du 31 octobre: seules deux manifestations autorisées en Charente-Maritime (repris par 3 médias).",
+   "sources": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Info-Beaune.com, Mouvement « contre la vie chère » : Les mesures mises en œuvre pour ce samedi 31 octobre.",
+   "sources": [
+    27
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Le Figaro, L’agence de notation Fitch maintient la note A+ de la France mais abaisse sa perspective. Selon Le Monde, Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible.",
+   "sources": [
+    10,
+    16
+   ],
+   "theme": "Marchés"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-10-30",
+ "numero": 29,
+ "jour_long": "vendredi 30 octobre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeDVubDVGNG10cGctVnU0NFZVVlo0Unl0VDdTWWdsVHpMaF9ub2RrSDFRVEVLVkdzb2NwWXpXM25ZVDhjSS0ydWRXNmY0MG40WC1SSHVDaE9YTklacFBZcXk2WWdGNGY1LV9zMTVHd1dYR0g5X0FiX210dnRtb0txdElyNmRTc3JZMXczVzZjSkpRUDI5ZmFUdG96SXFDT3RUYXBnV0duMk5ETzhGY19Mdm5leGVZRmhEeVRlY1d6YUdsX0pOV2t5SEYxVHZYbXJhNHEyRG8zMHBjbXQzVXlzLTVaUTZlRWVTR0t5N1RxTUlXT3daMUhYM215Z2RWeWljUk5qNjdUci0?oc=5",
+   "titre": "Manifestations de samedi à Paris : les parcours de la CGT et des gilets jaunes interdits",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 2,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWtPWVNuUU43NER2Y0VncnFmeHM5TmREeGNhRXhORWpfVW5RTDFHRERYaVFuV1pkQ3NFMlMzbm9maXhhM2dQdUNEQ2lrNmgyMEUzRFBDS3dhTUxaMjdaZ3pLUFh4N2lSVWszTU9CSDJySExJQkhfbkZuajRLdlFHYTVTSTZ0QkpVNjNmMzJUbUtpcmhwZWQwMUNOMVJvelpRX2VsM0t6eFZWZl91akc4NFFxSFNKbVBVUGU3N3FwSm5MVWxlRXc?oc=5",
+   "titre": "Manifestations du 31 octobre : les parcours de la CGT et des gilets jaunes interdits à Paris, retour des couvres-feux",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 3,
+   "nom": "Euronews",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3A1OW5KSXVsdUxHeVdqMXhEeEo0R1VDREQySDFoWHhNbkxEUk1HZ1hSN2gxOVVtd1QxTTAyRlVsV3g0MW9zV2UwSFJVMzZlWE5rY3ktcngzWV9NVXpVVjcyNnJURENrY3R5dnBsRlljTlh3V3NtVUVFZkk0MmxLSDZPSWJjRVhHUElGWmpJbWVLYURIYXhPVkhQdVNYVkpjdkRtTVNhR3BEOUU4a0ZPOEx5cTZtR0RMMVBibXhQV3FIN3c?oc=5",
+   "titre": "Manifestations en France : des violences \"comparables au 17 octobre\" redoutées par les autorités samedi",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 4,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/manifestation-du-31-octobre-seules-deux-manifestations-autorisees-en-charente-maritime_AN-202610300696.html",
+   "titre": "Manifestation du 31 octobre: seules deux manifestations autorisées en Charente-Maritime",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 5,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalYyWDctM3BKeHU0TlU2X0hxa2d5dmdsRUNjRHJSMk0zempoQWtWejVBbUJwbjFsbWlsbERkN2RVNG9oNDlnNFAxdk5CcWJnMkhBa0N2S2tLZWI4bFk2cU5kcFdoeUtrRnB4MXdmV19PNlctR1U2bEgzaElSSkxHaDlSYm1UZUJSTlhYY2c0bWJfdmFBSFlfb2c3UGV5RWFXVUN1bktzNllqd1pta3V1OWs0QzFiaDlCb1ZZTDdOUUJybkhoNnZONTVEbXBvMEI2WFhUS1U1MFIxenZWWWtPeg?oc=5",
+   "titre": "Mobilisation sociale: sécurité \"amplifiée\" samedi pour de nouvelles manifestations",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 6,
+   "nom": "Sortir à Paris",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRmktSjdkd2pJVGNkRUNId24zWTFKVDNNZE0tS1hLdUhLanFtVzFhNGtPcDVtY005RHV3eWRoUWlNMl9mTklVLXBpbHc2RlNNSWltTFJ3eG0yNEJIbWlTdEN2TFVBU1hsd2Rpa2U3Mk5yWmNZWjBiYnFCY1QtNi1CMGFPZFBFa2dYZHYtMmZEeWMxazZqTDQwbGlqaHhfRGQ5UEtfWjVZWW5Qb05PS2hSZUpnNEgzcGswYUhHYldxaHhsbzZNcXl2enJRTFNOY1ctOG5Xd1N3X3hZWEEtMzNTZDVIdWMxOUZfMWg4UE1SVWl6RTRneGZRYy0wUW0yV05LbGlieWpadTRLdw?oc=5",
+   "titre": "Manifestation des Gilets jaunes à Paris le 31 octobre: la Préfecture de police l'interdit et fixe un autre parcours",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 7,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGFxLThDZ01UVld6RzFRY1RmZ3F0VElzUC1RRVEyREUycHE1bkRxRWhGZTY0U04xR1p3Ul8tdkoxU3hUZkhYZ1JpZjB1M3NNbUdlbjlhb2lwT2RIRkhNNDA4SFF0N3pFQ3dWekxSX0d3eDlPSWJsV3NwVDczdFkxOElZMzN6YWZzRGFLU0NxbG02Xzk3UG1vYUZaY3YwSERRNkdEYjBhclBjNUFQeVQ5T3ZWVWdXVEE3X2RZ0gHAAUFVX3lxTE1EYXg4Qm9PRFdmQzVpMDdpcWhqQXR5ZGJsMjZRenJRMUlySWFHUHhCMHNIaVVZREcteFpJRVNFX2NXbkFKRXlwTFpMZGZvM3ZSdWJCT2xTZFpzSWtmREhDVTd3NlB6NjZEM3VFSW1LT0xWNTE1ZkREQWlqWU9JZllIVE5tdGloUUloZGtTMTEyN3kzYWZnaXlFejlZTkN5Rzh6OGtiUGxiV1VuNTZtOUxZcTc5Si1XVWFPVXRVaXZjUg?oc=5",
+   "titre": "Mobilisation du 31 octobre : les parcours proposés par la CGT et les gilets jaunes à Paris interdits par la préfecture de police",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-le-tribunal-administratif-autorise-le-parcours-entre-bastille-et-nation-que-la-prefecture-avait-interdit_VN-202610300760.html",
+   "titre": "Manifestation du 31 octobre: le tribunal administratif autorise le parcours entre Bastille et Nation, que la préfecture avait interdit",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 9,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4258815-20261030-direct-manifestations-31-octobre-70-000-policiers-gendarmes-mobilises-acte-iii-halloween?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Manifestations du 31 octobre : Les parcours parisiens de la CGT et des gilets jaunes interdits par la préfecture...",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 10,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/flash-eco/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective-20261030",
+   "titre": "L’agence de notation Fitch maintient la note A+ de la France mais abaisse sa perspective",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 11,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2c2TDRudURteTVKY1NSZHo4RE9QUkRRd19FbVRKa2JPUXQyeDlhbzI2RlJzQmhZZnNnNENyNzBxMUZKNzRyY2dDOGN3QjlBS1NYdlBENUw1R1R5LVpMSmZkQ01mc2ExQUdTUTZIWFNaWk14M1owQ011UTFxX3dZODFybDJXLVhMaEJTYnItdlYwSEVoeV9fWjg3TFBaWlYyUWpibklRX07SAa4BQVVfeXFMT0tiZDNqRnR4elZIdEhaMGphMTctY0x0X0puNmFOV2diM3ZDbW1GWGM3Z3RJUUZMQ2lLVTBpZlBZZ05JRTc1SVFOa29kUElqMHVwSlNTUzdjbHdDbm9hd20wb0JoVFBkaVpUSURhM25JdWtzWlBYbzltbUd1RVR0TDl3azU5RThsZmd2cURQN0RPdHVrdUtMYVRTRWpSWXc1U1cxZkVzeWlDREdjcF9n?oc=5",
+   "titre": "Edouard Geffray écrit aux lycéens à deux jours de la rentrée",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 12,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdGN4d0RvN042NE9sN2taN1B0TFRsazd3am1ZM0Npa2hnUEJqSndPWl9YYWEyWWtybmRycFhUeTZiLXUxRmtOSFRKMzFrSC03UVdpS2EzNmpwcW8ySmNudk5NT3psZ1ZldERBNnJfaHZpZUZ0cU5VejdaaXgyM0c1al9BMXBMb2ozeVo4MGx4WXV2SVpMLWxVNWs5MWV0V1dYbHJ1QmdvaHlzQ0x1Y3NZczRWa3ZraF9jc2d4MXB2RnVoY2tmN1pXSEdfV3EyNHA2OEJUWVB5bGloLTdRTnk2REtDMW9haVNxeWsxR2ItNA?oc=5",
+   "titre": "Mobilisations: \"La colère est toujours là\", assure Chloé, ancienne figure des Gilets Jaunes",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 13,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSjc3VXRieDhDU2dsYWMxUXlUR091anItYktSQ2RiZ1RnRkFERExweWw5d28xWlp2QUNYdmNxS01ZTzlfMl93b1lUcF9wREhUekszeFlNaEhEeW1fUEgzc3g1ck13RzNjUmdfY0RQSHk2WUJ6bllCejJuMXA0MndZdndHWGd1Rzl4WkZFRWRoTEFOQ3lEX0pURExxbnFCakUtVzBUSWdLSW50OFR0LTBNUDhXdkFDeVUtU0VNaDRSUFRhb0xwZGJSWmg4WTlYVXptcHR0d0JsTHFNTHhYOTBSdXl2UkFBTGptR2pHVjFtV1preFQ5Nmh4V0FhREN3Tm94LVNyUzNsZ0tZOTA5UDJQaXgxeGYzTmNpc3BwdTJ1RVE4QQ?oc=5",
+   "titre": "« La colère est toujours présente » : les lycéens mobilisés pour la manifestation du 31 octobre en Loire-Atlantique",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 14,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUzF1c055bEEtN1ZBcjJ4MmZhRWtRcG5uM2h4NXRXczZpZjFEa1k2VHgtbTltN1pGdVhwWGJlcXJ5UUJpVGhOc1d6SU5hLWVIWmhoTERfVHptNWRoQWlzdnllN0ZpWTVHZjFzWks1VUpSRmRTUDZkdVRQY1VIZkx0T3JRTloxMWpaQzhGYWRRUzI0X1hLaktROURKQlpmdGhEWDV3dl8zUlB4Vm1jSWp5TGxDSXRBcEFfRWVTVDlkdzVOdGd1MlBoZHJidHdVQ1p1b3JRQkIwOEdvSVZhdEZ3YzRHR05QNDlEQ0JqY29ZM29PYWxkSmstY3RqNEVFTVl5NnFOaWN2dGxXcUpVOVJuSFZvV1plTzRBSlExS0ljZmdYaHM?oc=5",
+   "titre": "Mains arrachées, yeux perdus, mâchoires fracturées : déjà 20 enquêtes pour des blessures mutilantes depuis le début du mouvement lycéen, autant qu'en huit mois de Gilets jaunes",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 15,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-manifestation-du-31-octobre-la-justice-autorise-le-parcours-entre-bastille-et-nation-a-paris_VN-202610300791.html",
+   "titre": "Manifestation du 31 octobre : la justice autorise le parcours entre Bastille et Nation à Paris",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 16,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html",
+   "titre": "Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 17,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/le-vrai-declic-ca-a-ete-les-gilets-jaunes-dans-les-pas-de-joelle-observatrice-des-libertes-publiques-a-angers-8d5d132a-d078-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "« Le vrai déclic, ça a été les Gilets jaunes » : dans les pas de Joëlle, observatrice des libertés publiques à Angers",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 18,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXRSc3otT1RPa21tenZjamp5VEV1WW1LTXZZZ2RsNURTQ1BDTzJRRkNpWlQ1UVpXOHBIeVBydnQ2azRXNVJvdFowM09fNHNoTmJqSlViR05IQVBGbTVaSVE0WXNkQUpkVmloYlN0M2dRUzUwVzVZdU16b1ZFb3p1ZWc5VUVwQkg3VVdz?oc=5",
+   "titre": "Blocus des lycées : A deux jours de la rentrée, Edouard Geffray envoie un message aux lycéens",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 19,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVoyNVNKdFpJNFhNRlUwWUVYNEV0YmJQX3EyODIyRkZNaHpJaHRaLUViSXZ3SktDcVFnUmhza3JCNHE4S2pXU0RKM2Znd2lOVkJleVAxdzlZQVFtQW5tT3ZHaXR0bmFHck5LS25oMDZOazNRSnpUN0o1bWtucWZyOU04M0QyNVQwbERjdjBwVnc4MG9XVktJc1Z3REFuNXRJWTRnUmJn?oc=5",
+   "titre": "Manifestation du 31 octobre : à quoi s'attendre en Alsace?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 20,
+   "nom": "Le Figaro",
+   "url": "https://etudiant.lefigaro.fr/article/lycee/blocage-de-lycees-les-porte-paroles-du-mouvement-esperent-une-mobilisation-massive-les-mardi-et-mercredi-de-la-rentree-20261030/",
+   "titre": "Blocage des lycées : les porte-paroles du mouvement espèrent une mobilisation massive les mardi et jeudi de la rentrée",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 21,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaGk3YWctVnRCZGRQRVR6ZFNaV0wyR21KYXNNOGFNbVNZWDFkZjl3dFVpR0JtM1BYSm5wWEVONnEwbVZvV2E5LVNJQm82STIwMjBzZEQ5X3R1UDhjcTNqTE83OVg2RzJManNUTHY2UmZXQ0JLUEpHeHBqYVVTNjZ3ekJWMEJXTDFNT0dFVFUzaWJnZ0I4TWdtcFdDTW5JVWQ2Zk1Iem1Gc2FyOXhuX2RnVVl6VzdNUFJfX3hmaF9SdTFLZVhCR2dqeTNTTEdDSlBMekhsX1ljMnBtenBVQU4tMVJjUTRKbFExVS04aHRPQkE?oc=5",
+   "titre": "VRAI OU FAUX. Mobilisations du 31 octobre : les manifestants peuvent-il venir déguisés ou risquent-ils une amende",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 22,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNM2pGSDJDQTJCTlNRVXFsVFROYTdpQ3VhSUhZZDdQeGJtUWpTME5uZnlVMXFEU3Y5aVlpTC1tSjlsYXQwNWI5UzU1cGxzM256d2pQWlhIN29JVC1icHJmUDFJX2UzbVBiQ09PRV9naTktbmNGdEpoTTZKM2dPaF9ZbGVhUmpQU0FycWJ4T1ktcWdFZzVZX3haR2pmNGFYNldRRURDOEhfb01OVmRGX1g1MTkzMmpCcExjVTRlMmd0UXlqbDRyNTJBZTFQdHdHZnRQcVhaRG5lcURWWHlFTnZNdVFSbHpaWndPS1F6bXlmUjlsZHZIRjJyVlhuMUtXQnBQVXRlTmpwZHF3TjV2RVpCVEtjTXVLQ0hpMEx4SEI2SEVyVUlzS2lyU3d3bFJUV2YxUTg1YkxRbGo?oc=5",
+   "titre": "« Je suis solidaire de ceux qui galèrent » : gilet jaune de la première heure, Laurent n’a pas quitté le pavé nazairien",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 23,
+   "nom": "EVASION",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkZLMXlQVXFhUTZrSHFUZVNaWGl1UVM5ZVQxQmRhYnFLM3pLMktjVFBUVjBhVVExcDRJNlczeWZGazB5V0RuMEJjRzZjOFVzbm1nU0JwMWpVNEw1aTMyT1o1ZGVZMVNDX1hBVEtWazhiXzkxdG1qYjRVYmxncVVKMVpJRkdLeS1lS3c5WjFXUFpWbVBQQlpRVTVra1ZVcFJoSHRROV9YMVdzY2kwdVRyY2trVVJYb3dIYjhEQ3VlMERpM0w0ZWp4Zw?oc=5",
+   "titre": "Essonne : des « sit-in » un peu partout ce samedi pour la troisième journée de mobilisation des Gilets jaunes",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 24,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFpPNWRTU3pscUpfMVlKZGs1cjNVTkxwNnB6bGU3dzBXaXVRUE5TVVJ4MnlNazJWYkZTLXZLY0E1dFZmNWY0c3RCUzJJaVkxWXpPWUdWVlM4OU0za2dBRFV6bk9CRnhkdjhlNm1DMm95alFYbzBwUU9GbmExRDZQcjY0TEstckViS0Q1MzRZaVViOVRqaUx5cnZRc25ia3RyVEhHUWIyamVOZHAzRUExMFNxSFlTS0Nab0huOEkzQUN5QXJBbVdRX0dYbWZUVXRXNFduaXBVRE1vOWM?oc=5",
+   "titre": "Mobilisation du 31 octobre : à quoi faut-il s'attendre dans nos deux Charentes ?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 25,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYTVSdDcxVlI2MU1VdTJBRkZ2Z1JuYnBWOHRhYXlMelF6d0JORl8yUzREYVpMa2dJVnA0UXVESEgtOG1xTVJPNWxDcWtOeldWSFpNdjZ0QkpTb0JQZF93NDhsek9YcGc4RW5Wc1c2VjRwR2xTQUlwRUNuM2J0bWJiUVRMNEx2M2pVTTZ1eDJ5Mk1sVjV3aGN1OEdjNjJLWkZ2TGFpTWxib3hLRmdEQkVyZURHc3lrS3dSRHJmV2paTUR5cU94ZWtWLUs2a3ZTUzlEdjVtZDVDN1BUSHpkMEN6TEJFWFBxeC1zU2U4bHg3cVV5Z25VMVN1bU5kVngxOHZEcWN5ZmtkNEt0QlR1YzEtbHFIb3hSdVIxU0d6dzR2TXB4ME5fdms0?oc=5",
+   "titre": "Colère sociale : un sit-in programmé devant la mairie de Cholet à l’appel de Gilets jaunes avec le soutien de la CGT",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 26,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQk1WSFk5TkNiXy0waU82eklJWEp3bEI3TjNsb1RwNl9CN3RiM3R4MWliLXN6aXdPa280Q29QNzlDZ0FaNXlIMDExcnVJNnJXUk5kX3M0bnpxY2xEeWw4U0FYRWdsUzZ4VGJ2TF9UZkdWcTJyUTZ1YXVucmRhWWdNdnYyWV9SX0E5ODdtY191MU02ekJtZzhFaTNTVDFyYlFuMkpDcW9ZUFJXOVdqYkNWT1BpMERnVGhRZEHSAboBQVVfeXFMT0JNVkhZOU5DYl8tMGlPNnpJSVhKd2xCN04zbG9UcDZfQjd0YjN0eDFpYi1zeml3T2tvNENvUDc5Q2dBWjV5SDAxMXJ1STZyV1JOZF9zNG56cWNsRHlsOFNBWEVnbFM2eFRidkxfVGZHVnEyclE2dWF1bnJkYVlnTXZ2MllfUl9BOTg3bWNfdTFNNnpCbWc4RWkzU1QxcmJRbjJKQ3FvWVBSVzlXamJDVk9QaTBEZ1RoUWRB?oc=5",
+   "titre": "Mobilisation du 31 octobre : «Des épisodes de violences comparables à ceux du 17 octobre» sont attendus, selon l'entourage de Laurent Nuñez",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 27,
+   "nom": "Info-Beaune.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGpCY25WWFpjM2JEYkRuNlloOGRCaVliaTI5M1k0RUJXdVlDSkVEeWZTSUQ1VnRXRzU1b1FBc3BBbWd1SDRGUXpiZk4tQzN4d1czNVJ2N3BEQ29NY3B0cTJTLUhKZXR4X0cycXZxYWdON3drNU0xMmNrRXlMd1Z4Z3VqZUN0SURzQm96cXZxRm1NdHZTV0lDRUg4NDFWX2t2ZDdTU2RMd2lsNzZld1dydWJPSG5XTUlUVVNUbURTS0VpeHVyZXNaVXhuZ0taX2k5QUtYZw?oc=5",
+   "titre": "Mouvement « contre la vie chère » : Les mesures mises en œuvre pour ce samedi 31 octobre",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 28,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "DIRECT. Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 29,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/30/manifestation-du-31-octobre-a-paris-le-tribunal-administratif-suspend-l-arrete-de-la-prefecture-de-police-interdisant-la-manifestation-entre-bastille-et-nation-souhaite-par-l-intersyndicale_6803066_3225.html",
+   "titre": "Manifestation du 31 octobre à Paris : le tribunal administratif suspend l’arrêté de la Préfecture de police interdisant le parcours entre Bastille et Nation, souhaité par l’intersyndicale",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 30,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/10/30/manifestation-du-31-octobre-a-paris-la-prefecture-de-police-interdit-les-parcours-de-la-cgt-et-des-gilets-jaunes-dans-le-centre-un-itineraire-porte-de-bagnolet-porte-de-charentin-propose_6803066_3224.html",
+   "titre": "Manifestation du 31 octobre à Paris : la Préfecture de police interdit les parcours de la CGT et des « gilets jaunes » dans le centre ; un itinéraire entre les portes de Bagnolet et de Charenton proposé",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 31,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-en-quoi-vont-consister-les-casserolades-organisees-par-les-gilets-jaunes-ce-soir-f0a487f6-d438-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Manifestations : en quoi vont consister les casserolades organisées par les Gilets jaunes ce soir ?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 32,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-83-enquetes-confiees-a-l-igpn-et-l-iggn-depuis-le-debut-de-la-mobilisation_8260124.html#xtor=RSS-3-[lestitres]",
+   "titre": "Depuis le début du mouvement lycéen, 83 enquêtes ont été confiées à l'IGPN et l'IGGN",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 33,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUGl4aTFnRUhWVDM5VzhJaFRDbGp2Y3dpVVRWTjE0NDM4ZUsyd0ozTEN6S21Qc1VicG5sM2JuVGhZZXJvNlZJa2tla1lwaWYzVUozX01HSWZFYXRFT1IxRlp5dXM1NXdwTnVjNlc1U01BZE5MQzRHenoteFF4VHBxb1cxdzhxekxlclZIYUliZHpJOV9BV011dlpoOXdDWWRHVEExSWFQaHlHb2E3NDAxOE5wQ0RHbXU1VjExU2hneGUzRlI3MldBUWxvUnlzMzFUTGROcDJBSnhRT2pzNHMxMWZNZHJCVm9iT3B5UUVieGFIelhVNE10bzMzOXo5TWVXQVVHaVVENXlDdEJpOWd2N3MtVlczaGpGTEJSZlRReWc1VGZf?oc=5",
+   "titre": "Manifestations contre la vie chère : les commerçants d'Agen accusent une chute de la fréquentation pendant les rassemblements, l'inquiétude plane avant la période des fêtes",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 34,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/campus/article/2026/10/30/j-ai-vite-compris-qu-il-fallait-s-armer-intellectuellement-pour-ne-pas-etre-decredibilise-le-mouvement-lyceen-vecteur-de-politisation-acceleree_6802908_4401467.html",
+   "titre": "« J’ai vite compris qu’il fallait s’armer intellectuellement pour ne pas être décrédibilisé » : le mouvement lycéen, vecteur de politisation accélérée",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 35,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNzNBVjVZSE5nNFFnX3ZZMF9QOGFieDc2Zy1idkNDLVVpNndVQVRoUkMzc0ctODd4aV9NMWZJTnY5SG1xUzRUdXFrNkVfYm03LVJSbU40MjFsaXlYakdlVjFYbTg0S05FZFNORVZzLU5NdmI4ZERDVldTdUluTmYtRE92MkhoNndDOW5pVlNuWmU4bGF0ZGo2SmxtM3JmYXRISng5NnpZYTNuTGdkUEt6ZjRTNTFiNkR0VFdYeFZnaUU3X1hMMml5ZDVUX096OGg5R1E?oc=5",
+   "titre": "Mobilisations : les gilets jaunes appellent à des \"casserolades\" partout en France ce vendredi soir",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 36,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/direct-colere-sociale-une-cellule-interministerielle-de-crise-s-est-tenue-hier-avant-de-nouvelles-manifestations-jugees-a-risque-tres-eleve-ce-samedi_LN-202610300140.html",
+   "titre": "DIRECT. Colère sociale: une cellule interministérielle de crise s'est tenue hier avant de nouvelles manifestations jugées \"à risque très élevé\" ce samedi",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 37,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUHVMWXpwMGgtaE9RZW51a3ZuVHFGYVZNRE1CTTc2NEVSbHk4NHVFN3pkcDU4cERkazlXWVFZa1p6eWtuSExqcnJzNHhieW0xWlY3OVpUeXBQcGxXclVPTTJIa2lkcllHZ0JaU19iNHFTUkhUeGp1Z29hbmplNE5vSXVWbmREbHhuN1RpOTJsRzlFaFZUSWJaSGlybEdVLWNOMzJyb2RqRFRxMFRxNEVPWVBRT1dLcUNRSWc3YkNfd2R3NkFHMTF3ejk4cDRtVG9VUGJYeDR2aTJnR2pCMVV3S3ptd19QX1BXVUpZ?oc=5",
+   "titre": "Mobilisation du 31 octobre : à quoi s'attendre pour \"l'acte III\" du mouvement social en Isère ?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-manifestations-du-31-octobre-le-ministre-de-l-interieur-evoque-une-journee-a-risque-tres-eleve_VN-202610300112.html",
+   "titre": "Manifestations du 31 octobre: le ministre de l'Intérieur évoque une journée à \"risque très élevé\"",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 39,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDZkVW9sUzNQamZiNXZUZEhuRnpJcndTa3hnZDdsRFBYZ3dwTFQtSmVIZDlpZmhrZXhnNVp2clNHZjVsRWY2OVA0d09NaGJJRDdnX0xZOGlka0I1OVVEQzNmb2NkMG1Qajd4RmhmRVBHaUY4ckVfbjB5R3hGbkJMSWw2M3ZoWDVlcHVtclZXS0JtRVVGVldRaHNXSmp5c0xicmJxZ2NLd2VVczRVdDh0NmpCTDRuS3RTNVVvcTZySldFRlZ3ZkZseW8zSWxTOUJXZ05CYzM1Z3BLUQ?oc=5",
+   "titre": "Social. Manifestations du 31 octobre : sit-in, casserolades, « Halloween de la révolte »… À quoi s’attendre samedi ?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 40,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/10/30/les-rappeurs-et-influenceurs-qui-soutiennent-de-facon-inedite-le-mouvement-lyceen-portent-une-nouvelle-culture-et-un-enjeu-pour-la-presidentielle-de-2027_6802761_3232.html",
+   "titre": "« Les rappeurs et influenceurs, qui soutiennent de façon inédite le mouvement lycéen, portent une nouvelle culture et un enjeu pour la présidentielle de 2027 »",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 41,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-parcours-parisien-de-la-manifestation-du-31-octobre-vouloir-imperativement-repasser-par-bastille-et-nation-ca-releve-de-l-irresponsabilite-lance-sylvain-berrios-depute-horizons-du-val-de-marne_VN-202610300956.html",
+   "titre": "Parcours parisien de la manifestation du 31 octobre: \"Vouloir impérativement repasser par [Bastille et Nation], ça relève de l'irresponsabilité\", lance Sylvain Berrios, député Horizons du Val-de-Marne",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-manifestations-du-31-octobre-prevoir-le-parcours-parisien-la-veille-pour-le-lendemain-n-est-pas-serieux-denonce-matthieu-valet-depute-europeen-du-rassemblement-national_VN-202610300953.html",
+   "titre": "Manifestations du 31 octobre: prévoir le parcours parisien \"la veille pour le lendemain\" n'est pas \"sérieux\", dénonce Matthieu Valet, député européen du \"Rassemblement National\"",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-parcours-de-la-manifestation-parisienne-du-31-octobre-maitre-chirinne-ardakani-avocate-de-l-unef-temoigne-sur-bfmtv-apres-l-audience-au-conseil-d-etat_VN-202610300951.html",
+   "titre": "Parcours de la manifestation parisienne du 31 octobre: Maître Chirinne Ardakani, avocate de l'UNEF, témoigne sur BFMTV après l'audience au Conseil d'État",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 44,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/les-republicains/video-parcours-de-la-manifestation-du-31-octobre-a-paris-la-veille-d-une-manifestation-c-est-anormal-de-ne-pas-savoir-ou-elle-aura-lieu-deplore-geoffroy-didier-president-delegue-de-la-region-idf-vice-president-des-republicains_VN-202610300946.html",
+   "titre": "Parcours de la manifestation du 31 octobre à Paris: \"La veille d'une manifestation, c'est anormal de ne pas savoir où elle aura lieu\", déplore Geoffroy Didier, président délégué de la région IDF, vice-président des Républicains",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-incertitude-sur-le-parcours-parisien-de-la-manifestation-du-31-octobre-c-est-une-maniere-de-mettre-le-chaos-fustige-aurelie-trouve-deputee-lfi-de-seine-saint-denis_VN-202610300945.html",
+   "titre": "Incertitude sur le parcours parisien de la manifestation du 31 octobre: \"C'est une manière de mettre le chaos\", fustige Aurélie Trouvé, députée LFI de Seine-Saint-Denis",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 46,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/premiere-edition-6h-8h30/video-mobilisation-du-31-octobre-70-000-policiers-et-gendarmes-mobilises-partout-en-france_VN-202610300104.html",
+   "titre": "Mobilisation du 31 octobre: 70.000 policiers et gendarmes mobilisés partout en France",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 47,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-31-octobre-une-journee-a-risques_8259941.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "A suivre Loïc de la Mornais : 31 octobre : une journée à risques ?",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 48,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-mobilisation-en-france-un-dispositif-exceptionnel-de-70-000-forces-de-l-ordre-d%C3%A9ploy%C3%A9",
+   "titre": "Mobilisation en France : \"un dispositif exceptionnel\" de 70 000 forces de l'ordre déployé",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 49,
+   "nom": "TV Sud Magazine, le magazine N°1 dans le Gard Rhodanien",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVlYUnVITXRINmF6LUVqeV9ESUZCT1Q3azJDNDZyNm5qalNrUFp6R2otM2J4ckFBVHpXOHRDdWxSX3dPa01kNlVVMEs2MjlzR2JTcFpUbzc1Vnl5R1FPYXl3Sl9xWVVEOC1SR1lMYmNQVFBTQU5QeVVWSFljVkFWZW9jc2h3NmhBYjhmSmxwVk5VY1liWDc0ZmpLcFhkUFNBMGRjcmFpR2Z3RkNIVXNJWlRFT0RlTGJ5eFlaSXp3?oc=5",
+   "titre": "Gard : 580 manifestants, 22 interpellations et 13 blessés lors de la mobilisation lycéenne",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 50,
+   "nom": "www.horizons.dz",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdGFLc0RfNzVIRHh4T0lSdEU1R0RhY1hCejRRaUN5bmlkaFg1bzhaWG1fM1BmSk9kMHJnSDJRbTI5b2tYMHBCMXRjX2l5dXl6SS04WVo5YXBXVFhLVVd1eFNOMHdXM2lrOWIwRDh6eHd2Y09jUzZMZzJTemZqcklFN1R4ckdtMVpET0FKTEdmbHEzMGJtWDl2U2lTblFiZEU?oc=5",
+   "titre": "La mobilisation lycéenne en France se poursuit, 215 élèves blessés",
+   "date": "2026-10-30"
+  },
+  {
+   "n": 51,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/sondage-79-des-francais-estiment-que-les-commercants-doivent-avoir-le-droit-a-lautodefense-face-aux-pillards-1194870?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "SONDAGE - 79% des Français estiment que les commerçants doivent avoir le droit à l'autodéfense face aux pillards",
+   "date": "2026-10-30"
+  }
+ ],
+ "genere": "2026-10-31T05:36:58.885386+00:00"
+}
