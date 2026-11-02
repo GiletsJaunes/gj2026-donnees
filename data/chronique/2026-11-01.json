@@ -25,19 +25,19 @@
   {
    "texte": "Selon Le Pays Roannais, Mobilisation sociale, acte III : 779 interpellations en France, “sans incident majeur en seconde partie de soirée” (repris par 3 médias). Selon L'Echo, Plus de 100 policiers blessés lors de manifestations de la Gen Z en Allemagne. Selon BFMTV, Mobilisations sociales: \"Les doctrines, théories et tactiques du maintien de l'ordre ont évolué à chaque échec\", explique Alain Bauer, professeur émérite de criminologie, auteur de \"Il faut sauver nos enfants\". Selon BFMTV, La France \"est devenue un pays méprisant\", estime Karim Bouamrane, maire PS de Saint-Ouen, candidat à l'élection présidentielle.",
    "sources": [
-    4,
-    16,
+    5,
+    17,
     38,
     44
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon BFMTV, Mobilisation du 31 octobre: une enquête ouverte pour \"tentative d'homicide\" après un jet de cocktail Molotov sur des gendarmes à Paris (repris par 6 médias). Selon La République du Centre, Colère sociale : blocus des lycées dès lundi, grève du 5 novembre, “Acte IV”... Le calendrier des mobilisations à venir (repris par 4 médias). Selon L'Indépendant, Mobilisation sociale : une organisation lycéenne appelle au blocus des lycées \"dès lundi\" (repris par 3 médias). Selon Le Dauphiné Libéré, Social. Colère lycéenne : l'organisation Les Lycéens! appelle au blocus « dès lundi » (repris par 3 médias).",
+   "texte": "Selon BFMTV, Mobilisation du 31 octobre: une enquête ouverte pour \"tentative d'homicide\" après un jet de cocktail Molotov sur des gendarmes à Paris (repris par 6 médias). Selon La République du Centre, Colère sociale : blocus des lycées dès lundi, grève du 5 novembre, “Acte IV”... Le calendrier des mobilisations à venir (repris par 4 médias). Selon France 24, A Bobigny, des lycéennes veulent voir les blocus continuer : \"Ecoutez vraiment la jeunesse\" (repris par 3 médias). Selon L'Indépendant, Mobilisation sociale : une organisation lycéenne appelle au blocus des lycées \"dès lundi\" (repris par 3 médias).",
    "sources": [
     1,
     2,
-    5,
+    4,
     6
    ],
    "theme": "Le mouvement"
@@ -45,7 +45,7 @@
   {
    "texte": "Selon Yahoo Actualités, En Allemagne, un samedi aussi marqué par des marches contre la vie chère et des débordements.",
    "sources": [
-    15
+    16
    ],
    "theme": "Colère sociale"
   },
@@ -53,7 +53,7 @@
    "texte": "Selon Sud Ouest, Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de « division » (repris par 3 médias). Selon BFMTV, Présidentielle 2027: Natacha Polony revendique 174 parrainages de maires et le soutien de Jean-Pierre Chevènement. Selon BFMTV, Présidentielle 2027: le député Modem Marc Fesneau plaide pour une primaire allant des \"sociaux-démocrates à la droite républicaine\", sans David Lisnard. Selon 20 Minutes, Présidentielle 2027 : Édouard Philippe n’en veut vraiment pas et Natacha Polony dévoile un soutien de poids.",
    "sources": [
     3,
-    13,
+    14,
     23,
     41
    ],
@@ -69,7 +69,7 @@
  "jour_long": "dimanche 1 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -94,107 +94,107 @@
   },
   {
    "n": 4,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnhjWk5pVHhKOERLMjRKM2ZDN0xFZ1BLQl8tNUdJeExNNzdHSkJ3RC1aNWpfb0NjWnZWbm42bHZOTGJVclZ3cTNKT3BXME9ZYzAxYjd5R0lpa0ZDQ1E1R04tTFpDMmhpU1dfV005NzF3cXBhajhodE5EN3hIbW93ZzBGOEhuckJRYXp2M1k2Wkxqa3d3Vy0zaU03QkExOFpSbDJsX0JCcHdSM2FtV05SeVlITWFnclFIc1NwVUJqeXE3Znp2enRWTlJOSnFEbFNHRWdaY2pjLWVHc2F2?oc=5",
+   "titre": "A Bobigny, des lycéennes veulent voir les blocus continuer : \"Ecoutez vraiment la jeunesse\"",
+   "date": "2026-11-01"
+  },
+  {
+   "n": 5,
    "nom": "Le Pays Roannais",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM2VES1ktVGVEVmtSY2prNm9RQ2dKMjJtVGVpWkpPa3B0cFZ4SklLVEE2MXJoQjlESkJSYWJOMmRFMFMzcU5WejA1WkJrN3U5Zm9LOWtyNU5XOHcxdmZxRDdnS1BkYWhjQjJQcUZOSGZ6b1AzZ3Z1ZVdsRkc1ZjQzMzFhSjNtMVBIOUh4MGxnUXFORWdjYWRMMW12UEdDNDBDczhmZ2FKdmxXdmtPMUVJaWx0LTJ2eThzVzdkd09zb1d1V2otbnJZTl9hb0lySlA2UGdhVmw0QUhvSjQ5NV93b1NGU056VWFYcTk4aWJLclVVWmFxQWZIU3VKbw?oc=5",
    "titre": "Mobilisation sociale, acte III : 779 interpellations en France, “sans incident majeur en seconde partie de soirée”",
    "date": "2026-11-01"
   },
   {
-   "n": 5,
+   "n": 6,
    "nom": "L'Indépendant",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUZDVlM0VWJtRDFWR2lLX0FOMjRMWkRsMVB4NnJaNHQxNFhIYmlLT2V4UEhBQjZIVThsdi1Hcks5RldDRTJRV2lTWC0tNFpmZWNFZXJhWlhHeFVOZGJCRGVBZE5Vb1RZbmxqVTVGcVFvNkx6VVNpd0EzdHgzWEN6NmM5R1VKZjN3dk9rTXQzeEZ4YUNUWFZwMW0wVEtJQjBlT2FXTkduYU9wbDNjOFVnSEctNW85d3IxMDBqanZlX3lZeE1oME5TLVR4cl9ENzNPVHRJ?oc=5",
    "titre": "Mobilisation sociale : une organisation lycéenne appelle au blocus des lycées \"dès lundi\"",
    "date": "2026-11-01"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjFhbHpLQTNmN2hjVHVubUlSbHUtcFplVzA5aUU3THMzdkRTVlY4NUlfZ2ZLYkZwMzFfWTdJSjg4bS11VzBpWUlyWEFkVTFSZEZzT2tYWk0xeGZUYzhvbG5HTE1MSmZqLXZJYlZIejhrUjJMRURfQzVVQmdVcHVEcDRQckpoRjhDdUxTQjNGOGtPUy13UlhzRjk4N1pwTFp6bGJrZVRSTHVTV0ZRNE9oc3ZQWlAyUQ?oc=5",
    "titre": "Social. Colère lycéenne : l'organisation Les Lycéens! appelle au blocus « dès lundi »",
    "date": "2026-11-01"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/societe/en-direct-lorganisation-les-lyceens-appelle-au-blocus-des-lycees-des-lundi-1199310?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "En direct - L'organisation Les Lycéens! appelle au blocus des lycées «dès lundi»",
    "date": "2026-11-01"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "stephanelarue.com",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVdZUnJoRUlkejVvcFNhbmFUb2QwdGFVU3dQTUF3WUFOOC1rR0piWkt2cWYzRHpnZFhTUHRVY3Z2SnVMVjdXd1RSUVNHaExqd29PVGFsajJSUFRnemJvUTZFYmZkZ0FOcjlYRmNKdEZJUlJ5ZFFOazVIREt5SndsUDIwbVdxSkVHYU00QzJCUXdOZFJ1V21QSXVkcHhhVFYzYW81U2tvOA?oc=5",
    "titre": "Lycéens : blocus dès lundi, grève jeudi, ce que prévoit chaque jour de la semaine",
    "date": "2026-11-01"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/lycees-bloques-appels-a-la-greve-convergence-des-luttes-a-quoi-s-attendre-pour-cette-nouvelle-semaine-de-mobilisation_AV-202611010357.html",
    "titre": "Lycées bloqués, appels à la grève, convergence des luttes... À quoi s'attendre pour cette nouvelle semaine de mobilisation?",
    "date": "2026-11-01"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/01/manifestations-blocage-des-lycees-universites-journee-daction-du-5-novembre-a-quoi-faut-il-sattendre-cette-semaine-13630916.php",
    "titre": "Manifestations : blocage des lycées, universités, journée d'action du 5 novembre… à quoi faut-il s'attendre cette semaine ?",
    "date": "2026-11-01"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc0Jhbk1xOW5TRmEyS19vR1dkYkRLRnNyZHY5QWl3eXpCbnNKSGIzNWZZcjhBNUpvTlJ2WGJodnJjckFYbEFhcDhVNE5DcUxFaVhzb1Z4YnRFS3VaU1NvVVZNbVZTanRjMmE1dGFuTjdjbm5mNkJhZWdvWFRJWlBJYi10MXkwOHJ0WEduelFvNlo4Yk9UeDRFVFEzZER6SlFmM19NMGNGbnZPWVd5SDJDQUN6MTlGeEo0UTRXMXpxaXhZN1FpLVVGeXVoSFdyNTMxZU16TXo4UkRudURkY0duaFdnMTZTZjFYdFd3NF9aaUxqcmJKZF9yNGFuRU15ZnNSZ2k5SnZNbkdaRHJ6R245VkNHVEo?oc=5",
    "titre": "Blocages, manifestations, grève… à quoi s’attendre à Rennes pour cette nouvelle semaine de mobilisation ?",
    "date": "2026-11-01"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/mobilisation-sociale-des-avocats-denoncent-des-assignations-a-residence-pour-empecher-de-manifester-31336138.php",
    "titre": "Mobilisation sociale : des avocats dénoncent des assignations à résidence pour empêcher de manifester",
    "date": "2026-11-01"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-natacha-polony-revendique-174-parrainages-de-maires-et-le-soutien-de-jean-pierre-chevenement_AD-202611010312.html",
    "titre": "Présidentielle 2027: Natacha Polony revendique 174 parrainages de maires et le soutien de Jean-Pierre Chevènement",
    "date": "2026-11-01"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-la-mobilisation-est-le-symptome-d-une-non-reponse-politique-explique-aminata-niakate-porte-parole-les-ecologistes-adjointe-au-maire-de-paris_VN-202611010311.html",
    "titre": "Colère lycéenne: \"La mobilisation est le symptôme d'une non-réponse politique\"; explique Aminata Niakaté, porte-parole Les Écologistes, adjointe au maire de Paris",
    "date": "2026-11-01"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc09NWFZJWUhscjE1UWhxcDJPd25HQ2NWcF9DNFRkcVlpMFdyaXBwS3VieGwzbmo1WlZzYWZfMDZDc2R1ejJIdVFjX2pFcV80eWhNT3pkZTFmclQ3VTRSZS1Ib3JJbUNvMEJDSHVOM3hFSXlKa1VzclBjMUplZ0NKN1VIOEZ2YlVpY0dZUXJ1bnNGdTZQ?oc=5",
    "titre": "En Allemagne, un samedi aussi marqué par des marches contre la vie chère et des débordements",
    "date": "2026-11-01"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "L'Echo",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeUc1a0wtbUlSWkFNc2Y3LWNaemhvM1lUNEZmM2s3ay1vMHRLY2RtZ2FYOFlKSlJXY1hUd3lNd2VkX0t2SmhMb2hiSzFadktGcDZORGFXcTBWQml5ME1nZWhLMEhwSnZsQUtrOGNGQ1o4alFFbzVrSV9zN0plcXctSE54cjIwMUtnV3J6NEpYZkp2M1NIX0hzWGM2ZlZEQ2dlYlFHXzlvSW1kbVFLNnEzc1dQU0hSY1c1MmhhaXRuUFU4ejJmdlhPRjNzSENUeGFQb1FCR3lFQXAxdmhUcnhz?oc=5",
    "titre": "Plus de 100 policiers blessés lors de manifestations de la Gen Z en Allemagne",
    "date": "2026-11-01"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/france/20261101-lyc%C3%A9es-seront-bloqu%C3%A9s-pour-rentr%C3%A9e-mouvement-lyc%C3%A9ens-appelle-mobilisation",
    "titre": "\"Les lycées seront bloqués\" : le mouvement Les Lycéens ! appelle à la mobilisation dès lundi",
-   "date": "2026-11-01"
-  },
-  {
-   "n": 18,
-   "nom": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnhjWk5pVHhKOERLMjRKM2ZDN0xFZ1BLQl8tNUdJeExNNzdHSkJ3RC1aNWpfb0NjWnZWbm42bHZOTGJVclZ3cTNKT3BXME9ZYzAxYjd5R0lpa0ZDQ1E1R04tTFpDMmhpU1dfV005NzF3cXBhajhodE5EN3hIbW93ZzBGOEhuckJRYXp2M1k2Wkxqa3d3Vy0zaU03QkExOFpSbDJsX0JCcHdSM2FtV05SeVlITWFnclFIc1NwVUJqeXE3Znp2enRWTlJOSnFEbFNHRWdaY2pjLWVHc2F2?oc=5",
-   "titre": "A Bobigny, des lycéennes veulent voir les blocus continuer : \"Ecoutez vraiment la jeunesse\"",
    "date": "2026-11-01"
   },
   {
@@ -492,5 +492,5 @@
    "date": "2026-11-01"
   }
  ],
- "genere": "2026-11-02T07:24:01.611085+00:00"
+ "genere": "2026-11-02T08:41:45.105657+00:00"
 }
