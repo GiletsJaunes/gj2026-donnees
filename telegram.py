@@ -67,6 +67,65 @@ def extraire_post(p, canal, nom, idx, aujourdhui):
                     "post": "https://t.me/" + p["id"], "sources": [], "texte": t[:280]})
     return out
 
+INFO = re.compile(r"interpell|police|CRS|gaz|lacrymo|évacu|evacu|levé|fin du blocus|tension|blessé|AED|garde à vue", re.I)
+
+def date_paris(iso):
+    d = dt.datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    return (d.astimezone(rdv.PARIS) if d.tzinfo else d).date()
+
+def centres_deps(idx):
+    """Centre approximatif de chaque departement (moyenne de ses communes), pour « Lycee X en Seine-Saint-Denis »."""
+    acc = {}
+    for lst in idx.values():
+        for nom, dep, lat, lng, pop in lst:
+            a = acc.setdefault(dep, [0, 0, 0]); a[0] += lat; a[1] += lng; a[2] += 1
+    return {d: (a[0] / a[2], a[1] / a[2]) for d, a in acc.items()}
+
+def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps):
+    """Canal dedie aux blocus : CHAQUE ligne est un lieu bloque (« Lycee Pasteur a Strasbourg »), le jour du message."""
+    try:
+        jour = date_paris(p["date"])
+    except Exception:
+        return []
+    autres = rdv.dates_de(p["texte"], jour, aujourdhui)
+    dates = sorted(autres) or ([jour] if jour >= aujourdhui else [])
+    out = []
+    for ligne in [l.strip(" -•·*\t") for l in p["texte"].split("\n")]:
+        if len(ligne) < 4 or INFO.search(ligne) or rdv.NEGATION.search(ligne):
+            continue
+        ln = rdv.norm(ligne).replace("-", " ")
+        ville = None
+        mots = ligne.replace("’", "'").replace("l'", "l' ").split()
+        i = 0
+        while i < len(mots):
+            if mots[i][:1].isupper():
+                r = rdv.trouver_ville(idx, mots, i, set())
+                if r and (i > 0 or len(mots) == 1 or True):
+                    ville = r[0]
+                    if i > 0 or r[1] < len(mots):   # on prefere la ville citee apres « a / en / de » la plus loin dans la ligne
+                        pass
+                    i += r[1]; continue
+            i += 1
+        lat = lng = None
+        if ville:
+            nomv, dep, lat, lng = ville[0], ville[1], ville[2], ville[3]
+        else:
+            trouve = [d for d, n in noms_deps.items() if n in ln and d in centres]
+            if not trouve:
+                continue
+            dep = max(trouve, key=lambda d: len(noms_deps[d])); lat, lng = centres[dep]; nomv = "Dép. " + dep + " · " + rdv_dep(dep)
+        lieu = re.split(r"\s+(?:à|en|au|aux)\s+[A-ZÉÈ]", ligne)[0].strip(" ,.;:") or ligne
+        for d in dates:
+            out.append({"id": hashlib.sha1((nomv + dep + d.isoformat() + rdv.norm(lieu)).encode()).hexdigest()[:10], "ville": nomv, "dep": dep, "lat": lat, "lng": lng,
+                        "date": d.isoformat(), "heure": heure(ligne), "type": "blocage", "lieu": lieu[:80], "organisateurs": [], "mouvement": False,
+                        "alerte": "annulée" if ANNULE.search(ligne) else "", "statut": "annonce", "nb_medias": 0, "confiance": nom,
+                        "post": "https://t.me/" + p["id"], "sources": [], "texte": ligne[:200]})
+    return out
+
+def rdv_dep(dep):
+    return DEPS.get(dep, dep)
+DEPS = rdv.lire_json(Path(__file__).resolve().parent / "departements.json", {})
+
 def maj(data, maintenant=None, aujourdhui=None, fetch=lire_canal):
     maintenant = maintenant or dt.datetime.now(rdv.PARIS)
     aujourdhui = aujourdhui or maintenant.date()
@@ -76,14 +135,16 @@ def maj(data, maintenant=None, aujourdhui=None, fetch=lire_canal):
     cfg = rdv.lire_json(Path(__file__).resolve().parent / "sources_sures.json", {"canaux": []})
     masques = set(rdv.lire_json(Path(data) / "masques.json", {}).get("blocus", []))
     evts, lus = {}, 0
+    centres = centres_deps(idx); noms_deps = {d: rdv.norm(n).replace("-", " ") for d, n in DEPS.items()}
     for c in cfg.get("canaux", []):
         try:
             posts = fetch(c["canal"]); lus += len(posts)
         except Exception as e:
             print("Telegram indisponible pour", c.get("canal"), ":", e); return None   # on ne touche a rien si la lecture echoue
         for p in sorted(posts, key=lambda x: x["date"]):
-            for e in extraire_post(p, c["canal"], c.get("nom", c["canal"]), idx, aujourdhui):
-                cle = (e["ville"], e["dep"], e["date"])
+            lst = extraire_implicite(p, c.get("nom", c["canal"]), idx, aujourdhui, centres, noms_deps) if c.get("tout_est_blocus") else extraire_post(p, c["canal"], c.get("nom", c["canal"]), idx, aujourdhui)
+            for e in lst:
+                cle = (e["ville"], e["dep"], e["date"], rdv.norm(e["lieu"]) if c.get("tout_est_blocus") else "")
                 if e["alerte"] == "annulée" or cle not in evts:
                     evts[cle] = e
                 else:   # message plus recent, meme blocus : on met a jour heure et lieu
