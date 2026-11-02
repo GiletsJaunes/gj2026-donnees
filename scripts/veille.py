@@ -246,6 +246,15 @@ def maj_durees(data):
             if not m:
                 continue
             ident = m.group(1)
+            if p.get("auto_titre"):   # titre/artiste inconnus : on les lit sur YouTube (oEmbed)
+                try:
+                    with urllib.request.urlopen(urllib.request.Request("https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=" + ident, headers={"User-Agent": UA}), timeout=20) as r_:
+                        o = json.loads(r_.read().decode("utf-8"))
+                    p["titre"] = o.get("title", p["titre"])[:90]
+                    p["artiste"] = re.sub(r"(?i)\s*(- topic|vevo|officiel)$", "", o.get("author_name", "")).strip()
+                    del p["auto_titre"]; change = True
+                except Exception as e:
+                    print("Titre YouTube indisponible pour", ident, ":", e)
             if p.get("duree") and p.get("duree_id") == ident:
                 continue
             try:
@@ -398,6 +407,12 @@ def main():
         rdv.maj(uniques, data, maintenant)
     except Exception as e:
         print("Rendez-vous :", e)
+    if not args.fixtures:
+        try:
+            import telegram as tg_blocus
+            tg_blocus.maj(data, maintenant)
+        except Exception as e:
+            print("Blocus Telegram :", e)
     if not args.fixtures:
         try:
             import lives
