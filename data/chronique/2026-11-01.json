@@ -26,9 +26,9 @@
    "texte": "Selon Le Pays Roannais, Mobilisation sociale, acte III : 779 interpellations en France, “sans incident majeur en seconde partie de soirée” (repris par 3 médias). Selon L'Echo, Plus de 100 policiers blessés lors de manifestations de la Gen Z en Allemagne. Selon BFMTV, Mobilisations sociales: \"Les doctrines, théories et tactiques du maintien de l'ordre ont évolué à chaque échec\", explique Alain Bauer, professeur émérite de criminologie, auteur de \"Il faut sauver nos enfants\". Selon BFMTV, La France \"est devenue un pays méprisant\", estime Karim Bouamrane, maire PS de Saint-Ouen, candidat à l'élection présidentielle.",
    "sources": [
     4,
-    15,
-    36,
-    42
+    16,
+    38,
+    44
    ],
    "theme": "Répression"
   },
@@ -45,7 +45,7 @@
   {
    "texte": "Selon Yahoo Actualités, En Allemagne, un samedi aussi marqué par des marches contre la vie chère et des débordements.",
    "sources": [
-    14
+    15
    ],
    "theme": "Colère sociale"
   },
@@ -53,9 +53,9 @@
    "texte": "Selon Sud Ouest, Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de « division » (repris par 3 médias). Selon BFMTV, Présidentielle 2027: Natacha Polony revendique 174 parrainages de maires et le soutien de Jean-Pierre Chevènement. Selon BFMTV, Présidentielle 2027: le député Modem Marc Fesneau plaide pour une primaire allant des \"sociaux-démocrates à la droite républicaine\", sans David Lisnard. Selon 20 Minutes, Présidentielle 2027 : Édouard Philippe n’en veut vraiment pas et Natacha Polony dévoile un soutien de poids.",
    "sources": [
     3,
-    12,
-    21,
-    39
+    13,
+    23,
+    41
    ],
    "theme": "Politique"
   }
@@ -69,7 +69,7 @@
  "jour_long": "dimanche 1 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -136,254 +136,254 @@
   },
   {
    "n": 10,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/01/manifestations-blocage-des-lycees-universites-journee-daction-du-5-novembre-a-quoi-faut-il-sattendre-cette-semaine-13630916.php",
+   "titre": "Manifestations : blocage des lycées, universités, journée d'action du 5 novembre… à quoi faut-il s'attendre cette semaine ?",
+   "date": "2026-11-01"
+  },
+  {
+   "n": 11,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc0Jhbk1xOW5TRmEyS19vR1dkYkRLRnNyZHY5QWl3eXpCbnNKSGIzNWZZcjhBNUpvTlJ2WGJodnJjckFYbEFhcDhVNE5DcUxFaVhzb1Z4YnRFS3VaU1NvVVZNbVZTanRjMmE1dGFuTjdjbm5mNkJhZWdvWFRJWlBJYi10MXkwOHJ0WEduelFvNlo4Yk9UeDRFVFEzZER6SlFmM19NMGNGbnZPWVd5SDJDQUN6MTlGeEo0UTRXMXpxaXhZN1FpLVVGeXVoSFdyNTMxZU16TXo4UkRudURkY0duaFdnMTZTZjFYdFd3NF9aaUxqcmJKZF9yNGFuRU15ZnNSZ2k5SnZNbkdaRHJ6R245VkNHVEo?oc=5",
    "titre": "Blocages, manifestations, grève… à quoi s’attendre à Rennes pour cette nouvelle semaine de mobilisation ?",
    "date": "2026-11-01"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/mobilisation-sociale-des-avocats-denoncent-des-assignations-a-residence-pour-empecher-de-manifester-31336138.php",
    "titre": "Mobilisation sociale : des avocats dénoncent des assignations à résidence pour empêcher de manifester",
    "date": "2026-11-01"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-natacha-polony-revendique-174-parrainages-de-maires-et-le-soutien-de-jean-pierre-chevenement_AD-202611010312.html",
    "titre": "Présidentielle 2027: Natacha Polony revendique 174 parrainages de maires et le soutien de Jean-Pierre Chevènement",
    "date": "2026-11-01"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-la-mobilisation-est-le-symptome-d-une-non-reponse-politique-explique-aminata-niakate-porte-parole-les-ecologistes-adjointe-au-maire-de-paris_VN-202611010311.html",
    "titre": "Colère lycéenne: \"La mobilisation est le symptôme d'une non-réponse politique\"; explique Aminata Niakaté, porte-parole Les Écologistes, adjointe au maire de Paris",
    "date": "2026-11-01"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc09NWFZJWUhscjE1UWhxcDJPd25HQ2NWcF9DNFRkcVlpMFdyaXBwS3VieGwzbmo1WlZzYWZfMDZDc2R1ejJIdVFjX2pFcV80eWhNT3pkZTFmclQ3VTRSZS1Ib3JJbUNvMEJDSHVOM3hFSXlKa1VzclBjMUplZ0NKN1VIOEZ2YlVpY0dZUXJ1bnNGdTZQ?oc=5",
    "titre": "En Allemagne, un samedi aussi marqué par des marches contre la vie chère et des débordements",
    "date": "2026-11-01"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "L'Echo",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeUc1a0wtbUlSWkFNc2Y3LWNaemhvM1lUNEZmM2s3ay1vMHRLY2RtZ2FYOFlKSlJXY1hUd3lNd2VkX0t2SmhMb2hiSzFadktGcDZORGFXcTBWQml5ME1nZWhLMEhwSnZsQUtrOGNGQ1o4alFFbzVrSV9zN0plcXctSE54cjIwMUtnV3J6NEpYZkp2M1NIX0hzWGM2ZlZEQ2dlYlFHXzlvSW1kbVFLNnEzc1dQU0hSY1c1MmhhaXRuUFU4ejJmdlhPRjNzSENUeGFQb1FCR3lFQXAxdmhUcnhz?oc=5",
    "titre": "Plus de 100 policiers blessés lors de manifestations de la Gen Z en Allemagne",
    "date": "2026-11-01"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/france/20261101-lyc%C3%A9es-seront-bloqu%C3%A9s-pour-rentr%C3%A9e-mouvement-lyc%C3%A9ens-appelle-mobilisation",
    "titre": "\"Les lycées seront bloqués\" : le mouvement Les Lycéens ! appelle à la mobilisation dès lundi",
    "date": "2026-11-01"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnhjWk5pVHhKOERLMjRKM2ZDN0xFZ1BLQl8tNUdJeExNNzdHSkJ3RC1aNWpfb0NjWnZWbm42bHZOTGJVclZ3cTNKT3BXME9ZYzAxYjd5R0lpa0ZDQ1E1R04tTFpDMmhpU1dfV005NzF3cXBhajhodE5EN3hIbW93ZzBGOEhuckJRYXp2M1k2Wkxqa3d3Vy0zaU03QkExOFpSbDJsX0JCcHdSM2FtV05SeVlITWFnclFIc1NwVUJqeXE3Znp2enRWTlJOSnFEbFNHRWdaY2pjLWVHc2F2?oc=5",
    "titre": "A Bobigny, des lycéennes veulent voir les blocus continuer : \"Ecoutez vraiment la jeunesse\"",
    "date": "2026-11-01"
   },
   {
-   "n": 18,
+   "n": 19,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/objet-incendiaire-lance-sur-des-gendarmes-a-paris-enquete-ouverte-pour-tentative-dhomicide-20261101_SCHEIFFOGJGITGLEX574BD6454/",
+   "titre": "Objet incendiaire lancé sur des gendarmes à Paris : enquête ouverte pour «tentative d’homicide»",
+   "date": "2026-11-01"
+  },
+  {
+   "n": 20,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUHFQTHBPUngwYzh6LWFWUUVfX2VjNlpiMU9CaExYOUxhcEJNSmVlQmY4ckUyS3BHX2p5eE4tWGdpNU9FdVNVM0JscV9vMkY0MWFMaGtsVGt3V2JPdVR1ZWd5dUhCQ2N4WjA1M1R0YXc4YmFxTWJWMFlHeGswYUhPZ25hX1VoMS1ydm1YemtvS3BmVmNkOTk2cjJJc0R1dzNZZ2YwUUtBQmZMaXJaSXlkbnlWVkdxR2xZQ1pZWXlQMTZ4aklFTmN6X2dQZTZ0MEFnTE5SV0diOUJxVFlNOUd4NEF2a21kMWhpMnVGYTVWWkxMOUxpV0JveHVZUUIzOFJqVFE?oc=5",
    "titre": "Une manifestation contre la vie chère prévue ce jeudi 5 novembre à Thouars",
    "date": "2026-11-01"
   },
   {
-   "n": 19,
+   "n": 21,
    "nom": "Courrier picard",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1M4aG1GOVVCTzVQQzh4RXZLX3loMDBUdllQZHpfQ2lGN1RqRUNleDRyY1BNTm1RQmNZS0RTSlBsSUR0em81YVJ6OXpYeFdBbGhYQTZwaWNicHlnWXRJRDJRMzdSY1BELVpDQTB0c0NnWkNwWDhhelBSWDI0UGlUWUQ5VFJLczNJdmhXeVVMRWZyUWxfUDRvRXVJUDlpbGI5dm05U2FuUEo3aFYzSGpnbGIzeHhrTVpnSENXZmNHZXhKbGJvSXc2TEJsSUY3QWhIVG1lSQ?oc=5",
    "titre": "« Bien sûr qu’on appelle au blocus » : l’organisation Les Lycéens ! appelle les jeunes à se mobiliser « dès lundi » 2 novembre",
    "date": "2026-11-01"
   },
   {
-   "n": 20,
+   "n": 22,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/etudiant/lycee/mouvement-des-lyceens-l-organisation-les-lyceens-appelle-au-blocus-des-etablissements-scolaires-des-lundi-31331429.php",
    "titre": "Mouvement des lycéens : l’organisation Les Lycéens ! appelle au blocus des établissements scolaires dès lundi",
    "date": "2026-11-01"
   },
   {
-   "n": 21,
+   "n": 23,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-le-depute-modem-marc-fesneau-plaide-pour-une-primaire-allant-des-sociaux-democrates-a-la-droite-republicaine-sans-david-lisnard_AD-202611010173.html",
    "titre": "Présidentielle 2027: le député Modem Marc Fesneau plaide pour une primaire allant des \"sociaux-démocrates à la droite républicaine\", sans David Lisnard",
    "date": "2026-11-01"
   },
   {
-   "n": 22,
+   "n": 24,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNR1VPZGhkaUszcjdmLTNkWE5yOE1vRDdVS3FHVW1JSzFTTjg3dEtOUDl4YlpGZV92amVhWk9RY1M4VXUxSFI0VDFwSVY4a1Q3VHE5LVpTTG1PTTNHVWh3OVZncF9vX0o4WkoyMjk2aXRRSVpiQmV4THIzMjc3N2JJQ09ON1RwNlJHOUo0T1RBdUpOaFNFSlJwWHdWbWJrMVA1YUFPcmc4cThXM2puMWdGbkd2SF95YmtYWVRkS1A0M1NHUHJzUC1Mb0RYUzlIWXRqR0t1ZHluWlVyN3JSZmlma3hnUEpubmRTSFNKX2lXak5UREVwbm5fUUdBOW4?oc=5",
    "titre": "\"On va continuer à se mobiliser\" : à Limoges, les manifestations continueront après l'acte 3 des Gilets Jaunes",
    "date": "2026-11-01"
   },
   {
-   "n": 23,
+   "n": 25,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-lycees-bloques-appel-a-la-greve-une-nouvelle-semaine-de-mobilisation-a-venir_VN-202611010115.html",
    "titre": "Lycées bloqués, appel à la grève... Une nouvelle semaine de mobilisation à venir",
    "date": "2026-11-01"
   },
   {
-   "n": 24,
+   "n": 26,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc0g4dXJQVjJ5eHI5blRjWUVEZV8ydlc0aENTay10QnhyTXBwOW5QdXBlT3dnMU96bURsRUoybG5uYXk3eE0wX1hLclRzZVVDVnNWcDJyOTRhRzlWb3Y2cmpTT25KUVVyNDdkemFRNlppakdaMlpyWjNmUUxmQ3hyS1hsVFBYQU52LUlFUXdvUjlSSDJwcWhtSzJIaWVoOFRPbUhwN3hWdHUwa0x1cXV5czFvNG1jeWxyaWcwZ2xzdmh5OFVveG9ZMEUxRWswa1B3bjZ1N05xZHMxMUM5ejNYRjJhTE9uMFlHOG8zYWg2amhqaGNLT2syaUNzSXZVUWZCTk5kVTdhRldNMUJQRWZfcC1yWnY?oc=5",
    "titre": "DÉCRYPTAGE. Manifestations du 31 octobre : recul de la mobilisation, moins de débordements... le gouvernement peut-il pour autant crier victoire",
    "date": "2026-11-01"
   },
   {
-   "n": 25,
+   "n": 27,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/idees/article/2026/11/01/grace-a-la-mobilisation-des-lyceens-la-campagne-presidentielle-est-lancee-sur-les-vrais-problemes-du-pays_6804010_3232.html",
    "titre": "« Grâce à la mobilisation des lycéens, la campagne présidentielle est lancée sur les vrais problèmes du pays »",
    "date": "2026-11-01"
   },
   {
-   "n": 26,
+   "n": 28,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/idees/article/2026/11/01/le-blocus-des-lycees-accompagne-et-definit-les-mouvements-lyceens-depuis-vingt-ans_6804535_3232.html",
    "titre": "« Le blocus des lycées accompagne et définit les mouvements lycéens depuis vingt ans »",
    "date": "2026-11-01"
   },
   {
-   "n": 27,
+   "n": 29,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html",
    "titre": "Mouvement lycéen : les incertitudes de la rentrée scolaire alors que la jeunesse mobilisée veut « maintenir la pression »",
    "date": "2026-11-01"
   },
   {
-   "n": 28,
+   "n": 30,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-manifestations-les-francais-commencent-a-saturer-01-11_VN-202611010451.html",
    "titre": "Manifestations : les Français commencent à saturer - 01/11",
    "date": "2026-11-01"
   },
   {
-   "n": 29,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-mobilisations-sociales-la-liberte-de-manifester-est-un-droit-fondamental-dans-notre-pays-rappelle-marine-tondelier-candidate-eelv-a-l-election-presidentielle_VN-202611010439.html",
    "titre": "Mobilisations sociales: \"La liberté de manifester est un droit fondamental dans notre pays\", rappelle Marine Tondelier, candidate \"EELV\" à l'élection présidentielle",
    "date": "2026-11-01"
   },
   {
-   "n": 30,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-31-octobre-je-me-felicite-du-bilan-de-cette-journee-c-est-une-reussite-de-ce-mouvement-social-estime-marine-tondelier-candidate-eelv-a-l-election-presidentielle_VN-202611010435.html",
    "titre": "31 octobre: \"Je me félicite du bilan\" de cette journée, \"c'est une réussite de ce mouvement social\", estime Marine Tondelier, candidate \"EELV\" à l'élection présidentielle",
    "date": "2026-11-01"
   },
   {
-   "n": 31,
+   "n": 33,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-igor-sahiri-grand-reporter-raconte-le-travail-des-journalistes-de-bfmtv-sur-le-terrain-en-cette-periode-de-mobilisations-sociales_VN-202611010438.html",
    "titre": "Igor Sahiri, grand reporter, raconte le travail des journalistes de BFMTV sur le terrain en cette période de mobilisations sociales",
    "date": "2026-11-01"
   },
   {
-   "n": 32,
+   "n": 34,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-tondelier-liberte-de-manifester-droit-fondamental-01-11_VN-202611010436.html",
    "titre": "Tondelier : \"Liberté de manifester, droit fondamental\" - 01/11",
    "date": "2026-11-01"
   },
   {
-   "n": 33,
+   "n": 35,
    "nom": "Média Web",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2VtLVA5dGFTWE96Z3VybXotTmdHOWJBV3NkcWd6WmFtaUh5NG9Pb2cxWTF1ZGlmQzRDN19JQi1XNHhTYW1hdEpCUm9qaDRpUHkwY1dQVTU5enlBMkJ2bDExY2JtZEd5dXU1UTd0amcwLTR4aWc1d1pPcG1BVFJlNTNEUGI1cG9RamFacUlRdHFzWWdxb05pWVBIZHl4bmJOXzZKMWNiUnc?oc=5",
    "titre": "Mobilisation lycéenne : Les Lycéens ! appellent au blocage des établissements dès lundi",
    "date": "2026-11-01"
   },
   {
-   "n": 34,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-mobilisations-le-1er-mai-ca-va-etre-l-insurrection-lance-robert-menard-maire-dvd-de-beziers_VN-202611010426.html",
    "titre": "Mobilisations: \"Le 1er mai, ça va être l'insurrection\", lance Robert Ménard, maire DVD de Béziers",
    "date": "2026-11-01"
   },
   {
-   "n": 35,
+   "n": 37,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-besoin-de-pouvoir-recommencer-a-travailler-avec-les-lyceens-estime-un-representant-des-personnels-de-direction-de-l-education-nationale_8263229.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "\"On a besoin de pouvoir recommencer à travailler\" avec les lycéens, estime un représentant des personnels de direction de l'Education nationale",
    "date": "2026-11-01"
   },
   {
-   "n": 36,
+   "n": 38,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisations-sociales-les-doctrines-theories-et-tactiques-du-maintien-de-l-ordre-ont-evolue-a-chaque-echec-explique-alain-bauer-professeur-emerite-de-criminologie-auteur-de-il-faut-sauver-nos-enfants_VN-202611010410.html",
    "titre": "Mobilisations sociales: \"Les doctrines, théories et tactiques du maintien de l'ordre ont évolué à chaque échec\", explique Alain Bauer, professeur émérite de criminologie, auteur de \"Il faut sauver nos enfants\"",
    "date": "2026-11-01"
   },
   {
-   "n": 37,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-mobilisations-sociales-on-ne-peut-plus-supporter-que-de-samedi-en-samedi-les-choses-finissent-mal-lance-benoit-payan-maire-dvg-de-marseille_VN-202611010408.html",
    "titre": "Mobilisations sociales: \"On ne peut plus supporter que de samedi en samedi, les choses finissent mal\", lance Benoît Payan, maire DVG de Marseille",
    "date": "2026-11-01"
   },
   {
-   "n": 38,
+   "n": 40,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Semaine à hauts risques pour le gouvernement",
    "date": "2026-11-01"
   },
   {
-   "n": 39,
+   "n": 41,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4259366-20261101-presidentielle-2027-edouard-philippe-veut-vraiment-natacha-polony-devoile-soutien-poids?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : Édouard Philippe n’en veut vraiment pas et Natacha Polony dévoile un soutien de poids",
    "date": "2026-11-01"
   },
   {
-   "n": 40,
+   "n": 42,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101",
    "titre": "Présidentielle 2027 : Édouard Philippe rejette la «primaire des démocrates» proposée par Gabriel Attal",
    "date": "2026-11-01"
   },
   {
-   "n": 41,
+   "n": 43,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT3dCOEtGTUxjYTgzM3ktM19BNVhpV0RfT3B2bjM4SUZ3LVoySGxoWG5VbnQ5VkVTaV9maDdLaDFUOUNSaW5FYWJMZ3VESHk3YzltSW1Bb3pMZVk2ZHFyRXdVaVE1S0d0c191TGVYbmNnQnd6SHp3RGptcjExUGoxZ0NrdXhGeHEzYmpoNllTQjI0YmJJa21KTVN5eGU4UUkwdWJ5VFNnTnNHTjZMTGFUTzE5alpkVHNRb29jT0dyMGo3ZkNmV3REbXFiN2lzSUFsQS1FRlg0dU9KYy1uSkpWcFdmNXhBN1RodDZCLXZMQVFOdEp1MUVzSU55WEl3ZnJPZHBTQ0NZRkNaZGJGRGVrQklTQXNhd0FBOUNMX1dDRzY?oc=5",
    "titre": "« Maintenir le rapport de force avec le gouvernement » : les blocus pourraient reprendre ce lundi dans les lycées et les facs",
    "date": "2026-11-01"
   },
   {
-   "n": 42,
+   "n": 44,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-la-france-est-devenue-un-pays-meprisant-estime-karim-bouamrane-maire-ps-de-saint-ouen-candidat-a-l-election-presidentielle_VN-202611010394.html",
    "titre": "La France \"est devenue un pays méprisant\", estime Karim Bouamrane, maire PS de Saint-Ouen, candidat à l'élection présidentielle",
    "date": "2026-11-01"
   },
   {
-   "n": 43,
+   "n": 45,
    "nom": "Bénin Web TV",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlXR2RnTmtveUJMNW5PRmozMXdZRWRheDY3MDFBbm1DbGlnYzBNOG5KNndaNXRYMzdnaVRTLUZtMWpjTFZORzhEYkUwYl9HX0ZRRkFxbUVDb0VwSlhOeVQ1SVY5YW1uZlc3RC1iaG10WXpLekNLMi1pWUhFSlNiQXlLS04xYUkyV1B5cVZSNA?oc=5",
    "titre": "France : Les Lycéens ! appellent aux blocus dès la rentrée de lundi",
-   "date": "2026-11-01"
-  },
-  {
-   "n": 44,
-   "nom": "Marie France, magazine féminin",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNHRfZ3QwMnpuRHF5N3lUcTU1eHpkLVJLQTR3ZENza1kyUVNzZVcxMUpKQmUtVHI4VDJIck44QS1SeENLc3J0Q2ROZVBya2ZDbjh1X3RTamg4QTFHdGlpb3BLc21KUnUwRmdfa3doY3ZyMUlJVTlkNnJyVzBtbVBJSUxOMG9LcXc2Zkh4V19nQVB4S0JwUW5XTG0tX3lGQjdndnpZLTc0bEF4TVZWRzE4aE5Xbm1HaWFXSDFIZ2JndTFSdTBfZUNKRVNDOU1GV0xCMExHQ0d3SWhLSG1qQjQ1cVU1Szh1Zm00di1xR1lpLXRnQWp2SmFxRzZOVFo4czk5b3dKby1Lakl2UQ?oc=5",
-   "titre": "\"Ils n'ont que ça pour vivre\" : à Rennes, des lycéens à l'origine de la mobilisation viennent au secours des commerçants pillés",
-   "date": "2026-11-01"
-  },
-  {
-   "n": 45,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/international/article/2026/11/01/en-israel-la-rue-divisee-face-a-l-impasse-politique_6804570_3210.html",
-   "titre": "En Israël, la rue divisée face à l’impasse politique",
    "date": "2026-11-01"
   },
   {
@@ -492,5 +492,5 @@
    "date": "2026-11-01"
   }
  ],
- "genere": "2026-11-02T05:59:08.483830+00:00"
+ "genere": "2026-11-02T07:24:01.611085+00:00"
 }
