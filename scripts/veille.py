@@ -407,12 +407,7 @@ def main():
         rdv.maj(uniques, data, maintenant)
     except Exception as e:
         print("Rendez-vous :", e)
-    if not args.fixtures:
-        try:
-            import telegram as tg_blocus
-            tg_blocus.maj(data, maintenant)
-        except Exception as e:
-            print("Blocus Telegram :", e)
+    # blocus.json est ecrit uniquement par scripts/telegram.py (workflow « Veille Telegram »), pour eviter les conflits
     if not args.fixtures:
         try:
             import lives
