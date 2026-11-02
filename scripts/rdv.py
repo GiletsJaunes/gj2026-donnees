@@ -18,19 +18,27 @@ PARIS = ZoneInfo("Europe/Paris")
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
 HORIZON_JOURS = 21
+RANG = {"parcours": 1, "restreinte": 2, "annulée": 3, "interdite": 4}
 UA = "Mozilla/5.0 (compatible; GJ2026-veille/1.0)"
 
 TRIGGERS = [("blocage", r"blocage|bloquer|bloqueront|filtrage|barrage"), ("manifestation", r"manifestation|manifester|manifesteront|cortège|défilé|défileront"),
             ("rassemblement", r"rassemblement|rassembler|se rassembleront|piquet|sit-in|occupation"), ("marche", r"\bmarche\b|marcheront"),
             ("mobilisation", r"mobilisation|journée d.action|appel à la grève|grève")]
 FUTUR = re.compile(r"\b(interdit|interdite|interdiction|interdire|annulé|annulée|annulation|reporté|reportée|appel|appelle|appellent|appelé|prévu|prévue|prévus|prévues|aura lieu|auront lieu|se tiendra|se tiendront|se rassembleront|rendez-vous|organis[ée]|organisera|manifesteront|défileront|bloqueront|invit|à partir de|dès|ce samedi|demain|samedi prochain|ce week-end|annonc|déclaré|déclarée|attendu|attendus|veulent|souhaitent|comptent|entendent|prévoient|prévoit|lancent|lance|appeler)\b", re.I)
-PASSE = re.compile(r"\b(a réuni|ont réuni|ont manifesté|a manifesté|ont défilé|a défilé|s.est tenu|se sont tenus|se sont rassemblés|s.est rassemblé|ont rassemblé|a rassemblé|ont bloqué|a bloqué|hier|samedi dernier|dernier|ce week-end dernier|avant-hier|ont été interpellés|bilan|selon la préfecture de police, \d)", re.I)
-HORS_SUJET = re.compile(r"marche blanche|hommage|commémor|marché|match|concert|festival|téléthon|pro-palestin|ukraine|gaza|israël", re.I)
+PASSE = re.compile(r"\b(est venue|est venu|sont venus|sont venues|ont afflué|a défilé|le cortège est parti|a réuni|ont réuni|ont manifesté|a manifesté|ont défilé|a défilé|s.est tenu|se sont tenus|se sont rassemblés|s.est rassemblé|ont rassemblé|a rassemblé|ont bloqué|a bloqué|hier|samedi dernier|dernier|ce week-end dernier|avant-hier|ont été interpellés|bilan|selon la préfecture de police, \d)", re.I)
+PERIMETRE = re.compile(r"périmètre|centre-ville|hyper-centre|quartier|secteur|zone|couvre-feu|rues|place |partiel|certains|plusieurs", re.I)
+LEVEE = re.compile(r"autoris|suspend|lev[ée]|annul\w* l.interdiction|invalid|retir|désavou|feu vert", re.I)
+DECLAREE = re.compile(r"déclarée?s?|autorisée?s?|autorise|validé|parcours (validé|prévu|autorisé)|feu vert", re.I)
+HORS_SUJET = re.compile(r"marche blanche|hommage|commémor|marché|match|concert|festival|téléthon|pro-palestin|ukraine|gaza|israël|conférence|colloque|extrême droite|ultradroite|identitaire|grève (?:en|à) l.étranger", re.I)
+NEGATION = re.compile(r"pas de (?:blocus|blocage|mobilisation|manifestation|rassemblement|cortège)|aucune? (?:mobilisation|manifestation|rassemblement|cortège|déclaration|appel)|sans (?:manifestation|rassemblement|déclaration)|pas d.appel|ne pas manifester|rester chez soi|n.a été (?:déposée|déclarée)|ni déclaration", re.I)
+LIEU_RX = re.compile(r"(?i:place|esplanade|parvis|rond-point|gare|boulevard|avenue|square|quai|cours|pont)\s+(?:(?:de la|de l'|du|des|de|d')\s?)?[A-ZÉÈ][\wÀ-ÿ'-]+(?:\s[A-ZÉÈ][\wÀ-ÿ'-]+){0,3}|(?i:Bourse du travail|hôtel de ville|mairie|devant la préfecture)(?=[\s,.;])")
+INTERDIT_MANIF = re.compile(r"interdi\w*\s+(?:de\s+)?(?:manifester|toute manifestation|tout rassemblement|les manifestations|les rassemblements|la manifestation|le rassemblement|les cortèges|le cortège|la mobilisation)|(?:manifestation|rassemblement|cortège|mobilisation|blocage)s?[^.]{0,50}(?:est|sont|a été|ont été|reste|restent|demeure)\s+interdit\w*|interdiction (?:de manifester|des manifestations|des rassemblements|de la manifestation|du rassemblement)", re.I)
+PARCOURS = re.compile(r"(?:parcours|itinéraire|trajet|tracé)[^.]{0,60}(?:interdit|refus|rejet|modifi|imposé)|(?:interdit|refus|rejet)\w*[^.]{0,40}(?:parcours|itinéraire|trajet|tracé)", re.I)
 ORGAS = [("CGT", r"\bCGT\b"), ("FO", r"\bFO\b|Force ouvrière"), ("CFDT", r"\bCFDT\b"), ("Solidaires", r"Solidaires|\bSUD\b"), ("FSU", r"\bFSU\b"),
          ("UNEF", r"\bUNEF\b"), ("Confédération paysanne", r"Confédération paysanne|Coordination rurale"), ("intersyndicale", r"intersyndicale"),
          ("lycéens", r"lycéens|étudiants|lycée"), ("gilets jaunes", r"gilets? jaunes?"), ("LFI", r"insoumis|\bLFI\b"), ("agriculteurs", r"agriculteurs|éleveurs")]
-PRO_DEMANDE = re.compile(r"gilets? jaunes?|\bRIC\b|référendum d.initiative|31 octobre|bloquons tout|17 octobre|24 octobre", re.I)
-NON_VILLES = {"France", "Paris-Match", "Macron", "Bayrou", "Lecornu", "Retailleau", "Mélenchon", "Tondelier", "Bardella", "Attal", "Faure", "Rousseau", "Ruffin", "Philippe", "Villepin", "Gilets",
+PRO_DEMANDE = re.compile(r"vie chère|acte III|acte 3|gilets? jaunes?|\bRIC\b|référendum d.initiative|31 octobre|bloquons tout|17 octobre|24 octobre", re.I)
+NON_VILLES = {"Le Syndicat", "Syndicat", "Syndicats", "L'Union", "La Croix", "La Provence", "Le Monde", "Le Parisien", "La Dépêche", "Le Progrès", "La Montagne", "France", "Paris-Match", "Macron", "Bayrou", "Lecornu", "Retailleau", "Mélenchon", "Tondelier", "Bardella", "Attal", "Faure", "Rousseau", "Ruffin", "Philippe", "Villepin", "Gilets",
               "Dimanche", "Samedi", "Vendredi", "Jeudi", "Lundi", "Mardi", "Mercredi", "Octobre", "Novembre", "Décembre", "Janvier", "Mars", "Mai", "Juin", "Juillet", "Août", "Union", "Europe", "Marine",
               "Sud", "Nord", "Est", "Ouest", "Centre", "République", "Assemblée", "Sénat", "Matignon", "Élysée", "Bercy", "Bon", "Mont", "Pont", "Port", "Château", "Saint", "Sainte", "Grand", "Grande", "Petit"}
 PREP = {"à", "au", "aux", "dans", "de", "d", "devant", "vers", "sur", "entre", "et", "ou", ",", "(", "-", "–", "devant", "près", "autour", "pour", "En", "À", "Au", "Aux", "Dans", "De", "Devant", "Vers", "Pour"}
@@ -76,7 +84,7 @@ def trouver_ville(idx, mots, i, deps_texte):
         if len(mots[i:i + n]) < n:
             continue
         cand = re.sub(r"[.,;:!?)»]+$", "", cand)
-        if cand in NON_VILLES or cand.split(" ")[0] in {"Mont", "Port", "Pont"} and n == 1:
+        if cand in NON_VILLES or cand.lower() in {x.lower() for x in NON_VILLES} or cand.split(" ")[0] in {"Mont", "Port", "Pont"} and n == 1:
             continue
         trouves = idx.get(norm(cand))
         if not trouves:
@@ -111,9 +119,14 @@ def dates_de(phrase, base, aujourdhui):
             out.add(d)
         except ValueError:
             pass
+    explicite = bool(out)   # une date ecrite en toutes lettres (« 8 novembre ») l'emporte sur le jour de la semaine
     for m in re.finditer(r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b(\s+prochain)?", phrase, re.I):
-        wd = JOURS.index(m.group(1).lower())
-        ce = bool(re.search(r"\bce\s+" + m.group(1), phrase, re.I))
+        jour = m.group(1).lower(); wd = JOURS.index(jour)
+        ce = bool(re.search(r"\bce\s+" + jour, phrase, re.I))
+        if explicite:
+            continue
+        if jour != "samedi" and not ce and not m.group(2):
+            continue   # un jour de semaine seul est trop ambigu : on ne garde que les samedis, « ce <jour> » et « <jour> prochain »
         out.add(prochain_jour(base, wd, ce or wd == base.weekday() and "aujourd" in phrase.lower()))
     if re.search(r"\bdemain\b", phrase, re.I):
         out.add(base + dt.timedelta(days=1))
@@ -127,8 +140,8 @@ def phrases(texte):
     return [p.strip() for p in re.split(r"(?<=[.!?…])\s+|\s[:|]\s|\n", texte) if len(p.strip()) > 20]
 
 def heure_de(p):
-    m = re.search(r"\b(\d{1,2})\s?[hH]\s?(\d{2})?\b", p)
-    if not m or int(m.group(1)) > 23:
+    m = re.search(r"(?:à|dès|vers|de|partir de)\s+(\d{1,2})\s?[hH]\s?(\d{2})?\b", p)
+    if not m or not 7 <= int(m.group(1)) <= 21:
         return ""
     return "%02d:%s" % (int(m.group(1)), m.group(2) or "00")
 
@@ -142,15 +155,15 @@ def extraire(articles, idx, aujourdhui, bords=None):
         except Exception:
             continue
         texte = (a.get("titre", "") + ". " + a.get("resume", ""))
-        if HORS_SUJET.search(texte):
-            continue
+        if HORS_SUJET.search(texte) or NEGATION.search(a.get("titre", "")) or not PRO_DEMANDE.search(texte):
+            continue   # hors sujet, ou titre qui dit qu'il n'y a PAS de mobilisation, ou rien a voir avec le mouvement
         deps_texte = set(a.get("deps", []))
-        medias = a.get("medias") or [a.get("media", "")]
+        medias = [m.get("nom", "") if isinstance(m, dict) else m for m in (a.get("medias") or [a.get("media", "")])]
         for ph in phrases(texte):
             type_ = next((nom for nom, rx in TRIGGERS if re.search(rx, ph, re.I)), None)
-            if not type_ or not FUTUR.search(ph) or PASSE.search(ph):
+            if not type_ or not FUTUR.search(ph) or PASSE.search(ph) or NEGATION.search(ph):
                 continue
-            dates = dates_de(ph, base, aujourdhui)
+            dates = dates_de(re.sub(r"jusqu.(?:au|à)[^,.;]*", "", ph, flags=re.I), base, aujourdhui)
             if not dates:
                 continue
             mots = ph.replace("’", "'").replace("l'", "l' ").split()
@@ -162,20 +175,29 @@ def extraire(articles, idx, aujourdhui, bords=None):
                     r = trouver_ville(idx, mots, i, deps_texte)
                     if r:
                         (nom, dep, lat, lng, pop), n = r
+                        if norm(nom) not in norm(a.get("titre", "")):
+                            i += n
+                            continue   # la ville doit etre dans le TITRE de l'article cite : sinon on risque d'attribuer a une ville ce qui concerne une autre
                         for d in dates:
                             cle = (norm(nom), dep, d.isoformat())
                             e = evts.setdefault(cle, {"ville": nom, "dep": dep, "lat": lat, "lng": lng, "date": d.isoformat(), "heure": "", "types": set(), "orgas": set(),
-                                                       "sources": {}, "mouvement": False, "alerte": ""})
+                                                       "sources": {}, "mouvement": False, "alerte": "", "declaree": False, "lieu": ""})
                             e["types"].add(type_)
                             e["heure"] = e["heure"] or heure_de(ph)
+                            if not e["lieu"]:
+                                ml = LIEU_RX.search(ph)
+                                e["lieu"] = ml.group(0).strip() if ml else ""
                             for nom_o, rx in ORGAS:
                                 if re.search(rx, texte):
                                     e["orgas"].add(nom_o)
                             e["mouvement"] = e["mouvement"] or bool(PRO_DEMANDE.search(texte))
-                            if re.search(r"interdit|interdiction", ph, re.I):
-                                e["alerte"] = "interdite"
-                            if re.search(r"annul|reporté|reportée", ph, re.I):
-                                e["alerte"] = "annulée"
+                            e["declaree"] = e["declaree"] or bool(DECLAREE.search(ph))
+                            levee = LEVEE.search(ph)
+                            partiel = PERIMETRE.search(ph)
+                            for niveau, ok in (("interdite", INTERDIT_MANIF.search(ph) and not levee and not partiel), ("restreinte", INTERDIT_MANIF.search(ph) and partiel and not levee),
+                                               ("annulée", re.search(r"annul\w+|reporté|reportée", ph, re.I) and not levee), ("parcours", PARCOURS.search(ph) and not levee)):
+                                if ok and RANG[niveau] > RANG.get(e["alerte"], 0):
+                                    e["alerte"] = niveau
                             for m in medias:
                                 if m and m not in e["sources"]:
                                     e["sources"][m] = {"media": m, "url": a["url"], "titre": a["titre"][:140], "date": a["date"][:10]}
@@ -187,14 +209,16 @@ def extraire(articles, idx, aujourdhui, bords=None):
 def construire(evts, masques):
     sortie = []
     for (nom, dep, d), e in evts.items():
+        if not e["sources"]:
+            continue
         ident = hashlib.sha1((nom + dep + d).encode()).hexdigest()[:10]
         if ident in masques:
             continue
         medias = sorted(e["sources"])
-        recoupe = len(medias) >= 2 and not e["alerte"]
+        recoupe = len(medias) >= 2 and e["alerte"] not in ("interdite", "annulée")
         type_ = sorted(e["types"], key=lambda t: ["manifestation", "rassemblement", "blocage", "marche", "mobilisation"].index(t))[0]
         sortie.append({"id": ident, "ville": e["ville"], "dep": e["dep"], "lat": e["lat"], "lng": e["lng"], "date": e["date"], "heure": e["heure"],
-                       "type": type_, "organisateurs": sorted(e["orgas"]), "mouvement": e["mouvement"], "alerte": e["alerte"],
+                       "type": type_, "organisateurs": sorted(e["orgas"]), "mouvement": e["mouvement"], "alerte": e["alerte"], "declaree": e["declaree"], "lieu": e["lieu"],
                        "statut": "recoupe" if recoupe else "annonce", "nb_medias": len(medias),
                        "sources": [e["sources"][m] for m in medias][:5]})
     sortie.sort(key=lambda x: (x["date"], -x["nb_medias"], x["ville"]))
@@ -224,11 +248,12 @@ def maj(articles, data, maintenant=None, secours=None, aujourdhui=None):
             continue
         deja = {s["media"] for s in e["sources"]}
         e["sources"] += [s for s in o.get("sources", []) if s["media"] not in deja]
-        e["alerte"] = e["alerte"] or o.get("alerte", "")
+        e["alerte"] = e["alerte"] if RANG.get(e["alerte"], 0) >= RANG.get(o.get("alerte", ""), 0) else o.get("alerte", "")
         e["nb_medias"] = len({s["media"] for s in e["sources"]})
-        e["statut"] = "recoupe" if e["nb_medias"] >= 2 and not e["alerte"] else "annonce"
+        e["statut"] = "recoupe" if e["nb_medias"] >= 2 and e["alerte"] not in ("interdite", "annulée") else "annonce"
         e["organisateurs"] = sorted(set(e["organisateurs"]) | set(o.get("organisateurs", [])))
         e["heure"] = e["heure"] or o.get("heure", "")
+        e["lieu"] = e.get("lieu") or o.get("lieu", "")
     nouveaux.sort(key=lambda x: (x["date"], -x["nb_medias"], x["ville"]))
     res = {"maj": maintenant.isoformat(), "evenements": nouveaux,
            "stats": {"total": len(nouveaux), "recoupes": sum(e["statut"] == "recoupe" for e in nouveaux), "villes": len({(e["ville"], e["dep"]) for e in nouveaux})}}
