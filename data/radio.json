@@ -18,6 +18,48 @@
    "artiste": "Tisco",
    "youtube": "https://www.youtube.com/watch?v=DpsHOUx5Ppk",
    "duree": 121
+  },
+  {
+   "titre": "Rap 1",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=WNJEBaKIdOE",
+   "auto_titre": true
+  },
+  {
+   "titre": "Rap 2",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=ZDph0bOhBC0",
+   "auto_titre": true
+  },
+  {
+   "titre": "Rap 3",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=ntSLQXdcW6o",
+   "auto_titre": true
+  },
+  {
+   "titre": "Rap 4",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=c6Ia6uywsxs",
+   "auto_titre": true
+  },
+  {
+   "titre": "Rap 5",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=MHTm5kh0Nn8",
+   "auto_titre": true
+  },
+  {
+   "titre": "Remix 1",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=fc7A6XIF2t8",
+   "auto_titre": true
+  },
+  {
+   "titre": "Remix 2",
+   "artiste": "",
+   "youtube": "https://www.youtube.com/watch?v=0w2ynlOO0Hs",
+   "auto_titre": true
   }
  ],
  "interruption_toutes_les": 3,
