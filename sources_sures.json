@@ -1,7 +1,14 @@
 {
- "_aide": "Chaque personne de confiance doit avoir un canal Telegram PUBLIC (t.me/NOM_DU_CANAL). Ajouter une ligne dans 'canaux' : {\"canal\": \"NOM_DU_CANAL\", \"nom\": \"Nom affiché sur la carte\"}. Retirer la ligne = retirer la confiance (ses annonces disparaissent de la carte à la prochaine veille).",
+ "_aide": "Chaque personne de confiance doit avoir un canal Telegram PUBLIC (t.me/NOM_DU_CANAL). Ajouter une ligne dans canaux avec canal et nom. Mettre tout_est_blocus a true si CHAQUE message du canal est un blocus (ex. Lycée Pasteur à Strasbourg) : la date est alors celle du message. Retirer la ligne = retirer la confiance.",
  "canaux": [
-  {"canal": "giletsjaunes2026", "nom": "Canal Gilets Jaunes 2026"},
-  {"canal": "blocus2026", "nom": "Informateur du canal GJ2026"}
+  {
+   "canal": "giletsjaunes2026",
+   "nom": "Canal Gilets Jaunes 2026"
+  },
+  {
+   "canal": "blocus2026",
+   "nom": "Informateur du canal GJ2026",
+   "tout_est_blocus": true
+  }
  ]
 }
