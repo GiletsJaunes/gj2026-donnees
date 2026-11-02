@@ -1,0 +1,7 @@
+{
+ "_aide": "Chaque personne de confiance doit avoir un canal Telegram PUBLIC (t.me/NOM_DU_CANAL). Ajouter une ligne dans 'canaux' : {\"canal\": \"NOM_DU_CANAL\", \"nom\": \"Nom affiché sur la carte\"}. Retirer la ligne = retirer la confiance (ses annonces disparaissent de la carte à la prochaine veille).",
+ "canaux": [
+  {"canal": "giletsjaunes2026", "nom": "Canal Gilets Jaunes 2026"},
+  {"canal": "blocus2026", "nom": "Informateur du canal GJ2026"}
+ ]
+}
