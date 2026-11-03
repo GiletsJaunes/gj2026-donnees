@@ -1,0 +1,429 @@
+{
+ "titre": "Lundi 2 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Sud Ouest, Manifestations et maintien de l’ordre : grenades, gaz lacrymogènes… Le ministre de l’Intérieur « ne renoncera à aucun moyen intermédiaire » (repris par 3 médias). Selon Echo des Tribunes, Blocus au lycée Jean-Monnet : deux lycéens et une infirmière scolaire interpellés (repris par 3 médias). Selon Le Monde, Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène. Selon 20 Minutes, Colère des lycéens : Une infirmière scolaire interpellée sans ménagement devant un lycée de Montpellier.",
+   "sources": [
+    6,
+    8,
+    14,
+    17
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Le Dauphiné Libéré, Société. Blocus lycéens, grève du 5 novembre… Une rentrée à haut risque pour le gouvernement (repris par 5 médias). Selon lanouvellerepublique.fr, Colère lycéenne : Sébastien Lecornu prêt à recevoir de nouveau les lycéens \"la semaine prochaine\", 41 établissements bloqués (repris par 5 médias). Selon France 24, Mobilisation du 5 novembre en France: au tour du monde du travail de descendre dans la rue (repris par 4 médias). Selon BFMTV, Colère lycéenne: reprendre les cours ou les blocus? Les lycéens divisés (repris par 3 médias).",
+   "sources": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon BFMTV, Vie chère: \"Il faut trouver des méthodes alternatives pour redonner du pouvoir d'achat\", affirme François Kalfon, député européen \"PS - Place publique\". Selon BFMTV, Vie chère : comment répondre au ras-le-bol général ? - 02/11.",
+   "sources": [
+    39,
+    40
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : malgré le refus d’Édouard Philippe, Gabriel Attal juge une primaire du centre et de la droite « inéluctable » (repris par 4 médias). Selon Sud Ouest, Présidentielle 2027 : Mélenchon accuse TF1 d’avoir laissé Philippe dérouler un « discours dégoûtant » sur l’immigration et boude la chaîne. Selon 20 Minutes, Présidentielle 2027 : Après ses propos sur l’immigration, la gauche accuse Philippe de flirter avec l’extrême droite.",
+   "sources": [
+    3,
+    22,
+    42
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-02",
+ "numero": 32,
+ "jour_long": "lundi 2 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdktfOFd3cGZ5Vm8yRGUtTnFJcUJnSEJaQ2NFM1VWZjlLVmdEZU9mLXVUSEJjN0VNRkQ5OV9hUHZxVi1CcDFTQ1FZT0ZJLU5VRVpOcnhoVXFSdHdUQXZ3TEw5ZHJlSlFIQ1F5SVE1M2VwX2ZQZm1KUkF5QXJaZlM5ZFNPZGd3TXg3VjRkVEc4RUVfT2JTckZ4RERVRGRHOE0tTXhXWnlaX3cwM294QW83b2xkSy03Z1RpOGxHZ0ZaanR1N01tUVhN?oc=5",
+   "titre": "Société. Blocus lycéens, grève du 5 novembre… Une rentrée à haut risque pour le gouvernement",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 2,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQejV4MVhBZV90ZHlHUlhMMjlMdjlHZFQ2dTlFSEx3QjhqdG9pMG9PcGRQLWp6RmhZZUpqNkVVcGp2MW1DUkZ3NDczVGdTTFdpSjVpazRmRGNka21QR29WVVdCVkVKWnhMdHVBZ3EtN3k0cVFuSzh0bmVHb0VpeE5peWVIVXp4LThEUVRMeGlrNGZEVzFUcnlPVjdYN3dIV3hpOU5fVjY3ZWxVN3dZSXZEOG53QzNBQmQzTUtyV0wzREVDWE5KR2dWV1pfSXp6b1JPX1lxLUJfSGdTR3ZHVlVVUFdZUTI0RlRMSS12VlhxMG1VQnFaNG5ZVnFGRnlqdVJCX243WFBR?oc=5",
+   "titre": "Colère lycéenne : Sébastien Lecornu prêt à recevoir de nouveau les lycéens \"la semaine prochaine\", 41 établissements bloqués",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 3,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-malgre-le-refus-d-edouard-philippe-gabriel-attal-juge-une-primaire-du-centre-et-de-la-droite-ineluctable-31344197.php",
+   "titre": "Présidentielle 2027 : malgré le refus d’Édouard Philippe, Gabriel Attal juge une primaire du centre et de la droite « inéluctable »",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 4,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNUp3NEpTWWxyZGFORXNpNUoxVGVBT1lMSElYU0JRV0ttWWlDU3l6NGVBZnNzUDhuUTF6Z0dCakk4aXRoWlFuOE5fRXlxazZnc0xKZ3piZkdNdUU0M2NCcnhDOTVYM1BIaGRiNkptcnQzNWo3OGNVT25kRDlvblNSa1hXOXQ5c20yMGRjaWRlSl9peWljTTBZeW1haWRPeDhuMEs2cDZ2azIwc2RMM3UwY2xPNjJIeENBd3h2VWNRQ0ZHUHpzUUN3SkJQR091bzZFOEdXOGNEaWlsZw?oc=5",
+   "titre": "Mobilisation du 5 novembre en France: au tour du monde du travail de descendre dans la rue",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-colere-lyceenne-reprendre-les-cours-ou-les-blocus-les-lyceens-divises_VN-202611020967.html",
+   "titre": "Colère lycéenne: reprendre les cours ou les blocus? Les lycéens divisés",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 6,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/economie/social/greve/manifestations-et-maintien-de-l-ordre-grenades-gaz-lacrymogenes-le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-31354672.php",
+   "titre": "Manifestations et maintien de l’ordre : grenades, gaz lacrymogènes… Le ministre de l’Intérieur « ne renoncera à aucun moyen intermédiaire »",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/lyon/replay-emissions/bonsoir-lyon/video-mobilisation-etudiante-le-parcours-de-la-manifestation-de-ce-mardi-a-lyon_VN-202611020820.html",
+   "titre": "Mobilisation étudiante : le parcours de la manifestation de ce mardi à Lyon",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 8,
+   "nom": "Echo des Tribunes",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmozTWhjVWk5NEh2aHZwbU1OelRTb2N6bDZRZmtfWUtVMXByZnZnRGhRSXdyYWxsOFhSbURsamN1eXlSanBRTE5LekVvNGM5UGFGbXR2RGduNVNHbmpyUVctZU5LNkpYcU1VUHFIUkNjUGFWVTVaZXZzcnZxUVB1LTllZ1ZuTE1vLUVONUdxRVNhVDhSV1pFUVZEbHl2U3ptRW01T3dqQUxpYnJqSXZsaFdYUzZFcVhBMVBCVldoakhfNzhRekNiYmlMTVpKdw?oc=5",
+   "titre": "Blocus au lycée Jean-Monnet : deux lycéens et une infirmière scolaire interpellés",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 9,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEtiT3lXR3ZTanVnQjJDbTE0Rk10UU1FQ3VLSzNGZDJCNHJwbUk0YmJoalA2YV95RG5MVm45c2NOVlJWRF84MkVLU05tWnpHVF9zS05RRDZ4N09CQTFfaXhIcnJCOGpPMmNQSXowd2J5M1VSaTRvOU5xS1pRcHh6dU53Tk1EbUFrSlV2MGxjcnE5QzRH?oc=5",
+   "titre": "Mobilisation lycéenne : à Lille, Marseille, Paris… Quelques lycées bloqués au premier jour de la rentrée",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 10,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-marseille-des-parents-d-eleves-tentent-d-empecher-le-blocus-d-un-lycee_VN-202611020181.html",
+   "titre": "Marseille: des parents d'élèves tentent d'empêcher le blocus d'un lycée",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 11,
+   "nom": "La Provence",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ0xCeVpBN1VaTC1MYVRYcTFmUkx6b054eVBXZ3lEdUQ4dFlseEU3WW1raWFGWDNVSE12UjIyaUR6VHNkZlo3eTFMNGJZTEVUdEJ6VXhnaTdPRDBnWXZaTTZzZ1NvdkhYWjRNSHdnMmY5X0hFcXhLT180b3pQald0SU1VTE9XT1VrNDAyVkNpTF9vSzVvdlFUSHdCX2lvOFpUQmZYVE1PeVJNZzVUZUV1YW9yMndkLVkyc3VLWDdMVjhpMzYwTXVrSF9oUjJWbEpmQW9HeG9VbzNqMGdNNTAzSUpTaWVOTU1BTnZCSldn?oc=5",
+   "titre": "Blocage des lycées : Lecornu redit être prêt à recevoir de nouveau les lycéens \"la semaine prochaine\"",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 12,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/02/mouvement-lyceen-et-etudiant-la-prefecture-de-police-de-paris-interdit-la-manifestation-prevue-mardi-par-l-interfac-ile-de-france-au-c-ur-de-la-capitale_6805292_823448.html",
+   "titre": "Mouvement lycéen et étudiant : la Préfecture de police de Paris interdit la manifestation prévue mardi par l’Interfac Ile-de-France au cœur de la capitale",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 13,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdllVWTk5N2s5T3duNnl3WVhqLW9lbEN4ZkxDOHo5OE94QmNEWl9LQVZDRVREZTY5SlFuX01lejgtMk9hRHZUS2dBbTJROU9sdUptV0oybkxLbmh2ekd1TkhsemFsWE1PWVM2WVhCeGVCRk92SHN0dnFqTlE4MG13NG1LWUtmeXRLTktIOW5SRGJudm5Sb1pteU5uRzZoV1JmOFlydEgzZnRpeEp2YTNHa1c1N3lkOEN2NU1RdHRqQU5pSTdXWUE?oc=5",
+   "titre": "PODCAST : Lycées, facs… de nouveaux blocus annoncés demain – 02/11",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 14,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
+   "titre": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 15,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]",
+   "titre": "La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 16,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQN1ZhdWFqancteTAtWGtEaVJhd1NrUE9YMkdoTTRJUUVDX1pEaC1JM3ZhRWFybjB0U0VrT1d0RXV1dm1kaG14UHdjemVpMDhJdHloRkw3alhBQ0VFMG1zS3ZPOGhqVzZxLVZ5RlNuYmJxMzBRdklYbk5QdEp6b1VmMXVRcS1YTXJ5NkkzanFnWHBXTVI2WU5FV2V5ejdLNzNKbjIxdTFON3gyeDQxTE1TX1ZEZUhubEhPcEtTRzNlODgzaWtvWXB6RmJqQzhOWmh3ejN1d2pfeXphaldCckFRMG5TLUQ2SWhVUWtsTU5jTHl6bndmdVdGeGtmTVVsUGJscWpuWEZoUkhzWGFN?oc=5",
+   "titre": "Blocages, voitures incendiées… Après les vacances, la mobilisation des lycéens a repris à Rennes",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 17,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4259730-20261102-colere-lyceens-infirmiere-scolaire-interpellee-menagement-devant-lycee-montpellier?at_medium=display&at_campaign=149",
+   "titre": "Colère des lycéens : Une infirmière scolaire interpellée sans ménagement devant un lycée de Montpellier",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 18,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZUNfODhYc1RWbHYwYjBhdWpOcmlOay1kTlN3U21IT0VnUVhXZWhyVHdBMS1tLXlzQS1ORUlYOUtiOGVfX21nWkpFWWNHMi1wNFdFdlRoc05ES1duSndsQlhoVXRod3hLeUlXbVRob0IyTDlORFlNdlFZUzVVNDQwSjNDd2RIVEpod2NlOUVueldtMDh5emRVRXNXYVZSaHlYNDljeVBESkRpbDRTM3k0NWFTYjJjQWVkUG9QbHpldjJZYWp1NTRZTTlmY3gwVTlscUpCQXcxRG5YS250RllnUXpGdURaUFcyR2NmZWZOZi1ZNEdOdUxhLUhBX0ZPaldzRUlvSmNWR2toTTVNMVM3Y3QzVmNvM2xsUkE?oc=5",
+   "titre": "Blocus des lycées. « Plus de budget dans les lacrymos que dans nos stylos » : à Monge, la mobilisation ne faiblit pas",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 19,
+   "nom": "Le Messager",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmQyRlpEWkhsYk1CeGdlWmlwcFV0RXlQby1CZkJGbllOMVRYVFRrVVpZX3dVR0p6SHEweVFkUTJsNnppZGdUeGY3WjFYTFVqOFozbzJwSlB3RF9BeXN3Ymc1R1VycUhJaWNRb2xJVWJXMkJPdDNMNEpsQk5BZFNMMTd5aHByNTU4Y1dLbmZyRXFPT090dmhxNUNBVFBLZnhibnU1eHM5eU9heURjYS1QQnZfTGFPcThyNkV1M2UtNjJZaUE?oc=5",
+   "titre": "Port de mortiers, tags… plusieurs interpellations de mineurs en marge de manifestations à Annecy",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 20,
+   "nom": "Le Figaro",
+   "url": "https://etudiant.lefigaro.fr/article/lycee/en-france-la-plupart-des-lyceens-ont-repris-les-cours-tandis-qu-a-paris-des-blocages-subsistent-20261102/",
+   "titre": "En France, la plupart des lycéens ont repris les cours tandis qu’à Paris des blocages subsistent",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 21,
+   "nom": "www.rcf.fr",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcW5kaW8yYm9lYlQzbEtMTi05R0VwcHI5WDZualFrRVNQT1ZoWVl5ZEQyend1WVB3SjZaRHg3bV9nSFllUnk4TzVLVldmdDdXaXlFaVVNSm92WjZtU2FIdUltZ0hjejU5a0E2cy1LRWsxTW1hdGlsd1JzNmJOZ3B4NVhJTlIyVlRhVGVZLWlweUx2OExfNUtWcWJxQlZYZFZRNXdkWVpwSTJ2TWJiODBONFVvbG5rZGc?oc=5",
+   "titre": "Cortèges, collèges, transports, Gilets jaunes… à quoi s'attendre pour la grève du 5 novembre dans les Alpes-Maritimes ?",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 22,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-melenchon-accuse-tf1-d-avoir-laisse-philippe-derouler-un-discours-degoutant-sur-l-immigration-et-boude-la-chaine-31344600.php",
+   "titre": "Présidentielle 2027 : Mélenchon accuse TF1 d’avoir laissé Philippe dérouler un « discours dégoûtant » sur l’immigration et boude la chaîne",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 23,
+   "nom": "infos-media-nantes.fr",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHJhR3REV19DakZUVGpZdVZfdC1OQWRFaGU0MnIwMlkwdG52TGhLdjI5ZFdqbldoZmZCTVhob1NHQmtZSkJySUZHcDhNYnlxcy1NVENDblUzd0J2RE85LWJkY3l1RzljR3dNVU50MG5xTTZvZTZOQXhadmlIUG9kbWxRV3Y2aEJWREZDVm5xcw?oc=5",
+   "titre": "Nantes : tentative de blocus à Clemenceau, aucun incident à Livet",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 24,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWTA3SWZpd21BSWdDb3JuZjcwRjFYZ01EaUhMODN1ei13SzAyNmJxX1NlN2k1cVBFT1pTX0JXVWJZdGNTU1gtYUFSZWFHZHBuVUdFZFNNTnV0SXRBWTFEUEhrWkZzcXN2SFltallEdVNiWEhqTG5YQWQtOFphTXZobGtFNW1yeFlLRVcwVkVkX1UxcGhaSTZJT0JRUHFqWm5RZGJyZk9NQXVoYVpsTTFzYVZuTEQwb3lpVkRmb2pSMjY3M1N5NFpQdjZyS0ZTdlVTdkVTVUZtMlUtWFhvMXZUT0x6YjFGYzRBakRXZVdNb05mV1VRYnpZanprMnpmb2kyLS1ILTVtd1RpcFFkOXdvdTRyUVhqWFZDX2NzVg?oc=5",
+   "titre": "Blocus des lycées : « Notre mobilisation est intacte même après les vacances », des élèves toujours mobilisés à Nantes",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 25,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-41-etablissements-soit-1-des-lycees-bloques-lundi-matin-1202214?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Mouvement des lycéens : 41 établissements, soit 1 % des lycées, bloqués lundi matin",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 26,
+   "nom": "Lyon Capitale",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXYyTVduVERFMXBrVXhoVE1fZlJkLW1wU0dVcjRSTUVLdTltOUZSVlgwd2d4cURzQ1dNUHRZWkNiYlI5LXU4YVhGOUNLVWk1VDZDNWYtYXh0RTQwUFhBcW8tRTREeGNIQncwemZyU191SlNhNHZpbGozODJsODVibmhacmxxSzNDUXYycmZGQlptSjJuX0xBS0hKM2gzSGRMVEptS3VZbnlmSUJlRWJHV3JPT21VYkJvRkJQZUtIUUJCcE1lbUY1aQ?oc=5",
+   "titre": "Manifestations, blocages lycéens : à quoi s'attendre cette semaine à Lyon et dans la Métropole ?",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 27,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdURKRXZaVlFIajduY2xUQmE3Q3NCT3AxWEpCcHd5N1dRRlNNSE84TzQyUmlMMUVaQy1yWlc2NkdvcFVEQVhJSHplckpPMGtwbjJEbzU2UUhfUXRlbVlrYVhheXE5ZDV5OGJRRGJjZjRRLVgxSXBLN25SWDlsU3BiYlVZTmJqaWtOY1ZSSEswUVhHYWlRTW8yQ0Fzczl3TnM2SEpSeTVieVN4YWlac0xwcFZaMHRtME9MV2g1aWF5OXJjOVJOeFFaY0NFY3NkUlZfc0hORFVMcF9ybk9qOW1DaC1ub2xrZEtHdC1oMVZoZDYtRnhGYi1id2xrRi1FSkg5eFZtdWZmYUZzLXR6amxTTA?oc=5",
+   "titre": "Mobilisation lycéenne : à Caen et dans l’agglomération, comment se passe la rentrée lundi 2 novembre ?",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 28,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/a-vif/mouvement-lyceen-le-blocus-un-rituel-democratique-20261102",
+   "titre": "Mouvement lycéen : le blocus, un rituel démocratique ?",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 29,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNRU9ReVdiNlBTTUhBWE9KaDBpY3czQ19jTDhybUotLTVDaG92cGFGcmNNT2J5R19JR3Q0WWxmdHVyVFVtYUIyZlVqcW5Vb1hweVFGTXRzM1FiaUZzZmJ1cjBfR0NSbHFBUlp1dmI1OHdlVXdIWGdTSWZZVEczMnlVNzRKdmh6eFd4dXJfd2FjSUVXV0h1Q0x3cGhxXzVhSndYdnlWZEZKd0YydmNhV25DN3JXNWhic2VkN3MzS2JUdmpXOFN1RHRZY3FSLXdMSUd5VTdTSkp5NXE0SG5pcGtxNjBURXBNSGQxQUpENGIxWEF0bHd4RUpFODB5b1BPVC1NTmlhcU82bVNUd2lzblR2RE5iQUEzWEZKVVQyX054QWJpVlAwajFZQ25ReVlCdTRfalRIaHFkUkNGR3JrVWZB?oc=5",
+   "titre": "Edouard Geffray appelle les lycéens à reprendre les cours ; plusieurs lycées à Paris, Marseille et Toulouse bloqués lundi matin",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 30,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/02/mobilisation-lyceenne-la-priorite-absolue-c-est-que-les-eleves-puissent-aller-en-cours-estime-le-ministre-de-l-education-nationale-edouard-geffray_6805152_823448.html",
+   "titre": "Mobilisation lycéenne : « La priorité absolue, c’est que les élèves puissent aller en cours », estime le ministre de l’éducation nationale, Edouard Geffray",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 31,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNbmVaZlo1M0ZmdzNsZHZWbzJ4czAwb3FEQ3k4d00tdVY1RlBudXFseEJ2dVM4dEt6QnFmUjdyQUVrdU1ENm1vbmpPdC1ybHdsLXhzekppbG1XUXByMXllNkRoSU9YMjMxMF9tWkpSTUxsSU9aVkl5UEQ3WDB4M3E2eWNqZ3JFLWpsNlFHNnpDSGMzaWF2ckFpTmR0dF9jQlkzSHZCSFBuWmYyNGdGOGItWFV6YmdncjBnamNKc1NIX1V6S2lfNElKNEg3LWcxank1VU45N3dRV3NZRG5MX1Z0Rl9rN3VzT29KQk50Rk5qckhIaVBEZWlnQzhNdjVIRW9tdjJkR1dhRVJncWgzTHFJcDJabzFwV3Q3a0F2RTFkSkZmbHdhcjBodmNleDRPZUhwemxSMFlVakx6b191aFpDS2o2YW53R3dlLVA3bmdXbU1yVkhQV0pxQ1FWaw?oc=5",
+   "titre": "Sébastien Lecornu se dit prêt à recevoir de nouveau les représentants lycéens « la semaine prochaine » ; 41 lycées bloqués lundi, dont plusieurs à Paris, Marseille et Toulouse",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-mobilisation-etudiante-les-lycees-reprennent-le-chemin-des-blocus_VN-202611020205.html",
+   "titre": "Mobilisation étudiante : les lycées reprennent le chemin des blocus",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 33,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNaTZlOFNMdmU1em9GU0RXT2pDeVdLRzBsUDdtcUJ5a2lXd1UwZWlPV1FhTEtpZWxJb3htNjNVcEFaSDkwcHFoNDFBX3ZKdGtGYXFQNGdoRXQ2MzNMSUJSamYxNlRacXZFbWNEQWhxdzBRQU9hU2x0YktxdXlBNHVwSklWUHI3TXFKcElkOXlwaGVCSl9zME5GSUZUSHdWdl9Pc01KRU1CUm95TjdoOFR6c1ZxOGRSVTkxZjJGa2ZTVWhrMk5wTmRpYk42QzdCQmVGaUxsMEFrc2tKTWtnNXBabjlxSm5nQ2NEMV84cTVhSjdiT0FHanpaNDFLTVlRY2pDVkVCekZ3bmNLdWJaX09nYno3VDFjTzY2?oc=5",
+   "titre": "Blocage des lycées à Toulouse : des parents prêts à empêcher le blocus à la rentrée du 2 novembre et garantir l'accès aux cours à leurs enfants",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 34,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLXdWU0ZwcENMSnE4YnVidGhGempQa3Z2TURqTWJkYUtzZG9zbVVKZ2w4d3R2dU5hR1ZoVWF2NEhXbzF4N0FWWkRtYUp3YkloUm9vRlhCMEtHRDRiME8weGdFekt5ZF9hRzg5UUVZZ3QzNnFubjA2UlZwLUxhLVltWmM4NVlHRk11TXRlOHlHWHZjbjZoeUxkaTNYRzNNcjNuZmNFRzE0ai10Z2liTzdKRUVSc2pITGJhbjJrY3o3YjJwRF9ZbW9ya2wzU09PVm90aHpXbTFscw?oc=5",
+   "titre": "Crise dans l'éducation: blocages et manifestations en vue pour la reprise des cours",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 35,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/02/mobilisation-lyceenne-aujourd-hui-les-finances-publiques-consacrent-2-euros-aux-retraites-pour-seulement-1-euro-a-l-avenir_6805251_3232.html",
+   "titre": "Mobilisation lycéenne : « Aujourd’hui, les finances publiques consacrent 2 euros aux retraites pour seulement 1 euro à l’avenir »",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 36,
+   "nom": "www.epochtimes.fr",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1A2V1c1eFFkN1AzYlJQMl9Od05hc2V5TXhpcEVkX0NISU9LOS1SVWpVZVY3NGdobHo1cGtwUWR3U2pQajM0bmRja0pnNXZEUmRLaHZleTBRR0xEZ1R4VFhDd21zcFN2WmVVYndhU0xTQU1QQnRNR3B6UHV2NmR5RVFxYVpHWGVFdHRZM2pGVFREcENtMXdwSXNpbk1faXFmX3N2M3kxSnRDVzhod0JqTUN4MXRhYV9ZWTZadzUxTTRkU2pOLVhzX1NhUXAzUVA0dk8xeGgwR3ZRUXp4?oc=5",
+   "titre": "Blocages de lycées : les organisations lycéennes appellent à une nouvelle semaine de mobilisation « dès lundi »",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 37,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "DIRECT. Mobilisation lycéenne et étudiante : pour la reprise des cours, les organisations appellent à de nouveaux blocus",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 38,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20261102-gaza-avec-un-syst%C3%A8me-bancaire-%C3%A0-bout-de-souffle-les-palestiniens-face-%C3%A0-une-crise-de-liquidit%C3%A9s",
+   "titre": "Gaza: avec un système bancaire à bout de souffle, les Palestiniens face à une crise de liquidités",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 39,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-vie-chere-il-faut-trouver-des-methodes-alternatives-pour-redonner-du-pouvoir-d-achat-affirme-francois-kalfon-depute-europeen-ps-place-publique_VN-202611021016.html",
+   "titre": "Vie chère: \"Il faut trouver des méthodes alternatives pour redonner du pouvoir d'achat\", affirme François Kalfon, député européen \"PS - Place publique\"",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 40,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-vie-chere-comment-repondre-au-ras-le-bol-general-02-11_VN-202611021017.html",
+   "titre": "Vie chère : comment répondre au ras-le-bol général ? - 02/11",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 41,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-l-%C3%A9conomie-am%C3%A9ricaine-au-coeur-des-pr%C3%A9occupations-pour-les-midterms",
+   "titre": "L'économie américaine au coeur des préoccupations pour les Midterms",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 42,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4259847-20261102-presidentielle-2027-apres-propos-immigration-gauche-accuse-philippe-flirter-extreme-droite?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : Après ses propos sur l’immigration, la gauche accuse Philippe de flirter avec l’extrême droite",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-du-5-novembre-ce-ne-sera-pas-un-jeudi-noir-mais-arc-en-ciel-parce-que-tout-le-monde-va-s-y-mettre-lance-thomas-vacheron-secretaire-confederal-de-la-cgt_VN-202611020982.html",
+   "titre": "Mobilisation du 5 novembre: \"Ce ne sera pas un jeudi noir mais arc-en-ciel parce que tout le monde va s'y mettre\", lance Thomas Vacheron, secrétaire confédéral de la CGT",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 44,
+   "nom": "Nice-Matin",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUJIdWpqVHIxOVp4eXhKODlaZDEwUERhczZRWlVtT2ZOYVRUbkRIekpldk5CaXFtNFJtTGFsd1dzRHJ2dVVVMWdPN212LTJDNXlwWDc3ZXJiZWlxZ1kweHdMVUxkQjBIWGN5OHFjVTVENGU1RzlZREU3NTBlblFmNnhxS1RSeWlPSlBPTXBiSUFGVkpHZkpXR2hjTU1namQ3ektoWXEyNWRQVUJWZnIwalR6M0NRWW9XNVRuRjlpSktqWVZRNXJJdHhjOXoySG90ZkRWUEtJVk9pZ0FWbmNBWjdaVGJWN0ZoUXhZTGZ3?oc=5",
+   "titre": "Les étudiants ont repris le blocus d’un campus à Nice tandis que tous les lycées fonctionnaient normalement",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 45,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-mouvement-ne-s-essouffle-pas-assure-l-unef-pour-qui-la-mobilisation-a-vocation-a-se-massifier_8264819.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Mobilisation des lycéens : \"Le mouvement ne s'essouffle pas\", assure l'Unef pour qui \"la mobilisation a vocation à se massifier\"",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 46,
+   "nom": "AEF info",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd2w0VTA2eGxoOERMendYUmJKRU1nYXF4Vi1BZWc4elQxQXprSF9KU1FQV2pLTEY0bUFBSUhtZkV0ZW9wUGJ3VTZYdjVwUFdkX0gyN2lxb0tCendZM0RsZHdJTVlhVWtIbndnTkVRZ01RZWs3MDlWSm1QRHIyeG4wVzJGVmFuVXZlTndvTWh0eUVGR3F5b0IwREVDeG5EUWdUemVYcnhZNWRySTE5S0E3NHlBbDF5bnprN3h2TGJJNVlpSjhKNmdORnI4MUlzaUNOakxWZ0ViUm1vRjFMOVE?oc=5",
+   "titre": "Entre 41 et 150 lycées bloqués lundi 2 novembre, avant des blocus qui s'annoncent plus nombreux mardi et jeudi",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mouvement-lyceen-41-etablissements-bloques-ce-lundi-matin-aucune-perturbation-dans-75-des-departements-selon-le-ministere-de-l-education-nationale_VN-202611020420.html",
+   "titre": "Mouvement lycéen: 41 établissements bloqués ce lundi matin, aucune perturbation dans 75% des départements selon le ministère de l'Éducation nationale",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 48,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/mouvement-lyceen-au-lycee-lamartine-des-eleves-partages-entre-mobilisation-et-stress-du-bac-a-venir-20261102",
+   "titre": "Mouvement lycéen : au lycée Lamartine, des élèves partagés entre mobilisation et « stress » du bac à venir",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 49,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+   "titre": "Le Premier ministre, Sébastien Lecornu, répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 50,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/education/en-direct-crise-lyceenne-une-rentree-des-vacances-de-la-toussaint-marquee-par-des-blocages-residuels-selon-edouard-geffray-20261102_M7EP7BDCTRBQNAAWWNI5AAPPNA/",
+   "titre": "EN DIRECT – Crise lycéenne : 41 établissements bloqués ce lundi matin à Paris, Marseille ou encore Toulouse",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 51,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/direct-rentree-sous-tension-et-crainte-de-nouveaux-blocages-apres-les-vacances-de-la-toussaint-les-organisations-lyceennes-et-etudiantes-appellent-a-poursuivre-le-mouvement_LN-202611020127.html",
+   "titre": "DIRECT. Crise des lycées: 41 établissements bloqués ce lundi matin, aucune perturbation dans 75% des départements",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 52,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/colere-des-lyceens-le-mouvement-s-essouffle-apres-deux-semaines-de-vacances-20261102",
+   "titre": "Colère des lycéens : le mouvement s’essouffle après deux semaines de vacances",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 53,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisation-lyc%C3%A9enne-en-france-plus-de-40-lyc%C3%A9es-bloqu%C3%A9s-au-retour-des-vacances-scolaires",
+   "titre": "Mobilisation lycéenne en France : plus de 40 lycées bloqués au retour des vacances scolaires",
+   "date": "2026-11-02"
+  }
+ ],
+ "genere": "2026-11-03T05:51:46.521462+00:00"
+}
