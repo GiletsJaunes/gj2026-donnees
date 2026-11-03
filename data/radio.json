@@ -4,7 +4,8 @@
    "titre": "L'4mour",
    "artiste": "Médine",
    "youtube": "https://www.youtube.com/watch?v=1Rba7v1Ow7I",
-   "duree": 295
+   "duree": 338,
+   "duree_id": "1Rba7v1Ow7I"
   },
   {
    "titre": "V pour Vérité",
@@ -17,42 +18,57 @@
    "titre": "17 octobre",
    "artiste": "Tisco",
    "youtube": "https://www.youtube.com/watch?v=DpsHOUx5Ppk",
-   "duree": 121
+   "duree": 121,
+   "duree_id": "DpsHOUx5Ppk"
   },
   {
    "titre": "2PANAME - 17.10.26",
    "artiste": "2Paname",
-   "youtube": "https://www.youtube.com/watch?v=WNJEBaKIdOE"
+   "youtube": "https://www.youtube.com/watch?v=WNJEBaKIdOE",
+   "duree": 210,
+   "duree_id": "WNJEBaKIdOE"
   },
   {
    "titre": "Hayce Lemsi - La France de Mac**n ( Clip Officiel )",
    "artiste": "Hayce Lemsi",
-   "youtube": "https://www.youtube.com/watch?v=ZDph0bOhBC0"
+   "youtube": "https://www.youtube.com/watch?v=ZDph0bOhBC0",
+   "duree": 139,
+   "duree_id": "ZDph0bOhBC0"
   },
   {
    "titre": "KOPP JOHNSON - TU VOIS PAS",
    "artiste": "Kopp Johnson",
-   "youtube": "https://www.youtube.com/watch?v=ntSLQXdcW6o"
+   "youtube": "https://www.youtube.com/watch?v=ntSLQXdcW6o",
+   "duree": 141,
+   "duree_id": "ntSLQXdcW6o"
   },
   {
    "titre": "ARVAL - Soulève Toi (Prod. @20syl) Clip officiel",
    "artiste": "ARVAL",
-   "youtube": "https://www.youtube.com/watch?v=c6Ia6uywsxs"
+   "youtube": "https://www.youtube.com/watch?v=c6Ia6uywsxs",
+   "duree": 199,
+   "duree_id": "c6Ia6uywsxs"
   },
   {
    "titre": "ARVAL - A bas l'État policier [CLIP OFFICIEL]",
    "artiste": "ARVAL",
-   "youtube": "https://www.youtube.com/watch?v=MHTm5kh0Nn8"
+   "youtube": "https://www.youtube.com/watch?v=MHTm5kh0Nn8",
+   "duree": 161,
+   "duree_id": "MHTm5kh0Nn8"
   },
   {
    "titre": "Majes - Macron Explosion (Techno Version)",
    "artiste": "Majes",
-   "youtube": "https://www.youtube.com/watch?v=fc7A6XIF2t8"
+   "youtube": "https://www.youtube.com/watch?v=fc7A6XIF2t8",
+   "duree": 176,
+   "duree_id": "fc7A6XIF2t8"
   },
   {
    "titre": "caca sur bardella (sketogan tekno remix)",
    "artiste": "sketogan",
-   "youtube": "https://www.youtube.com/watch?v=0w2ynlOO0Hs"
+   "youtube": "https://www.youtube.com/watch?v=0w2ynlOO0Hs",
+   "duree": 148,
+   "duree_id": "0w2ynlOO0Hs"
   }
  ],
  "interruption_toutes_les": 3,
