@@ -57,6 +57,12 @@ def ecrire_json(p, o):
     Path(p).write_text(json.dumps(o, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 # ---------------- communes ----------------
+ALIAS_VILLES = {"aix": "aix en provence", "quevilly": "le grand quevilly", "vitry": "vitry sur seine", "epinay": "epinay sur seine", "boulogne": "boulogne billancourt"}
+
+def cle_ville(t):
+    """Cle de recherche d'une commune : sans accents ni majuscules, tirets et apostrophes = espaces (Vitry-sur-Seine = Vitry sur Seine)."""
+    return " ".join(re.sub(r"[-'’]", " ", norm(t)).split())
+
 def charger_communes(data, secours=None):
     """Retourne {nom_normalise: [ (nom, dep, lat, lng, population), ... ]}. Cache puis API officielle puis liste de secours."""
     cache = Path(data) / "cache" / "communes.json"
@@ -74,7 +80,10 @@ def charger_communes(data, secours=None):
             liste = secours or lire_json(Path(__file__).resolve().parent / "villes_secours.json", [])
     idx = {}
     for nom, dep, lat, lng, pop in liste:
-        idx.setdefault(norm(nom), []).append((nom, dep, lat, lng, pop))
+        idx.setdefault(cle_ville(nom), []).append((nom, dep, lat, lng, pop))
+        sans = re.sub(r"^(le|la|les|l)\s+", "", cle_ville(nom))   # « au Havre », « au Mans » : seulement pour quelques villes (sinon « Robert » = Le Robert)
+        if sans in ("havre", "mans", "creusot", "touquet") and sans != cle_ville(nom):
+            idx.setdefault(sans, []).append((nom, dep, lat, lng, pop))
     return idx
 
 def trouver_ville(idx, mots, i, deps_texte):
@@ -86,7 +95,9 @@ def trouver_ville(idx, mots, i, deps_texte):
         cand = re.sub(r"[.,;:!?)»]+$", "", cand)
         if cand in NON_VILLES or cand.lower() in {x.lower() for x in NON_VILLES} or cand.split(" ")[0] in {"Mont", "Port", "Pont"} and n == 1:
             continue
-        trouves = idx.get(norm(cand))
+        cand = re.sub(r"^(St|Ste)\.?\s", lambda m: "Saint " if m.group(1) == "St" else "Sainte ", cand)
+        cle = cle_ville(cand)
+        trouves = idx.get(ALIAS_VILLES.get(cle, cle)) if n == 1 or cle not in ALIAS_VILLES else idx.get(cle)
         if not trouves:
             continue
         if len(trouves) == 1:
