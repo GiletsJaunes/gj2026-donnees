@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "veille-automatique"
           git config user.email "veille@users.noreply.github.com"
-          git add data/blocus.json
+          git add data/blocus.json data/blocus_ignores.json
           if git diff --cached --quiet; then
             echo "Rien de nouveau."
           else
