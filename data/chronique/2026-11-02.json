@@ -27,8 +27,8 @@
   {
    "texte": "Selon BFMTV, Vie chère: \"Il faut trouver des méthodes alternatives pour redonner du pouvoir d'achat\", affirme François Kalfon, député européen \"PS - Place publique\". Selon BFMTV, Vie chère : comment répondre au ras-le-bol général ? - 02/11.",
    "sources": [
-    39,
-    40
+    40,
+    41
    ],
    "theme": "Colère sociale"
   },
@@ -37,7 +37,7 @@
    "sources": [
     3,
     22,
-    42
+    43
    ],
    "theme": "Politique"
   }
@@ -51,7 +51,7 @@
  "jour_long": "lundi 2 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -314,58 +314,58 @@
   },
   {
    "n": 38,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbmtCMVlNTzdEZ2c4eVhseWRTeVhqbEVOUkhaM003T2R0bW40WTlLamt0V1FFczl2SDd3dzVSd2VIdUtyMjd0X0FkeG9VY1ZxSEE1dGhnTXZjTWVMSjU3ZmpDQkJZdVdqYjV2NTJJdWpZNmo1TGZRbl9wTXJnMmZPUWZLSTkzek1wMnFXQl9hc1F2MnRScUZZVzZZeERxWVdoTE04cTBGNHhNTlRwYmJrTWUwWF9QT3k1TE1hYkkwNllpM1FuSFhXODZWUkNrX0lPMnczS1BrTjN4a09iR2lISnBCaXZseEJtcVQzWV9VZnE4ekJscUkyNWsta3NuR193S1FxM2FWeGJlRm9nMm5peGVjNF9kM0s0VFZNclR3?oc=5",
+   "titre": "« Troubles graves devant plusieurs lycées » à Rennes : la préfecture interdit la manifestation annoncée ce mardi",
+   "date": "2026-11-02"
+  },
+  {
+   "n": 39,
    "nom": "RFI",
    "url": "https://www.rfi.fr/fr/moyen-orient/20261102-gaza-avec-un-syst%C3%A8me-bancaire-%C3%A0-bout-de-souffle-les-palestiniens-face-%C3%A0-une-crise-de-liquidit%C3%A9s",
    "titre": "Gaza: avec un système bancaire à bout de souffle, les Palestiniens face à une crise de liquidités",
    "date": "2026-11-02"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-vie-chere-il-faut-trouver-des-methodes-alternatives-pour-redonner-du-pouvoir-d-achat-affirme-francois-kalfon-depute-europeen-ps-place-publique_VN-202611021016.html",
    "titre": "Vie chère: \"Il faut trouver des méthodes alternatives pour redonner du pouvoir d'achat\", affirme François Kalfon, député européen \"PS - Place publique\"",
    "date": "2026-11-02"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-vie-chere-comment-repondre-au-ras-le-bol-general-02-11_VN-202611021017.html",
    "titre": "Vie chère : comment répondre au ras-le-bol général ? - 02/11",
    "date": "2026-11-02"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-l-%C3%A9conomie-am%C3%A9ricaine-au-coeur-des-pr%C3%A9occupations-pour-les-midterms",
    "titre": "L'économie américaine au coeur des préoccupations pour les Midterms",
    "date": "2026-11-02"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4259847-20261102-presidentielle-2027-apres-propos-immigration-gauche-accuse-philippe-flirter-extreme-droite?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : Après ses propos sur l’immigration, la gauche accuse Philippe de flirter avec l’extrême droite",
    "date": "2026-11-02"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-du-5-novembre-ce-ne-sera-pas-un-jeudi-noir-mais-arc-en-ciel-parce-que-tout-le-monde-va-s-y-mettre-lance-thomas-vacheron-secretaire-confederal-de-la-cgt_VN-202611020982.html",
    "titre": "Mobilisation du 5 novembre: \"Ce ne sera pas un jeudi noir mais arc-en-ciel parce que tout le monde va s'y mettre\", lance Thomas Vacheron, secrétaire confédéral de la CGT",
    "date": "2026-11-02"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Nice-Matin",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUJIdWpqVHIxOVp4eXhKODlaZDEwUERhczZRWlVtT2ZOYVRUbkRIekpldk5CaXFtNFJtTGFsd1dzRHJ2dVVVMWdPN212LTJDNXlwWDc3ZXJiZWlxZ1kweHdMVUxkQjBIWGN5OHFjVTVENGU1RzlZREU3NTBlblFmNnhxS1RSeWlPSlBPTXBiSUFGVkpHZkpXR2hjTU1namQ3ektoWXEyNWRQVUJWZnIwalR6M0NRWW9XNVRuRjlpSktqWVZRNXJJdHhjOXoySG90ZkRWUEtJVk9pZ0FWbmNBWjdaVGJWN0ZoUXhZTGZ3?oc=5",
    "titre": "Les étudiants ont repris le blocus d’un campus à Nice tandis que tous les lycées fonctionnaient normalement",
-   "date": "2026-11-02"
-  },
-  {
-   "n": 45,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-mouvement-ne-s-essouffle-pas-assure-l-unef-pour-qui-la-mobilisation-a-vocation-a-se-massifier_8264819.html#xtor=RSS-3-%5Bgeneral%5D",
-   "titre": "Mobilisation des lycéens : \"Le mouvement ne s'essouffle pas\", assure l'Unef pour qui \"la mobilisation a vocation à se massifier\"",
    "date": "2026-11-02"
   },
   {
@@ -425,5 +425,5 @@
    "date": "2026-11-02"
   }
  ],
- "genere": "2026-11-03T05:51:46.521462+00:00"
+ "genere": "2026-11-03T07:00:58.125864+00:00"
 }
