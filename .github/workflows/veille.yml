@@ -21,6 +21,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Installer yt-dlp (durees des videos de la radio)
+        continue-on-error: true
+        run: pip install yt-dlp
       - name: Lire la presse et mettre à jour les données
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
