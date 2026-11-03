@@ -231,6 +231,37 @@ def faire_resume(articles, faits, jour):
     return resume
 
 
+def duree_youtube(ident):
+    """Duree en secondes d'une video YouTube : page de la video (avec cookie de consentement), puis API interne en secours."""
+    essais = []
+    def page():
+        req = urllib.request.Request("https://www.youtube.com/watch?v=" + ident, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9", "Cookie": "CONSENT=YES+cb; SOCS=CAI"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            t = r.read().decode("utf-8", "ignore")
+        m = re.search(r'"lengthSeconds":"(\d+)"', t) or re.search(r'"approxDurationMs":"(\d+)"', t)
+        if m:
+            return int(m.group(1)) // (1000 if "approx" in m.group(0) else 1)
+        m = re.search(r'itemprop="duration" content="PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?"', t)
+        return (int(m.group(1) or 0) * 3600 + int(m.group(2) or 0) * 60 + int(m.group(3) or 0)) if m else 0
+    def api():
+        corps = json.dumps({"context": {"client": {"clientName": "ANDROID", "clientVersion": "19.09.37", "hl": "fr"}}, "videoId": ident}).encode()
+        req = urllib.request.Request("https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w", data=corps,
+                                     headers={"Content-Type": "application/json", "User-Agent": "com.google.android.youtube/19.09.37 (Linux; U; Android 13) gzip"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            return int(json.loads(r.read().decode("utf-8")).get("videoDetails", {}).get("lengthSeconds", 0))
+    def ytdlp():   # plan C : yt-dlp (installe par le workflow), sans rien telecharger
+        import subprocess
+        r = subprocess.run([sys.executable, "-m", "yt_dlp", "--no-warnings", "--skip-download", "--print", "duration", "https://www.youtube.com/watch?v=" + ident], capture_output=True, text=True, timeout=90)
+        return int(float(r.stdout.strip().splitlines()[-1]))
+    for f in (page, api, ytdlp):
+        try:
+            s = f()
+            if s > 5:
+                return s
+        except Exception as e:
+            print("Duree YouTube (%s) indisponible pour %s : %s" % (f.__name__, ident, e))
+    return 0
+
 def maj_durees(data):
     """Ajoute la duree (secondes) des videos de la radio, pour que la radio tourne comme un direct."""
     chemin = data / "radio.json"
@@ -257,18 +288,12 @@ def maj_durees(data):
                     print("Titre YouTube indisponible pour", ident, ":", e)
             if p.get("duree") and p.get("duree_id") == ident:
                 continue
-            try:
-                req = urllib.request.Request("https://www.youtube.com/watch?v=" + ident, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
-                with urllib.request.urlopen(req, timeout=25) as r:
-                    page = r.read().decode("utf-8", "ignore")
-                d = re.search(r'"lengthSeconds":"(\d+)"', page)
-                if d and int(d.group(1)) > 5:
-                    p["duree"], p["duree_id"] = int(d.group(1)), ident
-                    change = True
-                else:
-                    print("Duree introuvable pour", ident)
-            except Exception as e:
-                print("Duree YouTube indisponible pour", ident, ":", e)
+            sec = duree_youtube(ident)
+            if sec:
+                p["duree"], p["duree_id"] = sec, ident
+                change = True
+            else:
+                print("Duree introuvable pour", ident)
     if change:
         chemin.write_text(json.dumps(radio, ensure_ascii=False, indent=1), encoding="utf-8")
         print("Durees de la radio mises a jour")
