@@ -298,6 +298,52 @@ def maj_durees(data):
         chemin.write_text(json.dumps(radio, ensure_ascii=False, indent=1), encoding="utf-8")
         print("Durees de la radio mises a jour")
 
+def enrichir_rdv(data, maintenant, max_evts=12, max_lectures=24):
+    """Pour les rendez-vous sans heure ou sans lieu : recherche ciblee dans la presse (Google Actualites + texte complet des articles), puis on complete."""
+    import rdv, texte
+    res = lire_json(data / "rdv.json", None)
+    if not res:
+        return
+    auj = maintenant.date()
+    limite_essai = (maintenant - dt.timedelta(hours=6)).isoformat()
+    cibles = [e for e in res["evenements"] if (not e.get("heure") or not e.get("lieu")) and auj.isoformat() <= e["date"] <= (auj + dt.timedelta(days=10)).isoformat()
+              and e.get("complete_essai", "") < limite_essai]
+    cibles.sort(key=lambda e: (e["date"], -e.get("nb_medias", 0)))
+    cache = texte.charger_cache(data); lectures = trouves = 0
+    for e in cibles[:max_evts]:
+        d = dt.date.fromisoformat(e["date"]); jour = "%d %s" % (d.day, rdv.MOIS[d.month - 1])
+        mot = {"blocage": "blocage", "rassemblement": "rassemblement", "marche": "marche"}.get(e["type"], "manifestation")
+        arts = []
+        for q in ('"%s" %s "%s"' % (e["ville"], mot, jour), '%s %s %s horaire lieu de rendez-vous' % (e["ville"], mot, jour)):
+            try:
+                url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:7d") + "&hl=fr&gl=FR&ceid=FR:fr"
+                arts += lire_flux(telecharger(url), "Google Actualités", maintenant, True)
+            except Exception as ex:
+                print("Details :", q, str(ex)[:60])
+        vus, retenus = set(), []
+        for a in arts:
+            if a["url"] in vus or rdv.norm(e["ville"]) not in rdv.norm(a.get("titre", "")):
+                continue
+            vus.add(a["url"]); retenus.append(a)
+        for a in retenus[:4]:
+            c = cache.get(a["url"])
+            if c is None and lectures < max_lectures:
+                lectures += 1
+                try:
+                    t = texte.lire(a["url"])
+                except Exception:
+                    t = ""
+                c = cache[a["url"]] = {"t": t, "d": maintenant.isoformat()}
+            if c and c.get("t"):
+                a["resume"] = (a.get("resume", "") + "\n" + c["t"]).strip()
+        if rdv.completer(e, retenus, auj):
+            trouves += 1
+        e["complete_essai"] = maintenant.isoformat()
+    texte.sauver_cache(data, cache, maintenant)
+    lire_ecrire = res
+    ecrire_json(data / "rdv.json", lire_ecrire)
+    print("Details des rendez-vous : %d recherches, %d complétés" % (min(len(cibles), max_evts), trouves))
+
 def nettoyer_faits(faits):
     """Re-verifie les comptages deja gardes avec les regles actuelles : national seulement, bon 'selon qui', bon jour."""
     out, vus = [], {}
@@ -429,7 +475,18 @@ def main():
         for a in brut:
             if a["url"] not in vus:
                 vus.add(a["url"]); uniques.append(a)
+        if not args.fixtures:
+            try:
+                import texte
+                uniques = texte.enrichir(uniques, data, maintenant)
+            except Exception as e:
+                print("Textes complets :", e)
         rdv.maj(uniques, data, maintenant)
+        if not args.fixtures:
+            try:
+                enrichir_rdv(data, maintenant)
+            except Exception as e:
+                print("Recherche des details :", e)
     except Exception as e:
         print("Rendez-vous :", e)
     # blocus.json est ecrit uniquement par scripts/telegram.py (workflow « Veille Telegram »), pour eviter les conflits
