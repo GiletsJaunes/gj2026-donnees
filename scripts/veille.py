@@ -120,6 +120,29 @@ def lire_flux(octets, nom_media, maintenant, google=False):
             articles.append({"titre": titre, "resume": resume[:320], "url": lien, "media": media, "date": date.isoformat()})
     return articles
 
+def bing_news(q, maintenant):
+    """Bing Actualites (RSS) : contrairement a Google, les liens contiennent l'adresse REELLE de l'article, donc on peut lire son texte complet."""
+    url = "https://www.bing.com/news/search?q=" + urllib.parse.quote(q) + "&format=rss&setmkt=fr-FR&qft=interval%3d%228%22"
+    racine = ET.fromstring(telecharger(url))
+    arts = []
+    for it in racine.iter():
+        if local(it.tag) != "item":
+            continue
+        ch = {}
+        for c in it:
+            ch.setdefault(local(c.tag), c)
+        titre = nettoyer(ch["title"].text if "title" in ch else "")
+        lien = (ch["link"].text or "").strip() if "link" in ch else ""
+        reel = urllib.parse.parse_qs(urllib.parse.urlparse(lien).query).get("url", [""])[0]
+        if reel.startswith("http"):
+            lien = reel
+        media = nettoyer(ch["Source"].text) if "Source" in ch and ch["Source"].text else re.sub(r"^https?://(www\.)?", "", lien).split("/")[0]
+        resume = nettoyer(ch["description"].text or "") if "description" in ch else ""
+        date = parse_date(ch["pubDate"].text if "pubDate" in ch else None, maintenant)
+        if titre and lien.startswith("http"):
+            arts.append({"titre": titre, "resume": resume[:320], "url": lien, "media": media, "date": date.isoformat()})
+    return arts
+
 # ---------------- regroupement des articles ----------------
 STOP = set("dans pour avec cette leur leurs sont plus mais comme tout tous aussi entre sans sous chez vers apres avant depuis lors sera sera ete etre avoir fait faire sur par une des les aux ces ses mes nos vos dont donc ainsi alors encore deja tres bien meme quand quel quelle quels quelles".split())
 
@@ -320,6 +343,10 @@ def enrichir_rdv(data, maintenant, max_evts=12, max_lectures=24):
                 arts += lire_flux(telecharger(url), "Google Actualités", maintenant, True)
             except Exception as ex:
                 print("Details :", q, str(ex)[:60])
+            try:
+                arts += bing_news(q, maintenant)
+            except Exception as ex:
+                print("Details (Bing) :", q, str(ex)[:60])
         vus, retenus = set(), []
         for a in arts:
             if a["url"] in vus or rdv.norm(e["ville"]) not in rdv.norm(a.get("titre", "")):
@@ -471,6 +498,10 @@ def main():
                     brut += lire_flux(telecharger(url), "Google Actualités", maintenant, True)
                 except Exception as e:
                     print("Rendez-vous :", q, e)
+                try:
+                    brut += bing_news(q, maintenant)
+                except Exception as e:
+                    print("Rendez-vous (Bing) :", q, str(e)[:60])
         vus, uniques = set(), []
         for a in brut:
             if a["url"] not in vus:
