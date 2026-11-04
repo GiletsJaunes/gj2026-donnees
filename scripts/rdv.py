@@ -147,8 +147,9 @@ def dates_de(phrase, base, aujourdhui):
         out.add(prochain_jour(base, 5, True))
     return {d for d in out if aujourdhui <= d <= aujourdhui + dt.timedelta(days=HORIZON_JOURS)}
 
-def phrases(texte):
-    return [p.strip() for p in re.split(r"(?<=[.!?…])\s+|\s[:|]\s|\n", texte) if len(p.strip()) > 20]
+def phrases(texte, deux_points=True):
+    sep = r"(?<=[.!?…])\s+|\s[:|]\s|\n" if deux_points else r"(?<=[.!?…])\s+|\n"   # texte complet : « Chambéry : rassemblement à 18h » reste une seule ligne
+    return [p.strip() for p in re.split(sep, texte) if len(p.strip()) > 20]
 
 def heure_de(p):
     m = re.search(r"(?:à|dès|vers|de|partir de)\s+(\d{1,2})\s?[hH]\s?(\d{2})?\b", p)
@@ -157,6 +158,17 @@ def heure_de(p):
     return "%02d:%s" % (int(m.group(1)), m.group(2) or "00")
 
 # ---------------- extraction ----------------
+def villes_phrase(idx, mots):
+    """Villes distinctes reconnues dans une ligne (pour refuser les phrases qui enumerent beaucoup de villes)."""
+    vus, i = set(), 0
+    while i < len(mots):
+        if mots[i][:1].isupper():
+            r = trouver_ville(idx, mots, i, set())
+            if r:
+                vus.add(r[0][0]); i += r[1]; continue
+        i += 1
+    return vus
+
 def extraire(articles, idx, aujourdhui, bords=None):
     """Retourne la liste de rendez-vous (dict) cle par (commune, date)."""
     evts = {}
@@ -166,16 +178,31 @@ def extraire(articles, idx, aujourdhui, bords=None):
         except Exception:
             continue
         texte = (a.get("titre", "") + ". " + a.get("resume", ""))
-        if HORS_SUJET.search(texte) or NEGATION.search(a.get("titre", "")) or not PRO_DEMANDE.search(texte):
+        plein = bool(a.get("plein_texte"))
+        if HORS_SUJET.search(a.get("titre", "") if plein else texte) or NEGATION.search(a.get("titre", "")) or not PRO_DEMANDE.search(texte):
             continue   # hors sujet, ou titre qui dit qu'il n'y a PAS de mobilisation, ou rien a voir avec le mouvement
         deps_texte = set(a.get("deps", []))
         medias = [m.get("nom", "") if isinstance(m, dict) else m for m in (a.get("medias") or [a.get("media", "")])]
-        for ph in phrases(texte):
-            type_ = next((nom for nom, rx in TRIGGERS if re.search(rx, ph, re.I)), None)
-            if not type_ or not FUTUR.search(ph) or PASSE.search(ph) or NEGATION.search(ph):
+        ctx, ctx_age = set(), 99   # texte complet : la date est souvent dite une fois (« jeudi 5 novembre ») puis la liste des villes suit
+        for ph in phrases(texte, deux_points=not plein):
+            if plein and HORS_SUJET.search(ph):
                 continue
-            dates = dates_de(re.sub(r"jusqu.(?:au|à)[^,.;]*", "", ph, flags=re.I), base, aujourdhui)
-            if not dates:
+            propres = dates_de(re.sub(r"jusqu.(?:au|à)[^,.;]*", "", ph, flags=re.I), base, aujourdhui)
+            if propres:
+                ctx, ctx_age = propres, 0
+            else:
+                ctx_age += 1
+            type_ = next((nom for nom, rx in TRIGGERS if re.search(rx, ph, re.I)), None)
+            if not type_ or PASSE.search(ph) or NEGATION.search(ph):
+                continue
+            deduite = False
+            if propres:
+                dates = propres
+            elif plein and ctx and ctx_age <= 6:
+                dates, deduite = ctx, True
+            else:
+                continue
+            if not FUTUR.search(ph) and not deduite:
                 continue
             mots = ph.replace("’", "'").replace("l'", "l' ").split()
             vus = set()
@@ -186,13 +213,15 @@ def extraire(articles, idx, aujourdhui, bords=None):
                     r = trouver_ville(idx, mots, i, deps_texte)
                     if r:
                         (nom, dep, lat, lng, pop), n = r
-                        if norm(nom) not in norm(a.get("titre", "")):
+                        if norm(nom) not in norm(a.get("titre", "")) and not (plein and len(villes_phrase(idx, mots)) <= 2):
                             i += n
-                            continue   # la ville doit etre dans le TITRE de l'article cite : sinon on risque d'attribuer a une ville ce qui concerne une autre
+                            continue   # la ville doit etre dans le TITRE de l'article cite (ou, pour un texte complet, seule ou presque dans sa ligne) : sinon on risque d'attribuer a une ville ce qui concerne une autre
                         for d in dates:
                             cle = (norm(nom), dep, d.isoformat())
                             e = evts.setdefault(cle, {"ville": nom, "dep": dep, "lat": lat, "lng": lng, "date": d.isoformat(), "heure": "", "types": set(), "orgas": set(),
-                                                       "sources": {}, "mouvement": False, "alerte": "", "declaree": False, "lieu": ""})
+                                                       "sources": {}, "mouvement": False, "alerte": "", "declaree": False, "lieu": "", "date_deduite": True})
+                            if not deduite:
+                                e["date_deduite"] = False
                             e["types"].add(type_)
                             e["heure"] = e["heure"] or heure_de(ph)
                             if not e["lieu"]:
@@ -217,6 +246,33 @@ def extraire(articles, idx, aujourdhui, bords=None):
                 i += 1
     return evts
 
+def nom_media(a):
+    m = (a.get("medias") or [a.get("media", "")])[0]
+    return m.get("nom", "") if isinstance(m, dict) else (m or "")
+
+def completer(e, arts, aujourdhui):
+    """Cherche l'HEURE et le LIEU manquants d'un rendez-vous dans des articles (texte complet) qui parlent de cette ville ce jour-la."""
+    d = dt.date.fromisoformat(e["date"]); jour = "%d %s" % (d.day, MOIS[d.month - 1]); ville = norm(e["ville"])
+    for a in arts:
+        if ville not in norm(a.get("titre", "")) and ville not in norm(a.get("resume", "")):
+            continue
+        texte = a.get("titre", "") + "\n" + a.get("resume", "")
+        dans_jour = jour in norm(texte).replace("1er", "1")
+        for ph in phrases(texte, deux_points=False):
+            if ville not in norm(ph) or PASSE.search(ph) or NEGATION.search(ph):
+                continue
+            if not (norm(jour) in norm(ph) or dans_jour):
+                continue
+            h = heure_de(ph) if not e.get("heure") else ""
+            m = LIEU_RX.search(ph) if not e.get("lieu") else None
+            if h or m:
+                if h: e["heure"] = h
+                if m: e["lieu"] = m.group(0).strip()
+                e.setdefault("complete_par", nom_media(a))
+                if e.get("heure") and e.get("lieu"):
+                    return True
+    return bool(e.get("heure") or e.get("lieu"))
+
 def construire(evts, masques):
     sortie = []
     for (nom, dep, d), e in evts.items():
@@ -229,7 +285,7 @@ def construire(evts, masques):
         recoupe = len(medias) >= 2 and e["alerte"] not in ("interdite", "annulée")
         type_ = sorted(e["types"], key=lambda t: ["manifestation", "rassemblement", "blocage", "marche", "mobilisation"].index(t))[0]
         sortie.append({"id": ident, "ville": e["ville"], "dep": e["dep"], "lat": e["lat"], "lng": e["lng"], "date": e["date"], "heure": e["heure"],
-                       "type": type_, "organisateurs": sorted(e["orgas"]), "mouvement": e["mouvement"], "alerte": e["alerte"], "declaree": e["declaree"], "lieu": e["lieu"],
+                       "type": type_, "organisateurs": sorted(e["orgas"]), "mouvement": e["mouvement"], "alerte": e["alerte"], "declaree": e["declaree"], "lieu": e["lieu"], "date_deduite": e.get("date_deduite", False),
                        "statut": "recoupe" if recoupe else "annonce", "nb_medias": len(medias),
                        "sources": [e["sources"][m] for m in medias][:5]})
     sortie.sort(key=lambda x: (x["date"], -x["nb_medias"], x["ville"]))
@@ -265,6 +321,8 @@ def maj(articles, data, maintenant=None, secours=None, aujourdhui=None):
         e["organisateurs"] = sorted(set(e["organisateurs"]) | set(o.get("organisateurs", [])))
         e["heure"] = e["heure"] or o.get("heure", "")
         e["lieu"] = e.get("lieu") or o.get("lieu", "")
+        e["complete_essai"] = o.get("complete_essai", ""); e["complete_par"] = o.get("complete_par", "")
+        e["date_deduite"] = bool(e.get("date_deduite")) and bool(o.get("date_deduite", True))
     nouveaux.sort(key=lambda x: (x["date"], -x["nb_medias"], x["ville"]))
     res = {"maj": maintenant.isoformat(), "evenements": nouveaux,
            "stats": {"total": len(nouveaux), "recoupes": sum(e["statut"] == "recoupe" for e in nouveaux), "villes": len({(e["ville"], e["dep"]) for e in nouveaux})}}
