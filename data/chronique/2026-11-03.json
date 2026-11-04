@@ -1,0 +1,597 @@
+{
+ "titre": "Mardi 3 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 5 000 gardes à vue selon Gérald Darmanin, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "5 000",
+   "libelle": "gardes à vue",
+   "detail": "selon Gérald Darmanin",
+   "sources": [
+    46,
+    27
+   ]
+  },
+  {
+   "valeur": "329",
+   "libelle": "détentions et écrous",
+   "detail": "selon Gérald Darmanin",
+   "sources": [
+    46,
+    27
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "EN DIRECT - Colère sociale : près de 5000 gardes à vue, 329 personnes incarcérées, selon Gérald Darmanin.",
+   "sources": [
+    46,
+    27
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Colère sociale : près de 5000 gardes à vue, 329 personnes incarcérées, selon Gérald Darmanin.",
+   "sources": [
+    46,
+    27
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon Le Figaro, Incendie du lycée Nelson Mandela à Nantes : trois élèves suspectés d’être impliqués ont été interpellés. Selon ladepeche.fr, Blocage des lycées : un établissement incendié alors que 165 élèves dormaient à l'intérieur... trois lycéens interpellés un mois après les faits. Selon Ouest-France, Manifestations : près de 5 000 gardes à vue, 329 personnes incarcérées, selon Gérald Darmanin. Selon BFMTV, Blocus d'un lycée à Rennes: dernière sommation des forces de l'ordre.",
+   "sources": [
+    23,
+    25,
+    27,
+    32
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon RFI, Associations et syndicats de sept pays européens appellent à manifester contre la vie chère fin novembre (repris par 8 médias). Selon Sud Ouest, Mobilisation du 17 octobre : l’Arcom saisit la justice après des propos d’Éric Zemmour (repris par 3 médias). Selon Le Monde, EN DIRECT, audition de Laurent Nuñez : le ministre de l’intérieur attendu devant la commission d’enquête sur les violences du 17 octobre à 16 h 30 (repris par 3 médias). Selon Centre Presse Aveyron, Manifestations et grève du 5 novembre : salariés, gilets jaunes, étudiants attendus jeudi dans la rue, à quoi s’attendre lors de cette nouvelle journée de mobilisation (repris par 3 médias).",
+   "sources": [
+    1,
+    5,
+    6,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Le Monde.fr, « Dans la colère des jeunes, les préoccupations matérielles pèsent moins que l’horizon bloqué ». Selon BFMTV, Pouvoir d'achat: interrogé par Céline, Bruno Retailleau, président des Républicains et candidat à la présidentielle, met en cause \"une société du travail perdant\".",
+   "sources": [
+    37,
+    42
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Europe 1, Livret A : Sébastien Lecornu annonce un relèvement en février du plafond entre 25.000 et 30.000 euros (repris par 7 médias). Selon Sud Ouest, Présidentielle 2027 : David Lisnard promet un « gouvernement commando » s’il est élu (repris par 3 médias). Selon Le Figaro, Présidentielle 2027 : Retailleau estime qu’il «faudra une primaire sans doute en début d’année» (repris par 3 médias). Selon Le Figaro, Après le fiasco sécuritaire du 17 octobre, Laurent Nuñez assume un « échec » devant la commission d’enquête parlementaire.",
+   "sources": [
+    2,
+    3,
+    4,
+    10
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-03",
+ "numero": 33,
+ "jour_long": "mardi 3 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/europe/20261103-associations-et-syndicats-de-sept-pays-europ%C3%A9ens-appellent-%C3%A0-manifester-contre-la-vie-ch%C3%A8re-fin-novembre",
+   "titre": "Associations et syndicats de sept pays européens appellent à manifester contre la vie chère fin novembre",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 2,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/economie/livret-a-sebastien-lecornu-annonce-un-relevement-en-fevrier-du-plafond-entre-25000-et-30000-euros-1205600?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Livret A : Sébastien Lecornu annonce un relèvement en février du plafond entre 25.000 et 30.000 euros",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 3,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-david-lisnard-promet-un-gouvernement-commando-s-il-est-elu-31370624.php",
+   "titre": "Présidentielle 2027 : David Lisnard promet un « gouvernement commando » s’il est élu",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 4,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-retailleau-estime-qu-il-faudra-une-primaire-sans-doute-en-debut-d-annee-20261104",
+   "titre": "Présidentielle 2027 : Retailleau estime qu’il «faudra une primaire sans doute en début d’année»",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 5,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/eric-zemmour/mobilisation-du-17-octobre-l-arcom-saisit-la-justice-apres-des-propos-d-eric-zemmour-31363795.php",
+   "titre": "Mobilisation du 17 octobre : l’Arcom saisit la justice après des propos d’Éric Zemmour",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 6,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html",
+   "titre": "EN DIRECT, audition de Laurent Nuñez : le ministre de l’intérieur attendu devant la commission d’enquête sur les violences du 17 octobre à 16 h 30",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 7,
+   "nom": "Centre Presse Aveyron",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOaldfYjZpVTVrMHBJczQ3TkU4cmtjRFh0Vm1QaGVYZUotc3p4S3kzR2xmbWNjRndPMkFacWNmdHNqaURSVk4tMklVeXlobXdGM3RNQXpwS2xXamNzanlkOUNIZkhqUjFqd01BTmMyQnpDai03T294SE9TSXdSalJrX0J1d1VJVUhzM3VfWTh3VkdTbFlpcjlkV3AxdFRHZFFLV2lYSnRudlZ5VkMxWmh1NGZxNVBsdi0yZGlpbVllRGZFdnpkRmxQTE1KM2k3cEdKVTBVLUNOWHl4eGY1V0hyQ010ei16VlZweEo0TUt2S0FXTFItOV80WjkwaG11VEVaRFRpajFnb3VyV25EZWFzM2NSUGJieHZGZDRFdVF2WE1uaV9Xdk9CX1BKVXBzeS10?oc=5",
+   "titre": "Manifestations et grève du 5 novembre : salariés, gilets jaunes, étudiants attendus jeudi dans la rue, à quoi s’attendre lors de cette nouvelle journée de mobilisation",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 8,
+   "nom": "Le Journal de Montréal",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNkxZbzdrdUR2N2xybXFiQ2M1dGFNaWVkYXl4QzlERFgyYmxaUGRaX3pZRjVSZV9ySXV1R0pUZ3MxRWl6TV9DX2dacjZ1ZjJiRi1DU2dEb1FXcG1JcjB4SWw1eHROVFd0X2FpbnVnUXdSaEhtWU90M2hoYWN3bER1UmJYYndONzhNMHNYanFRZVJyenF4QU1QUVVSVlM1eWlPTmZMV0k4amRRRmt1R1V6dWVmX09hR2FVOHItT1RFWW5HWUhOR29VUFJWcHdzQWgwUmc?oc=5",
+   "titre": "Face à la crise de la vie chère en Europe, un appel commun à des manifestations fin novembre",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 9,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/03/manifestation-du-5-novembre-a-paris-l-intersyndicale-saisit-la-justice-contre-une-possible-interdiction-du-parcours-bastille-concorde_6805656_823448.html",
+   "titre": "Manifestation du 5 novembre à Paris : l’intersyndicale saisit la justice contre une possible interdiction du parcours Bastille-Concorde",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 10,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/apres-le-fiasco-securitaire-du-17-octobre-laurent-nunez-assume-un-echec-devant-la-commission-d-enquete-parlementaire-20261103",
+   "titre": "Après le fiasco sécuritaire du 17 octobre, Laurent Nuñez assume un « échec » devant la commission d’enquête parlementaire",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 11,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMWZibnh6NWlQT2pEa2hVMWhxdzFteXRQaDFyMHlYeDA4bGxXR0d3a05OZXZHbTdzMWNXT1ZfUGNndS1FSjNmN2FLMVIxd0lrdEdSTVpZam1udThrRHZxQjM3WDdsTmdtS21hdGpqQlBodE1uQXlwVGJmSDU4dnJPWWZxMmlQSUZ3b19yUXhiQzNxaHZZdlNIYVhuSW9jT2Q1LVBwMXRxRHdJSWVXOE9fT0Q1UFp2Z3RwdXZfVWdhd1JwbHdvSncxaXUwV0NKdUVvaEstZGZyMDhnVkdyT0FzdjFVUFJZOGtseHdGaEVFTXlpY3ltOHVkNjlVdk1jN0lPX1V5UV8zQjlXdlBGelF4WkdB?oc=5",
+   "titre": "Mobilisation lycéenne. Les établissements Montesquieu et Bellevue au Mans seront-ils rénovés en priorité ?",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 12,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS293M0NtdmF2MS1tUC1hd1VtZURRT0hQaUt0bEMzSXFUQnpuYWFhWmNFYTlhb0lobmxybGlVV2F0SENyVmlHZXFiVlh3MUtHbDB2cV84TjhXOGNPTExSc3YwaFlnaFVYM0w0TzNoR0dvQ1Y0NFdTeXRuSkFETkR1MHRPWUkwUkExX1JvUnM3NWNWc1lBbVlxM2RzYVpjSG1HQV8wSGJHTzlOMEFORjUzV1pabXlUN0pnNlJLYW91cElmVmNwVTh4R2dnZw?oc=5",
+   "titre": "Manifestation du 5 novembre : le mouvement lycéen marque le pas mais n’est pas éteint",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 13,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHNoQWpsX0tka1A2VE9ycG00cEgzNlQxN2FlRkNUSU9ocHMyc09qRnJ2OTVBWnZJT3VuLTZmTGtSRVBVcmsweGFiNGs3Y2xIdWpxWWwwMEVWblEzVXM1Z1U0NkNuUEZfSE5YRWUzYUVDMlVqV1ZHNVM1dHNVa3VUWmd1eVI1ZnF4R1NfQjNLU2pFdDBtcmp2bTEtRXY1bHRleE5WRjYyWEk?oc=5",
+   "titre": "Malgré la mobilisation lycéenne, le gouvernement déroule les grandes étapes de Parcoursup pour 2027",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 14,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/emploi/coup-de-pouce-ou-pas-le-ministre-du-travail-jean-pierre-farandou-espere-pouvoir-faire-des-annonces-sur-le-smic-autour-du-5-novembre_AD-202611030728.html",
+   "titre": "Coup de pouce ou pas? Le ministre du Travail Jean-Pierre Farandou \"espère\" pouvoir faire des annonces sur le Smic \"autour du 5 novembre\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 15,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/laurent-nunez-estime-que-le-pompier-blesse-a-marseille-pourrait-lavoir-ete-dans-une-embuscade-1205759?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Laurent Nuñez estime que le pompier blessé à Marseille pourrait l'avoir été dans «une embuscade»",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 16,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/en-direct-commission-d-enquete-sur-le-17-octobre-suivez-l-audition-du-ministre-de-l-interieur-laurent-nunez_LN-202611030671.html",
+   "titre": "DIRECT. Commission d'enquête sur le 17 octobre: Laurent Nuñez reconnaît de nouveau un \"échec\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 17,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-colere-lyceenne-et-etudiante-il-y-a-une-tentative-de-nous-eloigner-du-centre-ville-et-de-faire-taire-nos-revendications-estime-ryad-rani-president-de-l-union-syndicale-lyceenne_VN-202611030617.html",
+   "titre": "Colère lycéenne et étudiante: \"Il y a une tentative de nous éloigner du centre-ville et de faire taire nos revendications\", estime Ryad Rani, président de l'Union syndicale lycéenne",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 18,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnREWExFZnN2c29QSjZoN3NZOFJJOEQ4aXE2V1VNSGMzdFVqZHNZNGstT3RmVGxydFJJa0tTY1dwOUR0YzlqOENPR2lKYlczUDFKUTM0a3d3eGtBR05Jaml1X1BIbXh1T2ZIVE5FYnJmOGhheF8wajZyQXBwSUdZY0E1Y0NEV09YMHE4SUdTa0l4QTBwQUVPODEzeEJiYnBCSFI0Q0JXWW5XYUdFQWYzMmNWeFh0d9IBuwFBVV95cUxOT1JYZ3R3S3lXQUxBa3FLcEcwSV9TNnc2TFMxdlVnVHkzLU1fcmlJRXF0N21sUFN1Tkk2NFBxU1pLOVNCR1J2bkVuTDVFZ3dzTEgtM19NWTRueDVFNTRhZGw3ZmNGQU5mLTc1eDk5NDVUTjY0RkRCOHNtRElYd1pRaWRmNnc1V0Y0a3FIcXQxR1o1VGQ4NFh2N3dGUXhRbkZsSnBXWGJOMUFXN1JxZWlZbWVOYkhOUGJDS1lB?oc=5",
+   "titre": "«Nous désobéirons» : les gilets jaunes annoncent qu'ils manifesteront à Concorde ce samedi, même en cas d'interdiction",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 19,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOVFduSDc0OERUWUpvQ3huN0dybmQyRy1pc2VWZ1ZpajVieThUWkRUWkdGbm1ENm1aM0RzaWFabjQ5VGtWNHBSeVg5SVRCam8zWGl2LTlSeENIdk5mNWxWZ25IQ055YVJSMGZaV0E0WTJ6b2RmSEwyN0lsTFdUaHIyUUxpa2MtaVhoVm9zdmtpZVQ5ZmpteldqUU11Ti1YRldqWEpXUU5tUllMYjFqMEVobXBDTmNqbFl4ZXoxak9wN2N3S0ZzVHlsN1E2d01Wd2otYUZHcXZPbS1HMDVvMWZTQU9xWGdMSmNqanJXWkpfTzNsRW8yYm5OWkt3UlpzVGZzWURBZmhxX19vdThvMTJUZzM2RG5GZm5neDRXM2s3amstOWNo?oc=5",
+   "titre": "Mobilisation lycéenne à Angers. « Leurs revendications sont légitimes », affirme une enseignante de Joachim-du-Bellay",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 20,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPUnBMZXdhblhxQnZTNURXeHhSbkhId0RGQm9NMW10al9ZY3J1aDVKaDhQeVZta3B6cDNoSnd5SV9QdmVhZTZ0QmJPbndGMlcyWjYxV3c5ZEpWbUd6dUZ0dFozUC1OZ3NkZVZBSWJ1Zm5ySW9fb1l4RUs3YnJHanJLYzB3TlpucXhyZXFEY1NQUVF0X0JwWHd0R2lzeXNyc2lSRmNidVpqWUYwejFLd2F2UF80cjU5Z1JwZl90TkNzTDZwU1lSdU01NWFLekNFUHduT0xWTE1Vb2VQaGNpX2czUFBDMl9IYjRZMjZvMUd4Zk11cU9LRWRsS2pyMWJmSzRVaW5NcWhGTXZmV1ctSkFFRDVfUDJTQi1sOUNla19sc3NhRTl6RTRYNlZ1MA?oc=5",
+   "titre": "Mobilisation lycéenne à Angers. Blocages partiels de trois lycées : à Chevrollier, ceux qui dansent et ceux qui rentrent",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 21,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPalZCaHNkR2NuRHpLODdTVFVJOThVZWsyWXlOclJUdnVkQ29wVXIyM05zNEpTZXkzNEs2Z01ndGVWclhFV2E5OWxqQWFHTnhWLTRkd044QUxKZDVQNUFIVDh6MGUyNk11cFNqcl9fZlVPV1k4bE1aSkR4a1hrZEJqWWI0MTVDNmxJMkhlUGN0dGV5b3ZBblZSQjM5M0hLMk4xWGl0V0lnZ3F0emx3c01keE5ONDBjT3NTYVV2UTB1QkxtRXYxV0g2aUhlNGJWN3cwRUZ1RG1yckJuOWFsN1JxYmM4alczYlpkZlQ0TjJIMVY1SjR2alBXWHRDMWJ6RWs4UHR0QmtuS21Eby04WmdUemtuZlg?oc=5",
+   "titre": "Blocus des lycées : des tentatives « débloquées » provisoirement ce mardi 3 novembre à Nantes",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 22,
+   "nom": "Corse Matin",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb004YnZOa2F5SC1pakdzeWJPb0VwNWwxUXVrZHNpQWlnTm9LUkRSTFZ2OGlHU01JYmlWb2RDRkh2aUl3VFM4TWVDVDVXRFA3VGVYbk9XSWVsZmJ3eXlMT2V6RDQwR2dyWDFPV2tPZ3k4MmZaUzVtVzNmVDhPQlp4TFI4LVZXclhwTUtIaXNiNWRyQWt6dVFLdjRRVVRvTWR4cWllcE5mR2g5akVqWS1BWlQ1Q0xlZldFZmZiSWUzOA?oc=5",
+   "titre": "Mobilisation lycéenne: 48 établissements bloqués ce mardi matin",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 23,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/nantes/incendie-du-lycee-nelson-mandela-a-nantes-trois-eleves-suspectes-d-etre-impliques-ont-ete-interpelles-20261103",
+   "titre": "Incendie du lycée Nelson Mandela à Nantes : trois élèves suspectés d’être impliqués ont été interpellés",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 24,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
+   "titre": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 25,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeGtJYS1Ia3FEMzlTeE9tWFhGZTdpcWhGTG9oRTA4YkNyTDhWZVZ4Slk1SGxndXQyWXlNRFJEOVFQVnhMbzJUaXlRVGstMnQ3Z3dyNkFWenlDQTVRZDdxTDRxNEx0WkxJajZnMkZKTU1pOTVuX3lGcVJ2anhWTmE0MlNpRnFHVzlqbGltaExQc0d4OWFyeHJqMlFndWVSOU9ST3gxVlhuTy1JVHFtZ3NWWGR0Q3lZNVY2Y19hWmF1THhtWGg1QkhSOVJSSkk0QmowSG40bmE4d2VUb3BDMV9XNzh3N1dYV3NtUUpnZkt6NUFqNWR6Nnd6M3MxUzJQYWo1Z2Y5MHBSc0lYWlkzRkN0al94dlZkdw?oc=5",
+   "titre": "Blocage des lycées : un établissement incendié alors que 165 élèves dormaient à l'intérieur... trois lycéens interpellés un mois après les faits",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 26,
+   "nom": "Lyon Mag",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3hNZ3FGZU1lbWpYa3czQVl5Sm15M2RrVFg1WjZ2aEtJck1OZTFEdEV2NzJtMHU1ekxobmM3cWRjS1VnMzNpYk5KR2VxcWM3RXVTc20xaUxDRVB0Z3pIX3dpQUp1M0QxZlktMzlQVjMxSF8weDB6SENGeS1uUTN0bFg4M21iQ3U2T1lqVzhTTDUybGZpMzlDLVBiM1ZNRkt0VDBRRXhzZDJNUmFfSkg3emQtaUlnWmpuRXBPaFRlQTBnZXdHc0p1M3E0WkRMSGdWREhB?oc=5",
+   "titre": "Mouvement lycéen et étudiant à Lyon : 23 lycées concernés, quatre établissements du supérieur bloqués",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 27,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-pres-de-5-000-gardes-a-vue-329-personnes-incarcerees-selon-gerald-darmanin-a9ce923a-d763-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Manifestations : près de 5 000 gardes à vue, 329 personnes incarcérées, selon Gérald Darmanin",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 28,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUjNWNFpIS0RWeVZJOW1wZHhKQ3dua3lKaTJzVFZwb1JSWDZaeFNMZkQ2TVByVGhfU3JsdGNiLU02TXBCNjE1Yzg4QktiQWNXMEFTS2VSNXlsS2NaOE1pQURvZDJkcUlUQUR4Tl9oVlhqT3VPdThmNUxHeHExTFBJUWZDR2NaUlVZLVZLRmRqMnpfbl8wdkZMTHdZbERSQklRSmJpdkd4WUJzWnhxcUJsR0Z3V2pkdHRoaUYxcDh5ejVVLWRjVkJpQVlLYl9zSlVHS1A5TlFHNG1mUWxDQmdxenhlRkZ5RUlnTDVRWkZORXdVR21OOWJXTA?oc=5",
+   "titre": "Mobilisation lycéenne et étudiante : plusieurs établissements bloqués au Mans, la manifestation « compromise",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 29,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNjhKcldQaFBPR3NXTG1TMnNLZEhQZzJaVXYxSDNOYnhsVk9Pd0gzdTN3eXprbEJJTmVDbVJQRUZYaWY0eC1mQnVpbEtFNnFQNzRRSDB6Q1VwUW9kOVNMTVZKZWF4bkhHcUFVYXMyU043WDZxQVM1YUlGSmRxOFNRQzZLdzhJRkc1NnlZUlZrVVRrVUlwcWtvQUxTSmdkR0QxQTl3Q3doeFdKaHZTTkh2bHFfX0QxTEV2SExfRVNqaEprZm16RUZSMlJ2a0h4YzlPNDJOQThkUjVYS3NkSzJ2UVhfSExsem9qOTVQenpvLWlqR2NtQ0pKZDhlVTB2dFUtWnhQTzVhSW1LNC1zSGZQWWFVTTA5bUZibG44bkdiQTZFaXc1LWN3?oc=5",
+   "titre": "Mobilisation lycéenne et étudiante : la faculté de lettres et les Beaux-arts bloqués, un rassemblement prévu au Mans",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 30,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZkZwbTd3azVxZWRObThzSmxvTjdrZW5nVWd0RXFiNDRzd3cyWXJIbjZKSF8wV1BLa09Gc1hYaDF1NUZCNk9iVUMxLWt5NzhNempTWlJiM08zSTNFcGNZNXNXc2xhY0J1SjNIclJ1ejRhRXFZWHkwVVlIZDYtTDB1bEludFNRZDlRNHNjeUdPVmZleTBvUGRkeDN6RmtYdUt6RmdoajlWNW1oRWFWTkhIRVRWYWlGNVdrWTdyVnRSRUlMNVRvb3A4dHNyeVJqUVBsMnB4WTdUekhkcHZ4ZGFwUWNFbExHTTlHejF5NlQweW4yNnExeFE?oc=5",
+   "titre": "Mobilisation lycéenne. Des rassemblements devant deux lycées à Rezé et Bouaye",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 31,
+   "nom": "DHnet",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVFBMVlFMZmVxU2lZTk1CT3FsR283aDVuVjFwNVVVNTNNVWl0VlVDWHdmRFpYNzh4V25Wejl0TWJIdUdyS25YdjJTRDAyU1M2cVdWb01IRU9NeUlyWWh0bW5TbXFCR1pHTTRBVEdSNDlJQWhUQjF2OXN5LVIxT0F4ZDhIMEs2YmhJUFd4d21jRTFFZFN5OWxZeHZDako5eVBxT3htdmtFMUxNcEtORWp0cDJHTklreVhPYXdMRjkzcURRaVF0Zk5LYUoxS1VBWEtITmNTMVJrUTlSeExWVmc3YTZ4Nk9DQURWd1lJX1lUSGt5RGR3M21pQl9TRDFLQ0otZXRwYUw0VTlEZk11QkxoRHBwYjQ?oc=5",
+   "titre": "Manifestations des lycéens en France - France : nouvelle journée de blocages dans les lycées et les universités",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/video-blocus-d-un-lycee-a-rennes-derniere-sommation-des-forces-de-l-ordre_VN-202611030336.html",
+   "titre": "Blocus d'un lycée à Rennes: dernière sommation des forces de l'ordre",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 33,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTl9kMHU4MmUwZk00NkZ3WVJyWFdxd0NqY1k2QzRpcUdxSzN1X0NqaUxhS1VfVHdOSkVoN0hCQVBPWUR0QmU0eFdCcjU1OE9uTVI3R3FzRTFueUQ3MUMxREtnZzlaWWpUcFRSSmJWYk92ZmdNemNvRHFhNmNHMkJPNUQ3TzFMbjJLWnN0X0tIaDdiZlFnOU5TeXY4bERKbWhTOVg5TF90VExWelpKODlweFZPOHFrQjJmTGtFM1M5NVNlOFpkOE9KYWV2bC1hTFgxUUljc0ZPOFJsZmltWXFqNUZvY3cwN0QtQVBXYlFyZk5Dejl0Vkx4WnNXSlhIbnVEWHpnMk5uWTVXSG1wVmk1X0Y1UVBNVEVIcjMtbg?oc=5",
+   "titre": "Colère sociale en France : près de 5 000 gardes à vue et 329 incarcérations, Gérald Darmanin se félicite d'une réponse judiciaire \"extrêmement forte\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 34,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html#xtor=RSS-3-[lestitres]",
+   "titre": "Dominique de Villepin n'est \"pas encore candidat\" à la présidentielle 2027 car ''ce n'est pas le moment\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 35,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1k4N1UwX3FNM1pyRnF2cWh0OUdmWXB0SG9aSDVldHd3YmdMMGFDRE55dnhWMkU0d25VbGlBM1hEaU1YSXFRd3ZyMllqQ29BSXA3VGdsUGk0M0dKdTVTM0dYZkR2eENjcUJLbmo3azRqcTY5d1JOa0tQdnhBTjRSMTBYSC1uNW9HM3o1LVNiWHdxMWlpNlFqaEo4UVZUck5BS0hONXVSXzdScWN6WXYwTG5wVFVwZFhWWThNRHRXNzVxalRoZGJKZ3RvSU1sYVFsN0hiaDhrMzk4MGZfV29hMUNmRE5UaVhGa1FWdXVkMkxjSEFST0FRMzVia0RUdmM0RDRxZFBHWQ?oc=5",
+   "titre": "Mobilisation des lycéens : blocages en baisse, nouvelle journée de grève attendue jeudi... le mouvement peut-il reprendre de l'ampleur",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 36,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOeVJFTWd6VjVfZ2JYOVN3cUhMU3lDQlkxeVotaVRsbktyQUZrZUV4bExaME1jSzREOUtQSVA4UV9STXZFSUJ5dndINURmdmRVU1RYTHZqQ2FtWWFUYWNoUm5JQ3Zzem1FWFZic0h6WDMxaXdKd3haREFGUEJydTFnRl82Rmd2TmMxNnh5T01mT1A2UnZ3bTFkaC1seWxscXEtcms1LTVndUFJSmdwWkNaMHBpNE92NEczSHVTZDFrVmRsbjlQZjFEbUN1c2lyZmFaYmtCSkFsRDlxT1hEcGI2RVpJV1lXbWVSTFhpSWNFQjg1cUJvbjZINlkzWEhlZW5RdENYRnRLU3djaklUWE5oUkFXdUVrSDJ6cXhsWVdOTTNyM2I3?oc=5",
+   "titre": "EXCLUSIF. Mobilisation des lycéens : que veulent les élèves en Occitanie ? Le ministre de l'Éducation Édouard Geffray révèle leurs doléances et répond à La Dépêche du Midi",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 37,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSjNVS0E3VFhRbTVLM2VWR0dMM0FoVTVTeVI2ODlJdXdnRlNDSmpvemh5VjZLX1VPUVZabEl2Zlp4Nm9WWWxxclF1OURWaTFjLWxrTmFsU2FEYkg0R0xWbE5lb3YxN1JsclFDS0xGS0JtS0lVZlV3RFdRcGhIc2tKUTdQN242dmJkNHp3OWh6SWhDY1NXQ2hoZ1k1ZEdvUkNsS00yNUZqejlCLVdja0xBUVhiYXp1Z043eGVRbUJmeGY0ckZIYkVvZkViVTRVZWdQZl9TMUF2MUVyeHVubEl1dF9uVWhCa1F0aE9iLQ?oc=5",
+   "titre": "« Dans la colère des jeunes, les préoccupations matérielles pèsent moins que l’horizon bloqué »",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 38,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html",
+   "titre": "ENQUETE Maintien de l’ordre : un mois de blessures graves en manifestation",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 39,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPa0d4NU1aUklMd0NvR3Z6ajY1VjFteDBhY1Bjb0lXbGd1TmlQekl0QmRIMU1wQjZ4TzFpc1lBcHFKLWI1V3pEYWgyeU1yWTREaUpIX3Z0OVRQbWJseWt2OUV4VTduQ3BBQWxsYmM0QUNmRVBDLWZySVpjWU9hbkpzWTVfWTkxcXBoTEJSSGtuTUFWN25XQTFmdDZZYlhvMFVEOGVDSG1TZVBrT3E2Tlk3RllpNkFSaUtINXYzQXFCZ1BHMHpMcUZ4aFdnQmN4VS13aVVyZmx3R0pGUnd0a0VzZ3F5S2p0VThtN1dKcW9aRHVRbW1qbnZFY2hfV1BGXzVlYkFRVlI2WUhaMWV5M1kzV2lpemdNazV3azNkVnJ4RUhpaTVIQ213dUxNWjZKSUU?oc=5",
+   "titre": "Mobilisation contre la vie chère : Marine Le Pen est la candidate qui convainc le plus de Français, selon un sondage",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 40,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
+   "titre": "Mouvement lycéen : entre reprise des cours et maintien des blocus, la mobilisation à un moment charnière après les vacances",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 41,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaFdyVDlEZmc1eFJCRVFBQjRManRvQ0t4T3lyWXk3eEVNcDAyUXNEZ2JoOXoweTQ3anBYVlZQWHNTeFozVU4xd09XUkVCQnVjYmlNbExWTHV5N0I2ODM5alZFbW9xdmVjdmVGMXhFcUlRQzY5R0NwQk5BM2d0Q0ptSGZBTDdLbGVJLW5ZLWVpLXBEWmZzSnFPZ09UNE9GM1lxUmMxbG9pb2psOXJVc2Q2TFlPQmNNVGdTcWdRY3AxWTFOZE5UWVNmVk9RQkQ1Wm1wUmdUR09mQUtydDlvdlR2c2hCZw?oc=5",
+   "titre": "Comment les lycéens sont devenus des \"lanceurs d’alerte\" sur la dégradation du système éducatif",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-pouvoir-d-achat-interroge-par-celine-bruno-retailleau-president-des-republicains-et-candidat-a-la-presidentielle-met-en-cause-une-societe-du-travail-perdant_VN-202611030989.html",
+   "titre": "Pouvoir d'achat: interrogé par Céline, Bruno Retailleau, président des Républicains et candidat à la présidentielle, met en cause \"une société du travail perdant\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 43,
+   "nom": "L'Ardennais",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFpfZEZBWWFnWXdNeVBiNkpaSzBHOTFockJuODJqZmNSZ0JEdVJDVWFZNWQwQkd0bEhOS0ZGajk4eVcwdWJuZFZXLXlUSjBsZzhhVkF4eGVWZ1dFU2tpUE40YTROMVJhOERHM2FmdmRtV1lIemNtb2lPckx0YmtwLU1WVlJxeGxKdmhXRGRDZk00aklJZlg4SEpuV204M2VWTDVkWnJZY1hMSUFzVk83bC1ueFgwZw?oc=5",
+   "titre": "L’actualité vue par Alex : les blocus dans les lycées continuent",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 44,
+   "nom": "infos-media-nantes.fr",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjViZXd1UVNPc1QxYmJqbUtOWFJPQ1NLY0plRGtiTGJhZ2psSVpxbVpuYTZSY2t0R2RHeTRnRFB6VDFhT05aQ1lrd0FoOXdaUmxkMEVRNklNNThlbHBJbXJJZjlDRGRhdDZKWG9rQlpuaDE1YkJBcG1ONERDWEsxVUdvbE9BOGtUclgyRzAwY0xVZ08z?oc=5",
+   "titre": "Saint-Nazaire : la mobilisation lycéenne du 3 novembre reste limitée avant jeudi",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-bruno-retailleau-president-des-republicains-et-candidat-a-la-presidentielle-revendique-l-heritage-gaulliste_VN-202611030981.html",
+   "titre": "Présidentielle 2027: Bruno Retailleau, président des Républicains et candidat à la présidentielle, revendique l'héritage gaulliste",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 46,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-nouvelle-journee-de-mobilisation-avec-la-greve-de-jeudi-en-ligne-de-mire-20261103",
+   "titre": "EN DIRECT - Colère sociale : près de 5000 gardes à vue, 329 personnes incarcérées, selon Gérald Darmanin",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 47,
+   "nom": "Nessma TV",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2JzRW9JenczVHBTaU1HUXhUMmplVmxvSWRMZjI1NUdFYU1qZlNiczQ1bVc1MnZFMTlVUGcyb09QYm5tRGV3dFRJWTVzWHROSUxzaWZreGY3MEpVZmZ3ZklyMVppdG9LblBPem9NSzBPRTQ3YUgzLTBEbUZlVWRlcVkwWnpEMkNNTmdXaWg4czRwSGNMQ1JDcG53WDNfTjJTWjJsVlllVFVsc1px0gGyAUFVX3lxTFBRWkhZdE5vVWdwakRYZXBncS1rSFAwVnhua2FNU2VMZHNocjB1cEpFM0I3OS1xT1FKSjI4WVRfTnROM3VWY2ZLcHpxNlVYcFRiUHVlcUh2R2F2MnJwZFRnRkNFelVGU2J6UzdUR1BOZjRnUUkwQVlWVHloaUh1SnhsOUZ5dWFOZkRkc3lKbEZaWW9CRlJ4Xzcyb2lLdnZyTUIwUmNHWWFsMmU2bERNNlRvdnc?oc=5",
+   "titre": "France : 4 914 interpellations en marge des manifestations",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 48,
+   "nom": "Radio SCOOP",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN241cmRkb1F6RERrWlpFbzBWNDdaRjdkTzBfZFRORWhMd3pCUTVDYVlZTkpISjlwZ2JkYjNzZTd3ZTBVUTlhaVFyLWtaZk11TDk1T2prdkVxYnFBbkN0SUlTbTJ3ZzNwMGoyVldBUXljdW9VcVlsSEJTb3VWVTlLUFpRcW94Q0lvNDRPeEUxalFUWXdBeEp0ejZMT2lqY3JPbWlQaDQ1VjJJczdmZ3ktdHZqTFZSZ1ZLWTl2TDZidw?oc=5",
+   "titre": "[MÀJ] Mobilisation lycéenne et étudiante : 900 personnes mobilisées, 19 interpellations",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 49,
+   "nom": "Radio SCOOP",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHJNM01RQ3hjRVZhX3JiQjhDcUFSQzI4VVM2UUJuQ1NhcFprazc5TWx6Ty03ZEF6MkNxRGZCSS13eDV5NVFWSUY5ZEJiY09JQ2Y3dnQweU5IeU1FLTVIM21UeXhJQ1VqNk5FVXhhdFdxNEJVYXI4U2xPNkN1ZkFwNjJReWV1UWxZQTF3VHYtZHpYYjk3QmFwZWxXaU11NUM5WThEU09aN2NicnhVdVhEVnFwd0RZaElveHc?oc=5",
+   "titre": "Mobilisation lycéenne et étudiante : 900 personnes mobilisées, 17 interpellations",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 50,
+   "nom": "Le Progrès",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU25VdlNKTGdtYmh1LU5JOXZBNUVRbG8wMGozTUk5TGNXOVNtQm1DWWdYckpfcnhNNXY2QmVqdEZtOFNEdFI4ZU0yX2pxVDBmOGJvcHZiejJxYWQ4RUM3TDhrOVRBMEdPSHNlanJoMjZwN0FmdHFaOHQ3cVJ6cUVFR3djT29EVHlFUU1rRnZUTEU1cHg3bnhnUmwwTzg0ODVMNExfa0ZuR0xEOWxPcmNmb0hSTjVUSjFhaGszMU9zWF9waW5KOUk5RGJQVEJSOEYyNzlBZ0VldTFyVlpMZEdtdmRqYmQ4TEJYcmc?oc=5",
+   "titre": "Rhône. Mouvement lycéen : 17 interpellations dans la Métropole de Lyon, jets de cocktails Molotov à Saint-Exupéry",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 51,
+   "nom": "InfoNormandie",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRGRZdUFwRFFTNlhxYUE1a1dubmoxZnNrYVIwaFItRzloWW5OUF9jVVZxMVFuV0ZDenZ1WHBzSVhWQl9DdWNYNGtVSW9rRGt4NURhVmtJdkZSbnk4R09UTEdPQWc3YVk4bmUtWjJtS0dDMGxqMk9OOVkwandGUkQybDNFUmRlS21lVWFfQVZWbzhiNHlBeDF3bW5CVGNtUHM2cXpmQ2tEaUxvYjlrM2ZjaDNuWGtHWWtXcy1TMnUzT0JlRER4N1JVY1c5bXNBSURkR3c1OVBEWVJtT0l2OXVUWVZ3WHJtdkg0WEUw?oc=5",
+   "titre": "Mobilisation lycéenne : 13 interpellations à Rouen et au Havre, deux blessés dans les rangs de l’Éducation nationale",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 52,
+   "nom": "TG+",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3hwWDVheGhiXzZKTXpZWDYxMDNEWDVKWjNOSlMzaDhXYlRFV08yZ2x6ckx0NXFrRWdXcVVqb0NTRGQzT1FtOGFpUkN0ZVNyeTBBeV9ibGk5WVBMeW1sVWRMNFgtOGhQeWNYMWRuMnhWbE9xLVdBdFBFMDFVSk52Q2h1ZHBvR19nci0zQ2gtRHRzU3ZnNHpqR092NmZwbkE1T1hqd083ZkhQX1NsaUhnSA?oc=5",
+   "titre": "Mobilisation lycéenne à Grenoble : 11 interpellations et 2 proviseurs blessés ce mardi",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 53,
+   "nom": "Radio SCOOP",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0ZrcXpleWJ1LUV4bnREN2dFdjc2RWZRWUlGeDdabmNlcmcyaTVINm9POEU3RWFGMG0zTmVxczh3MFI5SS0wVDNJdllZc2pwb0xEZm1FaVFrYndERWhkVExFdmVRUVpVektYakRsMHUwSVU3SllSY3JPWWt3RDA2R2FueFlnQXhrclJUYmRZUXJEalVvWVNrOVZKXzZ5UFJUXzFrTTVya2lCdzZWRXUya0JKWmF5NEVxdkFwNlFB?oc=5",
+   "titre": "Mobilisation lycéenne et étudiante : des blocages en cours à Lyon, 6 interpellations",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 54,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-lyon-les-premiers-blocus-des-etudiants-ce-matin_VN-202611030333.html",
+   "titre": "Lyon : les premiers blocus des étudiants ce matin",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 55,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/03/colere-sociale-en-france-pres-de-5-000-gardes-a-vue-et-329-incarcerations-gerald-darmanin-se-felicite-dune-reponse-judiciaire-extremement-forte-13633207.php",
+   "titre": "Colère sociale en France : près de 5 000 gardes à vue et 329 incarcérations, Gérald Darmanin se félicite d'une réponse judiciaire \"extrêmement forte\"",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 56,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOHpvY0dsSFZFNThPNk1yWDNZMmtxYzRleHMxUHowa2psTXhkZUpRd0pFdmgwbnZnb0xIaTgwZHdyYVRzcWhZdDE2ZzNHeld5WFV4VnlQcmptaG1kVjM2UVF0Mkh6X3Ayd2d4ME9zUHEycFEzWTlXbkx5S0JhQ1hTa3JXSE1Lb043X0NuQzI3S3RSNDIwSUU4WHRoOHZLQUNqX2c5ZUxleEFOUHlRUTFNcTZIN04tZlBmTmxIX1JVeHhYMUlzUzB3UktqVkxGUUpieWNhMHBtRHl6dWlxRWpiZWRWdlpwakV4?oc=5",
+   "titre": "Mobilisations sociales : près de 5.000 gardes à vue et 329 personnes incarcérées depuis le 17 octobre",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 57,
+   "nom": "Le Télégramme",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZUczN09pUHhXTXJ1cUY2RzZ4VXZBSFdwZDhSSVA0amhWdkNMR0dEcmxDQjVRN0MtcEVNSFBfcE5GWkZaU3lkdm9Od1pzaS1UZkUzbVhGSThKLXgtWGpXQVdEMTEzWEp4aVpQem5DQ1pKTlBBMG5Sa3g5UFBvZEh6eS1GMlB0WWxpczBQLWZvMlZ6TkoxSjZoQUZqYUZpbndURUZ3bVJpZTdTZkg4WTlHMnBqTWN0MUVXcHNldWVIS3ZPYnZ0WnBHZGp4SThWMVVRa0FfYTBpS0RQOEdYWUtMTTdoUGRwams?oc=5",
+   "titre": "Manifestations contre la vie chère : près de 5 000 gardes à vue et 329 personnes incarcérées, selon Darmanin",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 58,
+   "nom": "Radio France",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa3NOeUtLQ3VQX0k4OTA4RGg1RXRjUk01YTlEa0Rna2JkNjM2cHdvWWlsdnRPUkgwenRQVmw5VFZDWi1qcTNTNDNUVVM4bjJBZ2hYd045YlhvQnFiY2RsRmJNVGl1LXVXMW11T1NKMnlBWUFKdzM5eVVVWk80TzNfOFJ6ZklRZmg5WUxuTzdqUjNGeEN5ZDBveVhZeGkxSjYzaE9YRjM0X1VkTDlnNEYwNURBWWtJTUFwNW1KT0VMRzVwUWItQmZWdk5TdGl5QnlXaGxHV1cxQjlKQVR3NEg4RlNKMmd3LURyd2xENFhhX2Z4N2hqRWpkdnlGVVN6UQ?oc=5",
+   "titre": "Manifestations contre la vie chère : plus de 300 personnes ont été incarcérées depuis le 17 octobre",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 59,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-colere-sociale-il-y-a-eu-plus-de-1-300-policiers-et-gendarmes-blesses-indique-gerald-darmanin-ministre-de-l-interieur_VN-202611030291.html",
+   "titre": "Colère sociale: \"Il y a eu plus de 1.300 policiers et gendarmes blessés\", indique Gérald Darmanin, ministre de la Justice",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 60,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-le-mouvement-reprend-il-de-l-ampleur",
+   "titre": "Mobilisations en France : le mouvement reprend-il de l'ampleur ?",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 61,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4259892-20261103-direct-colere-sociale-organisations-jeunesse-appellent-blocages-massifs-facs-lycees?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Colère sociale : Des milliers de manifestants à Paris, de 48 à 500 lycées bloqués en France...",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 62,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-colere-lyceenne-500-etablissements-bloques-selon-l-union-syndicale-lyceenne_VN-202611030477.html",
+   "titre": "Colère lycéenne: 500 établissements bloqués selon l'Union syndicale lycéenne",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 63,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "titre": "Mobilisation lycéenne et étudiante : deux cortèges sauvages sont en cours à Paris, après l'interdiction du parcours initialement prévu par les organisations",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 64,
+   "nom": "La Croix",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0Jydi0tWlRGZmpxOVYtVDIwRlBYZnEyMkxQZVA2Y05yejdXNXJHV09Kb0hLaDJpOVZEd3lQOWxJTHNQQ2pDOFl4REt5VjNqZXk1SWUySWlvRmZybWVHcGliT2lqUXBvYUh4akR1akNjSFdLblVvSC1LdFVVX3h3d2tkQ3JIeW56YXZIWkkxQVFBRHg0bDc1M0lfRGZIblZTVmQ1ODNsYzZYRkxTTlRaaA?oc=5",
+   "titre": "Mouvement lycéen et étudiant : 48 lycées bloqués et 51 établissements du supérieur perturbés",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 65,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/nouvel-appel-a-bloquer-facs-et-lycees-avec-la-greve-de-jeudi-en-ligne-de-mire-20261102",
+   "titre": "Mouvement lycéen et étudiant : manifestation à Paris ; 48 lycées bloqués et 51 campus perturbés",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 66,
+   "nom": "Le Télégramme",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGN3NTdLTnVkZlItcEVnX18xbE5TalBEN29WM2l2SzRFMjRaM25hUWlQWndnQUtpS28wcXdQb1VhSVVjdktZV192b2JJQUkxRWlhcmd4ZWk3aXk4cl9mUldUQUhXck5GamRZdnp0Q1Nla0tXOVZLMEo3UmtITHVQbG85c1hDTWZhZHpsZkdaNnJFa2ZnY2lkRVRLNVZRQm4yUFNyQV9YbDYzQlRjY2x1SEVUU29xUENIdHFJbkFkUzlPcGUteXN3?oc=5",
+   "titre": "Mobilisation lycéenne : 48 établissements bloqués ce mardi matin, selon le ministère",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 67,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/48-lycees-bloques-mardi-selon-le-ministere-dix-fois-plus-selon-un-syndicat-lyceen-1205147?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "48 lycées bloqués mardi selon le ministère, dix fois plus selon un syndicat lycéen",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 68,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/direct-colere-sociale-nouvel-appel-a-bloquer-les-lycees-et-les-universites-laurent-nunez-auditionne-par-l-assemblee-nationale-cet-apres-midi_LN-202611030137.html",
+   "titre": "DIRECT. Colère lycéenne: 48 lycées bloqués ce mardi matin, un nombre quasiment stable par rapport à lundi",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 69,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-48-lycees-bloques-en-france-ce-3-novembre-selon-le-ministere-de-l-education-nationale_VN-202611030374.html",
+   "titre": "48 lycées bloqués en France ce 3 novembre selon le ministère de l'Éducation nationale",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 70,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "DIRECT. Mobilisation lycéenne et étudiante : 48 lycées sont bloqués mardi matin selon le ministère de l'Education nationale, un décompte proche de celui de lundi",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 71,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/education/en-direct-mobilisation-dans-les-lycees-et-les-universites-nouvel-appel-aux-blocages-ce-mardi-la-greve-de-jeudi-en-ligne-de-mire-20261103_RO4BAQZVTNDKBP7IFM6T2Y6RAI/",
+   "titre": "EN DIRECT – Mobilisation de la jeunesse : 48 lycées bloqués sur l’ensemble du territoire ce mardi, selon l’Education nationale",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 72,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-plus-que-jamais-assure-d-etre-au-second-tour-jean-luc-melenchon-creuse-encore-l-ecart-avec-edouard-philippe-selon-un-sondage-20261103",
+   "titre": "Présidentielle 2027 : plus que jamais assuré d’être au second tour, Mélenchon creuse encore l’écart avec Philippe, selon un sondage",
+   "date": "2026-11-03"
+  }
+ ],
+ "genere": "2026-11-04T05:55:56.575036+00:00"
+}
