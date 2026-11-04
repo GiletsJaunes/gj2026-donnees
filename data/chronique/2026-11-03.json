@@ -86,7 +86,7 @@
  "jour_long": "mardi 3 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -545,60 +545,67 @@
   },
   {
    "n": 66,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/mobilisation-lyceenne-a-toulouse-la-lassitude-des-eleves-face-aux-blocages-qui-persistent-1207208?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Mobilisation lycéenne : à Toulouse, la lassitude des élèves face aux blocages qui persistent",
+   "date": "2026-11-03"
+  },
+  {
+   "n": 67,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/nouvel-appel-a-bloquer-facs-et-lycees-avec-la-greve-de-jeudi-en-ligne-de-mire-20261102",
    "titre": "Mouvement lycéen et étudiant : manifestation à Paris ; 48 lycées bloqués et 51 campus perturbés",
    "date": "2026-11-03"
   },
   {
-   "n": 67,
+   "n": 68,
    "nom": "Le Télégramme",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGN3NTdLTnVkZlItcEVnX18xbE5TalBEN29WM2l2SzRFMjRaM25hUWlQWndnQUtpS28wcXdQb1VhSVVjdktZV192b2JJQUkxRWlhcmd4ZWk3aXk4cl9mUldUQUhXck5GamRZdnp0Q1Nla0tXOVZLMEo3UmtITHVQbG85c1hDTWZhZHpsZkdaNnJFa2ZnY2lkRVRLNVZRQm4yUFNyQV9YbDYzQlRjY2x1SEVUU29xUENIdHFJbkFkUzlPcGUteXN3?oc=5",
    "titre": "Mobilisation lycéenne : 48 établissements bloqués ce mardi matin, selon le ministère",
    "date": "2026-11-03"
   },
   {
-   "n": 68,
+   "n": 69,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/societe/48-lycees-bloques-mardi-selon-le-ministere-dix-fois-plus-selon-un-syndicat-lyceen-1205147?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "48 lycées bloqués mardi selon le ministère, dix fois plus selon un syndicat lycéen",
    "date": "2026-11-03"
   },
   {
-   "n": 69,
+   "n": 70,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/direct-colere-sociale-nouvel-appel-a-bloquer-les-lycees-et-les-universites-laurent-nunez-auditionne-par-l-assemblee-nationale-cet-apres-midi_LN-202611030137.html",
    "titre": "DIRECT. Colère lycéenne: 48 lycées bloqués ce mardi matin, un nombre quasiment stable par rapport à lundi",
    "date": "2026-11-03"
   },
   {
-   "n": 70,
+   "n": 71,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-48-lycees-bloques-en-france-ce-3-novembre-selon-le-ministere-de-l-education-nationale_VN-202611030374.html",
    "titre": "48 lycées bloqués en France ce 3 novembre selon le ministère de l'Éducation nationale",
    "date": "2026-11-03"
   },
   {
-   "n": 71,
+   "n": 72,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "DIRECT. Mobilisation lycéenne et étudiante : 48 lycées sont bloqués mardi matin selon le ministère de l'Education nationale, un décompte proche de celui de lundi",
    "date": "2026-11-03"
   },
   {
-   "n": 72,
+   "n": 73,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/education/en-direct-mobilisation-dans-les-lycees-et-les-universites-nouvel-appel-aux-blocages-ce-mardi-la-greve-de-jeudi-en-ligne-de-mire-20261103_RO4BAQZVTNDKBP7IFM6T2Y6RAI/",
    "titre": "EN DIRECT – Mobilisation de la jeunesse : 48 lycées bloqués sur l’ensemble du territoire ce mardi, selon l’Education nationale",
    "date": "2026-11-03"
   },
   {
-   "n": 73,
+   "n": 74,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-plus-que-jamais-assure-d-etre-au-second-tour-jean-luc-melenchon-creuse-encore-l-ecart-avec-edouard-philippe-selon-un-sondage-20261103",
    "titre": "Présidentielle 2027 : plus que jamais assuré d’être au second tour, Mélenchon creuse encore l’écart avec Philippe, selon un sondage",
    "date": "2026-11-03"
   }
  ],
- "genere": "2026-11-04T07:06:27.004419+00:00"
+ "genere": "2026-11-04T08:32:02.505922+00:00"
 }
