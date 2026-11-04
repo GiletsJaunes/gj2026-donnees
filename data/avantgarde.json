@@ -1,0 +1,18 @@
+{
+ "admin_telegram": "",
+ "cle_publique": null,
+ "groupes": [
+  {
+   "ville": "Lyon",
+   "region": "Auvergne-Rhône-Alpes",
+   "lat": 45.764,
+   "lng": 4.8357
+  },
+  {
+   "ville": "Paris",
+   "region": "Île-de-France",
+   "lat": 48.8566,
+   "lng": 2.3522
+  }
+ ]
+}
