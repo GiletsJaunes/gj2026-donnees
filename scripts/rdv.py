@@ -93,6 +93,7 @@ def trouver_ville(idx, mots, i, deps_texte):
         if len(mots[i:i + n]) < n:
             continue
         cand = re.sub(r"[.,;:!?)»]+$", "", cand)
+        cand = re.sub(r"^(l|d)' ", lambda m: m.group(1) + "'", cand, flags=re.I)   # « l' Union » -> « l'Union »
         if cand in NON_VILLES or cand.lower() in {x.lower() for x in NON_VILLES} or cand.split(" ")[0] in {"Mont", "Port", "Pont"} and n == 1:
             continue
         cand = re.sub(r"^(St|Ste)\.?\s", lambda m: "Saint " if m.group(1) == "St" else "Sainte ", cand)
