@@ -23,7 +23,7 @@
    "theme": "Répression"
   },
   {
-   "texte": "Selon BFMTV, Manifestation du 5 novembre: le parcours Bastille-Concorde interdit par la préfecture de police de Paris, République-Nation autorisé (repris par 5 médias). Selon BFMTV, Manifestation du 5 novembre: la préfecture de police interdit le parcours Bastille-Concorde déposé par l'intersyndicale à Paris, un itinéraire alternatif proposé (repris par 5 médias). Selon La Dépêche, Manifestations du 5 novembre : transports perturbés, enseignants en grève… à quoi faut-il s'attendre jeudi ? (repris par 3 médias). Selon 20 Minutes, Transports, écoles, administration… À quoi s’attendre pour la grève du 5 novembre ? (repris par 3 médias).",
+   "texte": "Selon BFMTV, Manifestation du 5 novembre: le parcours Bastille-Concorde interdit par la préfecture de police de Paris, République-Nation autorisé (repris par 5 médias). Selon BFMTV, Manifestation du 5 novembre: la préfecture de police interdit le parcours Bastille-Concorde déposé par l'intersyndicale à Paris, un itinéraire alternatif proposé (repris par 5 médias). Selon Libération, Grève du 5 novembre : à Paris, la justice valide le parcours République-Nation proposé par la préfecture de police (repris par 4 médias). Selon La Dépêche, Manifestations du 5 novembre : transports perturbés, enseignants en grève… à quoi faut-il s'attendre jeudi ? (repris par 3 médias).",
    "sources": [
     1,
     2,
@@ -60,7 +60,7 @@
  "jour_long": "mercredi 4 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -78,23 +78,23 @@
   },
   {
    "n": 3,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/greve-du-5-novembre-a-paris-la-prefecture-interdit-le-parcours-bastille-concorde-et-propose-une-manifestation-entre-republique-nation-20261104_4QVUVK3CCNG5HK6LLIHLR76T5M/",
+   "titre": "Grève du 5 novembre : à Paris, la justice valide le parcours République-Nation proposé par la préfecture de police",
+   "date": "2026-11-04"
+  },
+  {
+   "n": 4,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/04/manifestations-du-5-novembre-transports-perturbes-enseignants-en-greve-a-quoi-faut-il-sattendre-jeudi-13635617.php",
    "titre": "Manifestations du 5 novembre : transports perturbés, enseignants en grève… à quoi faut-il s'attendre jeudi ?",
    "date": "2026-11-04"
   },
   {
-   "n": 4,
+   "n": 5,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/societe/greve/4260270-20261104-transports-ecoles-administration-quoi-attendre-greve-5-novembre?at_medium=display&at_campaign=149",
    "titre": "Transports, écoles, administration… À quoi s’attendre pour la grève du 5 novembre ?",
-   "date": "2026-11-04"
-  },
-  {
-   "n": 5,
-   "nom": "Libération",
-   "url": "https://www.liberation.fr/societe/greve-du-5-novembre-a-paris-la-prefecture-interdit-le-parcours-bastille-concorde-et-propose-une-manifestation-entre-republique-nation-20261104_4QVUVK3CCNG5HK6LLIHLR76T5M/",
-   "titre": "Grève du 5 novembre : à Paris, la justice valide le parcours République-Nation proposé par la préfecture de police",
    "date": "2026-11-04"
   },
   {
@@ -441,5 +441,5 @@
    "date": "2026-11-04"
   }
  ],
- "genere": "2026-11-05T05:35:01.711636+00:00"
+ "genere": "2026-11-05T07:10:40.157716+00:00"
 }
