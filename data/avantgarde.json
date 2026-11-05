@@ -1,7 +1,7 @@
 {
  "admin_telegram": "",
  "endpoint": "https://ag-relais.giletsjaunes2026.workers.dev/",
- "cle_publique": null,
+ "cle_publique": {"alg":"RSA-OAEP-256","e":"AQAB","ext":true,"key_ops":["encrypt"],"kty":"RSA","n":"vC1vosgc2g35Oc5erQLcPXQfJpxqMzlGQzgwSNVMK-V-6wBqJkX5g2gFq_Y_BUKgdIEtdVK6tqhl_f_fhdCT8Ffxa6tGh17Jt1SKrLrjhneW_ETfL0KM8H15dae9IIXrA3BFAWpLmL5cmiAMkFjplSZWs0GEnUF16ec9-SAVZfZCtv4X_ByHsfwum8WitPJdnbwk1NO7x5PYV7TjN-L0mSYpdX0nf_b45EkOkt1G2GIPgsdQv-0v-GZBgIMLDAcOhjUlTfxcR86mE8H50Nzc4-K6eBvKnz8Pyvv3ZlzEouNwHpqrkAJxVCHUq6LhvQl6_sjMSExJptKamBgqbHi0giu0Z5gOrO09tdgTtPI5p-GKeDWbYQ7Yq-tKECthdf_EERHy0Xn3ckRnSvytk62RbyraVlYSgONcHh3RsPPhOJNoIdSC3TFyPcS4mYXqveOQhky0wSIVkTTQxuXo-t0Z9ddL7oN3bLOXmhjUXyBQgkSDqKaOkQjkeA0rZGE0eQl5"},
  "groupes": [
   {
    "ville": "Lyon",
