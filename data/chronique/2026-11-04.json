@@ -14,11 +14,12 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Sud Ouest, Manifestation et violences urbaines. « Je vois encore flou aujourd’hui » : à Tours, un jeune homme accuse la police de l’avoir blessé à un œil, une enquête ouverte. Selon BFMTV, Mobilisation étudiante et lycéenne : une interpellation ce mercredi matin à Vaulx-en-Velin. Selon BFMTV, FORUM BFMTV - \"On est en train de crever nous madame\": Vincent, pêcheur professionnel interpelle Olga Givernet, députée Ensemble pour la République de l'Ain.",
+   "texte": "Selon Sud Ouest, Manifestation et violences urbaines. « Je vois encore flou aujourd’hui » : à Tours, un jeune homme accuse la police de l’avoir blessé à un œil, une enquête ouverte. Selon Sud Ouest, Présidentielle 2027 : le cinéma français interpelle les candidats pour faire de son modèle une « priorité stratégique ». Selon BFMTV, Mobilisation étudiante et lycéenne : une interpellation ce mercredi matin à Vaulx-en-Velin. Selon BFMTV, FORUM BFMTV - \"On est en train de crever nous madame\": Vincent, pêcheur professionnel interpelle Olga Givernet, députée Ensemble pour la République de l'Ain.",
    "sources": [
     11,
-    22,
-    41
+    18,
+    23,
+    42
    ],
    "theme": "Répression"
   },
@@ -35,18 +36,18 @@
   {
    "texte": "Selon BFMTV, FORUM BFMTV - Passe d'armes entre Matthieu Valet, porte-parole du \"Rassemblement national\" et Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat, au sujet des mesures d'urgence pour lutter contre la vie chère. Selon BFMTV, FORUM BFMTV - \"Cela fait 10 ans que la situation se dégrade\", observe Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat. Selon BFMTV, FORUM BFMTV - \"À vouloir répondre dans l'urgence, le gouvernement va se retirer sur un certain nombre de politiques publiques\", explique Olga Givernet, députée \"Ensemble pour la République\" et ancienne ministre. Selon BFMTV, FORUM BFMTV - \"La seule façon de s'en sortir, c'est par la création de richesses\", estime Jean-Claude Bourrelier, fondateur de Bricorama.",
    "sources": [
-    31,
-    34,
+    32,
     35,
-    38
+    36,
+    39
    ],
    "theme": "Colère sociale"
   },
   {
    "texte": "Selon Sud Ouest, Présidentielle 2027 : « je suis son homme. Quand il veut, où il veut », Édouard Philippe invite Jean-Luc Mélenchon à débattre de racisme et d’antisémitisme. Selon Le Monde, Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard.",
    "sources": [
-    18,
-    29
+    19,
+    30
    ],
    "theme": "Politique"
   }
@@ -60,7 +61,7 @@
  "jour_long": "mercredi 4 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -184,197 +185,197 @@
   {
    "n": 18,
    "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/culture/cinema/presidentielle-2027-le-cinema-francais-interpelle-les-candidats-pour-faire-de-son-modele-une-priorite-strategique-31381204.php",
+   "titre": "Présidentielle 2027 : le cinéma français interpelle les candidats pour faire de son modèle une « priorité stratégique »",
+   "date": "2026-11-04"
+  },
+  {
+   "n": 19,
+   "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/edouard-philippe/presidentielle-2027-je-suis-son-homme-quand-il-veut-ou-il-veut-edouard-philippe-invite-jean-luc-melenchon-a-debattre-de-racisme-et-d-antisemitisme-31380482.php",
    "titre": "Présidentielle 2027 : « je suis son homme. Quand il veut, où il veut », Édouard Philippe invite Jean-Luc Mélenchon à débattre de racisme et d’antisémitisme",
    "date": "2026-11-04"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/education-transports-hopitaux-a-quoi-s-attendre-pour-la-journee-de-mobilisation-de-ce-jeudi-5-novembre_AD-202611040601.html",
    "titre": "Éducation, transports, hôpitaux... À quoi s'attendre pour la journée de mobilisation de ce jeudi 5 novembre?",
    "date": "2026-11-04"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/culture/prix-femina-2026-yannick-haenel-recompense-pour-la-solitude-des-professeurs-est-infinie-20261104",
    "titre": "Prix Femina 2026 : Yannick Haenel récompensé pour « La Solitude des professeurs est infinie »",
    "date": "2026-11-04"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "Libération",
    "url": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
    "titre": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre jeudi ?",
    "date": "2026-11-04"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-mobilisation-etudiante-et-lyceenne-une-interpellation-ce-mercredi-matin-a-vaulx-en-velin_VN-202611040357.html",
    "titre": "Mobilisation étudiante et lycéenne : une interpellation ce mercredi matin à Vaulx-en-Velin",
    "date": "2026-11-04"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "Made in Marseille",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2ZraWZhYzFVazFCbkx1dUpnZ24wLXhmcWE0RWFWOVNVME5NazRYbWxxWFlhTU5Gb25OOWUwSGJXX2dzVmFnczl5OGdpdnZMYk81dmhIVVYxVDIzdXhzd3BJdTJ0R2ZKUGd2cURJR1FTdW90NGdvc0I1NTYtdkIyczRjc3VsS2MzTUdhT2VWV1ZMRWltWUhId2pLdzUtRHB6empRNGctaFNVYWZiSVhlc2ZVaEx3QQ?oc=5",
    "titre": "À quoi s’attendre pour la mobilisation du jeudi 5 novembre à Marseille ?",
    "date": "2026-11-04"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMG5tM1g1dVhHcFF0cWR4TjRKcHlKc1E3NDdFT0tsbmN4empmQW9hUjRxczMxbko1RmpFNHZfRkNQaWQ1V1lRLVA5ZkpPTkdWU3FPVEJSQ1dCcWhjdzZvWWhyNV82WllzRk5ydWRQMzFGRFZHeEoxcm1MME8zRDFFXzdhUS14bG9oYmlYcm05WXktb2VzV0pqUVp3RHF0OXdMZTVxdlhFRTZFN2UtTWFQU2lDR0Q4aG9IeG9CVmROaHhvbldzWUpwVElubDVxOWtyWDlDY1RBLVAyTzRkZFZReXZfZTVLbEFab3Rra3BSR0dxLVVXclhhc25rcE5FNkxXUlE?oc=5",
    "titre": "Mobilisation des lycéens : les absences des élèves peuvent-elles pénaliser leur dossier Parcoursup",
    "date": "2026-11-04"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQzlRYXc5SVRaWVJHckwxUzdtbFlEQ3lLTHBJZEtpdHE1U0Y1d3c5THRQbGNqLU1Mc0txOFFOM3ZMRWwzZlJMTkpuUUlSNkZtZGtPVXRqRmp1aDEySjU3eWg1YktoOE1SOFhYOXJTS25lRFo4bnRNM3RtMXY5ZlU0WHVGUm5pOEEyRlVlb3kwYk5YOUhuWFl2Z0gwWms1NkNsaDRpd09YSEVmMVNuclIwalJMc3BzS3JENFVTNlEwMUhMX19HOEcyR0ZGdWNLOHZrbHAtX2RUc0t2aDE5MGlLb1hxcjNFVzVib0xHei1QMnQ4UExScTNOMTFxcG01VkF6Y1ZVa0ZWS3lKTjN2d0dqbg?oc=5",
    "titre": "ENTRETIEN. Manifestation du 5 novembre : \"C'est une impasse complète\"... Le gouvernement peut-il encore répondre aux revendications des lycéens",
    "date": "2026-11-04"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS25oX1JVSGJfOHlqVG9LODhzZWhSdTZLeWtfcVAyMUxJRlpJV1A4YWpPb1JJbUdWLXNUUF9XMXJiUVFGRjhsckJsOXM0QlFydnBLd3B0MnZBWS1xVEMxalMzSEFkaU50d3daTEFOdHV2RDFwdVVKMGNuQU52SFJ6QnVsNGk2d2lEWkwxQVRrTDdVQlkwY05sMmxNcmlleXFfOGRyQ1J2QjVUNFVFc2lFdjlHeUFGcEpxeV9PaXJsMEdlclBzUHlGbGhmT0JtUmh4UjR5U2haVWphZGFwNmI3UUJjZFNFT2RKVjctZUJkSE9PQXZiN2xpVERqQ0JvV1NKQVE?oc=5",
    "titre": "DECRYPTAGE. Manifestations du 5 novembre : comment les syndicats vont faire leur retour en première ligne de la colère sociale",
    "date": "2026-11-04"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/04/parcoursup-sebastien-lecornu-annonce-une-premiere-reunion-lundi-pour-reformer-la-plateforme-d-orientation-sur-fond-de-mobilisation-lyceenne_6806420_823448.html",
    "titre": "Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne",
    "date": "2026-11-04"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/04/manifestation-du-5-novembre-laurent-nunez-annonce-70-000-policiers-et-gendarmes-deployes-et-previent-qu-aucun-debordement-ne-sera-tolere_6806412_823448.html",
    "titre": "Manifestation du 5 novembre : Laurent Nuñez annonce 70 000 policiers et gendarmes déployés et prévient qu’aucun « débordement ne sera toléré »",
    "date": "2026-11-04"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
    "titre": "Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard",
    "date": "2026-11-04"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "laclepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXdaS3gxdDY3UHBRU2lyZHZCMlgxTy1EdjN2My1qcXptOXZ0aHdkVWVLdElzZU93dW9ieDRYMGhWSUJEdlFKNV9vWmVsd0NHYW0tNXZnd2tRckVoaUhkc0cwRFRjc1JuZzZtbS1veW5xb1ZIbjJfUWI3bW5KR2hrYlhoTmY?oc=5",
    "titre": "À Caen, deux hommes condamnés après la manifestation du 31 octobre",
    "date": "2026-11-04"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-passe-d-armes-entre-matthieu-valet-porte-parole-du-rassemblement-national-et-melanie-vogel-presidente-du-groupe-ecologiste-au-senat-au-sujet-des-mesures-d-urgence-pour-lutter-contre-la-vie-chere_VN-202611041001.html",
    "titre": "FORUM BFMTV - Passe d'armes entre Matthieu Valet, porte-parole du \"Rassemblement national\" et Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat, au sujet des mesures d'urgence pour lutter contre la vie chère",
    "date": "2026-11-04"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-ce-qui-est-exceptionnel-pour-un-policier-c-est-de-passer-du-temps-avec-sa-famille-affirme-jean-christophe-couvy-du-syndicat-de-police-un1te-a-propos-des-manifestations_VN-202611040996.html",
    "titre": "FORUM BFMTV - \"Ce qui est exceptionnel pour un policier, c'est de passer du temps avec sa famille\", affirme Jean-Christophe Couvy, du syndicat de police UN1TÉ, à propos des manifestations",
    "date": "2026-11-04"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-c-est-la-colere-sociale-qui-monte-cedric-commercial-en-recherche-d-emploi-explique-pourquoi-il-ira-manifester-ce-jeudi-5-novembre_VN-202611040993.html",
    "titre": "FORUM BFMTV - \"C'est la colère sociale qui monte\": Cédric, commercial en recherche d'emploi, explique pourquoi il ira manifester ce jeudi 5 novembre",
    "date": "2026-11-04"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-cela-fait-10-ans-que-la-situation-se-degrade-observe-melanie-vogel-presidente-du-groupe-ecologiste-au-senat_VN-202611040990.html",
    "titre": "FORUM BFMTV - \"Cela fait 10 ans que la situation se dégrade\", observe Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat",
    "date": "2026-11-04"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-a-vouloir-repondre-dans-l-urgence-le-gouvernement-va-se-retirer-sur-un-certain-nombre-de-politiques-publiques-explique-olga-givernet-deputee-ensemble-pour-la-republique-et-ancienne-ministre_VN-202611040988.html",
    "titre": "FORUM BFMTV - \"À vouloir répondre dans l'urgence, le gouvernement va se retirer sur un certain nombre de politiques publiques\", explique Olga Givernet, députée \"Ensemble pour la République\" et ancienne ministre",
    "date": "2026-11-04"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "Angers Info",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTRxZ0taOFBuRTQ1QndHc0hWY3VwUUtfVGZoVmx0TVZzT25QakN3ZFJ2SzN5T0RHU0FmNWo5VW1uaGFKZ1ZFdE1XVEVkemhLUzVEM1JjdmtLTmtHNkFyVG96ZE5vRE5vUFNmZEJqaUo4X0Jqek91bHU0bm1XU2dMQzdRSWwxVFBYd2lGYTM2MUktLVRiX25MUlZDNFUwb1BqSUNXU2YxYXpZUFRqdm9HTno2Q0c4MHk20gG-AUFVX3lxTE1nb3hzeEl3UUJxMURHdFlaek1mdkFlQkxDX3JaWTByRjdxTUxMT1REeDRITDZ2X3l4LTFhdUhSb2NZTzhqTmdnTGVlWUhVUThnaFVReGpYQTFod2lJV0YtMkd1VW9EM2xfeDQtZXM5Zm1WaU9WTXc4cWhWOEo4RE1KUXpMdmJUSmFHY3duT18yZHI4QjFRR1QtREFRQVRqcS1XbE5LNVAzVGZObTVvZ18xenJGbHFFREg2MXhNU2c?oc=5",
    "titre": "Grève du 5 novembre en Vendée : trois manifestations et des blocus lycéens annoncés",
    "date": "2026-11-04"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "franceinfo",
    "url": "https://la1ere.franceinfo.fr/martinique/greve-du-5-novembre-la-martinique-se-joint-a-la-mobilisation-nationale-avec-des-revendications-locales-1754724.html#xtor=RSS-3-[lestitres]",
    "titre": "Grève du 5 novembre : la Martinique se joint à la mobilisation nationale avec des revendications locales",
    "date": "2026-11-04"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-la-seule-facon-de-s-en-sortir-c-est-par-la-creation-de-richesses-estime-jean-claude-bourrelier-fondateur-de-bricorama_VN-202611040979.html",
    "titre": "FORUM BFMTV - \"La seule façon de s'en sortir, c'est par la création de richesses\", estime Jean-Claude Bourrelier, fondateur de Bricorama",
    "date": "2026-11-04"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-nous-avons-un-president-qui-est-un-imposteur-il-ne-fait-rien-pour-le-peuple-francais-assure-patrick-chef-d-entreprise_VN-202611040978.html",
    "titre": "FORUM BFMTV - \"Nous avons un président qui est un imposteur, il ne fait rien pour le peuple français\", assure Patrick, chef d'entreprise",
    "date": "2026-11-04"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
    "date": "2026-11-04"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-on-est-en-train-de-crever-nous-madame-vincent-pecheur-professionnel-interpelle-olga-givernet-deputee-ensemble-pour-la-republique-de-l-ain_VN-202611040975.html",
    "titre": "FORUM BFMTV - \"On est en train de crever nous madame\": Vincent, pêcheur professionnel interpelle Olga Givernet, députée Ensemble pour la République de l'Ain",
    "date": "2026-11-04"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/police-justice/manifestation-du-5-novembre-le-tribunal-administratif-valide-le-parcours-alternatif-de-la-prefecture-de-police-1208918?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Manifestation du 5 novembre : le tribunal administratif valide le parcours alternatif de la préfecture de police",
    "date": "2026-11-04"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/greves/video-forum-bfmtv-j-ai-des-marins-qui-ne-gagnent-rien-depuis-le-mois-de-mai-assure-vincent-pecheur-professionnel_VN-202611040973.html",
    "titre": "FORUM BFMTV - \"J'ai des marins qui ne gagnent rien depuis le mois de mai\", assure Vincent, pêcheur professionnel",
    "date": "2026-11-04"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-le-gouvernement-a-peur-de-nos-mobilisations-assure-ilies-etudiant-a-paris_VN-202611040963.html",
    "titre": "FORUM BFMTV - \"Le gouvernement a peur de nos mobilisations\", assure Iliès, étudiant à Paris",
-   "date": "2026-11-04"
-  },
-  {
-   "n": 45,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/societe/justice/petit-a-petit-on-vous-colle-une-espece-d-etiquette-rencontre-avec-des-militants-assignes-a-residence_8268470.html#xtor=RSS-3-%5Bgeneral%5D",
-   "titre": "\"Petit à petit, on vous colle une espèce d'étiquette\" : rencontre avec des militants assignés à résidence",
    "date": "2026-11-04"
   },
   {
@@ -393,53 +394,46 @@
   },
   {
    "n": 48,
-   "nom": "Sud Ouest",
-   "url": "https://www.sudouest.fr/culture/cinema/presidentielle-2027-le-cinema-francais-interpelle-les-candidats-pour-faire-de-son-modele-une-priorite-strategique-31381204.php",
-   "titre": "Présidentielle 2027 : le cinéma français interpelle les candidats pour faire de son modèle une « priorité stratégique »",
-   "date": "2026-11-04"
-  },
-  {
-   "n": 49,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-19-interpellations-en-marge-de-la-mobilisation_VN-202611040226.html",
    "titre": "19 interpellations en marge de la mobilisation",
    "date": "2026-11-04"
   },
   {
-   "n": 50,
+   "n": 49,
    "nom": "Le Progrès",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjZjUlB0bWJ6RGt4RWgyWm1OTDlHZVFBdGNsNGxyVldibFhuZDRWSWpvMk84TktjOHA2dlhFaGhZajFlUUhMaXEzY28zTHIzN3JiSzdGZGY0UW9iTkExWklBM25adW52UFR6ejJVeDhod09XVGx3bHJ1NHN3eGI5WkhJMEV2bUhaVk83a09Lc1FtQVNsYkpPZnZBeDhrNzdkYUhFTFNKWWwzR2xPd2hUVjY0ZGNKZnFJRVR2T2s2WHZTWmI4RkRZcG9zLTIzUQ?oc=5",
    "titre": "Rhône. La mobilisation lycéenne continue ce mercredi : 12 établissements touchés, une interpellation",
    "date": "2026-11-04"
   },
   {
-   "n": 51,
+   "n": 50,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/police-justice/interpelle-apres-avoir-ete-suspecte-de-viol-un-etudiant-demande-a-contacter-la-deputee-lfi-sofia-chikirou-au-commissariat-1207781?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Interpellé après avoir été suspecté de viol, un étudiant demande à contacter la députée LFI Sofia Chikirou au commissariat",
    "date": "2026-11-04"
   },
   {
-   "n": 52,
+   "n": 51,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-mortiers-d-artifice-agressions-37-personnels-de-l-education-nationale-blesses-en-48h_VN-202611040460.html",
    "titre": "Mortiers d'artifice, agressions... 37 personnels de l'Éducation nationale blessés en 48h",
    "date": "2026-11-04"
   },
   {
-   "n": 53,
+   "n": 52,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/economie/social/greve/mouvement-lyceen-37-personnels-de-l-education-nationale-blesses-en-quarante-huit-heures-31381603.php",
    "titre": "Mouvement lycéen : 37 personnels de l’Éducation nationale blessés en quarante-huit heures",
    "date": "2026-11-04"
   },
   {
-   "n": 54,
+   "n": 53,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdVZiQmZ0ZVhRZjFwRnBEZGFJVDdzd0k2QVpITlNmQUx3cnlTa0FQZEpudldpdjBrQ1FqS1BzazRyR0FLZk10NEdBX2ZXVFI2RFl6TEhZcVpoYUpmTUR3S2k3Q09HeEVITVlDNktLODdoRDNMTXAwM1BXaEZ1OEJmNWtxUGFaQ3V4N2VrVE1LX1FlOG5HRTkxSHkwdENaU01fWGdUaHpIMFZWdm83WUpDdEVac0d4emRKWHR1eGpwNWhQZFdSSXc2OEMyNElPQmc5WEVQRWowS0taN0pYSmw5T2JGbXdCSUVTSTJDRkFIVjYxU0JlbGN3b0VCdU0?oc=5",
    "titre": "Mobilisations lycéennes : 37 personnels de l’Éducation nationale blessés en seulement 48 heures",
    "date": "2026-11-04"
   }
  ],
- "genere": "2026-11-05T07:10:40.157716+00:00"
+ "genere": "2026-11-05T08:37:34.162046+00:00"
 }
