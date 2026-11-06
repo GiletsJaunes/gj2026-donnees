@@ -1,0 +1,731 @@
+{
+ "titre": "Jeudi 5 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 1 600 000 manifestants en France selon la CGT, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "1 600 000",
+   "libelle": "manifestants en France",
+   "detail": "selon la CGT",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "valeur": "600 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l’Intérieur…",
+   "sources": [
+    48,
+    4,
+    49
+   ]
+  },
+  {
+   "valeur": "600 000",
+   "libelle": "manifestants en France",
+   "detail": "selon Beauvau",
+   "sources": [
+    50,
+    51,
+    22
+   ]
+  },
+  {
+   "valeur": "1 570 000",
+   "libelle": "manifestants en France",
+   "detail": "selon la CGT (non recoupé à ce stade)",
+   "sources": [
+    57
+   ]
+  },
+  {
+   "valeur": "600 000",
+   "libelle": "manifestants en France",
+   "detail": "selon l'intersyndicale (non recoupé à ce stade)",
+   "sources": [
+    58
+   ]
+  },
+  {
+   "valeur": "575 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l'Intérieur (non recoupé à ce stade)",
+   "sources": [
+    61,
+    25,
+    56
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "EN DIRECT – Grève du 5 novembre : la CGT annonce 1,6 million de manifestants en France, 600 000 à 17 heures selon l’Intérieur.",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "texte": "EN DIRECT Manifestations du 5 novembre : La CGT annonce 1,6 million de personnes dans les cortèges, 600.000 selon le ministère de l’Intérieur….",
+   "sources": [
+    48,
+    4,
+    49
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Grève du 5 novembre : près de 600.000 manifestants en France à 17 heures selon Beauvau, Raphaël Glucksmann pris à partie à Paris.",
+   "sources": [
+    50,
+    51,
+    22
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Grève du 5 novembre : 575.000 manifestants en France selon Beauvau, 448 interpellations.",
+   "sources": [
+    50,
+    19,
+    47
+   ]
+  },
+  {
+   "texte": "En direct - Grève du 5 novembre : 270.000 manifestants à 13 heures dans toute la France, hors Paris, selon Beauvau.",
+   "sources": [
+    52,
+    53
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Grève du 5 novembre : «plus de 250.000 manifestants» dans 73 villes à mi-journée selon la CGT, un professeur agressé à Paris.",
+   "sources": [
+    50,
+    47,
+    54
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon BFMTV, Strasbourg: un mannequin de CRS brûlé en manifestation, la justice saisie. Selon franceinfo, Un \"mannequin géant\" à l'effigie d'un CRS brûlé à Strasbourg lors de la manifestation du 5 novembre, le préfet va saisir la justice. Selon CNews, En direct Manifestations du 5 novembre : 575.000 manifestants dans toute la France, 448 interpellations et 53 policiers blessés, selon Beauvau. Selon franceinfo, \"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok.",
+   "sources": [
+    8,
+    9,
+    19,
+    43
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Mediapart, Grève interprofessionnelle du 5 novembre: suivez la journée en direct (repris par 4 médias). Selon Europe 1, En direct - Grève du 5 novembre : près de 600.000 manifestants en France, selon le ministère de l'Intérieur, 1,6 million selon la CGT (repris par 4 médias). Selon BFMTV, Manifestation du 5 novembre: 1,6 million de manifestants d'après la CGT, 575.000 selon le ministère de l'Intérieur (repris par 3 médias). Selon Radio-Canada, La grogne sociale monte d’un cran : grève et manifestations partout en France (repris par 3 médias).",
+   "sources": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Le Figaro, Sébastien Lecornu réunira lundi à Matignon une «conférence sociale» avec les syndicats et le patronat (repris par 4 médias). Selon www.rcf.fr, Le Mans : 5 000 personnes dans la rue contre la vie chère.",
+   "sources": [
+    2,
+    14
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Boursorama, La dette publique et l'émergence d'acteurs non bancaires pourraient limiter la marge de manoeuvre de la BCE se.",
+   "sources": [
+    15
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon La Dépêche, Présidentielle 2027 : la majorité du groupe communiste à l'Assemblée lâche Fabien Roussel pour soutenir Jean-Luc Mélenchon (repris par 5 médias). Selon Europe 1, Élection présidentielle 2027 : 74% des sympathisants de la droite et du centre veulent une primaire. Selon Ouest-France, Présidentielle 2027 : la majorité des communistes à l’Assemblée soutient Jean-Luc Mélenchon plutôt que Fabien Roussel. Selon franceinfo, Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon.",
+   "sources": [
+    1,
+    10,
+    13,
+    26
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-05",
+ "numero": 35,
+ "jour_long": "jeudi 5 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/05/presidentielle-2027-la-majorite-du-groupe-communiste-a-lassemblee-lache-fabien-roussel-pour-soutenir-jean-luc-melenchon-13637957.php",
+   "titre": "Présidentielle 2027 : la majorité du groupe communiste à l'Assemblée lâche Fabien Roussel pour soutenir Jean-Luc Mélenchon",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 2,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/social/sebastien-lecornu-reunira-lundi-a-matignon-une-conference-sociale-avec-les-syndicats-et-le-patronat-20261105",
+   "titre": "Sébastien Lecornu réunira lundi à Matignon une «conférence sociale» avec les syndicats et le patronat",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 3,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/economie-et-social/051126/greve-interprofessionnelle-du-5-novembre-suivez-la-journee-en-direct",
+   "titre": "Grève interprofessionnelle du 5 novembre: suivez la journée en direct",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 4,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/en-direct-greve-du-5-novembre-pres-de-600000-manifestants-en-france-selon-le-ministere-de-linterieur-16-million-selon-la-cgt-1209923?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Grève du 5 novembre : près de 600.000 manifestants en France, selon le ministère de l'Intérieur, 1,6 million selon la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/manifestation-du-5-novembre-1-6-million-de-manifestants-d-apres-la-cgt-575-000-selon-le-ministere-de-l-interieur_AD-202611050820.html",
+   "titre": "Manifestation du 5 novembre: 1,6 million de manifestants d'après la CGT, 575.000 selon le ministère de l'Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 6,
+   "nom": "Radio-Canada",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFdUbXlGVWxRemV4OEs4T2pvaXlkZ21XcDhTZW5XWHE0RDdRLTJUMGNzTkJQdkFrU0N0ODgtaUFZeFBwSG5yVzduWmVqUUU0VnZSbVpPRTl2bWpwblA4ZUZMb0g4YVUxelFBU0hLQkQzaHMtcmFCd0JTdGJESDFtWUx0SFpzMTE0c0d1TkFoTXhwRkJsQVpvbg?oc=5",
+   "titre": "La grogne sociale monte d’un cran : grève et manifestations partout en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-mobilisation-lyceenne-un-adolescent-de-16-ans-blesse-par-arme-blanche-devant-son-etablissement-scolaire-lors-d-un-blocus_VN-202611050791.html",
+   "titre": "Mobilisation lycéenne: un adolescent de 16 ans blessé par arme blanche devant son établissement scolaire lors d'un blocus",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-strasbourg-un-mannequin-de-crs-brule-en-manifestation-la-justice-saisie_VN-202611050789.html",
+   "titre": "Strasbourg: un mannequin de CRS brûlé en manifestation, la justice saisie",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 9,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/greve/greve/un-mannequin-geant-a-l-effigie-d-un-crs-brule-a-strasbourg-lors-de-la-manifestation-du-5-novembre-le-prefet-va-saisir-la-justice_8269820.html#xtor=RSS-3-[lestitres]",
+   "titre": "Un \"mannequin géant\" à l'effigie d'un CRS brûlé à Strasbourg lors de la manifestation du 5 novembre, le préfet va saisir la justice",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 10,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/election-presidentielle-2027-74-des-sympathisants-de-la-droite-et-du-centre-veulent-une-primaire-1211159?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Élection présidentielle 2027 : 74% des sympathisants de la droite et du centre veulent une primaire",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 11,
+   "nom": "Boursorama",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQanhJNGdmWDlkZEhiWkVMU1F6Q1phVjUzQVZTYlFPMW53cUdfeTd0NkMxTVJYdXhKUWV1cHViVHo5ajhuWkJNWEJLU0w5N0hFcmp0YW9UOGl2a25uRVBJb05lemZ2R1VFRnQ0OEdVMGhyblpVTWJfcEQ3TGFhQ3IwM3M3a3hXV2ZLQWMyZWNtVVo4blpQN2hKQ3FTZUJ6bjlXTHI1emhGSzI2RGNvZGZYTlhMdk9pUGI1YlpKRVFFalAwMzZCM1BOclRjdEVxUmIyQXZSM01DN3JnaS00R2NZ0gHkAUFVX3lxTFBOT1V1eGUwdll5bWN3aTU5WV9reXdZUTFENld3SUNHUnpnelEweDZqRy1xOHdKUVBlSUdJM1dnWklvcTVNcjY5X3llVm03Uk43ZEFXMGR6clExVjVYZnd0RXJfUU9HVFRVR3pCTHBLTzUzOGdpMTFsMy1MLUs0d1ZXTTltNXVtdkp3US12dTJabmY2U09xNjVPYXdvaHl5TzhIZUh5TDUxRGFPVWE0aHVTVjVoMDVzYnFxcVBPZTRDajdsajZxX1VlMi1aNk1jUEEwcUMySlZKNmk2Szk0Z2hnckFxUQ?oc=5",
+   "titre": "Manifestation contre la vie chère en France : \"Il y a une grosse colère\"",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 12,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG1GNTNXUnptc3VYUHJlb0xPUVhEa1lRcmJZOHcwa21FbWNERXQtcS1CMFJtODJBQ0VRNWk2c0puTnNXRjFNWTlyWGdPQ2ZTUmREdkxJRWYxTGJ6UzhmcFljc1RGdk9RVFB3akJ1VTE1anRKR29meTdmVXZURFExcWxIZDh0X3QxZE1kQjNBdw?oc=5",
+   "titre": "Manifestation du 5 novembre : A Créteil, berceau du mouvement lycéen, des ados fiers mais dépossédés",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 13,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-la-majorite-des-communistes-a-lassemblee-soutient-jean-luc-melenchon-plutot-que-fabien-roussel-4dd070ea-d923-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : la majorité des communistes à l’Assemblée soutient Jean-Luc Mélenchon plutôt que Fabien Roussel",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 14,
+   "nom": "www.rcf.fr",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZENzZGVrVl9adDhCN1VCaEtqM1VWZm44RHhqTTBzTVhSSDZfOEFoREtULVdwdzBaVDYxa1ZPMkdDaG05UEJRdUMzNVg0WkZESmtlUDhMUVNxT0xYV0NGb0QzVEZGSHAzT1ZJU0wydDhQLWpxTmstbUJ3ZTg1WS1zT3J5TTZ4OHVNMVhwX09VcUNkajJZaUhnOA?oc=5",
+   "titre": "Le Mans : 5 000 personnes dans la rue contre la vie chère",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 15,
+   "nom": "Boursorama",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPb0ExUU5TUXRVUmJ3eHFrWXdzc3prc3pLeU5CNGs1T3N4ZnpwX0t5V0x4QXN6cUVfcjBuajIxelBqM0RxNzc5RnY2NjZSWFEwY29URFhRMEpTcnVzekdNeGl0dkIyRENlaHItSHE3bXZEZTViQUtDRVB2aWZ6QVVVOFJYdDJaSXdPc1NsNnVFUU14bnJ4MjZ1Zmk1YTJxQjMydG5yOHlNQ1JpVW9qc2hfMmdhRjQ1WXVTN0ZVa3Q1aEdDMHY5UGt3VjNxckZnYnJHRThTSHlKNW1wSHBwTjB3NXZqQ2FIQ09mR1pyTl81NGRGSFpobWtJMlpOT3ZKZ3RhSVdDXzU2dDlCUGhJQXUyUjZ6MGZtS3pVNkFBNDYtSk1DVHpBZjN0YTFsWkRROVluc0VCdEQ1YVVlX19xQXBFZzh5OE5qVXZI0gHIAkFVX3lxTE9vQTFRTlNRdFVSYnd4cWtZd3Nzemtzekt5TkI0azVPc3hmenBfS3lXTHhBc3pxRV9yMG5qMjF6UGozRHE3NzlGdjY2NlJYUTBjb1REWFEwSlNydXN6R014aXR2QjJEQ2Voci1IcTdtdkRlNWJBS0NFUHZpZnpBVVU4Ulh0MlpJd09zU2w2dUVRTXhucngyNnVmaTVhMnFCMzJ0bnI4eU1DUmlVb2pzaF8yZ2FGNDVZdVM3RlVrdDVoR0MwdjlQa3dWM3FyRmdickdFOFNIeUo1bXBIcHBOMHc1dmpDYUhDT2ZHWnJOXzU0ZEZIWmhta0kyWk5PdkpndGFJV0NfNTZ0OUJQaElBdTJSNnowZm1LelU2QUE0Ni1KTUNUekFmM3RhMWxaRFE5WW5zRUJ0RDVhVWVfX3FBcEVnOHk4TmpVdkg?oc=5",
+   "titre": "La dette publique et l'émergence d'acteurs non bancaires pourraient limiter la marge de manoeuvre de la BCE se",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 16,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/05/en-brandissant-le-drapeau-tricolore-les-jeunes-manifestants-reprennent-les-symboles-de-la-revolution-francaise-a-leurs-adversaires_6806844_823448.html",
+   "titre": "« En brandissant le drapeau tricolore, les jeunes manifestants reprennent les symboles de la Révolution française à leurs adversaires »",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 17,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZVZYNmZPVVo0QVl0LXJhVk5DZE9jYUpsUWpwM0w5N3A5XzFBTjZhNW9Lbk5sWE5ZTThTem53YUtRcWJzNkQ0WW1KV1NrVkFaNWJTLWpwOW55dDloendWYmJKSFZZU2QwNGxNNlJPM2xieERwZjA0VTYtTjNxOHVhcW1iOVdxcklvR3llQjR2NTh5X0p6X1NycEdnZmFjN0ZPRW5SSnlEMUNUb2g4eXFSMlJCQ1MxVHpTVFJtT0NKS01kWlRTX1FBbEc3cVFZck1yNjVIX05BZWpTNG5qc1BEM0ZyWDZSTmtscERUcmVuanJTNkdkSDdJMkc1UXpKVmpXeWswZjJyczFmeFdEQXVndXRDYndDNUZK?oc=5",
+   "titre": "VIDÉO. Grève du 5 novembre à Sablé-sur-Sarthe. Plusieurs centaines de personnes manifestent contre la vie chère",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 18,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/greves/video-colere-sociale-pres-de-1-6-million-de-manifestants-en-france-jeudi-dont-350-000-a-paris-selon-la-cgt_VN-202611050646.html",
+   "titre": "Colère sociale: \"près de 1,6 million\" de manifestants en France jeudi dont 350.000 à Paris, selon la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 19,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTFZNmFDeC1tUEFGS2N6Ql9Vdm5uWS03My1JMGJuOWRKdVl0MkJKc2NhZXJkQXNld3RUc3IxUzUtYWduMlk4akpkaVdBZ3hRdjl0SUVUMjZ6TlNuWEZLOXpUQVN1OWdlUGctMmFQWUxBVklMRU51dFZsZlZhMXFZOTFKajFzMzFuVEJ0U2M5MnhwZVByRTE3VEJKcnFEX0NIM1J2N0FGWEVQRW83bGRPWFZ3?oc=5",
+   "titre": "En direct Manifestations du 5 novembre : 575.000 manifestants dans toute la France, 448 interpellations et 53 policiers blessés, selon Beauvau",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 20,
+   "nom": "Linfo.re",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX083MDhZSzV5UXRQM1FSeEhUV2JyTmp6M3l5U2dhcmxvWFpRMGp1SkFPVE5aNzhrLWt2WFRORm5kMk9NWlduOGN1R0JER2kyTldKWUM5M0xuSWkzQVBoNVlQQkQya0tRa1dENFJJZ2xLYTVPOVlveXZxSF91N2xyNndPTUp6aUlKd3FSYVlNY1MwVWlWNUo0bFFacUhDUGFUNVVYeV9mSVk5QQ?oc=5",
+   "titre": "Mobilisation du 5 novembre : des manifestations en cours à La Réunion",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 21,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html#xtor=RSS-3-[lestitres]",
+   "titre": "A Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 22,
+   "nom": "Jean-Marc Morandini",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdkFqOUIzYkpZa3gwOTJkV3l3SXNmQS1DSFNJQzhlakp0VnlVdG5CZ2dTWEQ1QXUxeUt6YVZxSGV0Skxsc2lhdGViY1FDN2dVb3Z4dzdkeVpleXl1Rkt5WWJ3ZE1tYXBnc0hiQ25wV2pNelVwa2p0TzZFeUQ0SDFfcTN0YTFqbUF2S19CdERGVUNSbjBUU0lvUHZtaVBoZ0xTbWpnNGY2eWE1NWF3UFBvVFdkU2k4SmhKUjJSSEE4VDJ0RWwzZW9FTVBOZkg0MEYxbWxHbEFRNmo3dl8tS1Vfbll2eVVwUWZJM3c3WUlyd1drX3lEdkstTW9jOXBuY0xUNVhr0gGIAkFVX3lxTE9JN0dzWHZudUdOWDAwM2tpUE5heVNCbGpZUW5hY01XdFh1bldPd2JucDhPOUNON1lSWUJ3UHNGZ0RqLS1fT3hkY25xcXhSM1M5SG5Eb251Unh1QlJaZXlTTkF4ZFJrc3BHZWR1XzNkOWFLQkJycFlxWEZKSFV6dDNDQTF1UDgycUk2UTNZM1dUeHdKaWN2RThXd3VjSXozWkxBQzJrSUhHem1McHJ5b3lnSXllX2pYVjBYQmlYd2lQcmowdzY2OUtMSlBVZTJPdGQ4YVZtQXZCSmZ3WExPZ01IN1R6S25zTXQ1MlZXQUl4WXB1NmdXVjBVc2JVM0s2Vnd3WWNLLXZqTA?oc=5",
+   "titre": "URGENT - Grève du 5 Nov: 1,6 million de manifestants en France selon la CGT, près de 600 000 selon le min...",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 23,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbjJIMkVfdW5BMzhCR3V0QW9WQlltZ09iWnZzMGNBcDAySnRUcmNfUDVhaXQ0cllSNkhSQTFtOUZVaDE4LUNLZDd4OWU4UVRmOTQ1UUUyYjhHR01GVjlxODlhXzNwbXRCZTFVSVZBMzdJQU5mODF0V1pvNk5ua29sUUplY3FadU5MSUVERmRxdFBrVlByYmtVcU5LaVQ4ZzBFWmFmSDA1VEY5a2FVMHI2bGF0QTk2R1B2OUw4ajBtVGx5UlltR21OX2ZrN2lEbk9CNWlpYVJEOVNqV2d1bEZiUk95YjdKY0YwZHVMcXB3NWhsR3VvSFhPdHM2V0NIdUpZTjE1cG1B?oc=5",
+   "titre": "Grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 24,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
+   "titre": "Grève du 5 novembre : entre lycéens, étudiants, syndicats de salariés et « gilets jaunes », le pari d’une convergence des mobilisations",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 25,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/videos/video/2026/11/05/greve-du-5-novembre-les-images-des-manifestations-partout-en-france_6807333_1669088.html",
+   "titre": "Grève du 5 novembre : les images des manifestations partout en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 26,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 27,
+   "nom": "Gala",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOC1xalp4QjNXam9sa3JrOG5aMTRmdjNfX0VsbkUtNFIwakRkTDVOYjV4QS1tNjRmS1kxcjNNVVNQbXJYRkUwaWlwMGt3QjJMbFN3cGZFMzh0a0t0RWtYMEJwSUhkRmRDRzAxX1hQcG82ZDhjM1o1djljcVE5QnhxS3dWSk41WWxfZ2N3aG90ajhIQkV2NnhSUVNpX2k3djZGeE5NSFV0S3RjNU9RcHNxdWRPblVCXzIxS25BUDA2c25UeGNBSDJjQTZXdktuOHBJSUx1V1I0SjdGY1ZOaWlVczN0eWcyVmhaVlBVRkExNHQxY3VRb1FoRTBOZUlWYmJqR0VWWl9Rd0ZNLXNGa0ZRYUJR?oc=5",
+   "titre": "Maman de 3 enfants, dont le dernier est en terminale, Emmanuelle Béart s’exprime sur la mobilisation lycéenne : son message est très clair !",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 28,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-pouvoir-d-achat-aurelie-trouve-deputee-la-france-insoumise-denonce-une-baisse-des-salaires-reels-en-france-et-affirme-que-c-est-inedit_VN-202611050864.html",
+   "titre": "Pouvoir d'achat : Aurélie Trouvé, députée La France insoumise, dénonce une baisse des salaires réels en France et affirme que \"c'est inédit\"",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-pouvoir-d-achat-alexandre-ouizille-senateur-ps-de-l-oise-propose-de-baisser-la-csg-et-de-taxer-les-heritages-au-dela-de-2-millions-d-euros_VN-202611050862.html",
+   "titre": "Pouvoir d'achat: Alexandre Ouizille, sénateur PS de l'Oise, propose de \"baisser la CSG\" et de taxer \"les héritages au-delà de 2 millions d'euros\"",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 30,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-il-ne-peut-pas-y-avoir-aujourd-hui-de-changement-majeur-parce-qu-il-n-y-a-pas-de-majorite-estime-thomas-menage-depute-du-rassemblement-national-interroge-sur-la-necessite-de-censurer-le-gouvernement_VN-202611050857.html",
+   "titre": "\"Il ne peut pas y avoir aujourd'hui de changement majeur parce qu'il n'y a pas de majorité\", estime Thomas Ménagé, député du Rassemblement national, interrogé sur la nécessité de censurer le gouvernement",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 31,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-5-novembre-sandrine-rousseau-appelle-a-la-demission-de-sebastien-lecornu_VN-202611050858.html",
+   "titre": "5 novembre: Sandrine Rousseau appelle à la \"démission\" de Sébastien Lecornu",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-manifestations-du-5-novembre-sandrine-rousseau-deputee-les-ecologistes-de-paris-estime-que-les-mobilisations-de-ce-jeudi-sont-une-forme-de-motion-de-defiance-au-gouvernement_VN-202611050855.html",
+   "titre": "Manifestations du 5 novembre: Sandrine Rousseau, députée Les Écologistes de Paris, estime que les mobilisations de ce jeudi sont \"une forme de motion de défiance au gouvernement\"",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 33,
+   "nom": "https://infos-media-nantes.fr/",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHR2dTA1VUVFUzNMaWxoT2FOYm9vTUFVLUtSek9nV1QzV0VvQnhucERuS3ltVTlZanprdm5ERXJLQ3VDdGU0d3l5UnNkR0pQaHdhajNEZC1LUlJsdkRiYkRUVTZGUUZpSkNzenhSWUpVNmtRODdENlhwTEVNUk9heUtJVnJBNmoxVjRJOVZKSEhkbEMxU3h5SlFSYTd6R3ZpZHZIaw?oc=5",
+   "titre": "La Roche-sur-Yon : la directrice académique rencontre les lycéens mobilisés le 5 novembre",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 34,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-du-5-novembre-une-mobilisation-d-ampleur-portee-par-de-nombreuses-revendications_VN-202611050853.html",
+   "titre": "Manifestations du 5 novembre: une mobilisation d'ampleur portée par de nombreuses revendications",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 35,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-sandrine-rousseau-deputee-les-ecologistes-de-paris-estime-que-sebastien-lecornu-devrait-presenter-sa-demission_VN-202611050843.html",
+   "titre": "Sandrine Rousseau, députée Les Écologistes de Paris, estime que \"Sébastien Lecornu devrait présenter sa démission\"",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 36,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/gironde/video-greve-du-5-novembre-les-visages-de-la-mobilisation-dans-le-sud-ouest-31397364.php",
+   "titre": "VIDÉO. Grève du 5 novembre : les visages de la mobilisation dans le Sud-Ouest",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 37,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-plusieurs-centaines-de-milliers-de-personnes-mobilisees-partout-en-france-ce-jeudi-5-novembre_VN-202611050824.html",
+   "titre": "Plusieurs centaines de milliers de personnes mobilisées partout en France ce jeudi 5 novembre",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-samedi-il-y-aura-des-mobilisations-sur-les-questions-de-la-jeunesse-des-salaires-et-de-la-vie-chere-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_VN-202611050823.html",
+   "titre": "\"Samedi il y aura des mobilisations sur les questions de la jeunesse, des salaires et de la vie chère\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 39,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisations-le-lycee-incendie-pres-de-toulouse-sera-ferme-au-moins-dix-jours-selon-kamel-chibli-vice-president-ps-de-la-regon-occitanie-charge-de-l-education_VN-202611050819.html",
+   "titre": "Mobilisations: le lycée incendié près de Toulouse sera fermé \"au moins dix jours\", selon Kamel Chibli, vice-président PS de la régon Occitanie, chargé de l'Éducation",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 40,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1JjOEV3aWFiSm9vb2UyR3Ftb0QxTW9KUFpsRmlZT3hZTTVqS1lMYWl1Z0xnQ2ZRT2FyQkN3X21JNTlmVGNzQlUteG84TS1WcjdORHhJclktU0hWMmp2Z01HSHFqRkFQc0FwNlNqWnlJM2RVWWJTZGhMdEpzd3lWRjlTdTRoR2NwUHQxZTF5dW1rbGIzWFpBZzd1em00R2NsNVpUd05BTnowU1h1RFhWV0MtczVPMFd3YzJfWFlJYWRkOHhaeFBDTXktN2VTdVltX2Zzd0NaR3dSc0loUXVURg?oc=5",
+   "titre": "Après la grève du 5 novembre, les mobilisations se poursuivent : tous les mouvements à venir ces prochains jours",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 41,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-candidats-auditionnes-par-le-patronat-le-8-mars-prochain-au-grand-rex-20261105",
+   "titre": "Présidentielle 2027 : les candidats auditionnés par le patronat le 8 mars prochain au Grand Rex",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-augmentation-du-smic-comment-on-le-finance-questionne-jean-philippe-tanguy-depute-rn-de-la-somme_VN-202611050816.html",
+   "titre": "Augmentation du SMIC: \"Comment on le finance?\", questionne Jean-Philippe Tanguy, député RN de la Somme",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 43,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 44,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html#xtor=RSS-3-[lestitres]",
+   "titre": "Près de 1,6 million de personnes ont défilé en France lors de la mobilisation du 5 novembre selon la CGT, 575 000 selon le ministère de l'Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/video-inflation-les-depenses-liees-au-logement-a-l-energie-et-aux-transports-pesent-de-plus-en-plus-lourd-sur-le-pouvoir-d-achat-des-francais_VN-202611050809.html",
+   "titre": "Inflation: les dépenses liées au logement, à l’énergie et aux transports pèsent de plus en plus lourd sur le pouvoir d’achat des Français",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 46,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/",
+   "titre": "EN DIRECT – Grève du 5 novembre : la CGT annonce 1,6 million de manifestants en France, 600 000 à 17 heures selon l’Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/direct-greve-du-5-novembre-jusqu-a-plus-de-700-000-manifestants-attendus-en-france-de-nombreuses-forces-de-l-ordre-mobilisees_LN-202611050121.html",
+   "titre": "DIRECT. Manifestations du 5 novembre: la CGT annonce 1,6 million de manifestants en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 48,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/greve/4260499-20261105-direct-manifestations-5-novembre-partie-cortege-carafe-paris-pancartes-confisquees?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Manifestations du 5 novembre : La CGT annonce 1,6 million de personnes dans les cortèges, 600.000 selon le ministère de l’Intérieur…",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 49,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/il-faut-qu-on-arrete-de-subir-les-salaires-au-cour-des-revendications-de-la-greve-du-5-novembre-20261105",
+   "titre": "« Il faut qu’on arrête de subir » : les salaires au cœur des revendications de la grève du 5 novembre",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 50,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105",
+   "titre": "EN DIRECT - Grève du 5 novembre : près de 600.000 manifestants en France à 17 heures selon Beauvau, Raphaël Glucksmann pris à partie à Paris",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 51,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
+   "titre": "🔴 Manifestations en direct : près de 600 000 manifestants en France, selon Beauvau, près de 1,6 million, selon la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 52,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/en-direct-greve-du-5-novembre-270000-manifestants-a-13-heures-dans-toute-la-france-hors-paris-selon-beauvau-1209923?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Grève du 5 novembre : 270.000 manifestants à 13 heures dans toute la France, hors Paris, selon Beauvau",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 53,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-jusqu-%C3%A0-700-000-manifestants-attendus-partout-dans-le-pays",
+   "titre": "Grève du 5 novembre : jusqu'à 700 000 manifestants attendus partout dans le pays",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 54,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/05/direct-manifestations-du-5-novembre-plus-de-250-defiles-prevus-57-des-francais-soutiennent-la-mobilisation-13635780.php",
+   "titre": "DIRECT. Manifestations du 5 novembre : la CGT annonce déjà 250 000 personnes dans les rues de 73 villes à 13 heures",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 55,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-manifestations-dans-plusieurs-villes-ce-5-novembre",
+   "titre": "France : manifestations dans plusieurs villes ce 5 novembre",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 56,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/live-greve-jeudi-5-novembre-transports-sncf-ratp-ecole-manifestations-france-aujourdhui-20261105",
+   "titre": "DIRECT. Grève du 5 novembre 2026 : la CGT revendique 1,6 million de manifestants en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 57,
+   "nom": "Politique Matin",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHIwZkZGR3BZWHMxQlB0TzRMaC1iU0ZlcE5DV2toOFQxNHdndmdzcHA3eDNUU3ZZcHg1bjdCaDR3Z3I2alpiODNpTUN0QU1ub2JORWpZMG11eDhQdTRDR1Y4Q3pkMjc0dE1CT09vNVMzYmJEOEVfbllfYmR6cGIwdWFzT3dmMWFSWFltTllhOA?oc=5",
+   "titre": "Manifestations du 5 novembre : 1,57 million de personnes selon la CGT, 448 interpellations",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 58,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/a-lyon-le-plus-grand-rassemblement-depuis-le-debut-du-mouvement-avec-des-heurts-en-fin-de-cortege-1211291?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "À Lyon, le plus grand rassemblement depuis le début du mouvement avec des heurts en fin de cortège",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 59,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkI5eGpuQ1lkYXpLWFpwX29QWklWWlZpaTJyNGpsZnBfaDlILVZZbkFrbW4tQXhZelhPZGgzazl0dW1yUmNJV3EybXUtalViQ2d5VV8xTEtmak5WRnIzV0xxY2llNXhvNU1zSVM2RWt2Sm9oclRlNFM1UTdkakRRZVNUeVEzaW1lNmJTZHJXZVFCbXM5NWs1X1dYbWZkUm1CejZ2VXY3R2V6UW5BNUFWVWRIY252TndUbU1BZNIBwgFBVV95cUxQcmNjOUFkNXA1OWQxeHI5Q2lkSTVZZ3FSSTI4WWJQWFZyYWxKOE1Db3lTeWFYdUp5RnVVTElJNDFxTEVfTFRuSC1hVk5pWkxlOU5JUUROSGVpU1hiSWg2eXJNZmpzcTVfbDRRZlBkeV9ZR0htWk5pOUNiUllpaWVSaTRqZFNQRWF6MUg1R25ISURJM3ExLXpZWElSY051aTBuSGVLRzBGUjMtMXJLaFNQN2V2ZEYwTnIyZThBTmZFM1ZHdw?oc=5",
+   "titre": "Manifestations du 5 novembre : le cortège parisien arrive place de la Nation, 600.000 manifestants à 17h dans toute la France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 60,
+   "nom": "LaPresse News",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDdzbVZaeGpRNEt6SndrTkxnbENyeEtvbGdVOENJWnBsVHhvNk5mWGlnNXdsMUxvYmdmTTBmZWRnRXVXdDFxZ0xyTWxuMzZkOV9IaVFTNXV5RFYxZEI4YzlpZjNtWnhheG95WmhoVmlJVkVRcldiTUpjNm1ZRmhTVkR5U2RDQmxueHczTFBTMUlsMGt1U2tONk9VTmd6WUtwVnJWTGU3UEdTaUhKTi1fREl2eTM1cEpBeV9LMU5WWW9XUQ?oc=5",
+   "titre": "France, gouvernement : « Plus de 600 000 manifestants aujourd’hui dans tout le pays »",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 61,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "titre": "Mobilisation du 5 novembre : près de 1,6 million de personnes ont défilé en France selon la CGT, 575 000 selon le ministère de l'Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 62,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/en-direct-greve-du-5-novembre-575000-manifestants-en-france-dont-65000-a-paris-selon-beauvau-16-million-pour-la-cgt-1209923?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Grève du 5 novembre : 575.000 manifestants en France dont 65.000 à Paris selon Beauvau, 1,6 million pour la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 63,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkRqOThncnZPbE1PdXAyT0d1SWUzalJsV21uN3U2OUhxUGlrUnhCQjFZd2g3RC1pRS1mUG1zaDJQWkhSX01mQlNzcVFUMmZhb0NYSU1PSDdydzRIajAyU1ZYT2NDa0pQeHhVdjBraDlIU1g1MmdlbXF0N2QweDhzQUpGNGZiTmxNaWRnQVFYTG1sV3dRUXF1cnNyQ0F3MGY5QXloSTlBSlNKSTY3bE1Oejh6THFtQlhoWUw3OVU5VGhfclVEYm41NThDaG1vNzVRNlVpQm91LVVuM0l3?oc=5",
+   "titre": "Direct Grève du 5 novembre : le cortège a réuni 350 000 manifestants à Paris selon la CGT... suivez la journée avec nous",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 64,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VkMXZkaEY0UDFDaF92dmh1TVZ3MlJ0bXFaTG9mS1dTTWxKZWdQT0g1NjFpa19WdnA5ZzRYSnVZaFZiTGRiZUZaNEtWcEdBUXRmVV85WTI1R3d4LXJBUVJ0T3lrM1k3UzVGcDh3bk1XQnlfQURKWDZzd1dWOW9NVnZ1UWNiYVQ3N19zQXVaQmhhR2lFaFVFVm9vOEliTjV4aGRDUnZHWW12YjZUanFHdWVFSnoxRVFTYTd2UDh2TkVHaGV4TF9ZUjJpdGdFM1FpOW4tQUY4MUtVRndTMzhJSg?oc=5",
+   "titre": "Direct Grève du 5 novembre : 270 000 manifestants en France, \"la volonté de brûler l'établissement\" près de Toulouse",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 65,
+   "nom": "Epoch Times",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFhFQ3RwR2h5Zkw0aldzLXVJTUVNMjhlWkRaVHNrZmg1b2JvZkdBeGtzWkR0dWpiNlJ0eFdldF9vN05LUWtLSWxnSlREN05Xd1psYV9KU09hTUN4ZGtyRFZFVE9iLTVnb2c1SktGV3R5akdUd3RtbEtkUEhycGQ0cmhHLVJGbHBxZUxmOXplMjZjUVNFLVBpSWRXcmdXNktlY3BjRnV4Rkk5WWRrVWdEQ2JuSjVzUWdJMGw4bzJFQUhUNUU?oc=5",
+   "titre": "Manifestations du 5 novembre : 70.000 policiers et gendarmes mobilisés partout en France",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 66,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/greve/greve/tant-qu-on-aura-pas-ce-qu-on-veut-je-reviendrai-bloquer-des-blocages-et-rassemblement-non-autorises-a-paris-avant-le-lancement-du-cortege_8269388.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "\"Tant qu'on aura pas ce qu'on veut, je reviendrai bloquer\" : des blocages et rassemblement non autorisés à Paris avant le lancement du cortège",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 67,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbXlYRmctc0gwQmtUMFgxcnJZOUQ5LTBfaEJJbGVXdktSNnlRQWkzM2RqV0NQb2Z3dm05Ql9EU1UyMVBDOEQxeTE2SWwxMmdJZ3RpMG1OTmF2MHd3RXNFNG82YmN0RmFwM0ZMVG9mY0xfTlNTYzVHekdia3hTRkNId2RtUm5lOVRIaWtXamtzMXNjc0JUTExnak9zNTJNaDB1UW5nTDhWaUZLV1VGREpIRU5ERmJWWTRCY19oaDFXeEd0M2Z2MmhFajFEam1JS2RpMlBKQk9mZTk1Y0dL?oc=5",
+   "titre": "Grève du 5 novembre à Paris : 350 000 manifestants d'après la CGT, 65 000 selon le ministère de l'Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 68,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+   "titre": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 69,
+   "nom": "Rue89 Strasbourg",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEZPdnNiZ2xYV042MjYxWkw3aUxhRXVlN1hEUndYeXFhM2JiQ3RtUllpRGdYQzMzVTRGTXg2dGk5aU1LSDVpVmxNMmtUbzUwTUhQNDl0Tk5taDdpQU90TzBXbU54OFNoZlZmY2x3TFhJUWhyX21fWm1yb0lUTXU0anNYVU5zdXfSAYwBQVVfeXFMUE9JdXNzMmE4OXRMd1JZWVNqalk4Y3ZEQjdsNnpTU3d2Z2Yyd2E2ZW5UZ3lJUS13WlRiQWxnMVhnV0Q1R2NfRVp4eEtDa3B5RkdXenR0NU1aeUFVNXdZMGZ2MldJSXREci1Qam9UY3pnbWNVS2M0RHpFT0dtMWhTVWsxUXVVcHgtdkRmYTI?oc=5",
+   "titre": "Grève générale : plus de 25 000 manifestants selon la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 70,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQURVai10bk9EZ3dySHg0VUl6RzRQNUFZWlNGZGJuZ19iVjByRDR0dElMZTkwZV9HREFNNGprbi1MTG5CcklELThjQUhOSjVDbVFOLUNiTUdXNHhrakpPeHBBU29NNzZOcW9KSDBaNHdBRnNtUzNoc1ZmQ0FQVzg4aTI0TFM3NVVxWVpYa2FhZ3JpMUphRzEzQi1HZkltLXNSNnVITFRTZWNxQ3pscE51S212VGNRZ1I1TUVnbnZ3dVczRWJ1ZV9CMFBweTh1TGFHX2dMZGhwZmtMUU5aV3dWRS1rcHlPdjUxNVpmbnUtX3I?oc=5",
+   "titre": "Grève du 5 novembre : les syndicats annoncent 14.000 manifestants à Annecy et Chambéry",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 71,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHRYcHQ4QUU1THFOY3lYYVp4eWxBa29jUmtTTk5WZTQtd3hiVVZJNjVGNXNKYk1qU0t0RXRmdWh6RGhITW9xX2l4eXp2SHA5Qnh5SHhlVUNxNDJ1X1BOQnVpS0pEc2ZBdmJGUFBZNlVzVzdVOHhvcFVJdGo4R1JPMFBiY200Y0VidWVjZFFCQXc4MWs4YVhqN2VaUDdBN0U0OGpJaDRLMmhOTGhrV0hfZ3ZtaWw1a2xxWkdhUWF1OFpRSWZHbUs4OUZ0WDBGbzFKTDMwSlBDVTV0Sjk1eC1iUEh3?oc=5",
+   "titre": "Grève du 5 novembre : Plus de 10.000 manifestants dans les rues du Mans selon les syndicats",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 72,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVjFxNzd2WW1wUjVFNTJrTFN0N1h1Ykt3U2h0VzhOa21TNHFYWmdJSkZIZ283RTVNLUNCMmdPbXhDRFB0THFVSERlV3lnQUxLN0xxUjJLRjVRbWFTMDRqZ052RzFPcnBpa2RwaDZNenR5U1RSdTdLSVlKN2VTeFhHcjVrTm56RjkxOVhqWTVnVW9QWWg1Wk9QQzVSVHl1anh3QmI5aWxYem5zVGlYOFdTTldEcnZOTW04eHAzX0ltWVZNUXZXUXZZeFRqRVhjeG12WVVXREs4dGZqemJoc3FmU0RyUnFaWUo5YjBxWjV6MEpMYVJSNlFoWHRYelZ0dWJjRmt5QmdB?oc=5",
+   "titre": "Grève du 5 novembre : 8000 personnes manifestent dans les rues de Pau selon la CGT",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 73,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaktIenVZb1dSNXBEeFlWdlFGcUNXbnFBQ0Nkd2dsejVkMzhGSDd2eVFaWXhmRDVvQjBsY3JtbnJCYS1jcVlyRlpmMWFSeE1WeUU0d1RBRVE3Q25PX0tzdzUzNENraWtTSENYWlZnU0tYLTdXWVBQeWVWeFlWZjE5Vk9EdVlHVFpKcFB4QXZLYXJpN2NCcHRESmRna2YxX0hibkFBQUVMZXREZ0lnVUxCcXk3Tk1jYWxGR2dvdi16Si1OcEdraU9wRWw0NUwxUWJ2eUNNdUU2Q3VSZ04xLWVNZHBpZDdVaUdvMzF3WUFEdVRhcFZJUVpEMUdjeHI5Zw?oc=5",
+   "titre": "EN IMAGES - Grève du 5 novembre : plus de 30.000 manifestants à Nantes et 7.000 à Saint-Nazaire selon les syndicats",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 74,
+   "nom": "Grenoble Mag",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUpycmNwZjJ3RGg0SFVTMmRpSmxTRDNNRFBEcTY2ajVWcTF3SnJQbHBzVXZXNl9BT25LZTFjamJkNHVwN0ZhSkVjb0ZlMGRoa3RoaWxfWDV3WWVWRVpqb1VOY1kzeGlSYmQxcmVobk9OLW5HTjBpZ0F3SE1TWjY5UG1ad1VqNndTNDZ3czFLd0RPd1BoS0ZhSkxuNGJ4YmV5eklMNTFQcXM2akdlVUFYN0lMb3pSRzIzdGdMMU1IOGs4TzlQTEhldUFfVHJOc1kwRDFxZWpUZkkyUC1LYVZLSQ?oc=5",
+   "titre": "Manifestation du 5 novembre à Grenoble : 10 400 participants, dix interpellations et quatre gendarmes blessés",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 75,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/economie/greve/greve-du-5-novembre-une-forte-mobilisation-a-travers-la-france-pres-de-500-interpellations-ce-quil-faut-retenir-596df290-d93e-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Grève du 5 novembre : une forte mobilisation à travers la France, près de 500 interpellations… Ce qu’il faut retenir",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 76,
+   "nom": "Maritima",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWm52azZQZXlxOU96WWs1YkN6cldjMUc2RDVyN202VHRteXdIRVQzUkg0ZGxDZEprSndNR2VuRGpBNVJQTTd6R2x3c0VFREduOGVhNDlSSm5qTGdXSXVUck1lUUE2MmdjZWVWY252SWlaRWdWVjVlNWRRR1g5cG1paW95OFk4OExWMFpJb0I0bjdGQVg4QW5FM1hWM1B2MXVPeFRQeG1aaWVfSlZQOEEwTVBUUVc3c01lRTZRV1pvSW1jVnhUeVkxb1lxQlk4aTlHaHFkN283WTF5X0JKYi1xaHlVY2JsRHZZRTNOUXdTbjNPdw?oc=5",
+   "titre": "Mobilisation dans les Bouches-du-Rhône : 17 lycées bloqués, 34 interpellations et 13 policiers blessés",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 77,
+   "nom": "Lyon Mag",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUg5R0I5UGN2NHF0WTlmU3pzeTNUeF9FbnlJVmhjbDBqb0tXUkNwRGFZTGpHcndFeDN5MEtWYUpsdXJCX3NRUTAydjRLSXF5Sy1qLTVDV3IxaWJVVjZCR1ZrUVdrZ3ZENzVWZUhWNGs0SnpPcG5MMkl2WWxycV9qVkh5VUFQLTRRb1d3WFZvVTZMRmsyeWVnMlYzUFZZTXdQUjBCSTBMMENpZ1o5XzlHbHgzWGZiQjVoa0hYM2pTenBweFRDNzFydm9FUnZ2T1dlTmhVMXlxUXdOSVhEVVNB?oc=5",
+   "titre": "Manifestation à Lyon : 40 blessés, 24 interpellations et des commerces dégradés après une journée de violences",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 78,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOajA3UFF1WDhzVXU4OTByTmNfOWxHdGx4N3lMcC1wTnJUT0xySXdJYVM0UVduMkJiRlYxbF9reXFVaXE3aVJLLXptbkgtUUdSYnRjVWt3LWxlalhTUWZwRkt0emh5bkhkQ2hPS1hXbV92Tk11elV4OWJveWp4SjM2M09ScVVkVVRYOHQtVlI5eklGX2w4Ml9KSEM0Q0VrcEhXbXhKSVB5N0JET09JajVDbjc3Z0h2bmpva0xGbHYybFItaWxJY2tNdS1DQWlBZ19sc3VzZjZKNVVsWnZCV0tQQmpFdTlVU2RYVmxXZjFWMFY?oc=5",
+   "titre": "Manifestation 5 novembre à Tours : une très forte mobilisation dans le calme, quelques incidents et 16 interpellations",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 79,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnhQUkdZNDlfcTBKMHEzcm1hUjJDYkFwNGl3RC1xVjhqQ2w5OWdpc09za05RUUZUS0RIaXdRbWx5NWVxUU9RN05XdGpZWFE0SGx4X0pPU21kdmFYay12WWxYdlBMNExoeDBSNjhiWVRZdDJJaHpxaVRqcnNzYkd4SVdDbFdKWF9WQWY3b3poS015VDRzLXhWOUVuS0syTGdXX0JPUmdLYUJtSVFPcG1DVjdUbml3M2ktY29tWDRUd014eGs?oc=5",
+   "titre": "DIRECT. Grève du 5 novembre : des interpellations à Tours, début de la manifestation à Blois, suivez la mobilisation en Centre-Val de Loire",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 80,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/ils-sont-uses-et-lamines-face-aux-violences-plusieurs-dizaines-de-proviseurs-envisagent-de-quitter-leurs-fonctions-20261105",
+   "titre": "«Ils sont usés et laminés» : face aux violences, plusieurs dizaines de proviseurs envisagent de quitter leurs fonctions",
+   "date": "2026-11-05"
+  }
+ ],
+ "genere": "2026-11-06T05:56:17.916419+00:00"
+}
