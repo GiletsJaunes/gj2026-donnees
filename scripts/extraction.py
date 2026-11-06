@@ -29,7 +29,7 @@ MOTS_CLES = [
     ("virus", r"virus"),
 ]
 # un article est garde s'il touche au mouvement ou a son contexte
-PERTINENT = re.compile(r"gilets? jaunes?|blocus|lycéen|mobilisation|manifest|\bRIC\b|référendum d.initiative|vie chère|pouvoir d.achat|casseurs|\bLBD\b|violences? policière|intersyndicale|krach|taux d.emprunt|\bOAT\b|dette (publique|de la France)|présidentielle 2027|Lecornu|Nuñez|colère (sociale|des)|mobilisation lycéenne", re.I)
+PERTINENT = re.compile(r"gilets? jaunes?|blocus|lycéen|mobilisation|manifest|\bRIC\b|référendum d.initiative|vie chère|pouvoir d.achat|casseurs|\bLBD\b|violences? policière|intersyndicale|krach|taux d.emprunt|\bOAT\b|dette (publique|de la France)|présidentielle 2027|Lecornu|Nuñez|colère (sociale|des)|mobilisation lycéenne|éborgn|mains? arrachée|mutilé|énucléation|perdu un (?:œil|oeil)|mort(?:s)? (?:lors|pendant|après)|décès d.un (?:manifestant|lycéen|jeune)", re.I)
 
 def sans_accents(t):
     return "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")
@@ -109,7 +109,7 @@ PATRONS = [
 ]
 LIBELLES = {"manifestants": "Manifestants", "etablissements": "Établissements bloqués ou perturbés", "blesses_forces": "Policiers et gendarmes blessés",
             "blesses_eleves": "Élèves blessés", "blesses_education": "Personnels de l’Éducation blessés", "interpellations": "Interpellations",
-            "gardes_a_vue": "Gardes à vue", "detention": "Détentions et écrous", "degats": "Dégâts", "sondage": "Sondages"}
+            "gardes_a_vue": "Gardes à vue", "detention": "Détentions et écrous", "degats": "Dégâts", "sondage": "Sondages", "deces": "Décès", "eborgnes": "Éborgnés", "mains_arrachees": "Mains arrachées"}
 
 NATIONAL = re.compile(r"en France|dans le pays|au niveau national|à travers (?:toute )?la France|partout en France|dans toute la France|à l.échelle nationale|sur l.ensemble du territoire|au total|dans tout le pays", re.I)
 QUI_NATIONAL = re.compile(r"Intérieur|ministère|ministre|gouvernement|Nuñez|CGT|intersyndicale|Solidaires|FSU|syndicats", re.I)
@@ -187,6 +187,52 @@ def date_relative(phrase, date_article):
         return (d - _dt.timedelta(days=recul)).isoformat()
     return None
 
+
+# ---------- sondages : seulement ceux qui parlent du mouvement (pas les intentions de vote) ----------
+SONDAGE_MOUVEMENT = re.compile(r"gilets? jaunes?|blocus|lycéen|mobilisation|manifest|mouvement|violences?|casseurs|pillard|pillage|forces de l.ordre|policier|police|\bRIC\b|référendum d.initiative|excuse de minorité|mineurs?|colère|grève|intersyndicale|émeutes?|débordements?|dégradations|répression|\bLBD\b", re.I)
+SONDAGE_ELECTORAL = re.compile(r"intentions? de vote|présidentielle|primaire|candidat(?:e|s)?\b|législatives?|municipales?|second tour|premier tour|favori(?:te)?\b|logement|popularité|cote de confiance", re.I)
+
+def sondage_du_mouvement(phrase):
+    return bool(SONDAGE_MOUVEMENT.search(phrase)) and not SONDAGE_ELECTORAL.search(phrase)
+
+# ---------- violences graves : morts, éborgnés, mains arrachées ----------
+# Regle stricte : le chiffre doit etre attribue (« selon ... »), donne par au moins 2 medias de bords differents (comme les autres),
+# parler du mouvement actuel (pas des gilets jaunes de 2018-2019) et ne pas etre une hypothese.
+HISTORIQUE = re.compile(r"201[89]|2020|2021|2022|2023|2024|2025|Nahel|Sivens|Notre-Dame-des-Landes|premier mouvement|le mouvement de 2018|il y a (?:\w+ )?ans|à l.époque|en 2018|lors de la crise des gilets|Dufresne|sous (?:Macron|Castaner)", re.I)
+CONTEXTE_MOUVEMENT = re.compile(r"manifest|blocus|cortège|mobilisation|maintien de l.ordre|\bLBD\b|grenade|lycée|lycéen|gilets? jaunes?|violences? policière|forces de l.ordre|policier|gendarme|CRS|rassemblement", re.I)
+NB_MOT = r"(\d{1,3}|" + "|".join(MOTS_NOMBRES) + r")"
+SUJET_PERS = r"(?:personnes?|manifestants?|lycéens?|lycéennes?|jeunes|élèves?|policiers?|gendarmes?|hommes?|femmes?|adolescents?|mineurs?|étudiants?|gilets? jaunes?|blessés?)"
+PATRONS_GRAVES = [
+    ("eborgnes", re.compile(NB_MOT + r"\s+(?:" + SUJET_PERS + r"\s+){0,2}(?:ont (?:été )?|a (?:été )?|sont |est )?(?:éborgné(?:e)?s?|énucléé(?:e)?s?|ayant perdu un (?:œil|oeil)|qui ont perdu un (?:œil|oeil)|ont perdu un (?:œil|oeil)|ont perdu l.usage d.un (?:œil|oeil))", re.I)),
+    ("eborgnes", re.compile(r"\b(un|une)\s+" + SUJET_PERS + r"\s+(?:a (?:été )?|est )?(?:éborgné(?:e)?|énucléé(?:e)?|perdu (?:un|l.usage d.un) (?:œil|oeil))", re.I)),
+    ("mains_arrachees", re.compile(NB_MOT + r"\s+(?:" + SUJET_PERS + r"\s+){0,2}(?:ont (?:eu |perdu )?|a (?:eu |perdu )?)?(?:(?:la |une |leur )?mains? arrachée?s?|mutilé(?:e)?s?|(?:une )?mains? (?:amputée|arrachée))", re.I)),
+    ("mains_arrachees", re.compile(NB_MOT + r"\s+(?:" + SUJET_PERS + r"\s+){0,2}(?:ont|a)\s+(?:eu |perdu )(?:une|la|leur|les|une de leurs)\s+mains?\b", re.I)),
+    ("mains_arrachees", re.compile(r"\b(un|une)\s+" + SUJET_PERS + r"\s+(?:a (?:eu |perdu )|est )?(?:la main arrachée|une main (?:arrachée|amputée)|mutilé(?:e)?|perdu une main)", re.I)),
+    ("deces", re.compile(NB_MOT + r"\s+(?:" + SUJET_PERS + r"\s+){1,2}(?:est |sont |a |ont )?(?:mort(?:e)?s?|décédé(?:e)?s?|tué(?:e)?s?|perdu la vie)", re.I)),
+    ("deces", re.compile(r"\b(?:le )?décès d.(un|une)\s+" + SUJET_PERS, re.I)),
+    ("deces", re.compile(r"\b(un|une)\s+" + SUJET_PERS + r"\s+(?:est |a été |a )(?:mort(?:e)?|décédé(?:e)?|tué(?:e)?|perdu la vie)", re.I)),
+]
+
+def valeur_mot(t):
+    t = t.lower()
+    return int(t) if t.isdigit() else MOTS_NOMBRES.get(t)
+
+def faits_graves(phrase, jour, qui, cote, cumul):
+    if HISTORIQUE.search(phrase) or not CONTEXTE_MOUVEMENT.search(phrase):
+        return []
+    if re.search(r"\b(?:risque|risquent|pourrait|pourraient|craint|craignent|menace|si )\b|\?", phrase, re.I):
+        return []
+    faits, vus = [], set()
+    for cle, motif in PATRONS_GRAVES:
+        for m in motif.finditer(phrase):
+            v = valeur_mot(m.group(1))
+            if not v or v > 500 or (cle, v) in vus:
+                continue
+            vus.add((cle, v))
+            faits.append({"metrique": cle, "valeur": v, "unite": "", "qui": qui, "cote": cote or "autres",
+                          "portee": "cumul" if cumul else "jour", "jour": jour, "phrase": phrase})
+    return faits
+
 def extraire_faits(phrase, date_article):
     """Retourne la liste des faits chiffres trouves dans une phrase."""
     faits = []
@@ -199,6 +245,8 @@ def extraire_faits(phrase, date_article):
     if SONDEURS.search(phrase):
         m = re.search(r"(\d{1,3}(?:,\d+)?)\s?%", phrase)
         if m and not FUTUR.search(phrase):
+            if not sondage_du_mouvement(phrase):
+                return faits
             faits.append({"metrique": "sondage", "valeur": float(m.group(1).replace(",", ".")), "unite": "%", "qui": qui or "sondage", "cote": "sondeurs",
                           "portee": "ponctuel", "jour": jour, "phrase": phrase})
             return faits
@@ -210,6 +258,7 @@ def extraire_faits(phrase, date_article):
                 faits.append({"metrique": "degats", "valeur": lire_nombre(m), "unite": "€", "qui": qui, "cote": cote or "autres",
                               "portee": "cumul" if cumul else "ponctuel", "jour": jour, "phrase": phrase})
                 return faits
+    faits.extend(faits_graves(phrase, jour, qui, cote, cumul))
     faits.extend(faits_manifestants(phrase, jour))
     for m in RE_NOMBRE.finditer(phrase):
         apres = phrase[m.end():m.end() + 90]
