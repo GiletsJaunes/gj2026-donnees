@@ -114,14 +114,30 @@ def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps, ignores=None
             continue
         ln = rdv.norm(ligne).replace("-", " ")
         ville, trouvees = None, []
-        mots = ligne.replace("’", "'").replace("l'", "l' ").split()
-        i = 0
-        while i < len(mots):
-            if mots[i][:1].isupper():
-                r = rdv.trouver_ville(idx, mots, i, set())
-                if r:
-                    trouvees.append((r[0], mots[i - 1].lower() if i else "")); i += r[1]; continue
-            i += 1
+        mots = ligne.replace("’", "'").replace("l'", "l' ").replace("d'", "d' ").split()
+        PREP1 = ("à", "au", "aux", "en", "dans")           # « à bordeaux » : une ville ecrite en minuscules apres « à »
+        ART = ("la", "le", "les", "l'")
+        PREP2 = ("de", "d'", "du", "des") + ART            # « Lycée X d'ingré », « Science po lyon »
+        trouvees = []
+        for passe in (1, 2):
+            i = 0
+            while i < len(mots) and not (passe == 2 and trouvees):
+                w = mots[i]; prev = mots[i - 1].lower() if i else ""; prev2 = mots[i - 2].lower() if i > 1 else ""
+                permis = w[:1].isupper() or prev in PREP1 or (prev in ART and prev2 in PREP1)
+                if passe == 2:
+                    permis = permis or prev in PREP2 or i == len(mots) - 1
+                if permis and w.lower() not in ART:
+                    r = rdv.trouver_ville(idx, mots, i, set(), articles=True)
+                    if r:
+                        pp = prev if prev not in ART else prev2
+                        trouvees.append((r[0], pp)); i += r[1]; continue
+                if permis and w.lower() in ART and i + 1 < len(mots):   # « à la Ciotat » : le nom commence par l'article
+                    r = rdv.trouver_ville(idx, mots, i, set(), articles=True)
+                    if r and r[1] > 1:
+                        trouvees.append((r[0], prev)); i += r[1]; continue
+                i += 1
+            if trouvees:
+                break
         apres = [v for v, prev in trouvees if prev in ("à", "au", "aux", "en", "dans")]   # « Lycée Toulouse-Lautrec à Toulouse » : la ville est celle qui suit « à »
         ville = apres[-1] if apres else (trouvees[0][0] if trouvees else None)
         lat = lng = None
