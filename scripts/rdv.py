@@ -57,7 +57,7 @@ def ecrire_json(p, o):
     Path(p).write_text(json.dumps(o, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 # ---------------- communes ----------------
-ALIAS_VILLES = {"aix": "aix en provence", "quevilly": "le grand quevilly", "vitry": "vitry sur seine", "epinay": "epinay sur seine", "boulogne": "boulogne billancourt"}
+ALIAS_VILLES = {"chesnay": "le chesnay rocquencourt", "tremblay": "tremblay en france", "aix": "aix en provence", "quevilly": "le grand quevilly", "vitry": "vitry sur seine", "epinay": "epinay sur seine", "boulogne": "boulogne billancourt"}
 
 def cle_ville(t):
     """Cle de recherche d'une commune : sans accents ni majuscules, tirets et apostrophes = espaces (Vitry-sur-Seine = Vitry sur Seine)."""
@@ -86,7 +86,7 @@ def charger_communes(data, secours=None):
             idx.setdefault(sans, []).append((nom, dep, lat, lng, pop))
     return idx
 
-def trouver_ville(idx, mots, i, deps_texte):
+def trouver_ville(idx, mots, i, deps_texte, articles=False):
     """Plus long nom de commune commencant au mot i. Retourne (commune, nb_mots) ou None."""
     for n in (4, 3, 2, 1):
         cand = " ".join(mots[i:i + n])
@@ -99,6 +99,11 @@ def trouver_ville(idx, mots, i, deps_texte):
         cand = re.sub(r"^(St|Ste)\.?\s", lambda m: "Saint " if m.group(1) == "St" else "Sainte ", cand)
         cle = cle_ville(cand)
         trouves = idx.get(ALIAS_VILLES.get(cle, cle)) if n == 1 or cle not in ALIAS_VILLES else idx.get(cle)
+        if not trouves and articles and n == 1:   # « au Lilas » = Les Lilas, « Havre » = Le Havre, « Ciotat » = La Ciotat
+            for art in ("le", "la", "les", "l"):
+                trouves = idx.get(art + " " + cle)
+                if trouves:
+                    break
         if not trouves:
             continue
         if len(trouves) == 1:
