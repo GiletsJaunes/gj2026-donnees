@@ -16,7 +16,7 @@ ICI = Path(__file__).resolve().parent
 PARIS = ZoneInfo("Europe/Paris")
 UA = "Mozilla/5.0 (compatible; GJ2026-veille/1.0; +https://github.com)"
 CONSERVER_ARTICLES_JOURS = 21
-CONSERVER_FAITS_JOURS = 60
+DEBUT_MOUVEMENT = "2026-09-10"   # les chiffres sont gardes depuis le debut du mouvement, sans limite de duree
 
 def lire_json(chemin, defaut):
     try:
@@ -207,8 +207,7 @@ def mettre_a_jour_faits(faits, items, maintenant):
                 bords.add(b)
         e["bords"] = sorted(bords)
         e["recoupe"] = bool(e.get("qui")) and len(e["sources"]) >= 2 and len(bords) >= 2
-    limite = (maintenant - dt.timedelta(days=CONSERVER_FAITS_JOURS)).strftime("%Y-%m-%d")
-    liste = [f for f in par_id.values() if (f["jour"] or "") >= limite]
+    liste = [f for f in par_id.values() if (f["jour"] or "") >= DEBUT_MOUVEMENT]
     liste.sort(key=lambda f: (f["jour"] or "", f["maj"]), reverse=True)
     return liste, nouveaux
 
@@ -375,6 +374,10 @@ def nettoyer_faits(faits):
     """Re-verifie les comptages deja gardes avec les regles actuelles : national seulement, bon 'selon qui', bon jour."""
     out, vus = [], {}
     for f in faits:
+        if f["metrique"] == "sondage" and not x.sondage_du_mouvement(f["phrase"]):
+            continue
+        if f["metrique"] in ("deces", "eborgnes", "mains_arrachees") and (x.HISTORIQUE.search(f["phrase"]) or not x.CONTEXTE_MOUVEMENT.search(f["phrase"])):
+            continue
         if f["metrique"] == "manifestants":
             ok = [g for g in x.extraire_faits(f["phrase"], f["jour"]) if g["metrique"] == "manifestants" and g["valeur"] == f["valeur"]]
             if not ok:
@@ -392,7 +395,7 @@ def nettoyer_faits(faits):
     return out
 
 
-BASE_REQUETES = ["gilets jaunes", "mobilisation manifestation", "blocus lycées", "manifestants selon le ministère de l'Intérieur", "interpellations gardes à vue manifestation",
+BASE_REQUETES = ["éborgnés manifestation lycéens", "décès manifestant mobilisation", "mains arrachées grenade manifestation", "sondage mobilisation lycéenne gilets jaunes", "gilets jaunes", "mobilisation manifestation", "blocus lycées", "manifestants selon le ministère de l'Intérieur", "interpellations gardes à vue manifestation",
                  "policiers blessés manifestation", "RIC référendum d'initiative citoyenne", "vie chère manifestation", "intersyndicale CGT mobilisation", "dette taux d'emprunt France"]
 
 def collecter_jour(config, jour, maintenant):
