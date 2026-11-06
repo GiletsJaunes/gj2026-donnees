@@ -113,7 +113,7 @@
     8,
     9,
     19,
-    44
+    43
    ],
    "theme": "Répression"
   },
@@ -148,7 +148,7 @@
     1,
     10,
     13,
-    27
+    26
    ],
    "theme": "Politique"
   }
@@ -162,7 +162,7 @@
  "jour_long": "jeudi 5 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -341,142 +341,142 @@
   },
   {
    "n": 26,
-   "nom": "Noovo Info",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0Rmd2lRazMyeG92NzloVUViZ2s4Mm1JbUZYWUlVQ2tYVVNTNUtnbVBMSjFGTHNVSlhXb0xObjJ4bkVKQUthUm16T3BRcFlpRWxROUxDVThaZy1GOFFpbDREdjEzTEtQOXhkeEE1VXZxS3BkM25IanNyRWFGUzhJeXRvX3lLb0VyZEg5YU50dGpVaDE0LTNudENVUTMtc1RMSGhOVHBrSXJzd2YxV0NoaTV0amxTUUhTU29kWFY5RzM1WU5zQVcycFBQVFo?oc=5",
-   "titre": "«On en a ras-le-bol»: des centaines de milliers de manifestants contre la vie chère en France",
-   "date": "2026-11-05"
-  },
-  {
-   "n": 27,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
    "date": "2026-11-05"
   },
   {
-   "n": 28,
+   "n": 27,
    "nom": "Gala",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOC1xalp4QjNXam9sa3JrOG5aMTRmdjNfX0VsbkUtNFIwakRkTDVOYjV4QS1tNjRmS1kxcjNNVVNQbXJYRkUwaWlwMGt3QjJMbFN3cGZFMzh0a0t0RWtYMEJwSUhkRmRDRzAxX1hQcG82ZDhjM1o1djljcVE5QnhxS3dWSk41WWxfZ2N3aG90ajhIQkV2NnhSUVNpX2k3djZGeE5NSFV0S3RjNU9RcHNxdWRPblVCXzIxS25BUDA2c25UeGNBSDJjQTZXdktuOHBJSUx1V1I0SjdGY1ZOaWlVczN0eWcyVmhaVlBVRkExNHQxY3VRb1FoRTBOZUlWYmJqR0VWWl9Rd0ZNLXNGa0ZRYUJR?oc=5",
    "titre": "Maman de 3 enfants, dont le dernier est en terminale, Emmanuelle Béart s’exprime sur la mobilisation lycéenne : son message est très clair !",
    "date": "2026-11-05"
   },
   {
-   "n": 29,
+   "n": 28,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-pouvoir-d-achat-aurelie-trouve-deputee-la-france-insoumise-denonce-une-baisse-des-salaires-reels-en-france-et-affirme-que-c-est-inedit_VN-202611050864.html",
    "titre": "Pouvoir d'achat : Aurélie Trouvé, députée La France insoumise, dénonce une baisse des salaires réels en France et affirme que \"c'est inédit\"",
    "date": "2026-11-05"
   },
   {
-   "n": 30,
+   "n": 29,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-pouvoir-d-achat-alexandre-ouizille-senateur-ps-de-l-oise-propose-de-baisser-la-csg-et-de-taxer-les-heritages-au-dela-de-2-millions-d-euros_VN-202611050862.html",
    "titre": "Pouvoir d'achat: Alexandre Ouizille, sénateur PS de l'Oise, propose de \"baisser la CSG\" et de taxer \"les héritages au-delà de 2 millions d'euros\"",
    "date": "2026-11-05"
   },
   {
-   "n": 31,
+   "n": 30,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/gouvernement/video-il-ne-peut-pas-y-avoir-aujourd-hui-de-changement-majeur-parce-qu-il-n-y-a-pas-de-majorite-estime-thomas-menage-depute-du-rassemblement-national-interroge-sur-la-necessite-de-censurer-le-gouvernement_VN-202611050857.html",
    "titre": "\"Il ne peut pas y avoir aujourd'hui de changement majeur parce qu'il n'y a pas de majorité\", estime Thomas Ménagé, député du Rassemblement national, interrogé sur la nécessité de censurer le gouvernement",
    "date": "2026-11-05"
   },
   {
-   "n": 32,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/gouvernement/video-5-novembre-sandrine-rousseau-appelle-a-la-demission-de-sebastien-lecornu_VN-202611050858.html",
    "titre": "5 novembre: Sandrine Rousseau appelle à la \"démission\" de Sébastien Lecornu",
    "date": "2026-11-05"
   },
   {
-   "n": 33,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/gouvernement/video-manifestations-du-5-novembre-sandrine-rousseau-deputee-les-ecologistes-de-paris-estime-que-les-mobilisations-de-ce-jeudi-sont-une-forme-de-motion-de-defiance-au-gouvernement_VN-202611050855.html",
    "titre": "Manifestations du 5 novembre: Sandrine Rousseau, députée Les Écologistes de Paris, estime que les mobilisations de ce jeudi sont \"une forme de motion de défiance au gouvernement\"",
    "date": "2026-11-05"
   },
   {
-   "n": 34,
+   "n": 33,
    "nom": "https://infos-media-nantes.fr/",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHR2dTA1VUVFUzNMaWxoT2FOYm9vTUFVLUtSek9nV1QzV0VvQnhucERuS3ltVTlZanprdm5ERXJLQ3VDdGU0d3l5UnNkR0pQaHdhajNEZC1LUlJsdkRiYkRUVTZGUUZpSkNzenhSWUpVNmtRODdENlhwTEVNUk9heUtJVnJBNmoxVjRJOVZKSEhkbEMxU3h5SlFSYTd6R3ZpZHZIaw?oc=5",
    "titre": "La Roche-sur-Yon : la directrice académique rencontre les lycéens mobilisés le 5 novembre",
    "date": "2026-11-05"
   },
   {
-   "n": 35,
+   "n": 34,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-du-5-novembre-une-mobilisation-d-ampleur-portee-par-de-nombreuses-revendications_VN-202611050853.html",
    "titre": "Manifestations du 5 novembre: une mobilisation d'ampleur portée par de nombreuses revendications",
    "date": "2026-11-05"
   },
   {
-   "n": 36,
+   "n": 35,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/gouvernement/video-sandrine-rousseau-deputee-les-ecologistes-de-paris-estime-que-sebastien-lecornu-devrait-presenter-sa-demission_VN-202611050843.html",
    "titre": "Sandrine Rousseau, députée Les Écologistes de Paris, estime que \"Sébastien Lecornu devrait présenter sa démission\"",
    "date": "2026-11-05"
   },
   {
-   "n": 37,
+   "n": 36,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/gironde/video-greve-du-5-novembre-les-visages-de-la-mobilisation-dans-le-sud-ouest-31397364.php",
    "titre": "VIDÉO. Grève du 5 novembre : les visages de la mobilisation dans le Sud-Ouest",
    "date": "2026-11-05"
   },
   {
-   "n": 38,
+   "n": 37,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-plusieurs-centaines-de-milliers-de-personnes-mobilisees-partout-en-france-ce-jeudi-5-novembre_VN-202611050824.html",
    "titre": "Plusieurs centaines de milliers de personnes mobilisées partout en France ce jeudi 5 novembre",
    "date": "2026-11-05"
   },
   {
-   "n": 39,
+   "n": 38,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-samedi-il-y-aura-des-mobilisations-sur-les-questions-de-la-jeunesse-des-salaires-et-de-la-vie-chere-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_VN-202611050823.html",
    "titre": "\"Samedi il y aura des mobilisations sur les questions de la jeunesse, des salaires et de la vie chère\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
    "date": "2026-11-05"
   },
   {
-   "n": 40,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-mobilisations-le-lycee-incendie-pres-de-toulouse-sera-ferme-au-moins-dix-jours-selon-kamel-chibli-vice-president-ps-de-la-regon-occitanie-charge-de-l-education_VN-202611050819.html",
    "titre": "Mobilisations: le lycée incendié près de Toulouse sera fermé \"au moins dix jours\", selon Kamel Chibli, vice-président PS de la régon Occitanie, chargé de l'Éducation",
    "date": "2026-11-05"
   },
   {
-   "n": 41,
+   "n": 40,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1JjOEV3aWFiSm9vb2UyR3Ftb0QxTW9KUFpsRmlZT3hZTTVqS1lMYWl1Z0xnQ2ZRT2FyQkN3X21JNTlmVGNzQlUteG84TS1WcjdORHhJclktU0hWMmp2Z01HSHFqRkFQc0FwNlNqWnlJM2RVWWJTZGhMdEpzd3lWRjlTdTRoR2NwUHQxZTF5dW1rbGIzWFpBZzd1em00R2NsNVpUd05BTnowU1h1RFhWV0MtczVPMFd3YzJfWFlJYWRkOHhaeFBDTXktN2VTdVltX2Zzd0NaR3dSc0loUXVURg?oc=5",
    "titre": "Après la grève du 5 novembre, les mobilisations se poursuivent : tous les mouvements à venir ces prochains jours",
    "date": "2026-11-05"
   },
   {
-   "n": 42,
+   "n": 41,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-candidats-auditionnes-par-le-patronat-le-8-mars-prochain-au-grand-rex-20261105",
    "titre": "Présidentielle 2027 : les candidats auditionnés par le patronat le 8 mars prochain au Grand Rex",
    "date": "2026-11-05"
   },
   {
-   "n": 43,
+   "n": 42,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-augmentation-du-smic-comment-on-le-finance-questionne-jean-philippe-tanguy-depute-rn-de-la-somme_VN-202611050816.html",
    "titre": "Augmentation du SMIC: \"Comment on le finance?\", questionne Jean-Philippe Tanguy, député RN de la Somme",
    "date": "2026-11-05"
   },
   {
-   "n": 44,
+   "n": 43,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
    "titre": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
    "date": "2026-11-05"
   },
   {
-   "n": 45,
+   "n": 44,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html#xtor=RSS-3-[lestitres]",
    "titre": "Près de 1,6 million de personnes ont défilé en France lors de la mobilisation du 5 novembre selon la CGT, 575 000 selon le ministère de l'Intérieur",
+   "date": "2026-11-05"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/video-inflation-les-depenses-liees-au-logement-a-l-energie-et-aux-transports-pesent-de-plus-en-plus-lourd-sur-le-pouvoir-d-achat-des-francais_VN-202611050809.html",
+   "titre": "Inflation: les dépenses liées au logement, à l’énergie et aux transports pèsent de plus en plus lourd sur le pouvoir d’achat des Français",
    "date": "2026-11-05"
   },
   {
@@ -725,5 +725,5 @@
    "date": "2026-11-05"
   }
  ],
- "genere": "2026-11-06T07:10:21.425589+00:00"
+ "genere": "2026-11-06T08:30:42.184541+00:00"
 }
