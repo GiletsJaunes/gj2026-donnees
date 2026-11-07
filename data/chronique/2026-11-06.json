@@ -103,7 +103,7 @@
  "jour_long": "vendredi 6 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -498,5 +498,5 @@
    "date": "2026-11-06"
   }
  ],
- "genere": "2026-11-07T06:52:03.481576+00:00"
+ "genere": "2026-11-07T07:57:10.261069+00:00"
 }
