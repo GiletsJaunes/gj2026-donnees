@@ -1,0 +1,501 @@
+{
+ "titre": "Vendredi 6 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 41 établissements perturbés selon Laurent Nuñez, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "41",
+   "libelle": "établissements perturbés",
+   "detail": "selon Laurent Nuñez",
+   "sources": [
+    46,
+    7
+   ]
+  },
+  {
+   "valeur": "1 600 000",
+   "libelle": "manifestants en France",
+   "detail": "selon la CGT (non recoupé à ce stade)",
+   "sources": [
+    30,
+    47
+   ]
+  },
+  {
+   "valeur": "1 500 000",
+   "libelle": "manifestants en France",
+   "detail": "selon les syndicats : comment sont comptés les participants aux mobili (non recoupé à ce stade)",
+   "sources": [
+    48
+   ]
+  },
+  {
+   "valeur": "575 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l’intérieur (non recoupé à ce stade)",
+   "sources": [
+    30,
+    47
+   ]
+  },
+  {
+   "valeur": "70 000",
+   "libelle": "manifestants en France",
+   "detail": "selon Laurent Nuñez (non recoupé à ce stade)",
+   "sources": [
+    51,
+    13
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "Mouvement lycéen: \"On déplore des phénomènes de violences extrêmement durs\" devant certains des 41 établissements bloqués, annonce Laurent Nuñez, ministre de l'Intérieur.",
+   "sources": [
+    46,
+    7
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon franceinfo, Plusieurs avocats comptent saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants (repris par 3 médias). Selon Mediapart, Violences policières: des blessés graves vont saisir la Cour de justice de la République contre Laurent Nuñez (repris par 3 médias). Selon solidaires93.org, Aubervilliers, Pantin : la mobilisation lycéenne se poursuit, faisons face à la répression !. Selon BFMTV, Manifestants et policiers blessés, commerces pillés… Pourquoi le maintien de l’ordre fait-il débat?.",
+   "sources": [
+    6,
+    9,
+    10,
+    12
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Le Figaro, Manifestants blessés : des avocats déclarent saisir la Cour de Justice contre Laurent Nuñez (repris par 7 médias). Selon BFMTV, Manifestation du 7 novembre: \"Le dispositif\" de sécurité est \"reconduit\" avec 70.000 policiers et gendarmes mobilisés, annonce Laurent Nuñez, ministre de l'Intérieur (repris par 5 médias). Selon Boursorama, La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales (repris par 3 médias). Selon BFMTV, Manifestations du 7 novembre: le dispositif de sécurité \"reconduit\", 70.000 policiers et gendarmes mobilisés en France (repris par 3 médias).",
+   "sources": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Fortuneo, Acte IV de la colère sociale, avant les annonces attendues du gouvernement.",
+   "sources": [
+    34
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : l’organisation d’une primaire de la droite et du centre pourrait se concrétiser « rapidement », estime Gabriel Attal (repris par 3 médias). Selon BFMTV, Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\".",
+   "sources": [
+    5,
+    26
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-06",
+ "numero": 36,
+ "jour_long": "vendredi 6 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Le Figaro",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXBiMjZLb2hnUzdKTDducWQ0cUpOcU0wdHE0b2Z0eGMtUkd2eVp3enFrUThTNkVWSUo1MTQ4QUIyMDEySnlZdHk5OTZPQk43dHFob0VOLTFURmk2RFZ3bTF5dlVYQ0xlby01MVM1VXB6LVR3Q0tKSldfOVhfRkhELVJUOXNfT2xuNUJIRGtsUFpsSzJaNDlEZlJGZ3FCSUg3a01GcXdDMlhrc2I1elFwaUpMRXY0MkxBYmJyVzF0WTFZQzJqRkszckxCcTFrVGF3Y1U1Q3B3?oc=5",
+   "titre": "Manifestants blessés : des avocats déclarent saisir la Cour de Justice contre Laurent Nuñez",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 2,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-manifestation-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises-annonce-laurent-nunez-ministre-de-l-interieur_VN-202611060697.html",
+   "titre": "Manifestation du 7 novembre: \"Le dispositif\" de sécurité est \"reconduit\" avec 70.000 policiers et gendarmes mobilisés, annonce Laurent Nuñez, ministre de l'Intérieur",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 3,
+   "nom": "Boursorama",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdHo0dTdCdXlPX0s5TExvZTIwbnZoRE9INHBXMms5Vkx4OTNYNVJUZ1h2SFNRX0RsVkR6MlVCLTc5czhlaHhoa0NmVXhVbUFQWDBndERHZkM0RFhLS2FqU3U4NVF4eW1IRlE0SkNfbzhVWUtwajgydFBWSXpZRGdIZnNTelFYX0FGUEdiUUt2LW1XcDJJbDJsXzNud3VXVVhzRDRzYzNQcWlZVm0wSlQ1VVQ1NnRNS1hSQ000TnAzVl9YMm1WcHRqMDZHaWZTc2hwYjcxRTNQRS04cFVSdmlEV09xLTY0dEdoQ013NEpoNFpSd21BYjAtbFA1UVPSAYICQVVfeXFMTWlST0VsNzcwcVpNaFk3NXJRZW4xZ3VpWkRFTHZxcTVBQU0yZm0zR2RubWtYUmF2MmdITFVEUDljVkE1dlQxOExHR2VubDZSWi1yaFhRb3lwckpXTG9semh1ZEN3YzFPdDFqdTBBX1JTVC1tcm1zT1ZJQnN5MV95U0txOV9NNjc0TVJRZllVUU1NUTNmN2RFTEo5c25FUUpIcl9fNi1xQ3RBbVB0bE5qSi1hZHNOUDFNZkdZeEZxTHRJaUNZMmxYOUE4TlpZVG5WNDRkM1ZBS3hpeGxpQUZrcHVIODZvVnNId1RYSEN2a0tvMzB3YnRDWHVlRlVyOFFPTmNn?oc=5",
+   "titre": "La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 4,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/manifestations-du-7-novembre-le-dispositif-de-securite-reconduit-70-000-policiers-et-gendarmes-mobilises-en-france_AN-202611060688.html",
+   "titre": "Manifestations du 7 novembre: le dispositif de sécurité \"reconduit\", 70.000 policiers et gendarmes mobilisés en France",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 5,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-organisation-d-une-primaire-de-la-droite-et-du-centre-pourrait-se-concretiser-rapidement-estime-gabriel-attal-31413822.php",
+   "titre": "Présidentielle 2027 : l’organisation d’une primaire de la droite et du centre pourrait se concrétiser « rapidement », estime Gabriel Attal",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 6,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
+   "titre": "Plusieurs avocats comptent saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 7,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-apres-la-forte-mobilisation-de-jeudi-de-nouvelles-actions-attendues-des-samedi-20261106",
+   "titre": "EN DIRECT - Colère sociale : le ministre du Travail juge «important» d’essayer de franchir la «barre des 1500 euros net» pour le Smic",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-les-gilets-jaunes-appellent-a-un-six-seven-populaire-contre-la-vie-chere-et-le-gouvernement-les-6-et-7-novembre_VN-202611060115.html",
+   "titre": "Les gilets jaunes appellent à un \"six-seven populaire\" contre la vie chère et le gouvernement, les 6 et 7 novembre",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 9,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/061126/violences-policieres-des-blesses-graves-vont-saisir-la-cour-de-justice-de-la-republique-contre-laurent-nun",
+   "titre": "Violences policières: des blessés graves vont saisir la Cour de justice de la République contre Laurent Nuñez",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 10,
+   "nom": "solidaires93.org",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmlmNVZGNXp3amduV3BLaHFlMFBpNklDc1Q4eklVYVY4bV9YWFFaX3ROSGhoREUyQXlxSF9JOUdsZFU0VmpfaWxmanhsU1dDY0VHMDQxLXBkQ2tnT1E5VVc3RmRma2hiZndyTXlpT0xBcG1xMXNGNnZ0YjZkWFAyc1FvT1NWWmJCbEtIV1N6a0VzMGVwNzQ3YWhHWkdfai1Dc29yZlpPd2V5dF9DTFBfaDBn?oc=5",
+   "titre": "Aubervilliers, Pantin : la mobilisation lycéenne se poursuit, faisons face à la répression !",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 11,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/entreprises/video-hausse-du-smic-meme-s-il-y-a-une-augmentation-ca-ne-suffira-pas-il-faut-parler-a-l-ensemble-des-francais-pointe-chloe-ancienne-figure-des-gilets-jaunes_VN-202611060887.html",
+   "titre": "Hausse du Smic: \"Même s'il y a une augmentation, ça ne suffira pas, il faut parler à l'ensemble des Français\", pointe Chloé, ancienne figure des Gilets jaunes",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 12,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-manifestants-et-policiers-blesses-commerces-pilles-pourquoi-le-maintien-de-l-ordre-fait-il-debat_VN-202611060877.html",
+   "titre": "Manifestants et policiers blessés, commerces pillés… Pourquoi le maintien de l’ordre fait-il débat?",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 13,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises-20261106",
+   "titre": "Manifestation du 7 novembre : « le dispositif » de sécurité « reconduit »",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 14,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/06/attaque-a-lacide-en-pleine-manifestation-a-toulouse-ce-5-novembre-24-crs-asperges-un-policier-touche-aux-yeux-13640086.php",
+   "titre": "Attaque à l'acide en pleine manifestation à Toulouse ce 5 novembre : 24 CRS aspergés, un policier touché aux yeux",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 15,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVDVtUWxRdHlZQjVfZGRSNVQxMHRFTkdkZTJwbFlUVEN6dXV4eFRpM0FUQlFmSEo0T2ZNVEJzS2M0ZlV2ZjBwcnUwZmd3c1FpaTlRVW9tejVSZ2RXdjhDOWsyQVVUZW9lMFE4X0dUMVZTR1pBVDJLcFloT1VDNUkyM3oyM21HcXVWWnZ1TldkdHVtZlE1RlJSUHJqcFFCMWJCRnNYTXdBUVNDMlZSSjdfYUVHSGNuR0VRRW1pdzhlV1BxNEswZ2tHX2FPZE11aE16eUc1Y3U4ZkRSZ2dvMlJQaVVfeUhRbTZCWTY1VE5XXzJYZkRPZFJpOXJyNm9qck03ZFRlZFB1MTdUSmhEeGw0dFd5dVBfOGRoMzlyb3FGV2RRWGc?oc=5",
+   "titre": "Un appel à manifester à Lorient lancé par les gilets jaunes en dépit de l’arrêté d’interdiction de la préfecture",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 16,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcUFQSWNkR0hHbVZvcWdKQUp5SVVfc3J2eDJfVGY4akdPU2NGX1hfSDJnbVFDX0hrRHZBMDRod0tUMGdfdmNyaEg5YmJzX2Z4alRlZ2hzUFhaa1hrX1U0T05jV0pHT3JfM1JybUI0MHZDRFVudTJMLWtndWNOb1htbi0tRHZoWEJ1SzdkUERyMEdNUExTLWFlSFpXcFBJbWo5UWtKZVhvdVljVUNISFpaZWZPeUtTd0pma1ZrZjNqMEhYNEVuLVlwc0lHLU1fTlpXSnppUVVCYnJMNG5vUEdiSFVhRTkxbmUyNENtcUVJNXhMS3BmX1E?oc=5",
+   "titre": "Acte IV de mobilisation contre la vie chère : à quoi s'attendre en Auvergne ce samedi ?",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 17,
+   "nom": "20 Minutes",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3hGYzFDOGFLUnZXQjFJeXJCbGotdjM0RFlvY0s5S1ltSlVOSFk5SFF0UENtUGRFOFhmTUV4aHVJelZLTWl6VW5oMnMzc1RDeWtUd1UzbzBYdE9DcXNYSldubTJOTmhRNlpwNDljdmZLZTYzRUdnbWFqcHFFUXBlUjRURGJuWFB6TE1WWl9RTXBnM2pkZHZLWVRlSkx6c0RDQllIeEljejVoS3MzVkg5MXdMYmNHTy1SU2ZJZ0RZVlA?oc=5",
+   "titre": "Blocus des lycées : Un établissement de Lille évacué après qu’un feu de poubelles s’est propagé à l’entrée",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 18,
+   "nom": "TF1 Info",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSVh5SlhkX0hyODdGUi15MWJmVjRmdzlreHN0UDFCNXgtMDB6OGJpOTNkODBISVdSX1JGV01uQVJBM2NBS2p6NW5ESVEwclBxbFZjeUx3Y1FqNlVRbS0tNTFINERSMThGOGlqTlo1cnhONG9uYmc2T3NwQkFxLVdsdGk2UTQ3SThYX0gwdEREU0Mxd0JjclNObDJCeFMtSmVERmVXUDZ2ZmlRbFhEcjgwUUJiVmxhdXkzOWRQd2lKSWZxTFVPOGdndHlsZF91ZEdMdUNTZXBMV09wNEEycnc?oc=5",
+   "titre": "Lyon : la porte du lycée Edouard-Herriot incendiée en marge d'un blocus",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 19,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-a-paris-des-gilets-jaunes-maintiennent-leur-appel-a-un-rassemblement-place-de-la-concorde-interdit-par-la-prefecture-de-police_6807790_823448.html",
+   "titre": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 20,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/06/a-l-ecart-de-la-mobilisation-lyceenne-les-jeunes-apprentis-sont-aussi-inquiets-pour-leur-avenir_6807778_3224.html",
+   "titre": "A l’écart de la mobilisation lycéenne, les jeunes apprentis sont aussi inquiets pour leur avenir",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 21,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/rhone/colere-lyceenne-quatre-personnes-interpellees-dans-le-rhone-la-porte-du-lycee-edouard-herriot-incendiee_AN-202611060457.html",
+   "titre": "Colère lycéenne: quatre personnes interpellées dans le Rhône, la porte du lycée Édouard Herriot incendiée",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 22,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXFEZWJGeGxTd0YzeGRESm5pcS0zVWNJdVdpZTl0Z2pfVEVPdFlBWVZnZjF4Wkt4YzdsRW9ZS2VQbElIM3BTZjhER2YxakNtQXc5RGxfM0VIVmR1dThrbm9qSkw4Q2liLTNnQVFxY1pQclM1UjF0a24wMVF3YVZrbF9BSUNOck5WdUtuaGtNOV9YOTE2U2RMMzA0TzZzVUNjSHNGaTBWUW5jOVppVzFvVWNseGFEZF9vR2wtVTZnRFpiSFZrNXFyczlUZU9reUI0Nm9QT0dKd3ZhU3kxRkdYMnZsVm9HZTVvTFdhb280NGNFLXY3M3VNLUVqQWRKbDRDbzNRY3RKdTI?oc=5",
+   "titre": "Blocages, déblocages par la police et cours à distance : le point sur la mobilisation lycéenne à Rennes vendredi matin",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 23,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/colere-sociale-mobilisations-des-gilets-jaunes-lyceens-etudiants-a-quoi-faut-il-sattendre-samedi-7-novembre-11b8f1b2-d9c4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Colère sociale : mobilisations des Gilets jaunes, lycéens, étudiants… A quoi faut-il s’attendre samedi 7 novembre ?",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 24,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/mouvement-lyceen-le-gouvernement-promet-des-sanctions-quand-l-acces-aux-salles-des-etablissements-est-compromis-31411752.php",
+   "titre": "Mouvement lycéen : le gouvernement promet des sanctions quand l’accès aux salles des établissements est compromis",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 25,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/colere-des-lyceens-edouard-geffray-promet-des-sanctions-quand-l-acces-aux-salles-de-classe-est-compromis_AD-202611060419.html",
+   "titre": "Colère des lycéens: Édouard Geffray promet des \"sanctions\" quand l'accès aux salles de classe est compromis",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-francois-ruffin-retirera-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen_AD-202611060378.html",
+   "titre": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 27,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/faits-divers/incendie-d-un-lycee-a-nantes-deux-adolescents-de-16-ans-mis-en-examen-31410678.php",
+   "titre": "Incendie d’un lycée à Nantes : deux adolescents de 16 ans mis en examen",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 28,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/justice/4260846-20261106-colere-lyceens-deux-eleves-16-ans-mis-examen-incendie-lycee-nelson-mandela-nantes?at_medium=display&at_campaign=149",
+   "titre": "Colère des lycéens : Deux élèves de 16 ans mis en examen pour l’incendie du lycée Nelson-Mandela de Nantes",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/la-seule-chose-qui-me-restait-a-lyon-une-voiture-brulee-lors-de-la-manifestation-appartenait-a-un-sans-abri_AD-202611060120.html",
+   "titre": "\"La seule chose qui me restait\": à Lyon, une voiture brûlée lors de la manifestation appartenait à un sans-abri",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 30,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html",
+   "titre": "Grève du 5 novembre : entre colère sociale et révolte politique, une mobilisation massive pour le pouvoir d’achat",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 31,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4260823-20261106-direct-colere-sociale-jeunes-gilets-jaunes-appellent-acte-iv-samedi?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Colère sociale : Jeunes et « gilets jaunes » appellent à un « Acte IV » ce samedi…",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-crise-sociale-les-lyceens-n-ont-pas-une-vision-homogene-declare-aleksandar-nikolic-porte-parole-du-rn_VN-202611060947.html",
+   "titre": "Crise sociale: \"Les lycéens n'ont pas une vision homogène\", déclare Aleksandar Nikolic, porte-parole du RN",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 33,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-crise-sociale-la-raison-pour-laquelle-les-gens-continuent-de-manifester-c-est-parce-que-ce-qui-a-ete-annonce-est-largement-insuffisant-explique-daniele-obono-deputee-lfi-de-paris_VN-202611060946.html",
+   "titre": "Crise sociale: \"La raison pour laquelle les gens continuent de manifester, c'est parce que ce qui a été annoncé est largement insuffisant\", explique Danièle Obono, députée LFI de Paris",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 34,
+   "nom": "Fortuneo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEtrbG5TSzljaUl0NU5ERWRwTFJLUWNjYllldzlOcmFsdXU2c01YUkkzeU1uTFJ0YUlkaG5RVkpDWFdiTkNwelM0MEVvVWpKc0xNM29SaVNtZmstRXo5ZzFMY0RCWmNoemFDcl8waEFBRHlYam1sa0gtcnI5ZDJQZzdTZlJfZUx0MnloMUxEUl9JOFNia2lNRGMzQVlPQlN2dG1TVzRKbnoyZmhBVTFhbUItajB4U1VUSmt30gHAAUFVX3lxTE05aTdmNlR5ckxWWmxPZm5xeWplWE1WZjk2a05VbS1yZy1oN0RoVkJQQkNIMlMwTG4xSUlVcW5fVWVXdDBEVjNRZnRISExQSnM3eVBCWkpiWTBGSm1VUEU2cTZMNG5BXzJjcXpFX3E1NXlFV3JtWU5VVklISlNVT0lGa1ZYZWlDVzJFbkhXbXlrYkZONEJRTzFma1dFXzhxYXNGZjNXWXp2X2VTdE1Ba19aSnAxdG52V3J6NWNCLTZUbA?oc=5",
+   "titre": "Acte IV de la colère sociale, avant les annonces attendues du gouvernement...",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 35,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-a-lyon-l-entree-du-lycee-edouard-herriot-incendiee_8271605.html#xtor=RSS-3-%5Bgeneral%5D",
+   "titre": "Mobilisation lycéenne à Lyon : l'entrée du lycée Édouard Herriot incendiée",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 36,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-le-gouvernement-doit-tout-de-suite-donner-des-gages-estime-karim-bouamrane-maire-ps-de-saint-ouen-et-candidat-a-l-election-presidentielle_VN-202611060922.html",
+   "titre": "Crise sociale: \"Le gouvernement doit tout de suite donner des gages\", estime Karim Bouamrane, maire PS de Saint-Ouen et candidat à l'élection présidentielle",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 37,
+   "nom": "Stéphane Larue News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFY0Y2dnVWFEVks0dW54a3NmZm4tVUx0MlFpcTBNSDhPTkc4NFNwZUVoQVZXNlNoX2puVTRLYS16TDU2X2ZXTzdlU1BfQlBNcWZJdml4eXBNMU0wQUlCV1JZdU5pdGFwUGNyNnRVM0hrYk1tSGh6ZEx6SjJlU0cxVkE5Z3hxU3RUZ2p0eWtQYkd2UkJUSHVzRHg5aS1LYTZmMlhJRw?oc=5",
+   "titre": "Hausse du Smic : « ça ne suffira pas », prévient Chloé, ex-figure des Gilets jaunes",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 38,
+   "nom": "Actu44.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWlYcXJydnZibm5tQjVoZVo0MkRlRzFxTjhuQUNzVWFlbVN3UFZ1b0Z2T1ZkWjMtbWxkTVk2TW9ZcGZrVktMZnBTUnhDY3ctTHZBLTZ5T2lKenJXLW5DeFhXdGRCNXdISklGdDk0ODZvVmRRMjFlTFpvLUgzRTN0ejFRWWVZd0drZ1E3S3UwcDdrcVRUQXc?oc=5",
+   "titre": "Manifestation du 7 novembre à Nantes : trams et bus coupés dès 12 h 30",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 39,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeFVNLTQ1VG1lZjduVXYxVjFrX2tWemNfY2EySmJOVlFQWmkwOE5taFdmWE0wcGFDVm9hbFMwX0hkTGZmRmQzeDkxWW5tdmZMaEZJZEhkX2tzbWdyaW9NbnhUMHczcUUxSXR6QW56aGFvdk5Ba1F0S1BVSjdScVRaNnlySXFPYWZ6ZVlnVm9GOThPM29EeE5PcUhnbkc1UGF5T1FPQTBmQV9hXzVUd1JxT1FVc3RpTWNYVnBiaWc1SjREb3FnYzItNjYyd2hMb2hZMlVfTVVRQVR3UDY0SFdmRlVrUTkwa05rdXZFRWpUSHBEc05MdUVDMXVpbG8?oc=5",
+   "titre": "Acte IV des Gilets jaunes à Lyon : manifestation non déclarée, centre-ville interdit... à quoi s’attendre samedi",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 40,
+   "nom": "Info Libertaire",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yRVc4amJVazRNLWFSX21vVmczb1BUYTJ5MlBuaWcyVWhaNU80UVFBM29yQXktb19rSzdaY3RYcllVR2xkVlJyUGhFWFd0ZGs4aWc1WEFSQzlaZEJra1pzaWlHREc0ZXVON3ctY2M3bXR1bkxNOUxF?oc=5",
+   "titre": "Gilets Jaunes : RDV du 6 et 7 novembre",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 41,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4261085-20261106-colere-lyceens-ministre-promet-sanctions-quand-acces-cours-bloques?at_medium=display&at_campaign=149",
+   "titre": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 42,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNS1hpWFBjNnBrTE1XYUxMMVI3aENlblFwRGF0WjJaSFNzLUFsUXFQZDIwNi1yZmM3QU41QVdNQUZHTUxsLUlfeEg4TVp2MmswTG13cVlvVmhCTHVzVGVFT1daS1VDRlN5R2NfWWlVOTVFWTdxNHJnTXVFcHhCcU1ydDlHWEkxdTRXWEEwa2lqLWZOVFVMbnFQZFRRSDRnTTBaUnU2ejhsTFJCWGpudWZrTDRSNzhLejNhWlJLNkk3U0ZCTlpObDBTbERtem9XTnAwdy0wZXdjQlhwN1NuLThCZTJkTTlVSGExWGlxUzB1Z3M3U3JJTjlSU0RwYmVUWXc1YVg5eDRINUtUNFRuTUVTZmY4UHZoSHhFcUJBaUlLUVByOHM?oc=5",
+   "titre": "Résultats des Midterms, conséquences sur la politique étrangère US et mobilisation sociale en France",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-manifestations-pourquoi-le-maintien-de-l-ordre-fait-il-debat-en-france_VN-202611060881.html",
+   "titre": "Manifestations: pourquoi le maintien de l'ordre fait-il débat en France ?",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 44,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNREZHWEgzcllRenFoT2pZMk9LanpsUGhDd1lWT2ZQSld6WDZrYVF5bHA4bEpTWVR6TVAtempSNlhvelA2M1Q2R3Q0MGZBMlJqajM4dVdZbS1BR0dUNUpqaGJlVTMwaDZpYW1SdVowdlByYTc4czRwVF8yWmM4NHJTajV5alFPTm5WNVpSQnhlSk9USTltX0RXMEhYdVNEcXdzRFNueXFVTGdhU1V4M2IwZC1KMzZMUHV1MklaQTUwRUpwcDl1b1N4eUtNbnl4eXFPOS1HOUdVRGx2WUhsTnJxYmU3NlJ5YVZIYldILXpYcHBJdnUtQnBrcm1VZFVWbjV4ZndwZzY1cVhiZw?oc=5",
+   "titre": "Mobilisation lycéenne : les futurs ingénieurs de Centrale Nantes organisent des blocus en soutien aux lycéens",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 45,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSkRhWXlmbGoxNHFtVUlWS1hrQzJKbXdVeUFNVFBMYTFrUmFMNkEzcVkydWdsTWdQRW9kQzNMeEp6OGR1dG1DOWZjZ3BpMjhhbVFSWmZLNFQyOTlIckpEVUh4STRGaTNJcnliZFFpMEJ6cWNSamw3V1VnMFJTMEZLZkVVVGJfQlFOVmdGT3o1Mm5vQnZZTkNoY3E0OTBaY1p5TldtRklwYkJXUU5NRnVSaHV3ZVNacHA3eGljUDg2dTFfQ29Jb0VjS25PMjlCRmpzUUM2RGd6UHN1OC0xWXNUbXZHb1Y0SF9ENUtjZ3Z6SUsyODMxemR4UENOZkVvejFiQ3lEWHFYWmJBMUdFOGdlN29zRQ?oc=5",
+   "titre": "Manifestation du 7 novembre : 70 000 forces de l’ordre reconduites, le ministre de l’Intérieur annonce le dispositif d’encadrement pour demain",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 46,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-mouvement-lyceen-on-deplore-des-phenomenes-de-violences-extremement-durs-devant-certains-des-41-etablissements-bloques-annonce-laurent-nunez-ministre-de-l-interieur_VN-202611060691.html",
+   "titre": "Mouvement lycéen: \"On déplore des phénomènes de violences extrêmement durs\" devant certains des 41 établissements bloqués, annonce Laurent Nuñez, ministre de l'Intérieur",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-du-5-novembre-des-manifestations-qui-se-sont-deroulees-globalement-dans-le-calme_VN-202611060113.html",
+   "titre": "Mobilisation du 5 novembre: des manifestations qui se sont déroulées globalement dans le calme",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 48,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMHFWRUo0RjlnTFZkVmdJUlFTRFM3UERPZlE3SVhJTlJxTG9CUTZPRklvaUdBR1R1d0lYREhNRlVQZUxNdFpOZHJxUXNSd3Jkdno2c0R6Nk9xVksxRlFRbWtOOWhKRnZqQXA0VDR3c0dKVFJDV0ZWWUNncGlZOWU1SWpwejJFS3JGUjNQZFMwMUdrVGQxSG9VRFlHWWJMcjB1Mkt0eXp4WjRDa2xOQVdWbkp2VVBSVEk3c3F4eUMwSVpic0VBMEJZS0dNTk5OMEVvSURlaDZoRXV3WXNnT2FCaG1xaUl4dXVFRmV0ZmRETkNaTWVwaVJEUHBTeGR2NmN3bDNhMG93RjlwbDdUUjJqVUhoTkJIUkYyNW1yVXJJS01oaE81?oc=5",
+   "titre": "575 000 manifestants selon la police, 1,5 million pour les syndicats : comment sont comptés les participants aux mobilisations",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 49,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/manifestations-le-dispositif-de-securite-reconduit-pour-ce-samedi-avec-70000-policiers-et-gendarmes-mobilises-1213619?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Manifestations : le dispositif de sécurité reconduit pour ce samedi, avec 70.000 policiers et gendarmes mobilisés",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 50,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
+   "titre": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 51,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/direct-colere-sociale-organisations-de-jeunesse-et-gilets-jaunes-prevoient-de-nouvelles-actions-avant-la-conference-sociale-organisee-lundi-par-sebastien-lecornu_LN-202611060151.html",
+   "titre": "DIRECT. Colère sociale: Laurent Nuñez indique que \"70.000 effectifs\" de police et de gendarmerie seront à nouveau mobilisés demain",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 52,
+   "nom": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMFM5NXMwdWNvTE4tM2tBcHp5M2d6UThtQzJTS0RROGFmNDhiQXVuSk5pc09HZHNLeUwyVkpZX3lzelpNSUdpaGp0c0I5MUdQeEJuOHl6ekpGVms2cV9zZjJ5VnVDQXVSTWU3SW1GQVdlTkRWVGJmaXRURjY4WEt2YTBnYmpVQ1JfSjJuNWVQcG5tMjlTU2h5U3hObjNQUEI3TzA5dmdxVjNKQzFkelRpUzAwajdGVldOd0dMZzU4UXR5cEZWUlROUEJzUHNNYXJUSHAxMFhkQ0tKSlFLLTdkNDRMMXdIT0QtWV9KR2R4RlNOOURvdThQQw?oc=5",
+   "titre": "France : 642 personnes interpellées et 112 policiers blessés lors des manifestations",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 53,
+   "nom": "La Semaine des Pyrénées",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTExnM1VWemdUSHJ6R1VVbmNPLWcxWnByM1FmaGI2TkV1XzBWNWRzd3hEQ0FxNGlQTmlvX1NfMW81QnZJeEc1U1VUSXFzVm5lNDRFQ2hsU2VzQzAxS2FfZURNQTJ2NEthUVZrWnlBQUlYaDh4Zjc1QlVqemVrd0RkU0puWEFQb0x1SEFjWk8ybWYyeE4zYmoydDI5c1ZybXhSOHNEZ0l4SXotcGRQR1I3LWE0SmdnUkEwc09qeVhiLWxkTkJx?oc=5",
+   "titre": "Haute-Garonne - Une journée de mobilisation marquée par des violences et 30 interpellations",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 54,
+   "nom": "Le Journal Toulousain",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnZNS1daWms5V0tKem9rclRWUnZXNzc0RnBsVk9VRVVpbGM3dVdRUlM1TDFUM2EtYlNpbFRnN21TWDJoWGxaT2F1b3VudlFyUURhRHJTZXdiOGFsdTNPOFNKVWV4ZnZ0NDBLUG15OFl1UXIwQ0R0RUlpd3kxLWowV3hRT01GM0JXN2JwLWVUb1gzTnlqa0QyQVRpREhCeVpYMnV5UEFzemdiRWV0U3ZHMW9LeWprY1A3UzNQdmNWT2JlUmNfT1RXdllfTTNoQldQZ253WDV4djlxQQ?oc=5",
+   "titre": "Manifestation à Toulouse : 30 interpellations et au moins 19 blessés",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 55,
+   "nom": "La Semaine des Pyrénées",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb190NWNBSHNreTZCMWk5SGdiQk1EZndnVVNzdnJ5RUoxcHVLQmFYamkyNHdUeGVyYVVnUVkwbjNMZDNWbXphaUdUZ0p1U1ZvXzBZQ05XMHBhZlFIYVhyZ3R6eG5Mc2VVdDN1ZGxKNkpBbk13M01KY2EwelY0SjlRT1hDMlVJZGtqLTZLWDJ5NzdmdVBPNTV0V3dpZTZZY1FyYUtaalNWX1ZJR3RYNEJtYk83Y25UcWtlRHdhYUJWcUpnTkVfT1ZiajY5ZHBfRm9BUmVOUDNrVlFXSmxxUEdjOHhDWkg?oc=5",
+   "titre": "Gironde - Bordeaux : plus de 21 000 manifestants mobilisés contre la vie chère, 22 interpellations après des violences",
+   "date": "2026-11-06"
+  },
+  {
+   "n": 56,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRFdPLWRGRlFYZ0xmRF9QNVhtNkd6TEkwalhTcmo0M2VZcEl1VVR6X1NzT190RnRyTnJjbGhGMjNlS2ZaSEIzOWRkRXNRMHJzbWJiZlVvS1YtUHg2OHFvZi1vallDV1NpdmtKVUpNLWZxVV9MMDZGVmdLOXQzemkwUUt3YnEyRVhnZFVWRkN5UlBXemNSOWlEbFdRSUVqNndnVGZobGVkVmdpRUpERGt1ZGJ6d1JQZnlXMVM1dWNhbERxMXhQNDNrTkx1Tm1aNG93dmlkQjE3RnVzQmhpdFFBT25kRlh5MHpPeVl3RlJ0a0VMdXBJTnllcUhEMA?oc=5",
+   "titre": "Mouvement lycéen : 41 lycées « bloqués », selon le ministre de l’intérieur, qui dénonce des « incidents très graves »",
+   "date": "2026-11-06"
+  }
+ ],
+ "genere": "2026-11-07T05:45:11.931790+00:00"
+}
