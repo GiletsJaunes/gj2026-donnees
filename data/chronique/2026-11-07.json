@@ -77,7 +77,7 @@
   {
    "texte": "Mobilisation du 7 novembre : 46 000 personnes ont défilé à Paris selon la préfecture, 75 000 selon l'intersyndicale de la jeunesse.",
    "sources": [
-    18,
+    19,
     48,
     49
    ]
@@ -106,7 +106,7 @@
     1,
     3,
     9,
-    11
+    12
    ],
    "theme": "Répression"
   },
@@ -123,7 +123,7 @@
   {
    "texte": "Selon France 24, Colère sociale : des milliers de personnes de nouveau attendues dans les rues.",
    "sources": [
-    33
+    34
    ],
    "theme": "Colère sociale"
   },
@@ -132,8 +132,8 @@
    "sources": [
     5,
     7,
-    20,
-    30
+    21,
+    31
    ],
    "theme": "Politique"
   }
@@ -147,7 +147,7 @@
  "jour_long": "samedi 7 novembre",
  "acte": "Acte IV",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -214,254 +214,254 @@
   },
   {
    "n": 10,
+   "nom": "Info-Beaune.com",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNY1dyMXN2NThvSXdoRHMwT2RXdmtrSEkxeWl2N3B5MG9DNW5Xb3NvUVpFM3B0QVI1WG1FaGlwenRSXzRMSmdGdjF0Qzg5cWd3NkRlRkRESnZZMFBqdzVRMTI3LU5pZWhzTW9kZ3VMOFpJZk1SMVVmb2dxWWlEQ3g0UlZxNnNtWUpyV0FPQl9fTTB2SmNnZ3o3QjBHaTFfRlR0T3BhZG1hM0VlZW0wcmZIVklUOF9zVUhMY3daVjRtWDZUa1JOQ1QyelNQeVNBaG0xR1I3RjlxRHV5U2J6emdkTVI4YlBKQkYyTE5GZElZZVdnb0gyZ1Z5S0RUaHVpWEk4cVZVTGFsbnlUbHZVZDZQNi1qRURzU1huYlAtMFhTcEg?oc=5",
+   "titre": "Dijon - Mouvement « contre la vie chère » : la liberté d'expression préservée et le périmètre de sécurité tenu face à une manifestation non déclarée",
+   "date": "2026-11-07"
+  },
+  {
+   "n": 11,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdXpCS3YxRGVrdzNsVDE2MmhGWi1VNG4wTkxRc1l3QzVtNFZzcHVvSU9oYnk2ekh5VEtLN2dNbWw3bWVmSzBXbDU4UjNPM3ZGVURxYkZLTWtpRm81Nzc2RlFnejY4SWdOcDAxMUt5Z1FuWnY0d0NfYWxIX0dOeG1YMGlqY2I4NDBwcXllcS1OdG1ON1ZPYXJPbThJc3gtUG9yYVRoaHZiTWcwRTZqNTlXSmN0UDRaY2ZTVjF5YzZoTVBnSVkyaW9wVklEWjhsWF9JYkpkczd5QnM0UDJYTnZkN2pyQzlUZw?oc=5",
    "titre": "Manifestation du 7 novembre : malgré une mobilisation en baisse, la rue veut \"maintenir la pression\"",
    "date": "2026-11-07"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Plein Air",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWC1scjlRcXE1QWk0dUtlSFNvVlJyVGI4TWxrMHJlWmdWaXd2YlV1MGdYb1VlRDVacWZCQ3kwNUtOLUVoWEJZUk9rYzRlWFB3WUxneldhZmZsbjQyb2F4V216WHAzaUR4cUZ2QUtUUi0tQmpTeUYxRW9SZy11YUdtXy1haUJHaEUyUFZPQ1llSmplNnlYaG9pdEJXcnVnMER6SlV6Yk1pRlh4MUdSX1dTRTc3eHZGY1YzSWc?oc=5",
    "titre": "Besançon : 4.000 manifestants, 17 interpellations et six policiers blessés",
    "date": "2026-11-07"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-7-novembre-deux-leaders-gilets-jaunes-ont-ete-places-en-garde-a-vue-leur-avocat-prend-la-parole-sur-bfmtv_VN-202611070443.html",
    "titre": "7 novembre: deux leaders gilets jaunes ont été placés en garde à vue, leur avocat prend la parole sur BFMTV",
    "date": "2026-11-07"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-7-novembre-250-000-manifestants-denombres-dans-toute-la-france-par-les-syndicats-146-000-par-les-auorites_VN-202611070435.html",
    "titre": "7 novembre: 250.000 manifestants dénombrés dans toute la France par les syndicats, 146.000 par les autorités",
    "date": "2026-11-07"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "Paris Normandie",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYktjOGRXM19qNFlxY3AzdnVKRmpzX05Oa3BIeXU4bW1OOTc1YTQ4M3Y3bl92dXNxX3lqVnZqa2dqZlZ0RzhaMExHdFZZLUpxU1BlYW4yRVYzNm9fdnZSbTVUUlFaRG9ySDUwQlZhaXp0bGNFZEZzUUhEb0ZReEtENWpKbnF6WlJmZWd1Rk8zQ05NVmRGdW9zb1hHeHBFMV8tc2ZVMGdQSGgyNzA3d3JtNHhwLU9yU1B5WmJjWDZxaGVEZ21FT3ZJaW95U1l0a2JZVERUQjFual9DUGN6dUlr?oc=5",
    "titre": "Vidéos : Acre IV contre la vie chère : manifestation à Rouen",
    "date": "2026-11-07"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-46-000-personnes-ont-defile-a-paris-selon-la-prefecture-de-police_VN-202611070376.html",
    "titre": "Manifestations: 46.000 personnes ont défilé à Paris selon la préfecture de police",
    "date": "2026-11-07"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/manifestations-du-7-novembre-une-centaine-de-gilets-jaunes-reunis-place-de-la-concorde-a-paris-un-chef-de-file-interpelle_AN-202611070347.html",
    "titre": "Manifestations du 7 novembre: une centaine de gilets jaunes réunis place de la Concorde à Paris, un chef de file interpellé",
    "date": "2026-11-07"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-manifestations-du-7-novembre-le-ministere-de-l-interieur-annonce-15-600-controles-et-18-interpellations-selon-un-bilan-provisoire_VN-202611070339.html",
    "titre": "Manifestations du 7 novembre: le ministère de l'Intérieur annonce 15.600 contrôles et 18 interpellations selon un bilan provisoire",
    "date": "2026-11-07"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "DIRECT. Mobilisation du 7 novembre : le cortège parisien s'élance de la place de la République",
    "date": "2026-11-07"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ1hIUHhxZjlCc2lPZHpnQVFxM29rcnRwY3NHQjlfZ2ZfblRMVlh4MDY5MDdqcWhyWjNqdGJjY0pzdHlCRUZBalFmSFpSZmFQMTNuNlZmdDBrSW9QdlBMUkxuTk5ETFlaWjJUeS12YjVXT2lEZDR1RlBqV1pxX25Dd3dHRXJXWHFHNHBHTTJldkYzY0hmRmRtZDlEblpEUnBTb2gxNHItTU5mdnZ3VWxBNDR1R0dnRFg3cEdNQ0xQQU9INFMtdzV5R3J4S3hJLVlMN0Z3c3p2dlpVaThkTFNjVEctaHFyS200bC1ORzlXam5PalNqbHZiSmVGQXJ5bFJGYmc3b1FOYjdvU00zWUk0MEhYaERfZFJzdWxTWDZ5N2h5VGNP?oc=5",
    "titre": "Mobilisation lycéenne : accusés d'avoir tiré des feux d'artifice sur des policiers, quatre adolescents de 15 à 17 ans poursuivis par la justice, l'un risque la prison",
    "date": "2026-11-07"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
    "titre": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
    "date": "2026-11-07"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQckZBMllmYVE1UWktb09HQTg4M0VBX2YzNkF6VjRGMUUyWFlVcHNWekZwREtLZnNCOHdYdkFWQ25NSkZ4MmVmaGhFaWg4bUhoaGxFc0l2UVdlTEhPWHlqYjdUbk5ScnRzTENRSnRfYXd1bjRKZGdpUVNhU2dFUlY3a040VWxycnFXNm10WmlfMndOdzJETmhyVmV5N3NWa0NVc3ZibTRvYjEtSW5JVTRJWDJ1V1YxdW50QmVDTE9fRjQyVFJTcVR2VE5WSGxwMEh5RFJ2QnRHVk5hTmNsS1BmS0hYZkF1alFEMnZEN3BDNlRIbEdzSkhqVFN0bl9naThnV3FRVGcyZE16TWxNeURsb2hnYURVUU03em5qXzMzTU96RnExd2h3WGJRVmFvaW8zUk94bmpJNng?oc=5",
    "titre": "Manifestations du 7 novembre : la mobilisation en net recul en France, plusieurs milliers de personnes ont défilé pour « maintenir la pression",
    "date": "2026-11-07"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/colere-sociale-les-syndicats-de-l-education-nationale-et-de-l-enseignement-superieur-appellent-a-une-nouvelle-greve-le-mardi-10-novembre_AN-202611070235.html",
    "titre": "Colère sociale: les syndicats de l'Éducation nationale et de l'enseignement supérieur appellent à une nouvelle grève le mardi 10 novembre",
    "date": "2026-11-07"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-information-judiciaire-a-ete-ouverte-a-pau-contre-des-lyceens-pour-violences-sur-des-policiers_8272136.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Une information judiciaire a été ouverte à Pau contre des lycéens pour violences sur des policiers",
    "date": "2026-11-07"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOVXRMQXludkZpS2pyNS1IVV8zVElXQnRYRlBpeVlUeEp5N0RPUTJ5WkhMOV9ibTdwSjlpcHlzTm53djBqbm96aUNXWnlmU1IwTjlPck5IeXJMZmdiZm91OVFBOXVsblRubThfV2NUbEZwXzlreUlWdU90SWZWdEc3c2JDWWRkZ3JxZWU3M0JBZGxUUXdORnJab2s5SkdCdVF0ZWlNb3RmU3VUMGhuODB2ZmN0ODVZWjA1bWJyYzVuZmlNRG5jYmpUdmtmX0NRbDdWczBsWGNOdXE3bFFWM3BFWWFvSjQ4QzBEaVpWT0p5cXRsaDRYU1E5a3BVNnVyM2pzc2lGTzh2a3Ywb3pXeEx2MjJ1bTU3OENtcFJMWUJR?oc=5",
    "titre": "D'anciens élèves de Polytechnique seront-ils sanctionnés pour avoir manifesté en tenue militaire contre la vie chère ? Leur présence fait polémique",
    "date": "2026-11-07"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "TRT Français",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HSlIyNE1BblotZzVrSEZqR1BkdXdVbGxQUmhMWVdsaktIM1MwSFpwc0dmSTUyVW8xSmphLUhDN2JBcGktcG9pWE54N2QzQmIxVVh2V0xOcE1zSGpi?oc=5",
    "titre": "France: nouvelle journée de manifestations contre la vie chère ce samedi",
    "date": "2026-11-07"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "Libération",
    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUUNodkdsZ0VWOG16QUxNcUxkLVJER1BuZjFHMFc4cEJQd1ZCZWxqT3h3Q0UtN2RaRjB1dVlOTEtROXJTSDAxQ0ZjNTYwanpaenMzeHQxRHp3cUp0OUQzYk44MmFGbklEYlhJM1luNElmYVp4VDRhdTdHQTBnWGl0eUZSTndNeTlITF9GRUtiN1FabDZBVGF3N1BYZmhNbG0yMTVpd0xKZDAxblpfOFRIdlllamZVQ3U4SmNtMWZPRW1NRlA5QTZkaHJpOVd0LWpHZXFnOXdhV0I5SU5RWnVmWkVqSldBZHFJVXVyQXNKRDdwQ3otS2R6VVRvYWdxTVRMdWthWHBXWkFSYjZHQ3BydGZHQXltQS1jeVFVWERaNnphMXc?oc=5",
    "titre": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
    "date": "2026-11-07"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2VTc29tS2ZiNXI5NEYtWjFZaXZRa2NRMXcyZEtsQXFTS0F0eHdkYXBQSEtkdFlyaXk2VVJ1d0RGQ3NYQ1h6LXJ5T3oyM0N2elIyczI3TzV6V3RCbHVoQUZhNnl1Mkd1YXBpZk1Yd2NfLU40OVhJWEhLdFZHVFNaaG1kSHY1UTFxcU16a2pCeXFkbTFnc1FTeUROVVR4Z3pJcy0xdll4ZW5DRnVCSTJfQlRmbjRqMU9HUnRRejE1b3lmSUJJZVY2WS1FSXJUVnN4cW5pTGdn?oc=5",
    "titre": "Crise sociale. Après la mobilisation massive de jeudi, un acte IV ce samedi sous l'impulsion des gilets jaunes",
    "date": "2026-11-07"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "CNews",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFN3dWhfY09tRGlWWVNyT0RIUE0weGhWMVBJbVBhRkZPaHo4WXZYRGdRenQ5QWV1N2RVX3l2T1NhcjhrRGdqS2R6MWxjTUFYeFBaS240TGU0Ui1RcFV5VkNaT19HQXo3RUk0Y3NOV0pjeVl6SW9pLXFNX1NPOWxWeDkxNWNNbHVpMGhTX05RbXZoQ3JUdDNDUnZkVzQ5MGdxcEwzbEJWdWFXMXc5eDV2M2dwSmxlVjAyT3JF0gHAAUFVX3lxTE5xUWltazFJMDlWTlU4QkdxajF4ZDBzS3RtSFRTNWkzd3VYVWlKR054b3Fpc2tJVzNZdUhwcU1ubW80YTl3dkZxcl84SFFiaHpiTFlKWnBFeC1SWU9lV0VEb3lyd0xOTGJCX1hPcEZZLVBYR2NfQ0RQOEdBNXVSZGk4VW0yYkh4LWprRmd6M2JfLXdTMzRmQVlUMUxEbGptWnM3bkQ1cHJSQUpQNVNOVnNvMzdTQjhkcDFTQzRVQW44Yw?oc=5",
    "titre": "Manifestations du 7 novembre : 146.000 personnes se sont mobilisées en France, selon le ministère de l’Intérieur",
    "date": "2026-11-07"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1VMUUYyUTc2eFoxZFViNHc0TmREY1RIN3RIZVdRN0xiMTg5QWlPWmNTNEkweVo3MTJLMDZ6U0NmOGdCcVdFZWlNN2pjY2J4OVlsd3d2ekVxeW5jbGNTQkxvQ0tpc05nY0w3V29yYTBOckRvQW94T040LXByZW5qY201Mm8tSVMyVDEtMUtieHpIZzlzMHVXT3FiQURHcy1tWnkyZkpfcjg1VWtGajRWb0RRZzE2ODA4MVo4Q2ZCN1JjZ2lLSDE1c1JOU0ViV3NibWxKYkhWaUQ?oc=5",
    "titre": "Mobilisation du 7 novembre : entre 146 000 et 250 000 manifestants, des Gilets jaunes verbalisés",
    "date": "2026-11-07"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-jean-luc-melenchon-premier-sur-le-programme-et-les-meetings-73d6c2ee-da04-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, premier sur le programme et les meetings",
    "date": "2026-11-07"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/07/mouvement-lyceen-apres-les-vacances-scolaires-un-retour-des-blocages-marque-par-une-hausse-des-tensions_6808168_3224.html",
    "titre": "Mouvement lycéen : après les vacances scolaires, un retour des blocages marqué par une hausse des tensions",
    "date": "2026-11-07"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWlhOMkxydmdXUmNHQkNHRjVOdVlmMHhjTkoxQ3d1RUFNenZ6ODB1eXVyS2x0dEg3Y2ZrVUo4X1cwNEd2ZHBWdFU1ZUh5Wk1iQnJvNDdWT2J3aThLbkx6VnJyQVFoeEdFV2R4RWpJXzVtSDRqcjRiSEVGWjNTWWx3Q2ozRVRULWljYzQxZmVYa0ctUQ?oc=5",
    "titre": "EN DIRECT Manifestations du 7 novembre : La jeunesse et les « gilets jaunes » attendus dans la rue pour l '« Acte IV »…",
    "date": "2026-11-07"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "France 24",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN05ZZ0pNUnhtWjg4YU10cVNpclpIcURiblp6Z1NTSmNCSkNSVndYaVB4ZEloWU9VOTlnRW5zQlRSd1hNd255UEI1UVRHY3o5S3RpbWNfWE1GdWpubk1RVFkyUjVYbE1ub0tJQWg3YmpKZ1UtbGdWVEJpU3FHUjFQU2REWnlfcE0wWWhMV0Q2d1RuWFp1V21SOF9UaEtyS3VOeHN4U0Z2NkpZa0pYVGVQVFRBRFZCWFZ6ZFhlNkw1RTBWd1pDM2Jyb3hBVQ?oc=5",
    "titre": "Colère sociale : des milliers de personnes de nouveau attendues dans les rues",
    "date": "2026-11-07"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "Dijon Actualités",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLTNnalBYSV9WZFlEVWJUbnYtdTFjYjFxNXdOaVF4ODVqcUEzQzZQeDAyUUstSFZzN1l4SmFiUXNJMFdUWkVqdWtlVF8xbnR5aEpaQm9iUzlrUVZyT2tzTFlXTzdfWXg3RGprOEU0LTg4bEVYbnl4MUZCNXdjY1c1VnBhQWQwNUVKUVdQVV9qMkc1RnQweDI1QmFQTDdlclFBYVFjMWN0NlA1a0liMk5DZXlzYU5kVzRzVnNmc0h3MkFiWUtvLTJZSURtS2QwcDZOTUtoR0JITXlmdm1OVjFoR1l6SmNieEdINlc4eXFyYkwzd9IB-gFBVV95cUxPYUF3YWROY2YyYXlWN0lPeWd2TXZGQ2hMMWhmazlnaWlFTVRoSjRYeURRaklDVlFEcHBQNFMxX3JYT0Rzdy10dmt0TUh3Ql9LSFl3M0FWLUlmcDQ3RUluUTJwbC11VE03YkhxUS1CbVRRdVVVZUpvWVdhaEQ3MVp5ZnhFbXREVktxS1R6dE92emZHbTNPbFhKRTFmQWxDMTNERUd3UmMyUEFCVkpvellVMzBTR0FyRC1KVWdVc0w3a1UyYlU5VUVKUUhFYWNkRW1OWWhITHpRcVI0cGUwVzhYVVl6OVV4Q1JoblBCY0VsZzFQV2tNbl85djZB?oc=5",
    "titre": "Manifestation contre la vie chère à Dijon : jusqu’à 1 500 participants selon la préfecture de Côte-d’Or, deux",
    "date": "2026-11-07"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-146-000-manifestants-360-interpellations-interieur-07-11_VN-202611070563.html",
    "titre": "146 000 manifestants, 360 interpellations (Intérieur) - 07/11",
    "date": "2026-11-07"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-la-reponse-de-fabien-roussel-pcf-sur-les-deputes-de-son-parti-qui-soutiennent-jean-luc-melenchon_VN-202611070557.html",
    "titre": "Présidentielle 2027: la réponse de Fabien Roussel (PCF) sur les députés de son parti qui soutiennent Jean-Luc Mélenchon",
    "date": "2026-11-07"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-budget-pour-la-france-comment-vous-voulez-construire-un-compromis-quand-ceux-qui-representent-le-gouvernement-ne-sont-pas-presents-denonce-dieynaba-diop-porte-parole-du-ps_VN-202611070552.html",
    "titre": "Budget pour la France: \"Comment vous voulez construire un compromis, quand ceux qui représentent le gouvernement ne sont pas présents ?\", dénonce Dieynaba Diop, porte-parole du PS",
    "date": "2026-11-07"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-jean-pierre-farandou-ministre-du-travail-declare-a-la-tribune-dimanche-que-porter-le-smic-a-1-700-euros-net-detruirait-plus-de-230-000-emplois_VN-202611070550.html",
    "titre": "Jean-Pierre Farandou, ministre du Travail, déclare à La Tribune Dimanche que \"porter le Smic à 1.700 euros net détruirait plus de 230.000 emplois\"",
    "date": "2026-11-07"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-manifestations-en-france-ce-7-novembre-les-grandes-villes-ont-ete-emaillees-de-nombreux-incidents-detaille-le-ministere-de-l-interieur-dans-un-communique_VN-202611070551.html",
    "titre": "Manifestations en France ce 7 novembre: \"Les grandes villes ont été émaillées de nombreux incidents\", détaille le ministère de l'Intérieur dans un communiqué",
    "date": "2026-11-07"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plus-de-soixante-parlementaires-centristes-appellent-a-une-primaire-contre-les-extremes-20261107",
    "titre": "Présidentielle 2027: plus de soixante parlementaires centristes appellent à une primaire contre les «extrêmes»",
    "date": "2026-11-07"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
    "titre": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
    "date": "2026-11-07"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcFFkSkgzV1JwYTBJMjhTOGRlQUlNS1FBZXozdlpKQTNhZmdONGpETnVIMzgxOE5oQW96ZzR5NE9VVFhoamtKYVlXNXV1eFJUWGVXMnJUelp4OWxUak5nVWhQWFpLNzJ2THNVVmV1bG8zWUdVbmRJVW5tYThaZWFPdWNUTlBoaFlPOXdfMWl3VkQzQXlLMHBZc2NtUDNKc1FUbUVtdzF0Sk9PaU1hMzR3c3ZXcllGQUI3MHRWRUpsT2Q0MzV1cXdzOHZSZTR2NGgxV0lZS2hIelFISE9mLUZ2UlVtR2o0UGF3WjJsNkxRYkNZcWFiUW15aERZTi1FSHcxMG9ud3Jya0RzdDVMTFlJ?oc=5",
    "titre": "« L’important, c’est d’être là » : 2.500 participants à la manifestation à Tours contre la vie chère",
    "date": "2026-11-07"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVktSbzJUZmlPWkc3cEFNMW9vaFVxQXBMemVueDczWWNpaGw2cDllNHBsTmJsSHFrQ2NTSHhqcE5adkZVWHJnd3NoU2M1aThfaS11cGFuTXFYdmpxNmVfNXU2MFR4ZEV0N2ptX1pma1gtQ2NhanVmUFdheVJGRHVaRmhBOFM0cEM5MVVUSDFoaUxleC1SaUxha1R4d2Z2SGlkRnZDendUUFgyQVF0SHlDRkVsWG80VUZSSTRDWTVVelE5ZUlSanZpNnI0QkZQQ3NWVzlOUzBrc2p3NmR3eGthUw?oc=5",
    "titre": "VIDÉO. Contre la vie chère, antifasciste : un samedi au rythme des manifestations à Tours",
    "date": "2026-11-07"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
    "titre": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
-   "date": "2026-11-07"
-  },
-  {
-   "n": 45,
-   "nom": "lanouvellerepublique.fr",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlIwRGJRR01kUzdmMkZHWTRQUC1Lb2o2WTZGUXUta0FDUWNVRXdCUU5LcF9XZ2QzRHRzZFVHRWxWVW9VMUljUkNHaFdVRUF5aTZZc05sZjlXRjVEWFZwYWNwajVHalZkUmNFTE5mcmlBcGxoZVlhSW55cG1SaGtNUzdJMGhnSllTUURGcFphcmp0TWd6MUZhZ2VGQW54aVlUS3p5dXdkYy0wVldPdXZCR3FJUFRhRDNrendMdmNiZEwzYW5ZNWE1aUt0R1QyZkZQSnZreTU4VU12b193aVVLWTVPVTdWbDFNd3hxTzJuZWZSM3RLckVheks4VQ?oc=5",
-   "titre": "Étudiants, salariés et retraités unis par la même colère face à la vie chère lors de la manifestation à Poitiers",
    "date": "2026-11-07"
   },
   {
@@ -598,5 +598,5 @@
    "date": "2026-11-07"
   }
  ],
- "genere": "2026-11-08T06:53:24.851294+00:00"
+ "genere": "2026-11-08T07:57:54.185543+00:00"
 }
