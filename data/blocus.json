@@ -1,1 +1,1 @@
-{"maj":"2026-11-09T07:22:13.579041+01:00","evenements":[]}
+{"maj":"2026-11-09T08:51:40.454547+01:00","evenements":[{"id":"dabfe680af","ville":"Lyon","dep":"69","lat":45.758,"lng":4.8351,"date":"2026-11-09","heure":"","type":"blocage","lieu":"Fac Lyon 2","incident":"","organisateurs":[],"mouvement":false,"alerte":"","statut":"annonce","nb_medias":0,"confiance":"Informateur du canal GJ2026","post":"https://t.me/blocus2026/225","sources":[],"texte":"Fac Lyon 2"}]}
