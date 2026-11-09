@@ -14,12 +14,12 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Sud Ouest, Gilets jaunes : les deux chefs de file interpellés samedi sont sortis libres de garde à vue (repris par 3 médias). Selon Sud Ouest, Colère sociale : deux manifestants portent plainte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre (repris par 3 médias). Selon Le Monde, Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne. Selon Ouest-France, Manifestations du 7 novembre: à Nantes, « 23 heures de garde à vue » pour une amende et une interdiction de centre-ville.",
+   "texte": "Selon Sud Ouest, Gilets jaunes : les deux chefs de file interpellés samedi sont sortis libres de garde à vue (repris par 3 médias). Selon Sud Ouest, Colère sociale : deux manifestants portent plainte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre (repris par 3 médias). Selon Le Monde.fr, Mobilisation lycéenne : des centaines de personnes ont manifesté contre la « répression » au lycée Paul-Eluard, épicentre de la contestation. Selon Le Monde, Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne.",
    "sources": [
     4,
     6,
     14,
-    18
+    15
    ],
    "theme": "Répression"
   },
@@ -36,8 +36,8 @@
   {
    "texte": "Selon France 24, Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?. Selon Le Figaro, Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine.",
    "sources": [
-    17,
-    32
+    18,
+    33
    ],
    "theme": "Colère sociale"
   },
@@ -61,7 +61,7 @@
  "jour_long": "dimanche 8 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -156,226 +156,226 @@
   },
   {
    "n": 14,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTG9iMVJVM2FNc3Z6MGJ4OU1hNE1RV3pOU2ZVNU5HVDlGWlY2cktueDF6Tl9Kek9lSVlWZUlCdzJsbEx4WmFkWG1LclA3R24zbmpfLTVfa2ZIN3RBWGV1ajBZb0xPZ282WE1hTkpVbWRYQzRZQzJOT0dDcnVEa1FCd1luOTc4R3l4WnhvS1VLM0lZMzdCWGxjWTAxamR6czYtcl9vdFdwUDVMNlVkSzFxdGUxdjFMNmZTQ2tBcnF3SDV5a2FWelFhM0pTNlpPNDR2THVab01HSTdhTDU1UTQwSE11UWhGN1QxV3hOdHdMTTI2TkZXWnlKSjZLQ1NLTGFHb2Rv?oc=5",
+   "titre": "Mobilisation lycéenne : des centaines de personnes ont manifesté contre la « répression » au lycée Paul-Eluard, épicentre de la contestation",
+   "date": "2026-11-08"
+  },
+  {
+   "n": 15,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/08/saint-denis-rassemblement-contre-la-repression-au-lycee-paul-eluard-epicentre-de-la-mobilisation-lyceenne_6808470_3224.html",
    "titre": "Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne",
    "date": "2026-11-08"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-manifestations-en-france-la-crise-sociale-est-tres-profonde-observe-henri-guaino-ancien-conseiller-de-nicolas-sarkozy_VN-202611080440.html",
    "titre": "Manifestations en France: \"La crise sociale est très profonde\", observe Henri Guaino, ancien conseiller de Nicolas Sarkozy",
    "date": "2026-11-08"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/emmanuel-macron/c-est-un-caprice-de-gosse-a-cergy-la-mobilisation-s-organise-contre-le-projet-de-parcs-d-attractions-d-emmanuel-macron-et-du-prince-heritier-saoudien-31451311.php",
    "titre": "« C’est un caprice de gosse » : à Cergy, la mobilisation s’organise contre le projet de parcs d’attractions d’Emmanuel Macron et du prince héritier saoudien",
    "date": "2026-11-08"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-patronat-et-syndicats-re%C3%A7us-lundi-%C3%A0-matignon-la-col%C3%A8re-va-t-elle-retomber",
    "titre": "Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?",
    "date": "2026-11-08"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPTTNhcmN4WDNmZnVGWkpfUjdEU05QUjJ0cGU3ZlZKWXNzOUJ2NzNqdWM4OXdzb0ljaGZocWNBTDNZbDFmanZmOXdtZnpCT1o5V3BkekdHOTRyRmdmUWUxTXhYQWkzZDBKd1FqdDBYR2lTODRaem50TV9TTWd3Z3JUNExXdmc1LU9LVS1wVGVtSUY3bUhlYTYxcWpuV0xURmtsQllBQUpkbUVqVVBTVm5ENEx3XzRqUlNzNDFpUkFOUFJ1UkZ3OWJUbVoxcEZPUUV5Zkc5cXNNLTJCcnEwSzhsdTNRZDJLYnYwTG0tMTI4RjhUVFlXM3d1LTlVNGhOTTE4WEUyd1hXa0FvcXNSSmF6UVg1RnZxclNzSlJicjM2bkZTa21lSm8zaA?oc=5",
    "titre": "Manifestations du 7 novembre: à Nantes, « 23 heures de garde à vue » pour une amende et une interdiction de centre-ville",
    "date": "2026-11-08"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html#xtor=RSS-3-[lestitres]",
    "titre": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
    "date": "2026-11-08"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Revolution Permanente",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjBFY21yRGNYQlVXc0E3cjNIZTBGYk9UWTdRM2RqTDhwM2RZdi1jMnl2Yml6VEN0QzE1V095cmpGSXMteWtMTlJpRlpRQ3hNX1RmekNBdTZvN3BmeXlULWhpMXZ2NHpCVXQwVzEyZGN3cTF3THRLZWU4Mlc4YzdGWF8zTHNJRmZ2dFlJbXVIZi1QaUJzNlZJRVpwamo5T0JXWG54WTU1R1NlSFlzbVpBYXNUd2I3X1dPYlJUQ1laSVF5a1FLWUxManRkaGXSAdQBQVVfeXFMUDhNQ0F4dnZickN1UHp5NEZDd2FBYlZCM2JTRFBKcTlmRURhLWFxYmdPUEQyRFl4S2lPTnoyT19Ld0ltLVc4dWxSVEZZOFlLWDJCemgzRG4wM3ZZZVB0ZE1YQjg0ZzNqMGVxVC1VbmI5OWV0LUNqQlJYeUx3c3RhUXNCZE9IR1pTN2JQblBYeG9UcEdCWEZrRzlPX0hIQ3VWU2Q0R09LdlI1Q0VQWERrd2ZuVENmbkZiWlhsbDhOcVI4RnlTYklEYTFXMHg0TDBJRjNUWGU?oc=5",
    "titre": "Fichage, retraits sur salaires, convocations… : le ministère lance la chasse aux profs solidaires des lycéens",
    "date": "2026-11-08"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "infos-media-nantes.fr",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU5mRC1BVWNjaFpPZWJGUjM3R2dxa01Vc1hXUnhoMEhuTS1iREV6V3hNU1cyejhRLUV2OUw1XzBJOE9tbmRhSWpaOExGdkJjTHM1Ump1OWVsd09yU3NobElfckdEU2Z3Z1o0b3F0YlJlX2xERFpod3UzaDE5aXVLT0tZZU84bXhFNGhPT1lwaFVLX0RwZ1Y5U25LcmFCcmJFa1NBUg?oc=5",
    "titre": "Nantes : le bâtonnier s’inquiète des gardes à vue après les manifestations du 7 novembre",
    "date": "2026-11-08"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : Wauquiez pour un seul candidat, Roussel candidat malgré les départs et Glucksmann balance sur 2024",
    "date": "2026-11-08"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-christine-lagarde-tentee-par-l-elysee_8273705.html#xtor=RSS-3-[lestitres]",
    "titre": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
    "date": "2026-11-08"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/education/ma-place-est-devant-letablissement-pour-assurer-la-securite-des-eleves-a-saint-denis-une-mobilisation-contre-la-repression-incessante-au-lycee-paul-eluard-20261108_QHUM2LLA3FGNBGWYOLE7VRNHTY/",
    "titre": "«Ma place est devant l’établissement pour assurer la sécurité des élèves» : à Saint-Denis, une mobilisation contre la répression «incessante» au lycée Paul-Eluard",
    "date": "2026-11-08"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/ils-ne-le-supportent-pas-glucksmann-assure-qu-il-va-mettre-fin-a-l-hegemonie-culturelle-ideologique-et-politique-de-melenchon-sur-la-gauche-20261108",
    "titre": "Présidentielle 2027 : Glucksmann assure qu’il va « mettre fin » à l’« hégémonie culturelle, idéologique et politique » de Mélenchon sur la gauche",
    "date": "2026-11-08"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "Libération",
    "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/",
    "titre": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
    "date": "2026-11-08"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-detre-ministre-puis-premier-ministre-demmanuel-macron-578664b4-dba3-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Présidentielle 2027 : Raphaël Glucksmann affirmé avoir refusé d’être ministre puis Premier ministre d’Emmanuel Macron",
    "date": "2026-11-08"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "Paris Match",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0hLMzNzLTBfNk51TWVZekZkM2FjdmlkSXB1dkRjNm1mSkNrMFdBRTRIaFVCMUZaNm5rc3hkb0FtSDEyc09tbGNQM19BY3BpUm5wUEdyRHgtdTI4TkFZaC1ldVU1QzZFTzY2Rkl4Q0pHLXBVMno5X1l4VWFxME5ScU9CZ25BNk5TUkt0VTB3R1ctYXotQ3hndXoxNmVSQ040V3VFVl9XdTV4Zw?oc=5",
    "titre": "Manifestations contre la vie chère : la double peine des commerçants",
    "date": "2026-11-08"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2tfekNpTmlBYi05cVFmQXB1UjN3NjhnM3ZELTJYRlYycmp2Um53RUpySXZRQ3BtYUx6V1Y2ald6Rkh2UlVVZEFDc0hjSjdWTnRRYTVCYjYxUklqQ0tCb20xNEYyOFBfSlVoS1BOenpnQUcyQlhFMlRVN1h0OHVNSGFDWmlaMWwyLW8zTExqRm9ObzhPMF9Na1dmd0pzLW9Va21NQUZSU0tNNThKZ29iN0FhTVFCRUJqYVNvSEZCbXlpT2J3RHBDX3VJRDUzQm5pd2N3?oc=5",
    "titre": "Mobilisation étudiante : le gouvernement exclut tout semestre validé d'office pour les étudiants",
    "date": "2026-11-08"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/raphael-glucksmann-veut-mettre-fin-a-l-hegemonie-de-jean-luc-melenchon-sur-la-gauche-francaise_AV-202611080383.html",
    "titre": "Raphaël Glucksmann veut \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\"",
    "date": "2026-11-08"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-domicile-d-un-policier-incendie-dans-le-gers-les-policiers-ont-legitimement-peur-observe-robert-menard-maire-dvd-de-beziers_VN-202611080378.html",
    "titre": "Domicile d'un policier incendié dans le Gers: \"Les policiers ont légitimement peur\", observe Robert Ménard, maire DVD de Béziers",
    "date": "2026-11-08"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sebastien-lecornu-a-la-manoeuvre-d-une-conference-sociale-incertaine-20261108",
    "titre": "Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine",
    "date": "2026-11-08"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-exclut-tout-semestre-valide-d-office-pour-les-etudiants-pendant-la-mobilisation-sociale-en-cours_8273630.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Le ministre de l'Enseignement supérieur exclut tout semestre validé d'office pour les étudiants pendant la mobilisation sociale en cours",
    "date": "2026-11-08"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "Libération",
    "url": "https://www.liberation.fr/international/europe/manifestations-en-comite-reduit-meeting-xxl-de-jean-luc-melenchon-attentat-a-cracovie-lactu-de-ce-week-end-des-7-et-8-novembre-20261108_W6EDZAGBMBGBNLNMKLMOJJ4MSI/",
    "titre": "Manifestations en comité réduit, meeting XXL de Jean-Luc Mélenchon, attentat à Cracovie… L’actu de ce week-end des 7 et 8 novembre",
    "date": "2026-11-08"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaXNSWVNqY3RrM3NhTV9uRFdkRWlmb3dfWUNVUVJMUHBTOU1uOTdtQlBKUTBUNGJaMjJxc1Nicy0yRGlBcmdTd0tjUFp2S3YxZm1FQXVYVWJwbnNWZy1JbE5hTlVDUEZzcE0wMURUTUx5elZFdF9IWFgwdmNGQnd1dUNYT2pxeW1sTW5qM1VZb2tabHFRSEhQcUFncGFCaDdQZXBHU3BLQm1pdnhBS21VQUxCcHZ6MWtndHhGWUVTRFBFdFB4RThvM255ZlFHdlN5aU5OTlB2cnNIdnlHQjVTczhQNTJjMWtiY2NUdjFzWEQzRi1YeWNkSUVSRGNjSUlZa3c?oc=5",
    "titre": "\"On reste toujours dans le dialogue\" : au cœur des blocus de lycées en Indre-et-Loire, ils soutiennent élèves et personnels",
    "date": "2026-11-08"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWFQ4YmRLNE5naUQtdDlyUVdydW03cjIzNUFaRnhVWWtkb012YzRYS3pCUENBSUZXM2xFY2NWUnplMkFITHFxb0FnUVNxUVV1cXFDVlNVQjlKeU1iam5FRXM3dkhZU3V2bVhyM184NUx5elZaR01JU0VEVVplcUtDUkRpaE9wSHRXdnhxTW1yeWd3SXZXc3pSOHdfYzZFN1l0MEJjaWhlZUhQZHhYbG93YWgyUU5UOFdlS3VGMlZaOXhuaFZOWjJmVjFnaHd1SWd0c0s2a2o4bEl3U2ZaTTk1MVY3b3B1a1lyQTdhVlpQekJGdw?oc=5",
    "titre": "\"L’un des mis en cause […] sera présenté en vue d’une comparution immédiate\" après la manifestation à Poitiers",
    "date": "2026-11-08"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "Libération",
    "url": "https://www.liberation.fr/checknews/manifestation-du-7-novembre-les-centaures-de-la-gendarmerie-ont-ils-utilise-des-canons-a-son-a-bordeaux-20261108_2OZYNSRDXRFPRESHHXPI5I4JKA/",
    "titre": "Manifestation du 7 novembre : les Centaures de la gendarmerie ont-ils utilisé des «canons à son» à Bordeaux ?",
    "date": "2026-11-08"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/08/mobilisation-sociale-republique-bastille-nation-le-trace-historique-des-manifestations-remis-en-question_6808460_823448.html",
    "titre": "Mobilisation sociale : « République-Bastille-Nation », le tracé historique des manifestations remis en question",
    "date": "2026-11-08"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
    "titre": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
    "date": "2026-11-08"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/police-justice/ca-va-etre-fun-y-a-pas-de-camera-dans-la-bagnole-deux-plaintes-deposees-a-paris-contre-des-policiers-pour-violences-et-agression-sexuelle-20261108_XZ3J375KE5H7HFIU7PTNLZNOLI/",
    "titre": "«Ça va être fun, y a pas de caméra dans la bagnole» : deux plaintes déposées à Paris contre des policiers pour violences et agression sexuelle",
    "date": "2026-11-08"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMG9xZ2g0UHp6STJaWUFLQzdqTDdpWXBNa3JramdsSjB3WlR5c3NDRERHNGpCZlpsN242S3FtQW9NWmoyNmxqVGtXUENSdEl2VDZLaVRLMDNTc0lIR3BzV043RTJNdWJCN0ZhWmRtQ3ZJZzFSMXpTa0RFaG1KczQ5OVlqcXZ3LTFjV24wdE5tVkwyb1IxcnBjcllQSXRHbVkzQmc1UUd6ZjdIQnhFVjItWGVtX0VMV09WQ24yOTBfYjJnMEpVY3ZYV0VRcGgxRF9abXN5SXB0Sjk1Z28tdWdoY2pqZVRMSk9YdmdJZ2ZxWDVvQmotZFVla01UUkx2R3NEX0E?oc=5",
    "titre": "Voir et être vu : une distribution de gilets jaunes pour la sécurité des collégiens de Langeais",
    "date": "2026-11-08"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "DIRECT. Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
    "date": "2026-11-08"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "La Montagne",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQzlkY1RST0czSFMtNVhhSFF5Tlc5a0JPcGQ1c19LdGFnX1N1U1pKMFR2WWotOXpudkxNTVIwdkZ2bnFaa0ppSE9pa3RLbHRmWGxVWDA2R3diVVNqbGFNUFVOdEFobnZyWVFCWlRjYzQ4NVZ3Z3JKWTU1TGZsdC15c1pFOXhEOXBnNXAyUVpfQ3FvQkMzb3Q4b2h5TFZlaDh5VmpiVG5weGtDV3Zyb1Bkb3YxZHEtcm42UGlobUQtMzlLdm43blRzYUxvMkZvV0dydW9lMGc0U0I4c3VNYjMzWE55XzFMa1VXYTBsZEI3ZTZBQzA?oc=5",
    "titre": "Manifestations sur un rond-point de La Souterraine en Creuse : c'est quoi être \"Gilet jaune\" en 2026",
    "date": "2026-11-08"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-a-saint-raphael-les-candidats-de-droite-se-croisent-sans-s-accorder-20261108",
    "titre": "Présidentielle 2027 : à Saint-Raphaël, les candidats de droite se croisent sans s’accorder",
-   "date": "2026-11-08"
-  },
-  {
-   "n": 45,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-raphael-glucksmann-hue-pendant-la-manifestation-du-5-novembre-oui-il-y-a-une-hostilite-car-nous-mettons-fin-a-l-hegemonie-de-jean-luc-melenchon-sur-la-gauche-declare-le-candidat-ps-place-publique-a-la-presidentielle_VN-202611080358.html",
-   "titre": "Raphaël Glucksmann hué pendant la manifestation du 5 novembre: “Oui, il y a une hostilité” car “nous mettons fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche”, déclare le candidat PS-Place Publique à la présidentielle",
    "date": "2026-11-08"
   },
   {
@@ -414,5 +414,5 @@
    "date": "2026-11-08"
   }
  ],
- "genere": "2026-11-09T07:28:05.898879+00:00"
+ "genere": "2026-11-09T08:47:43.707067+00:00"
 }
