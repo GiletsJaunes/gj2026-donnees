@@ -14,6 +14,7 @@ import rdv
 TRIG = re.compile(r"\bblocus\b|blocage|bloquer|bloquons|barrage filtrant|filtrage", re.I)
 ANNULE = re.compile(r"annul\w+|report\w+|c.est fini|n.aura pas lieu", re.I)
 LIEU = re.compile(r"(?:rond-point|giratoire|péage|depot|dépôt|zone industrielle|zone commerciale|raffinerie|plateforme|préfecture|gare|pont|périphérique|autoroute|échangeur|place|devant|parvis|esplanade|entrée)\b[^,.;\n()«»\"!]{0,50}", re.I)
+LIEU2 = re.compile(r"\b(?:lyc[ée]e|coll[èe]ge|universit[ée]|fac|iut|campus|sciences? ?po|institut|[ée]cole|cit[ée] scolaire|gare|pr[ée]fecture|mairie|rond-point|giratoire|p[ée]age|d[ée]p[ôo]t|raffinerie|zone industrielle|zone commerciale|port|pont|p[ée]riph[ée]rique|autoroute|[ée]changeur|place|parvis|esplanade|piquet de gr[èe]ve|lyon \d)\b", re.I)
 HEURE = re.compile(r"\b(\d{1,2})\s?[hH]\s?(\d{2})?\b")
 
 def lire_canal(canal, pages=8):
@@ -46,6 +47,26 @@ def _lire_page(page):
         txt = re.sub(r"<br\s*/?>", "\n", m_t.group(1)); txt = html.unescape(re.sub(r"<[^>]+>", "", txt)).strip()
         posts.append({"id": m_id.group(1), "texte": txt, "date": m_d.group(1)})
     return posts
+
+INCIDENTS = [(r"interpell|garde à vue", "interpellations"), (r"mortier", "tirs de mortiers"), (r"gaz|lacrymo", "gaz lacrymogènes"), (r"incendie|feu\b", "incendie"),
+             (r"tension", "tensions"), (r"police|CRS", "forces de l’ordre"), (r"blessé", "blessé(s)")]
+def incident_label(t):
+    """Jamais de texte recopie : seulement un libelle general (« tirs de mortiers »...)."""
+    if not INCIDENT.search(t or ""):
+        return ""
+    l = [lab for rx, lab in INCIDENTS if re.search(rx, t, re.I)]
+    return ", ".join(l) if l else "incident signalé"
+
+def propre(e):
+    """Nettoie un blocus deja enregistre : aucun texte de conversation ne reste. None = a supprimer."""
+    e.pop("texte", None)
+    if not e.get("mouvement"):
+        if not LIEU2.search(e.get("lieu", "")):
+            return None
+        e["lieu"] = e["lieu"][:70]
+    if e.get("incident"):
+        e["incident"] = incident_label(e["incident"]) or "incident signalé"
+    return e
 
 def heure(t):
     m = HEURE.search(t)
@@ -80,7 +101,7 @@ def extraire_post(p, canal, nom, idx, aujourdhui):
         out.append({"id": hashlib.sha1((c[0] + c[1] + d.isoformat() + p["id"]).encode()).hexdigest()[:10], "ville": c[0], "dep": c[1], "lat": c[2], "lng": c[3],
                     "date": d.isoformat(), "heure": heure(t), "type": "blocage", "lieu": lieu.group(0).strip() if lieu else "", "organisateurs": [],
                     "mouvement": True, "alerte": "annulée" if ANNULE.search(t) else "", "statut": "annonce", "nb_medias": 0, "confiance": nom,
-                    "post": "https://t.me/" + p["id"], "sources": [], "texte": t[:280]})
+                    "post": "https://t.me/" + p["id"], "sources": []})
     return out
 
 FIN = re.compile(r"évacu|evacu|levé|lève|fin du blocus|blocus terminé|terminé", re.I)
@@ -110,7 +131,11 @@ def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps, ignores=None
     for ligne in [l.strip(" -•·*\t") for l in p["texte"].split("\n")]:
         if len(ligne) < 4 or FIN.search(ligne) or rdv.NEGATION.search(ligne):
             if ignores is not None and len(ligne) >= 4:
-                ignores.append({"ligne": ligne[:120], "raison": "blocus terminé / évacué, ou négation", "post": p["id"]})
+                ignores.append({"raison": "blocus terminé / évacué, ou négation", "post": p["id"]})
+            continue
+        if not (LIEU2.search(ligne) or TRIG.search(ligne)):   # une phrase de conversation n'est jamais un blocus
+            if ignores is not None:
+                ignores.append({"raison": "ni lieu de blocus (lycée, fac, gare…) ni mot « blocus »", "post": p["id"]})
             continue
         ln = rdv.norm(ligne).replace("-", " ")
         ville, trouvees = None, []
@@ -144,19 +169,20 @@ def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps, ignores=None
         if ville:
             nomv, dep, lat, lng = ville[0], ville[1], ville[2], ville[3]
         else:
-            trouve = [d for d, n in noms_deps.items() if n in ln and d in centres]
+            trouve = [d for d, n in noms_deps.items() if d in centres and re.search(r"(?<![a-z0-9])" + re.escape(n) + r"(?![a-z0-9])", ln)]
             if not trouve:
                 if ignores is not None:
-                    ignores.append({"ligne": ligne[:120], "raison": "aucune ville reconnue (commune de 1500 habitants ou plus) ni département", "post": p["id"]})
+                    ignores.append({"raison": "aucune ville reconnue (commune de 1500 habitants ou plus) ni département", "post": p["id"]})
                 continue
             dep = max(trouve, key=lambda d: len(noms_deps[d])); lat, lng = centres[dep]; nomv = "Dép. " + dep + " · " + rdv_dep(dep)
-        lieu = re.split(r",", re.split(r"\s+(?:à|en|au|aux)\s+[A-ZÉÈ]", ligne)[0])[0].strip(" ,.;:") or ligne
-        incident = ligne.split(",", 1)[1].strip()[:120] if "," in ligne and INCIDENT.search(ligne) else (ligne[:120] if INCIDENT.search(ligne) else "")
+        lieu = re.split(r",", re.split(r"\s+(?:à|en|au|aux)\s+[A-ZÉÈ]", ligne)[0])[0].strip(" ,.;:")
+        lieu = lieu[:70] if LIEU2.search(lieu) else ""
+        incident = incident_label(ligne)
         for d in dates:
             out.append({"id": hashlib.sha1((nomv + dep + d.isoformat() + rdv.norm(lieu)).encode()).hexdigest()[:10], "ville": nomv, "dep": dep, "lat": lat, "lng": lng,
                         "date": d.isoformat(), "heure": heure(ligne), "type": "blocage", "lieu": lieu[:80], "incident": incident, "organisateurs": [], "mouvement": False,
                         "alerte": "annulée" if ANNULE.search(ligne) else "", "statut": "annonce", "nb_medias": 0, "confiance": nom,
-                        "post": "https://t.me/" + p["id"], "sources": [], "texte": ligne[:200]})
+                        "post": "https://t.me/" + p["id"], "sources": []})
     return out
 
 def rdv_dep(dep):
@@ -185,12 +211,13 @@ def maj(data, maintenant=None, aujourdhui=None, fetch=lire_canal):
                 if e["alerte"] == "annulée" or cle not in evts:
                     evts[cle] = e
                 else:   # message plus recent, meme blocus : on met a jour heure et lieu
-                    evts[cle].update({k: e[k] for k in ("heure", "lieu", "post", "texte", "incident") if e.get(k)})
+                    evts[cle].update({k: e[k] for k in ("heure", "lieu", "post", "incident") if e.get(k)})
     # Telegram ne montre que les derniers messages : on garde les blocus deja releves tant que leur date n'est pas passee
     deja = {e["id"] for e in evts.values()}
     for e in rdv.lire_json(Path(data) / "blocus.json", {}).get("evenements", []):
         cle = (e["ville"], e["dep"], e["date"], rdv.norm(e.get("lieu", "")))
-        if e["id"] not in deja and e["date"] >= aujourdhui.isoformat():
+        e = propre(e)
+        if e and e["id"] not in deja and e["date"] >= aujourdhui.isoformat():
             evts.setdefault(cle, e)
     rdv.ecrire_json(Path(data) / "blocus_ignores.json", {"maj": maintenant.isoformat(), "lignes": ignores[:300]})
     res = [e for e in evts.values() if e["id"] not in masques and e["date"] >= aujourdhui.isoformat()]
