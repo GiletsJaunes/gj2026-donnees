@@ -63,7 +63,9 @@ def propre(e):
     if not e.get("mouvement"):
         if not LIEU2.search(e.get("lieu", "")):
             return None
-        e["lieu"] = e["lieu"][:70]
+        m_l = LIEU2.search(e["lieu"]); e["lieu"] = e["lieu"][m_l.start():][:70].strip(" ,.;:")
+        if len(e["lieu"].split()) > 10:
+            return None
     if e.get("incident"):
         e["incident"] = incident_label(e["incident"]) or "incident signalé"
     return e
@@ -133,7 +135,7 @@ def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps, ignores=None
             if ignores is not None and len(ligne) >= 4:
                 ignores.append({"raison": "blocus terminé / évacué, ou négation", "post": p["id"]})
             continue
-        if not (LIEU2.search(ligne) or TRIG.search(ligne)):   # une phrase de conversation n'est jamais un blocus
+        if len(ligne.split(",")[0].split()) > 10 or not (LIEU2.search(ligne) or TRIG.search(ligne)):   # une phrase de conversation (longue, sans lieu) n'est jamais un blocus
             if ignores is not None:
                 ignores.append({"raison": "ni lieu de blocus (lycée, fac, gare…) ni mot « blocus »", "post": p["id"]})
             continue
@@ -176,7 +178,8 @@ def extraire_implicite(p, nom, idx, aujourdhui, centres, noms_deps, ignores=None
                 continue
             dep = max(trouve, key=lambda d: len(noms_deps[d])); lat, lng = centres[dep]; nomv = "Dép. " + dep + " · " + rdv_dep(dep)
         lieu = re.split(r",", re.split(r"\s+(?:à|en|au|aux)\s+[A-ZÉÈ]", ligne)[0])[0].strip(" ,.;:")
-        lieu = lieu[:70] if LIEU2.search(lieu) else ""
+        m_l = LIEU2.search(lieu)
+        lieu = lieu[m_l.start():][:70].strip(" ,.;:") if m_l else ""   # le nom du lieu commence au mot-cle (lycée, fac…), jamais avant
         incident = incident_label(ligne)
         for d in dates:
             out.append({"id": hashlib.sha1((nomv + dep + d.isoformat() + rdv.norm(lieu)).encode()).hexdigest()[:10], "ville": nomv, "dep": dep, "lat": lat, "lng": lng,
