@@ -7,8 +7,8 @@
    "libelle": "établissements perturbés",
    "detail": "selon le ministère de l'Éducation nationale",
    "sources": [
-    15,
-    11,
+    16,
+    12,
     46
    ]
   }
@@ -17,18 +17,19 @@
   {
    "texte": "Colère lycéenne: 31 lycées bloqués ce lundi matin, selon le ministère de l'Éducation nationale.",
    "sources": [
-    15,
-    11,
+    16,
+    12,
     46
    ]
   }
  ],
  "recit": [
   {
-   "texte": "Selon La Dépêche, Blocage des lycées : à Saint-Sernin, une vidéo laisse croire que les policiers municipaux font le maintien de l'ordre, \"des lycéens sont volontairement venus au contact\", réplique l'adjoint au maire. Selon franceinfo, Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ?.",
+   "texte": "Selon Sud Ouest, Colère des lycéens : polémique après la saisie par la police des trombinoscopes de plusieurs lycées à Brest. Selon La Dépêche, Blocage des lycées : à Saint-Sernin, une vidéo laisse croire que les policiers municipaux font le maintien de l'ordre, \"des lycéens sont volontairement venus au contact\", réplique l'adjoint au maire. Selon franceinfo, Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ?.",
    "sources": [
-    30,
-    38
+    10,
+    31,
+    39
    ],
    "theme": "Répression"
   },
@@ -45,17 +46,17 @@
   {
    "texte": "Selon BFMTV, \"La deuxième hausse la plus importante depuis 20 ans\": le gouvernement annonce une augmentation du Smic de 1,6% dès le 1er décembre. Selon Le Monde, « La France doit apprendre à dépenser mieux pour pouvoir distribuer du pouvoir d’achat ». Selon BFMTV, Vie chère: \"En un an, le prix du gaz a augmenté de 40%, vous comprenez bien que nos concitoyens ne peuvent pas tenir\", explique Julien Odoul, député \"Rassemblement national\" de l'Yonne. Selon France 24, Hausse du SMIC : l'exécutif se félicite, les syndicats râlent, le patronat se désole.",
    "sources": [
-    12,
-    20,
-    23,
-    28
+    13,
+    21,
+    24,
+    29
    ],
    "theme": "Colère sociale"
   },
   {
    "texte": "Selon Sud Ouest, Présidentielle 2027 : 200 milliards d’investissements pour la « révolution écologique » de Raphaël Glucksmann.",
    "sources": [
-    10
+    11
    ],
    "theme": "Argent et crise"
   },
@@ -79,7 +80,7 @@
  "jour_long": "lundi 9 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -147,253 +148,253 @@
   {
    "n": 10,
    "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/colere-des-lyceens-polemique-apres-la-saisie-par-la-police-des-trombinoscopes-de-plusieurs-lycees-a-brest-31460143.php",
+   "titre": "Colère des lycéens : polémique après la saisie par la police des trombinoscopes de plusieurs lycées à Brest",
+   "date": "2026-11-09"
+  },
+  {
+   "n": 11,
+   "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-raphael-glucksmann-prevoit-200-milliards-d-investissements-pour-sa-revolution-ecologique-31457882.php",
    "titre": "Présidentielle 2027 : 200 milliards d’investissements pour la « révolution écologique » de Raphaël Glucksmann",
    "date": "2026-11-09"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Le Figaro",
    "url": "https://etudiant.lefigaro.fr/article/lycee/mouvement-lyceen-la-mobilisation-marque-le-pas-ce-lundi-a-la-veille-d-une-nouvelle-journee-de-greve-20261109/",
    "titre": "Mouvement lycéen : la mobilisation marque le pas ce lundi, à la veille d’une nouvelle journée de grève",
    "date": "2026-11-09"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/economie/economie-social/la-deuxieme-hausse-la-plus-importante-depuis-20-ans-le-gouvernement-annonce-une-augmentation-du-smic-de-1-6-des-le-1er-decembre_AD-202611090494.html",
    "titre": "\"La deuxième hausse la plus importante depuis 20 ans\": le gouvernement annonce une augmentation du Smic de 1,6% dès le 1er décembre",
    "date": "2026-11-09"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZGhSUkNabnMtTDZQUUVhTWxOTi1aUjFHcnM1RXdsSEdkWHdBV3E3OXBuT2dyay1rOVQ0eVp6SWt3ejJMZFgtMnJWYU82a1NPU0kwbnhnRWFvUVlycGMwLVBfdlk3alkxc3hPQkMwMmVWSTk2eGhXdFlzT3JOTlU3ZVpzaGRSNTdtZHl2amItaFBOaHF5ZmNOUkRubHBKTnRfdnNLZEJERzJpZjdUVVBjbHpQaF9TbGQ3cWlmV3R4NVpmLUJFbmg2VjV2bFVic2I5THlkUHlqQi12cEVXZ3JpWnVDSm1sVGhpd0MzR1hxRmpWSlhqSm9LZ0ppazdzbzNQQ0hTbmlvbTlCN1JRR3J1ZlF1Zw?oc=5",
    "titre": "Lycéens, étudiants, Gilets jaunes, Bastille… À quoi s’attendre pour la manifestation du mardi 10 novembre à Paris",
    "date": "2026-11-09"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "L'Etudiant",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnZnT3FLV3dwZHNXbF9Gd3ByYzN4THlnUXdnVWxrcGw2SC1aMlVsT05Dc0ZYOE9FeTNyQURwdElueFlJY21jaUtudWpOZ2F4elZJTmpTOVBwWEREOUp5SUp4dmpsQVo4dnZEdTFjbEJOdkRETTBESVhzd0g3cHJyeVJzTVhPV3VHR1Jtc2pXTUNRZDV2MmVDLTRRVnlxcWJZQ1h6Z1pmT25IY2pqNlFrU21IdW4?oc=5",
    "titre": "Mobilisation lycéenne : des cours de rattrapage possibles en février ou à Pâques",
    "date": "2026-11-09"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-31-lycees-bloques-ce-lundi-matin-selon-le-ministere-de-l-education-nationale_AN-202611090382.html",
    "titre": "Colère lycéenne: 31 lycées bloqués ce lundi matin, selon le ministère de l'Éducation nationale",
    "date": "2026-11-09"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html",
    "titre": "Mobilisation lycéenne : pour rattraper les heures perdues, le ministre de l’éducation propose des « cours de rattrapage » pendant les vacances",
    "date": "2026-11-09"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-mobilisation-lyceenne-un-rassemblement-a-12h30-devant-le-lycee-edouard-herriot_VN-202611090208.html",
    "titre": "Mobilisation lycéenne : un rassemblement à 12h30 devant le lycée Edouard Herriot",
    "date": "2026-11-09"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-candidat-a-l-election-presidentielle-ca-ne-peut-qu-apporter-au-pays-reagit-emmanuel-macron_VN-202611090833.html",
    "titre": "Teddy Riner candidat à l'élection présidentielle: \"Ça ne peut qu'apporter au pays\", réagit Emmanuel Macron",
    "date": "2026-11-09"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
    "titre": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
    "date": "2026-11-09"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html",
    "titre": "« La France doit apprendre à dépenser mieux pour pouvoir distribuer du pouvoir d’achat »",
    "date": "2026-11-09"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "BFMTV",
    "url": "https://rmcsport.bfmtv.com/football/equipe-de-france/j-ai-vu-une-image-de-teddy-riner-avec-un-costard-comment-ibrahima-konate-a-decouvert-la-candidature-du-judoka-a-la-presidentielle_AV-202611090988.html",
    "titre": "\"J’ai vu une image de Teddy Riner avec un costard\": comment Ibrahima Konaté a découvert la candidature du judoka à la présidentielle",
    "date": "2026-11-09"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html#xtor=RSS-3-[lestitres]",
    "titre": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme Parcoursup tourne court",
    "date": "2026-11-09"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-vie-chere-en-un-an-le-prix-du-gaz-a-augmente-de-40-vous-comprenez-bien-que-nos-concitoyens-ne-peuvent-pas-tenir-explique-julien-odoul-depute-rassemblement-national-de-l-yonne_VN-202611090981.html",
    "titre": "Vie chère: \"En un an, le prix du gaz a augmenté de 40%, vous comprenez bien que nos concitoyens ne peuvent pas tenir\", explique Julien Odoul, député \"Rassemblement national\" de l'Yonne",
    "date": "2026-11-09"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-on-est-la-premiere-puissance-mondiale-en-termes-de-fiscalisation-et-ce-n-est-pas-normal-denonce-walid-hanida-president-de-l-association-team-taxi_VN-202611090979.html",
    "titre": "\"On est la première puissance mondiale en termes de fiscalisation et ce n'est pas normal\", dénonce Walid Hanida, président de l'association (Team Taxi)",
    "date": "2026-11-09"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/marseille/manifestation-du-17-octobre-a-marseille-deux-manifestantes-gravement-blessees-ont-porte-plainte-pour-violence-volontaire_AD-202611090977.html",
    "titre": "Manifestation du 17 octobre à Marseille: deux manifestantes gravement blessées ont porté plainte pour \"violence volontaire\"",
    "date": "2026-11-09"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-revalorisation-du-smic-les-calculs-sont-faits-et-c-est-absurde-explique-solenn-ameil-presidente-d-une-association-de-commercants-a-paris_VN-202611090976.html",
    "titre": "Revalorisation du Smic: \"Les calculs sont faits et c'est absurde\", explique Solenn Ameil, présidente d'une association de commerçants à Paris",
    "date": "2026-11-09"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-il-y-a-des-contraintes-aujourd-hui-qui-pesent-sur-les-petites-entreprises-et-qui-sont-aujourd-hui-tres-lourdes-explique-manon-aubry-deputee-europeenne-lfi_VN-202611090971.html",
    "titre": "\"Il y a des contraintes aujourd'hui qui pèsent sur les petites entreprises et qui sont aujourd’hui très lourdes\", explique Manon Aubry, députée européenne LFI",
    "date": "2026-11-09"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-hausse-du-smic-l-ex%C3%A9cutif-se-f%C3%A9licite-les-syndicats-r%C3%A2lent-le-patronat-se-d%C3%A9sole",
    "titre": "Hausse du SMIC : l'exécutif se félicite, les syndicats râlent, le patronat se désole",
    "date": "2026-11-09"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "BFMTV",
    "url": "https://rmcsport.bfmtv.com/judo/c-etait-bien-reel-ce-n-est-pas-de-l-ia-teddy-riner-confirme-sa-candidature-a-la-presidentielle-sans-etiquette-politique_AV-202611090957.html",
    "titre": "\"C'était bien réel, ce n'est pas de l'IA\", Teddy Riner confirme sa candidature à la présidentielle sans étiquette politique",
    "date": "2026-11-09"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/09/blocage-des-lycees-a-saint-sernin-une-video-laisse-croire-que-les-policiers-municipaux-font-le-maintien-de-lordre-des-lyceens-sont-volontairement-13644518.php",
    "titre": "Blocage des lycées : à Saint-Sernin, une vidéo laisse croire que les policiers municipaux font le maintien de l'ordre, \"des lycéens sont volontairement venus au contact\", réplique l'adjoint au maire",
    "date": "2026-11-09"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261109-augmentation-du-salaire-minimum-lecornu-peut-il-calmer-la-col%C3%A8re",
    "titre": "Augmentation du salaire minimum : Lecornu peut-il calmer la colère ?",
    "date": "2026-11-09"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-smic-a-1500-euros-un-coup-de-pouce-insuffisant-pour-les-syndicats_8275157.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats",
    "date": "2026-11-09"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/societe/4261785-20261109-colere-sociale-parlons-cnews-sophie-binet-lyceens-refusent-micros-chaine?at_medium=display&at_campaign=149",
    "titre": "Colère sociale : « Nous ne parlons pas à CNews »… Sophie Binet et les lycéens refusent les micros de la chaîne",
    "date": "2026-11-09"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/education/les-principaux-syndicats-lyceens-claquent-la-porte-de-la-premiere-reunion-sur-parcoursup-la-forme-change-pas-le-fond-20261109_LQE5IP5MRRAC7DBOM24S7AH7LA/",
    "titre": "Les principaux syndicats lycéens claquent la porte de la première réunion sur Parcoursup : «La forme change, pas le fond»",
    "date": "2026-11-09"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-presidentielle-2027-teddy-riner-peut-incarner-des-valeurs-de-travail-de-merite-de-respectabilite-enorme-estime-pierre-gattaz-ancien-president-du-medef_VN-202611090886.html",
    "titre": "Présidentielle 2027: \"Teddy Riner peut incarner des valeurs de travail, de mérite, de respectabilité énorme\", estime Pierre Gattaz, ancien président du Medef",
    "date": "2026-11-09"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "Libération",
    "url": "https://www.liberation.fr/idees-et-debats/editorial/la-revalorisation-du-smic-par-lecornu-une-consideration-meprisable-accordee-du-bout-des-doigts-20261109_MKSWTKOO3BHVVE65UVUVTIWHUM/",
    "titre": "La revalorisation du smic par Lecornu, une considération méprisable accordée du bout des doigts",
    "date": "2026-11-09"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/societe/greves-et-manifestations/conference-sociale-la-colere-ne-retombe-pas-malgre-les-annonces-31462740.php",
    "titre": "Conférence sociale : la colère ne retombe pas malgré les annonces",
    "date": "2026-11-09"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/faits-divers/police/un-lyceen-de-15-ans-interpelle-en-calecon-que-s-est-il-passe-a-aulnay-sous-bois_8275082.html#xtor=RSS-3-%5Bgeneral%5D",
    "titre": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ?",
    "date": "2026-11-09"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/economie/prix-des-carburants-mobilisations-sociales-debats-budgetaires-face-a-une-situation-tres-incertaine-la-banque-de-france-s-attend-a-une-croissance-moderee-du-pib-au-quatrieme-trimestre_AD-202611090879.html",
    "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
    "date": "2026-11-09"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-primaire-de-la-droite-et-du-centre-il-faut-que-cette-primaire-ait-lieu-en-janvier-sous-la-houlette-de-gerard-larcher-affirme-herve-morin-president-de-la-region-normandie_VN-202611090875.html",
    "titre": "Primaire de la droite et du centre: \"Il faut que cette primaire ait lieu en janvier, sous la houlette de Gérard Larcher\", affirme Hervé Morin, président de la région Normandie",
    "date": "2026-11-09"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
    "titre": "EN DIRECT, mobilisation lycéenne : les discussions avec Sébastien Lecornu tournent court, une grande partie des organisations lycéennes et étudiantes ont quitté Matignon",
    "date": "2026-11-09"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/hausse-du-smic-sebastien-lecornu-montre-quil-est-de-bonne-volonte-face-a-des-crises-tres-profondes-0c8ea14e-dc6e-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Conférence sociale : « Sébastien Lecornu montre qu’il est de bonne volonté face à des crises très profondes »",
    "date": "2026-11-09"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "Mediapart",
    "url": "https://www.mediapart.fr/journal/economie-et-social/091126/coup-de-pouce-au-smic-le-gouvernement-fracture-l-intersyndicale-pas-la-mobilisation-sociale",
    "titre": "Coup de pouce au smic: le gouvernement fracture l’intersyndicale, pas la mobilisation sociale",
    "date": "2026-11-09"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/education/orientation/colere-sociale-des-lyceens-et-etudiants-claquent-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon-0be4cf28-dc52-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Colère sociale : des lycéens et étudiants claquent la porte du comité de réforme de Parcoursup à Matignon",
-   "date": "2026-11-09"
-  },
-  {
-   "n": 45,
-   "nom": "La Dépêche",
-   "url": "https://www.ladepeche.fr/2026/11/09/conference-sociale-lecornu-lache-24-euros-sur-le-smic-mais-ne-parvient-pas-a-desamorcer-la-colere-sociale-13644519.php",
-   "titre": "Conférence sociale : Lecornu lâche 24 euros sur le Smic mais ne parvient pas à désamorcer la colère sociale",
    "date": "2026-11-09"
   },
   {
@@ -411,5 +412,5 @@
    "date": "2026-11-09"
   }
  ],
- "genere": "2026-11-10T07:00:42.930451+00:00"
+ "genere": "2026-11-10T08:30:23.081843+00:00"
 }
