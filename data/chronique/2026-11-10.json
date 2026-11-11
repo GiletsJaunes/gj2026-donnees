@@ -1,0 +1,413 @@
+{
+ "titre": "Mardi 10 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Le Journal du Centre, Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère. Selon Sud Ouest, Mouvement lycéen : quel est le profil des 1 504 mineurs interpellés et déférés devant la justice.",
+   "sources": [
+    16,
+    24
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Orange Actualités, Nouvelle journée de mobilisation dans l'éducation, marquée par l'agression d'une élue (repris par 3 médias). Selon BFMTV, Mobilisation lycéenne et montée de tensions: \"Les politiques n'envoient aucun message positif, aucune source d'espoir\", dénonce Lionel Roques, entrepreneur (repris par 3 médias). Selon franceinfo, \"Comme un petit singe\" : une enseignante suspendue pour propos racistes envers un étudiant noir (repris par 3 médias). Selon BFMTV, Mobilisation lycéenne, escalade de la violence: \"Ça va mal finir\", craint Loïc Guibon, proviseur et syndicat de proviseurs (repris par 3 médias).",
+   "sources": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Ouest-France, Présidentielle 2027 : Éric Zemmour annonce officiellement sa candidature (repris par 7 médias). Selon Sud Ouest, Présidentielle 2027 : 22 % des électeurs se disent prêts à voter pour Teddy Riner, selon un sondage (repris par 4 médias). Selon Europe 1, Présidentielle 2027 : qui est derrière la candidature de Teddy Riner ? (repris par 3 médias). Selon Le Figaro, Présidentielle 2027 : le RN a obtenu un préaccord de plus 10 millions d’euros de la part de deux banques européennes.",
+   "sources": [
+    1,
+    2,
+    11,
+    27
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-10",
+ "numero": 40,
+ "jour_long": "mardi 10 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-eric-zemmour-annonce-officiellement-sa-candidature-e868a4c6-dd1d-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : Éric Zemmour annonce officiellement sa candidature",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 2,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/sport/judo/teddy-riner/presidentielle-2027-22-des-electeurs-se-disent-prets-a-voter-pour-teddy-riner-selon-un-sondage-31475394.php",
+   "titre": "Présidentielle 2027 : 22 % des électeurs se disent prêts à voter pour Teddy Riner, selon un sondage",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 3,
+   "nom": "Orange Actualités",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQblNLZ3M5ZjEydVhMcEgzNTFfZVd6enFpU0hVQ0RxanU5UFBoZjh2b3FROG1nb2daQkg4TFUyalkwOEJzaGtOTWZIYk5GT1kzRnRfRERhY1hJRk1kNHVXdUljdW1UMlN4ZUtPYzhUX09HSFgxM1IxaUhBdm0wVTMwME1nV1VoSkVPLWwxOTFadS15V3VCdWN3TEY1V09hRi1Kb1FMMEhyUkJFNG1veURSa3BMeWhvSmlZd01yQTdYQVJ1OU9BdVNxNGQ2aTQzenM?oc=5",
+   "titre": "Nouvelle journée de mobilisation dans l'éducation, marquée par l'agression d'une élue",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 4,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-et-montee-de-tensions-les-politiques-n-envoient-aucun-message-positif-aucune-source-d-espoir-denonce-lionel-roques-entrepreneur_VN-202611100828.html",
+   "titre": "Mobilisation lycéenne et montée de tensions: \"Les politiques n'envoient aucun message positif, aucune source d'espoir\", dénonce Lionel Roques, entrepreneur",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 5,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/racisme/comme-un-petit-singe-une-enseignante-suspendue-pour-propos-racistes-envers-un-etudiant-noir_8276705.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"Comme un petit singe\" : une enseignante suspendue pour propos racistes envers un étudiant noir",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 6,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-escalade-de-la-violence-ca-va-mal-finir-craint-loic-guibon-proviseur-et-syndicat-de-proviseurs_VN-202611100712.html",
+   "titre": "Mobilisation lycéenne, escalade de la violence: \"Ça va mal finir\", craint Loïc Guibon, proviseur et syndicat de proviseurs",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-et-montee-de-tensions-s-il-doit-y-avoir-des-ripostes-qui-doivent-etre-faites-ca-doit-etre-de-facon-democratique-rappelle-julia-kudada-secretaire-generale-de-les-lyceens_VN-202611100686.html",
+   "titre": "Mobilisation lycéenne et montée de tensions: \"S'il doit y avoir des ripostes qui doivent être faites, ça doit être de façon démocratique\", rappelle Julia Kudada, secrétaire générale de \"Les Lycéens !\"",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-les-chefs-d-etablissement-appellent-a-se-mobiliser-ce-vendredi_VN-202611100667.html",
+   "titre": "Mobilisation lycéenne: les chefs d'établissement appellent à se mobiliser ce vendredi",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 9,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-mobilisation-etudiante-et-lyceenne-l-unef-appelle-a-poursuivre-la-mobilisation-chaque-semaine-s-il-le-faut_VN-202611100584.html",
+   "titre": "Mobilisation étudiante et lycéenne: l’UNEF appelle à poursuivre la mobilisation “chaque semaine s’il le faut”",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 10,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-colere-lyceenne-une-elue-de-chelles-aspergee-d-essence_VN-202611100456.html",
+   "titre": "Colère lycéenne: une élue de Chelles aspergée d'essence",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 11,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-qui-est-derriere-la-candidature-de-teddy-riner-1221968?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : qui est derrière la candidature de Teddy Riner ?",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 12,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/mobilisation-lyceenne-etudiante-et-enseignante-laurent-nunez-appelle-a-ne-pas-baisser-la-garde-face-aux-violences_AD-202611100385.html",
+   "titre": "Mobilisation lycéenne, étudiante et enseignante: Laurent Nuñez appelle à \"ne pas baisser la garde\" face aux violences",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 13,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-mobilisation-education-lyceens-etudiants-enseignants-greve-lecornu-20261110",
+   "titre": "EN DIRECT - Colère sociale : «Faire bloc ensemble», étudiants, lycéens et enseignants appellent à une nouvelle journée d’action ce mardi",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 14,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+   "titre": "Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 15,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVVZKNDZfOGRJSGIwbldNbjdqR29xdDR2ZWJaMVA2SDNuUXNyb3FnR29KM1lyUmJ4eC1EbnJaVk54S09RZ0NPZWVMQzN1OWJsclBsVTVPdUNlRHR3d0UySGhQYk42UnhPR1NGcDBPQ1drUnd2MmE1YWNPLVZwZU15MC01WjFhdjZFU2JoU0dHek9MNGt3Um54cFR0bDV4Y1pRRlVVRWlYWWRDZm5obmRKek9RUndfV2N3VDZGdWg1MmpUWVFnQjVEUUV6SU9MWGVNcDhyQzluSzRrQkdpbFVhVUlvcm5VeERwaUpiUWQ1Zm1DWFAtWHNkWDdua2ZZbktRbzg3SHR2TQ?oc=5",
+   "titre": "La mobilisation des lycéens s’est poursuivie ce mardi, le gouvernement hausse le ton face aux violences",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 16,
+   "nom": "Le Journal du Centre",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmJQMUxHakdBWVNnQWljQ2lMdFYxb0lYSENKTzZVYnJVQUlIb1M5TU5sa2JtbkNGTzNiQVdydTdQaWJ2X3NzX282bzFSanRJWjlHd2VMRUdxem1Ud0hITEhiejliLXFjTDJwOWpELUpkQk5Pc3pHdXVfRFQwY3YtRzZUb3VIS0xBZjhRV0lKaEVIZ0V4X09oWl91T3VVRUJjMl9RY2RTMHJhZGNVNGJvUzJyZE0wT0k3WGktcFVpODg5ZjBSVlJnQWZxOGhJYzlDZE1Lb3ROdUljNmR3ZVZkeEJEVmZyUGpmeFcyUDdZYVBoVVpSUXEzdzBvbFYtUVVfRXhGSw?oc=5",
+   "titre": "Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 17,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNFhiVm1ZZy11QWE2cVZfbmRpRkF5TG5seEg1dmstRHo3RHNnMkl6T1RKaV9SeVVaZnllVWdHSFpaR01fTEduc2UtYzBVc3VzOElIcW1SMkZGc3dqdHdsWEljcloxc3FianhvSFBOamQwV0xLMmdtWDM1YTRIaHczc2RJVHpKR0ZsMFNGOVMwejJZcG0zUXFjYllUbjJUTjJ0OXpuYVgxTUlQV1h0b1cxQWM5cDJDUkxfMUN5azNHb0ZMbHo0Y0dDbWdTTXRKeFcxUmFheFZFaEYwN1hf?oc=5",
+   "titre": "Éducation. Mobilisation lycéenne : les proviseurs tirent la sonnette d’alarme face à une « montée des violences »",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 18,
+   "nom": "Millavois.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2E4Y0VJSjRfeXVkS3ZiTDdRbU5DemVYajU0WlFKMG9jMHhfVFBTRjRaNkctRlBCQUpuV216b1dya2I1MFNGYjFJWDh3a21ITkJyY0tjcW1VOG8xbWNaZG9nMkxlSlgxcGN5OGtrZ0NPRlRDbjY3RXVkZnJ2UG96RW41aW9fMXd2Um9kQjdEaVVZeXVDM2ZhUHdR?oc=5",
+   "titre": "Millau. Les Gilets Jaunes organisent une agora place de la Capelle",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 19,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVnZYU2d0MnVkZ0pMcTN5bEw2a1diRUtrUjN1eWtWb2U2NVJocGxZY1BjdDF1U0JxOU9wTTdTbDNpeEpYSE4yUUNkd2pYdnJ6WUlWV0RNUWVDa2JPODFDVlRKbGlQNTRWUEZ5NWpjMjVhVW5aOFc4YWlJeTZFNkUtWkgwR0pKV29UQkhzUHl3TXhzSjRHU0VCeGNQRndnNWVyU3hCSzUwaGpscGtjOGNDWnV5d0JtN2ZfQnNIcDVjbVhTdURlN3loZTBrRngwMXNWa2ctZHFTUlR2V1lLX1c0djI1d3Q2Z3BQQWJlaHFEUmdkd0kyR3lzU2Zkem5Vc0xwMXhBUTRxWFp2MFpZMmlKdVhneHhTS3ByQ1ZnSnVEeXZZN1NBV0E?oc=5",
+   "titre": "Manifestation du 10 novembre à Toulouse : \"On veut notre bac, mais on ne peut pas abandonner la mobilisation\"… après deux mois de blocus, les lycéens face au mur des examens",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 20,
+   "nom": "Franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUVE4NWMtY0IyNy1zTVVuMFpneE81akJYRFdZRjdKcW11WlB3aExneDhsS3RDMzQ4SElVd3d3Z0llZ3FNa0E4VDJ6MmZJT2s2dWg3WXVUa0h5WENhZVVTT0YzYXV6dGV6b0V3TFJZY1l4X0ZoVHdkQVlfNHJ1aTNNbUptUkVrVXBxakdFcjRKSUs4UkV0WmJQaS1MWklyNkptRmpGNG9HSFAydG1yMThGZUh1LUVRV2NVU1ZkcmFyRW5rMUJfdk9KbVdrNG5UbHJ0dUszYTJYc3lPRHlSQkRMeHZhWW9RUkpRZVFTN2xDdGRNUkJuZHV2M21wck04UXlzSE5ZS0xEWnNjUEZwRElEbUtIZy1nTnM1QW9QMm0zcVl1UQ?oc=5",
+   "titre": "\"On essaye vraiment de trouver des solutions pour continuer\" : à Paris, des lycéens préparent la suite du mouvement",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 21,
+   "nom": "L'Alsace",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dXeUpKZldEV2s5S3VRRkx3U0VVWDF3RUQ4cTc4MVRIbkFlWmxvZ190QWMxYVpSVzBoVEUzU2I4YkFoNHEyQVNWMmpPU3ZOeldQX21QUnJHUTdjM1k3aThqM3pEZE9xWDZxS29IV3NBR2ZSSnVYU0JMcnV4T0FjTzJXOG5HX3ZZbVdCUE1Ga003YUtnRkdBbm5xb1NMbjVzb0ZEeW5maGVLalluNXNZ?oc=5",
+   "titre": "Mulhouse. La mobilisation étudiante et lycéenne en quête d’un second souffle",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 22,
+   "nom": "infos-media-nantes.fr",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYndqcmJuZ0NFUzZza3Fxc0NaTFd2ZDFyaW14RVpYNzJqczF4QzRpMGx2RmIwbkhvUzRISGR6ZlgtajNvWl9vT1UzSkI2ZDEtSmU2ZTJ4VXNRdEk4OHRic3A3QzloVVRXblE1TmZvSTdZbkdlVnRVUEk4bC1OQnhMZjY1cEFqaWREbkhsV0tLNFN4ck92LWJwSTMwV1JEVlU?oc=5",
+   "titre": "Gilets jaunes : de Saint-Nazaire à La Baule, une manifestation contre la vie chère annoncée le 14 novembre",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 23,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/lyon/replay-emissions/bonsoir-lyon/video-mobilisation-etudiante-entre-3-500-et-5-000-personnes-dans-les-rues-de-lyon_VN-202611100741.html",
+   "titre": "Mobilisation étudiante : entre 3 500 et 5 000 personnes dans les rues de Lyon",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 24,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/ile-de-france/paris/mouvement-lyceen-quel-est-le-profil-des-1-504-mineurs-interpelles-et-deferes-devant-la-justice-31472398.php",
+   "titre": "Mouvement lycéen : quel est le profil des 1 504 mineurs interpellés et déférés devant la justice",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 25,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxONWlwcjNVUFJrY0tyUFFSbzc0b0Qyc3Z6T0diQXNVU2xxUFM3cERwWTJYNWNhbU81Tlk2R1o2REU3TnFtYUZqUW9aMXNpSWNKSVozeHRWbGhyTXFoYWx3R1pwM1ZVQlI1QW1sTFpnczlHRTBoODBwMzdQaXJXMG1sVzBrVDdxczl5VG9DWlZtQlAybk1wUzNrVWxvZ1RJYWR2ZndMcWtnb3BwUzNlTzdvTHU4VUlaX3Uxd2hiaHZPY0J1ank2ODZqSUxnRFBZcDZFRy16aWRKbmpaZ0hMOEREdlVvZk1BN0stR3NVaVRTRVdrc3VDeTBLWDRrRUZCMjNVM24tUWptN2JzRFVSQmNMWFJtMll2NzEzY0FLemJ3?oc=5",
+   "titre": "« On est toujours là ! » : que prévoient les Gilets jaunes pour la manifestation du 14 novembre aux Sables-d’Olonne ?",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-etudiante-et-lyceenne-les-premiers-manifestants-arrivent-sur-la-place-d-italie-a-paris_VN-202611100637.html",
+   "titre": "Mobilisation étudiante et lycéenne: les premiers manifestants arrivent sur la Place d'Italie à Paris",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 27,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-rn-a-obtenu-un-preaccord-de-plus-10-millions-d-euros-de-la-part-de-deux-banques-europeennes-20261110",
+   "titre": "Présidentielle 2027 : le RN a obtenu un préaccord de plus 10 millions d’euros de la part de deux banques européennes",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 28,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdHBFMEpHSWdGb2V4Y1Q5SFhKdXgxWVVkVTlnT2RZVDdOZnFjTmJVelZjaWdRX3lTUEhyQkNidWJMd0w5NUg5MEJZSGlkRHNSXzRORzBGT2FRU2kxallJUmREa0Exb0lDUmQ5ajVfeEpTTEU3VmNDUVVDQTNHeFJzT1JLWDZFQjZkX2lGZmhiTVRobVZxdTlqX1Zva1gtcDQ3N1JQN2RfNy1KSG1XM1FacUZPUnIxeG9ncjdENG40clIyUjEzd3BYTjRrTmN4ZVNyZTRydHNWMWhPcWlFUXlrS2VJajNwVmI5YXp2aXRVRGtSMlE?oc=5",
+   "titre": "Colère des lycéens : près de 300 enseignants blessés depuis le début de la mobilisation",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 29,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVVpWa2wyWktFeGhsX1hjVUctY3ZteGNma1lpcG1iQThkOUlhMEsxYUZBRUxFRW5tS2thbXQ4NHgtTFFOLWxyakl1YVJXX0h2NHp2M2xkeEptcVdIV3NVMXJhUWpBVmJjSG5qT01fYmtqclUyVDN3cWpJTzUyZGMzWEQ1VzhjTmNxTThMYmZjU2xVOXVjSXFiVHNTMHY5WUNxUWl1WDN1TEI3U3ZfSHVvNUNkblpnalhSOHBLWWcyWXYzUVJfNWFacFlubnhSMmtiM0NRdklzOG1DY2VnekZOX3RDX0xrS1NydkdvdGNPZw?oc=5",
+   "titre": "Face aux blocus, des cours suspendus dans des lycées de Loire-Atlantique",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 30,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbm9QNThlUHlKNm00aDlHR3RoNW95dUl4WTVpRGVGNGpTV0hJcWEwa3hIRHcwaGJRcWNqNzUwYnlkdHNhY2o4NXlYeElGTmtVbFYxRl9hRlAzQW9HcG9UazkyUWhLdEdRSVBxY19UR0xTNHBzNGMxSlpSZVFMem5SUnczWU1TVHgwMnJFSmQ1bHVaM2FiX1Z6N2ZNTFhXSkFFNnVmZDYyNFNoLXBTV0pPdmNVUEgtdnRnRktLYTVibnZGaGJhdUg3Sl9zLWllcjJEdFNhU2dQT0U4MFdrT1YyUDF4LTVxY2lEVlduQldqd05LS3hzd3o1OHZmYk55dTRBOGJxNUVTS1BodWFHSGhSMHl5VmtKQVBrbWJ0VGZGNXU1SWQtblE?oc=5",
+   "titre": "Blocage des lycées : des enseignants toulousains font classe dehors par solidarité avec leurs élèves, \"Les mobilisations ne sont pas un conflit entre prof et élèves\"",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 31,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQU3YxQUlYMDc3UUo5VHlYajNNS2hTUmotT0xuMDd4ZDNiQ0hCYjlWVHhBYUNRWjJ6UnJ5ZndQVTM0c2t4S29sWW5POEdaNGJqdTRfUVR5ZDlpQW5lX3VhdnhpaGEyZy1GSTNUWVZrT21CS1dwa2dwYlZtQzVzd2xFRUwxYjFpaVNiRHNvNUR5WnozZVhqbnRvaHY1OWV4ZHIyTE5XTm9abjc0MmV6ZEpOWnNxcTRVMGFXVVVuU0I0M0tfUk10dTdTTVBTQ3NTaHZ3WUpGM1h5WlBmQlVCYmp0aE9QTWFQakthejMyYzg4TlhwQnBJR085aEt0YmdHckRiNEN2dTVwMjZCVzdkNncxMw?oc=5",
+   "titre": "Violences conjugales : un collectif toulousain dénonce l'insuffisance des hébergements pour les victimes et appelle à manifester ce jeudi",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 32,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
+   "titre": "Grève du 10 novembre : étudiants, lycéens et enseignants à nouveau mobilisés pour « mettre le gouvernement sous pression »",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 33,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaHFpV3dTQmlJY04wcngwSzlkVWY4SHdQa0xiU25YMkdPVGd2aGItWmxTZ3NFUG9EV0JBYWdzM3ZHSlB6VEtuZ21PNy1KTTFscTlYbEg5QUduRmFtSDRwNnkyUGpmQk93M2NoZGNNY2dmTlZ0ZXJYbXlKQ2VBYW9vdkd1V3RXdHoyanhNUHoxZmxJM1ZqRko2VDUtZHROY2tNUmhKZS1reFE2WWFSeENQNzdpQnJvZElnNjJ0bFd0VkJvVFdqbmI4VWtDR0pqd2JBWG5PZDFVSTlIazE0Rm5ON1FQV1VpYXZ2NTF4ZzVzcTdsamFrZlIyeG5MMHhtT3dFSUVIODVkLTU4MUgxZlV1NnJ1ZVBRVzRm?oc=5",
+   "titre": "Incendie dans un lycée d'Aix-en-Provence : un feu d'origine inconnue s'est déclaré dans un établissement régulièrement bloqué dans le cadre de la mobilisation lycéenne",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 34,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNDZhU3dFZUJ0eFl6enpNMnhBWXFvVzZkeFNmOVdHbFhySkFsakZEOUtYZGxzWDV0UklXMjhMRktPUkp4NHRRS1ZZVTROMGRxY2pMcFVnV2ZWUjQtT0QtWG53MGZRMmZUMzlpMXhDdXJVeW5fNEdMRjVMVmdfV1Jqb2NjdzZtalhLT24wSHJEazNlTGEwbVNfelJHbUZnMlRQdkxNVkZZenRQblNrRVFSV0tjTHNocmN2aFBBaFpsU3YyZDhzU2F6cDhhelhyeVlCelF4NWs1SDhjSWlIa1RZY3dsS3JrX3hYM0Q2bkxsaTZhU0FCVHpDLXdEbE40dk4yNFQxUE5wc3BUcVo1Z3hvQ2Q0aw?oc=5",
+   "titre": "Blocage des lycées : deux petits feux mais une situation globalement calme... La journée de mobilisation du 10 novembre a commencé à Toulouse",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 35,
+   "nom": "La Provence",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWlVtWWFWU2V1RTRfdXZBN2lYTFF4V3pGZ3ZCWkhDTTljNEFzMUZEZFl2QXRVbGpBclZKeTUzQktHWlpUcTU3NEc4Sm5hQVFFZm1SLTk5anNhSEQtWThLOUk5akF2Nmg4dkVoTk1TR0VSVEk4c3J3OTJaVzNiZlRhMm9rRW5GTzNaRk16MV9KOWtsYUNuX1NUT1F0OHRIel9VV0daeTN0TWk4S2ZRMTlhenVFNnZFaXlocmlQbWNPZnowcWhFaXQ1c05DWDA0dE0xSHpaY2M0VHhvR0dqRGhYNTJMdGlTQms0dC1Hb09pWVJGekdiODFabzRxWDU?oc=5",
+   "titre": "\"Canons à son\" en manifestation : le ministère de l'Intérieur dément l'usage d'armes controversées par la gendarmerie",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 36,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNXzZsUXZlSEVuUXV1WV9iNld2R1ZIUi1vN3Y0ZTVJUmxVdm1uZ2xuUl9RQUktaUtsMU5MOVlSanFpRkQ0WDJWQTlnQUZfbmZxMS1uaDlNMjdlRXZJaTFnaHZuV1JlNUhqUHZqNTdTcnlNdEJvYUVVNzR6aTE1cHg1MTFfZTZyMkVqSmhBeGozd1lGcWwxVExfNWR4LWdZemU0aTRzLThfMlczVFVubnVnNURmR1VKUW5aQzJLd2Q2R21YdXNkMDNER1RnTjYzSllsanNjc21ENHlSZ3B3d3JpOWdwZHEweDJQQWZKbUhtbWxQWDBhSzBRTW9UZkNtYk8tR3lHV29YX3RybW5GRndaWjIzc2tVUzgwYmN3VGYxS0FQZ2t2SEY3NGxDV1lTeXY3S0kwXw?oc=5",
+   "titre": "Plogoff, Gilets jaunes, manifs lycéennes… Les soulèvements citoyens sur grand écran avec Sous l’hangar et N. Le Garrec",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 37,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaG1LUGFFbHRBc3RkQXpDbjlmLXM2elUyN1RoNkZyWXMxQUdOdlpxd2lTOEhwcnhWNjdFLXFoOG5WU2NvbV9HU1EtUlFKTzRkSnQxQzIwU0JDdDh1U19iRTg1MThOWU15T0tJV3NkQVVOSUY0aGZwY2FfZlVHVlZyMHVEaXNtaUFWczd3MjhXMmtRSDlmd2MtZGltN1EyVUpaRk9pU1lndjJWTGZteWk4VTdvblFJMllHUnZna0ZNM0c3WTJ6U1NyaW01X3h1R3JobmlzYlZnQ01NTnhKWEFkVk5rUWlaUmNObzBSc1pjSDdWdUd1T19UczdBOWJqZVlUYS1FM1JjU0dQaTlMMTRfSg?oc=5",
+   "titre": "Manifestation du 10 novembre à Toulouse : parcours, transports en commun perturbés, marché fermé... Ce qu'il faut savoir avant la mobilisation",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 38,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWTdmZDdQcjFDQUxRX25fRHo1emI4ZDdCOWEtVnNNU2RQNm1CbWF5TXljanZ1c1d1NkFNZVZxclJqN0YzV3FpaXpSY21CU2s2cmNBR1RmazN2aDFXZ0VNOVRoVHZMRVd0RXMwVXpsb205T1hzVWdlY2RpRkdFM3R5TGhxRFYtLXFXanJpOVpXY3FZYktac1NoalFiY2UzR245aXAxNE9EUjJaVndVME0yR2t3cTZMVVA5ekQwLTRVWHpmQ19OcGlQYm5uR3NPOVVTOTNLbzVubnpWN1ZpMmdfcGRBRWtEU1lDTElCZzRWdkNDaU1HbUtvcnVHX0pKWl83dk1WUjA0aUw1cVFPRjlqQk9pX3ZubDJ5bi16alVR?oc=5",
+   "titre": "INFO ICI Normandie - Mobilisation lycéenne : le poignet fracturé, un adolescent de Caen porte plainte contre la police",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 39,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/education/direct-colere-des-lyceens-et-etudiants-nouvelle-journee-de-mobilisation-et-de-manifestations-suivez-toutes-les-infos-de-ce-mardi-10-novembre-31464803.php",
+   "titre": "DIRECT. Colère des lycéens et étudiants : nouvelle journée de mobilisation et de manifestations ce mardi... Suivez le fil de la journée",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 40,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMnBKQUgxbVJxMFpHbmVBXzdBd25oZ29uSkxrRkY3MkpDaU9uVUpYa05ZY2RLNEVwTW81RjVrTVhUYmF2T3FGY0lqU0cxdTZ2c0l3M001OWJwdHFudlN1V2hReG5rX2FSRnlCNTBsdjlVNnM0emdYNS1QdVNPS0FYRnhCLWhrQ2tmTmpiSF9laWZYT1ZnemVIMDlWaVpqM2NFcXBDbEY2NUlJLU93R0pZV0Q5cUtvYzlGWFZxMTRiMmVHSWR4LWpDS0RMaXBhbW1sTDNNZ2tHclM0N09GSmVqQ0RoMGVmNVhsenBnV3JBUjBCLVotTEtvZkJiYW9CYWdRUlJGVVI0dnR5RWs?oc=5",
+   "titre": "Mobilisation des lycéens : \"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue à Chelles",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 41,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-teddy-riner-candidat-surprise-a-la-presidentielle-2027-c5810be4-dc58-11f1-82ac-6c40d47aa0a6?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Le dessin de Chaunu : Teddy Riner candidat surprise à la présidentielle 2027",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 42,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-[lestitres]",
+   "titre": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 43,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
+   "titre": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 44,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-etudiante-la-tension-monte-d-un-cran-entre-bloqueurs-et-presidents-d-universite_6808900_4401467.html",
+   "titre": "Mobilisation étudiante : la tension monte d’un cran entre bloqueurs et présidents d’université",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 45,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/10/yaelle-amsellem-mainguy-sociologue-par-les-blocages-les-lyceens-ont-trouve-les-moyens-de-se-faire-entendre_6808881_3232.html",
+   "titre": "Yaëlle Amsellem-Mainguy, sociologue : « Par les blocages, les lycéens ont trouvé les moyens de se faire entendre »",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 46,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4261818-20261110-direct-mobilisation-10-novembre-etudiants-lyceens-enseignants-appellent-manifester-mardi?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Mobilisation du 10 novembre : Sur les 1.504 mineurs interpellés au début du mouvement, 93% sont des garçons, 88% sont Français...",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-pres-de-300-personnels-de-l-education-nationale-blesses-depuis-le-debut-du-mouvement-selon-le-porte-parole-du-gouvernement-par-interim_VN-202611100476.html",
+   "titre": "Près de 300 personnels de l’Éducation nationale blessés depuis le début du mouvement, selon le porte-parole du gouvernement par intérim",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 48,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/10/a-chelles-une-bouteille-d-essence-jetee-sur-une-elue-devant-le-lycee-gaston-bachelard_6808842_823448.html",
+   "titre": "A Chelles, une bouteille d’essence jetée sur une élue devant le lycée Gaston-Bachelard",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 49,
+   "nom": "TF1 Info",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd1k2bkdNLU5hN3ItQ2dWYllhcUVILXRmdElLSTVUaUg5VjNaSVZkcDItR0VkbVJTQjhibXZFZDBYODJGbkZQSTg1RU1aYWRfSUJHTDdKVjlKNnJ1NXlSTFRUMWZEX2JEYXB1c2xOS0YxXzhwRkxQWjRFdXNkNEg1ZHZPNEJmajM1M1lEbmE2R0tqYWRVSExwY0dIMnhNVlF3M3J0aTlpWElYRkRQNTdIOVBSVkJqRHBtZ1dySFgtTnUxSFRCWkdRdUl2TkFJTjBkVHN5YVh3MmJnNzQzdUVld0t3?oc=5",
+   "titre": "Mouvement lycéen : près de 240 enseignants ont été blessés depuis le début de la mobilisation",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 50,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/crise-dans-l-education-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi-20261109",
+   "titre": "Crise dans l’éducation : 49 lycées bloqués ; des manifestations dans les grandes villes",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 51,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/colere-des-lyceens-49-etablissements-bloques-une-elue-agressee-une-nouvelle-date-programmee-retour-sur-cette-journee-de-mobilisation-31474791.php",
+   "titre": "Colère des lycéens : 49 établissements bloqués, une élue agressée, une nouvelle date programmée… Retour sur cette journée de mobilisation",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 52,
+   "nom": "Sud Radio",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1pVWU9hXzZTTmttNXN6U1JWSFZZRkhlb2pEVWVzeHpURlM5ZHVMbkRSTTE4RlZOZTlvek5EZmhUOFJBWmd3UW5MUFpBaC1EcjlqSWN3dXl1SnVOU2JyVWV5Szg5Nk0yUkpBTlViUUxDRHJ4RGJJT19hZnVoWG9OSEt4V2V1VnFlQ2lIOTlEXzRDU1BEVzFWblpmZ0Z3YXpCWlFuMGZ5MzN4Zm8?oc=5",
+   "titre": "Mobilisation lycéenne : 49 établissements bloqués et grave incident à Chelles",
+   "date": "2026-11-10"
+  }
+ ],
+ "genere": "2026-11-11T05:56:33.358583+00:00"
+}
