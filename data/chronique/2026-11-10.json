@@ -42,7 +42,7 @@
  "jour_long": "mardi 10 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -242,121 +242,121 @@
   },
   {
    "n": 29,
+   "nom": "TF1+",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNERISkRMNWZIQ21nbFN0eFg3WkIzclM2eTV2Ni1yZmFiaFVXb25faVBGSTlMRFpzUlYtWFVrYWd4bUlsSWtmUG1Wa2Z3RXQxcnY3UWE4SDBWN0NXVUg1Yjk5Z01zbTY4RTJialMwX2ZZN2JZM19Ec2RHb2ZHNE54V1gtTWxhUHl1LVF3Z2YwMEtsb1dWZXJGOGdaR0Y5YlhPRURwNVBYS1M2TGs2OG9YVGV4UlBwVmlESjdXbWx2RGx5WjRRbm40?oc=5",
+   "titre": "Blocus des lycées : les demandes de cours particuliers en forte hausse",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 30,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVVpWa2wyWktFeGhsX1hjVUctY3ZteGNma1lpcG1iQThkOUlhMEsxYUZBRUxFRW5tS2thbXQ4NHgtTFFOLWxyakl1YVJXX0h2NHp2M2xkeEptcVdIV3NVMXJhUWpBVmJjSG5qT01fYmtqclUyVDN3cWpJTzUyZGMzWEQ1VzhjTmNxTThMYmZjU2xVOXVjSXFiVHNTMHY5WUNxUWl1WDN1TEI3U3ZfSHVvNUNkblpnalhSOHBLWWcyWXYzUVJfNWFacFlubnhSMmtiM0NRdklzOG1DY2VnekZOX3RDX0xrS1NydkdvdGNPZw?oc=5",
    "titre": "Face aux blocus, des cours suspendus dans des lycées de Loire-Atlantique",
    "date": "2026-11-10"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbm9QNThlUHlKNm00aDlHR3RoNW95dUl4WTVpRGVGNGpTV0hJcWEwa3hIRHcwaGJRcWNqNzUwYnlkdHNhY2o4NXlYeElGTmtVbFYxRl9hRlAzQW9HcG9UazkyUWhLdEdRSVBxY19UR0xTNHBzNGMxSlpSZVFMem5SUnczWU1TVHgwMnJFSmQ1bHVaM2FiX1Z6N2ZNTFhXSkFFNnVmZDYyNFNoLXBTV0pPdmNVUEgtdnRnRktLYTVibnZGaGJhdUg3Sl9zLWllcjJEdFNhU2dQT0U4MFdrT1YyUDF4LTVxY2lEVlduQldqd05LS3hzd3o1OHZmYk55dTRBOGJxNUVTS1BodWFHSGhSMHl5VmtKQVBrbWJ0VGZGNXU1SWQtblE?oc=5",
    "titre": "Blocage des lycées : des enseignants toulousains font classe dehors par solidarité avec leurs élèves, \"Les mobilisations ne sont pas un conflit entre prof et élèves\"",
    "date": "2026-11-10"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQU3YxQUlYMDc3UUo5VHlYajNNS2hTUmotT0xuMDd4ZDNiQ0hCYjlWVHhBYUNRWjJ6UnJ5ZndQVTM0c2t4S29sWW5POEdaNGJqdTRfUVR5ZDlpQW5lX3VhdnhpaGEyZy1GSTNUWVZrT21CS1dwa2dwYlZtQzVzd2xFRUwxYjFpaVNiRHNvNUR5WnozZVhqbnRvaHY1OWV4ZHIyTE5XTm9abjc0MmV6ZEpOWnNxcTRVMGFXVVVuU0I0M0tfUk10dTdTTVBTQ3NTaHZ3WUpGM1h5WlBmQlVCYmp0aE9QTWFQakthejMyYzg4TlhwQnBJR085aEt0YmdHckRiNEN2dTVwMjZCVzdkNncxMw?oc=5",
    "titre": "Violences conjugales : un collectif toulousain dénonce l'insuffisance des hébergements pour les victimes et appelle à manifester ce jeudi",
    "date": "2026-11-10"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
    "titre": "Grève du 10 novembre : étudiants, lycéens et enseignants à nouveau mobilisés pour « mettre le gouvernement sous pression »",
    "date": "2026-11-10"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaHFpV3dTQmlJY04wcngwSzlkVWY4SHdQa0xiU25YMkdPVGd2aGItWmxTZ3NFUG9EV0JBYWdzM3ZHSlB6VEtuZ21PNy1KTTFscTlYbEg5QUduRmFtSDRwNnkyUGpmQk93M2NoZGNNY2dmTlZ0ZXJYbXlKQ2VBYW9vdkd1V3RXdHoyanhNUHoxZmxJM1ZqRko2VDUtZHROY2tNUmhKZS1reFE2WWFSeENQNzdpQnJvZElnNjJ0bFd0VkJvVFdqbmI4VWtDR0pqd2JBWG5PZDFVSTlIazE0Rm5ON1FQV1VpYXZ2NTF4ZzVzcTdsamFrZlIyeG5MMHhtT3dFSUVIODVkLTU4MUgxZlV1NnJ1ZVBRVzRm?oc=5",
    "titre": "Incendie dans un lycée d'Aix-en-Provence : un feu d'origine inconnue s'est déclaré dans un établissement régulièrement bloqué dans le cadre de la mobilisation lycéenne",
    "date": "2026-11-10"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNDZhU3dFZUJ0eFl6enpNMnhBWXFvVzZkeFNmOVdHbFhySkFsakZEOUtYZGxzWDV0UklXMjhMRktPUkp4NHRRS1ZZVTROMGRxY2pMcFVnV2ZWUjQtT0QtWG53MGZRMmZUMzlpMXhDdXJVeW5fNEdMRjVMVmdfV1Jqb2NjdzZtalhLT24wSHJEazNlTGEwbVNfelJHbUZnMlRQdkxNVkZZenRQblNrRVFSV0tjTHNocmN2aFBBaFpsU3YyZDhzU2F6cDhhelhyeVlCelF4NWs1SDhjSWlIa1RZY3dsS3JrX3hYM0Q2bkxsaTZhU0FCVHpDLXdEbE40dk4yNFQxUE5wc3BUcVo1Z3hvQ2Q0aw?oc=5",
    "titre": "Blocage des lycées : deux petits feux mais une situation globalement calme... La journée de mobilisation du 10 novembre a commencé à Toulouse",
    "date": "2026-11-10"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "La Provence",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWlVtWWFWU2V1RTRfdXZBN2lYTFF4V3pGZ3ZCWkhDTTljNEFzMUZEZFl2QXRVbGpBclZKeTUzQktHWlpUcTU3NEc4Sm5hQVFFZm1SLTk5anNhSEQtWThLOUk5akF2Nmg4dkVoTk1TR0VSVEk4c3J3OTJaVzNiZlRhMm9rRW5GTzNaRk16MV9KOWtsYUNuX1NUT1F0OHRIel9VV0daeTN0TWk4S2ZRMTlhenVFNnZFaXlocmlQbWNPZnowcWhFaXQ1c05DWDA0dE0xSHpaY2M0VHhvR0dqRGhYNTJMdGlTQms0dC1Hb09pWVJGekdiODFabzRxWDU?oc=5",
    "titre": "\"Canons à son\" en manifestation : le ministère de l'Intérieur dément l'usage d'armes controversées par la gendarmerie",
    "date": "2026-11-10"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNXzZsUXZlSEVuUXV1WV9iNld2R1ZIUi1vN3Y0ZTVJUmxVdm1uZ2xuUl9RQUktaUtsMU5MOVlSanFpRkQ0WDJWQTlnQUZfbmZxMS1uaDlNMjdlRXZJaTFnaHZuV1JlNUhqUHZqNTdTcnlNdEJvYUVVNzR6aTE1cHg1MTFfZTZyMkVqSmhBeGozd1lGcWwxVExfNWR4LWdZemU0aTRzLThfMlczVFVubnVnNURmR1VKUW5aQzJLd2Q2R21YdXNkMDNER1RnTjYzSllsanNjc21ENHlSZ3B3d3JpOWdwZHEweDJQQWZKbUhtbWxQWDBhSzBRTW9UZkNtYk8tR3lHV29YX3RybW5GRndaWjIzc2tVUzgwYmN3VGYxS0FQZ2t2SEY3NGxDV1lTeXY3S0kwXw?oc=5",
    "titre": "Plogoff, Gilets jaunes, manifs lycéennes… Les soulèvements citoyens sur grand écran avec Sous l’hangar et N. Le Garrec",
    "date": "2026-11-10"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaG1LUGFFbHRBc3RkQXpDbjlmLXM2elUyN1RoNkZyWXMxQUdOdlpxd2lTOEhwcnhWNjdFLXFoOG5WU2NvbV9HU1EtUlFKTzRkSnQxQzIwU0JDdDh1U19iRTg1MThOWU15T0tJV3NkQVVOSUY0aGZwY2FfZlVHVlZyMHVEaXNtaUFWczd3MjhXMmtRSDlmd2MtZGltN1EyVUpaRk9pU1lndjJWTGZteWk4VTdvblFJMllHUnZna0ZNM0c3WTJ6U1NyaW01X3h1R3JobmlzYlZnQ01NTnhKWEFkVk5rUWlaUmNObzBSc1pjSDdWdUd1T19UczdBOWJqZVlUYS1FM1JjU0dQaTlMMTRfSg?oc=5",
    "titre": "Manifestation du 10 novembre à Toulouse : parcours, transports en commun perturbés, marché fermé... Ce qu'il faut savoir avant la mobilisation",
    "date": "2026-11-10"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWTdmZDdQcjFDQUxRX25fRHo1emI4ZDdCOWEtVnNNU2RQNm1CbWF5TXljanZ1c1d1NkFNZVZxclJqN0YzV3FpaXpSY21CU2s2cmNBR1RmazN2aDFXZ0VNOVRoVHZMRVd0RXMwVXpsb205T1hzVWdlY2RpRkdFM3R5TGhxRFYtLXFXanJpOVpXY3FZYktac1NoalFiY2UzR245aXAxNE9EUjJaVndVME0yR2t3cTZMVVA5ekQwLTRVWHpmQ19OcGlQYm5uR3NPOVVTOTNLbzVubnpWN1ZpMmdfcGRBRWtEU1lDTElCZzRWdkNDaU1HbUtvcnVHX0pKWl83dk1WUjA0aUw1cVFPRjlqQk9pX3ZubDJ5bi16alVR?oc=5",
    "titre": "INFO ICI Normandie - Mobilisation lycéenne : le poignet fracturé, un adolescent de Caen porte plainte contre la police",
    "date": "2026-11-10"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/education/direct-colere-des-lyceens-et-etudiants-nouvelle-journee-de-mobilisation-et-de-manifestations-suivez-toutes-les-infos-de-ce-mardi-10-novembre-31464803.php",
    "titre": "DIRECT. Colère des lycéens et étudiants : nouvelle journée de mobilisation et de manifestations ce mardi... Suivez le fil de la journée",
    "date": "2026-11-10"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMnBKQUgxbVJxMFpHbmVBXzdBd25oZ29uSkxrRkY3MkpDaU9uVUpYa05ZY2RLNEVwTW81RjVrTVhUYmF2T3FGY0lqU0cxdTZ2c0l3M001OWJwdHFudlN1V2hReG5rX2FSRnlCNTBsdjlVNnM0emdYNS1QdVNPS0FYRnhCLWhrQ2tmTmpiSF9laWZYT1ZnemVIMDlWaVpqM2NFcXBDbEY2NUlJLU93R0pZV0Q5cUtvYzlGWFZxMTRiMmVHSWR4LWpDS0RMaXBhbW1sTDNNZ2tHclM0N09GSmVqQ0RoMGVmNVhsenBnV3JBUjBCLVotTEtvZkJiYW9CYWdRUlJGVVI0dnR5RWs?oc=5",
    "titre": "Mobilisation des lycéens : \"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue à Chelles",
    "date": "2026-11-10"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-teddy-riner-candidat-surprise-a-la-presidentielle-2027-c5810be4-dc58-11f1-82ac-6c40d47aa0a6?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Le dessin de Chaunu : Teddy Riner candidat surprise à la présidentielle 2027",
    "date": "2026-11-10"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-[lestitres]",
    "titre": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
    "date": "2026-11-10"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
    "titre": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
    "date": "2026-11-10"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-etudiante-la-tension-monte-d-un-cran-entre-bloqueurs-et-presidents-d-universite_6808900_4401467.html",
    "titre": "Mobilisation étudiante : la tension monte d’un cran entre bloqueurs et présidents d’université",
-   "date": "2026-11-10"
-  },
-  {
-   "n": 45,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/idees/article/2026/11/10/yaelle-amsellem-mainguy-sociologue-par-les-blocages-les-lyceens-ont-trouve-les-moyens-de-se-faire-entendre_6808881_3232.html",
-   "titre": "Yaëlle Amsellem-Mainguy, sociologue : « Par les blocages, les lycéens ont trouvé les moyens de se faire entendre »",
    "date": "2026-11-10"
   },
   {
@@ -409,5 +409,5 @@
    "date": "2026-11-10"
   }
  ],
- "genere": "2026-11-11T07:08:32.510712+00:00"
+ "genere": "2026-11-11T08:31:20.172408+00:00"
 }
