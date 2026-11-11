@@ -5,9 +5,9 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon Le Journal du Centre, Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère. Selon Sud Ouest, Mouvement lycéen : quel est le profil des 1 504 mineurs interpellés et déférés devant la justice.",
+   "texte": "Selon Le Journal du Centre, Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère (repris par 3 médias). Selon Sud Ouest, Mouvement lycéen : quel est le profil des 1 504 mineurs interpellés et déférés devant la justice.",
    "sources": [
-    16,
+    5,
     24
    ],
    "theme": "Répression"
@@ -17,8 +17,8 @@
    "sources": [
     3,
     4,
-    5,
-    6
+    6,
+    7
    ],
    "theme": "Le mouvement"
   },
@@ -27,7 +27,7 @@
    "sources": [
     1,
     2,
-    11,
+    12,
     27
    ],
    "theme": "Politique"
@@ -42,7 +42,7 @@
  "jour_long": "mardi 10 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -74,86 +74,86 @@
   },
   {
    "n": 5,
+   "nom": "Le Journal du Centre",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmJQMUxHakdBWVNnQWljQ2lMdFYxb0lYSENKTzZVYnJVQUlIb1M5TU5sa2JtbkNGTzNiQVdydTdQaWJ2X3NzX282bzFSanRJWjlHd2VMRUdxem1Ud0hITEhiejliLXFjTDJwOWpELUpkQk5Pc3pHdXVfRFQwY3YtRzZUb3VIS0xBZjhRV0lKaEVIZ0V4X09oWl91T3VVRUJjMl9RY2RTMHJhZGNVNGJvUzJyZE0wT0k3WGktcFVpODg5ZjBSVlJnQWZxOGhJYzlDZE1Lb3ROdUljNmR3ZVZkeEJEVmZyUGpmeFcyUDdZYVBoVVpSUXEzdzBvbFYtUVVfRXhGSw?oc=5",
+   "titre": "Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère",
+   "date": "2026-11-10"
+  },
+  {
+   "n": 6,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/racisme/comme-un-petit-singe-une-enseignante-suspendue-pour-propos-racistes-envers-un-etudiant-noir_8276705.html#xtor=RSS-3-[lestitres]",
    "titre": "\"Comme un petit singe\" : une enseignante suspendue pour propos racistes envers un étudiant noir",
    "date": "2026-11-10"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-escalade-de-la-violence-ca-va-mal-finir-craint-loic-guibon-proviseur-et-syndicat-de-proviseurs_VN-202611100712.html",
    "titre": "Mobilisation lycéenne, escalade de la violence: \"Ça va mal finir\", craint Loïc Guibon, proviseur et syndicat de proviseurs",
    "date": "2026-11-10"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-et-montee-de-tensions-s-il-doit-y-avoir-des-ripostes-qui-doivent-etre-faites-ca-doit-etre-de-facon-democratique-rappelle-julia-kudada-secretaire-generale-de-les-lyceens_VN-202611100686.html",
    "titre": "Mobilisation lycéenne et montée de tensions: \"S'il doit y avoir des ripostes qui doivent être faites, ça doit être de façon démocratique\", rappelle Julia Kudada, secrétaire générale de \"Les Lycéens !\"",
    "date": "2026-11-10"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-mobilisation-lyceenne-les-chefs-d-etablissement-appellent-a-se-mobiliser-ce-vendredi_VN-202611100667.html",
    "titre": "Mobilisation lycéenne: les chefs d'établissement appellent à se mobiliser ce vendredi",
    "date": "2026-11-10"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/education/video-mobilisation-etudiante-et-lyceenne-l-unef-appelle-a-poursuivre-la-mobilisation-chaque-semaine-s-il-le-faut_VN-202611100584.html",
    "titre": "Mobilisation étudiante et lycéenne: l’UNEF appelle à poursuivre la mobilisation “chaque semaine s’il le faut”",
    "date": "2026-11-10"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/video-colere-lyceenne-une-elue-de-chelles-aspergee-d-essence_VN-202611100456.html",
    "titre": "Colère lycéenne: une élue de Chelles aspergée d'essence",
    "date": "2026-11-10"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/politique/presidentielle-2027-qui-est-derriere-la-candidature-de-teddy-riner-1221968?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Présidentielle 2027 : qui est derrière la candidature de Teddy Riner ?",
    "date": "2026-11-10"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/mobilisation-lyceenne-etudiante-et-enseignante-laurent-nunez-appelle-a-ne-pas-baisser-la-garde-face-aux-violences_AD-202611100385.html",
    "titre": "Mobilisation lycéenne, étudiante et enseignante: Laurent Nuñez appelle à \"ne pas baisser la garde\" face aux violences",
    "date": "2026-11-10"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-mobilisation-education-lyceens-etudiants-enseignants-greve-lecornu-20261110",
    "titre": "EN DIRECT - Colère sociale : «Faire bloc ensemble», étudiants, lycéens et enseignants appellent à une nouvelle journée d’action ce mardi",
    "date": "2026-11-10"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
    "titre": "Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi",
    "date": "2026-11-10"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVVZKNDZfOGRJSGIwbldNbjdqR29xdDR2ZWJaMVA2SDNuUXNyb3FnR29KM1lyUmJ4eC1EbnJaVk54S09RZ0NPZWVMQzN1OWJsclBsVTVPdUNlRHR3d0UySGhQYk42UnhPR1NGcDBPQ1drUnd2MmE1YWNPLVZwZU15MC01WjFhdjZFU2JoU0dHek9MNGt3Um54cFR0bDV4Y1pRRlVVRWlYWWRDZm5obmRKek9RUndfV2N3VDZGdWg1MmpUWVFnQjVEUUV6SU9MWGVNcDhyQzluSzRrQkdpbFVhVUlvcm5VeERwaUpiUWQ1Zm1DWFAtWHNkWDdua2ZZbktRbzg3SHR2TQ?oc=5",
    "titre": "La mobilisation des lycéens s’est poursuivie ce mardi, le gouvernement hausse le ton face aux violences",
-   "date": "2026-11-10"
-  },
-  {
-   "n": 16,
-   "nom": "Le Journal du Centre",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmJQMUxHakdBWVNnQWljQ2lMdFYxb0lYSENKTzZVYnJVQUlIb1M5TU5sa2JtbkNGTzNiQVdydTdQaWJ2X3NzX282bzFSanRJWjlHd2VMRUdxem1Ud0hITEhiejliLXFjTDJwOWpELUpkQk5Pc3pHdXVfRFQwY3YtRzZUb3VIS0xBZjhRV0lKaEVIZ0V4X09oWl91T3VVRUJjMl9RY2RTMHJhZGNVNGJvUzJyZE0wT0k3WGktcFVpODg5ZjBSVlJnQWZxOGhJYzlDZE1Lb3ROdUljNmR3ZVZkeEJEVmZyUGpmeFcyUDdZYVBoVVpSUXEzdzBvbFYtUVVfRXhGSw?oc=5",
-   "titre": "Les journalistes dénoncent les violences policières en manifestations : Laurent Nuñez recevra les syndicats au ministère",
    "date": "2026-11-10"
   },
   {
@@ -409,5 +409,5 @@
    "date": "2026-11-10"
   }
  ],
- "genere": "2026-11-11T05:56:33.358583+00:00"
+ "genere": "2026-11-11T07:08:32.510712+00:00"
 }
