@@ -7,26 +7,26 @@
   {
    "texte": "Selon franceinfo, Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations.",
    "sources": [
-    22
+    23
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Le Figaro, Colère lycéenne: Sébastien Lecornu formalise la création de 5000 places supplémentaires en licence (repris par 5 médias). Selon La Semaine des Pyrénées, Occitanie – Mobilisation lycéenne : la Région lance sa plateforme « Direct Lycées » (repris par 3 médias). Selon RFI, L'Espagne en grève générale pour défendre l'accès au logement à l'approche des législatives (repris par 3 médias). Selon BFMTV, Des dizaines de milliers de manifestants dans les rues d'Espagne lors d'une journée de grève générale pour le droit au logement et le pouvoir d'achat.",
+   "texte": "Selon Le Figaro, Colère lycéenne: Sébastien Lecornu formalise la création de 5000 places supplémentaires en licence (repris par 5 médias). Selon La Semaine des Pyrénées, Occitanie – Mobilisation lycéenne : la Région lance sa plateforme « Direct Lycées » (repris par 3 médias). Selon RFI, L'Espagne en grève générale pour défendre l'accès au logement à l'approche des législatives (repris par 3 médias). Selon BFMTV, FORUM BFMTV - Blocage des lycées: l'échange tendu entre Sylvain Duyck, porte-parole de la PEEP et Marius Mesnil, co-secrétaire général de l’Union Syndicale Lycéenne.",
    "sources": [
     1,
     3,
     4,
-    6
+    5
    ],
    "theme": "Le mouvement"
   },
   {
    "texte": "Selon BFMTV, FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup. Selon BFMTV, FORUM BFMTV - “Les gens comprennent que, maintenant, on n'obtient des choses que par la casse”, explique Maxime, propriétaire de plusieurs boulangeries dans l’Oise. Selon BFMTV, FORUM BFMTV - Étienne, agriculteur, estime que les jeunes “savent se faire détester”. Selon BFMTV, FORUM BFMTV - Julien, professeur au lycée Balzac de Tours, a fait valoir son droit de retrait.",
    "sources": [
-    23,
-    25,
-    30,
+    24,
+    26,
+    31,
     36
    ],
    "theme": "Colère sociale"
@@ -35,9 +35,9 @@
    "texte": "Selon La Croix, Présidentielle 2027 : Bruno Retailleau propose une primaire les 31 janvier et 7 février (repris par 4 médias). Selon Ouest-France, « Je lui souhaite bonne chance ! » : Zinédine Zidane réagit à la candidature de Teddy Riner à la Présidentielle 2027. Selon Le Figaro, Présidentielle 2027 : Christine Lagarde créditée de 14% au premier tour si elle est candidate. Selon BFMTV, Présidentielle 2027: Édouard Philippe et Gabriel Attal \"n'ont rien à proposer\", assure Jean-Luc Mélenchon, candidat LFI.",
    "sources": [
     2,
-    5,
-    8,
-    9
+    6,
+    9,
+    10
    ],
    "theme": "Politique"
   }
@@ -51,7 +51,7 @@
  "jour_long": "mercredi 11 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -83,205 +83,205 @@
   },
   {
    "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-blocage-des-lycees-l-echange-tendu-entre-sylvain-duyck-porte-parole-de-la-peep-et-marius-mesnil-co-secretaire-general-de-l-union-syndicale-lyceenne_VN-202611110782.html",
+   "titre": "FORUM BFMTV - Blocage des lycées: l'échange tendu entre Sylvain Duyck, porte-parole de la PEEP et Marius Mesnil, co-secrétaire général de l’Union Syndicale Lycéenne",
+   "date": "2026-11-11"
+  },
+  {
+   "n": 6,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/sport/football/zinedine-zidane/je-lui-souhaite-bonne-chance-zidane-reagit-a-la-candidature-de-teddy-riner-a-la-presidentielle-7749f5e4-de06-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "« Je lui souhaite bonne chance ! » : Zinédine Zidane réagit à la candidature de Teddy Riner à la Présidentielle 2027",
    "date": "2026-11-11"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/international/europe/espagne/des-dizaines-de-milliers-de-manifestants-dans-les-rues-d-espagne-lors-d-une-journee-de-greve-generale-pour-le-droit-au-logement-et-le-pouvoir-d-achat_AD-202611110739.html",
    "titre": "Des dizaines de milliers de manifestants dans les rues d'Espagne lors d'une journée de grève générale pour le droit au logement et le pouvoir d'achat",
    "date": "2026-11-11"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
    "titre": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
    "date": "2026-11-11"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-christine-lagarde-creditee-de-14-au-premier-tour-si-elle-est-candidate-20261111",
    "titre": "Présidentielle 2027 : Christine Lagarde créditée de 14% au premier tour si elle est candidate",
    "date": "2026-11-11"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-edouard-philippe-et-gabriel-attal-n-ont-rien-a-proposer-assure-jean-luc-melenchon-candidat-lfi_VN-202611110604.html",
    "titre": "Présidentielle 2027: Édouard Philippe et Gabriel Attal \"n'ont rien à proposer\", assure Jean-Luc Mélenchon, candidat LFI",
    "date": "2026-11-11"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/11/11/mouvement-lyceen-parents-d-eleves-parlez-nous-de-votre-positionnement-vis-a-vis-de-la-mobilisation_6808953_3224.html",
    "titre": "Mouvement lycéen : parents d’élèves, parlez-nous de votre positionnement vis-à-vis de la mobilisation",
    "date": "2026-11-11"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMmF5VlRGbHBqUjY4eEhXOFA1TFgybks4WmRGMER5VTVTZDFZU2c5Mm84VEV2U1QzSkZBTllESGx2cGRTXzlHVlJxdVktOTVGUUUzMGVQdkRzVmtRUmx1T0pMSW01bjB2R3huQ25YTmUxSlNGNkxUU0FRNy1CczdURkxyOFhZbUtraDB4M09VVkltZktIaTFoNWhxSnlaRjhTa1ZNd0s2ZzhVSE8xZzU4N2prcHNzLWZKaDYxd3VPWmFlOEE3LTNpQ2I1QUE0UHctcFRBZGgyaXZsX2k2VnZONnJaZzFHelViSkRnSFQ1WHlmaVREWEhzcldR?oc=5",
    "titre": "Mobilisation lycéenne : « 99 % des élèves vont en cours aujourd’hui », selon Édouard Geffray",
    "date": "2026-11-11"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "www.parlons-politique.fr",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWk1yUlUwcGdLSDAyaHppckYwcklCbFBwSlRONHh6czB0Q2VralQxNFZtVFNxbHBhVUxjVFhPekxnOFFtaVR6c29XRkQtcHNBdEJESGFZX3o0cU5FZUJiUE5ETTRCY01ZWU5GUkpsRWZ0STQtTlhNMzdWM2xDTFZEekZGYk5FWTREZHM2aVVRZHVDdVJMbUx3V28zc0ltbEttLXA5VTJyYklNTnBNMlJGa1J6YjZyZ3NMMWM5SEtGdTI0RTFORDI5ZDFSQk5DZzZNUWFIUUpPak5xbHJ2WGdmTWRjS2tybzdsVzdyQVBZMy11NGEwdmc?oc=5",
    "titre": "Mobilisation lycéenne : comment protéger l’accès aux cours tout en répondant aux revendications des élèves ?",
    "date": "2026-11-11"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/education/colere-des-lyceens-edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-31478364.php",
    "titre": "Colère des lycéens : Édouard Geffray appelle à « la responsabilité collective » et à une « condamnation unanime » des violences",
    "date": "2026-11-11"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4262102-20261111-presidentielle-2027-retailleau-soumet-philippe-attal-lisnard-dates-primaire?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : Retailleau soumet à Philippe, Attal et Lisnard des dates pour une primaire",
    "date": "2026-11-11"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/economie/international/une-premiere-depuis-2012-une-greve-generale-en-espagne-pour-defendre-l-acces-au-logement-en-pleine-campagne-electorale_AD-202611110222.html",
    "titre": "Une première depuis 2012: une grève générale en Espagne pour défendre l'accès au logement en pleine campagne électorale",
    "date": "2026-11-11"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-les-lyceens-et-les-etudiants-ne-doivent-pas-revoir-leurs-exigences-a-la-baisse-explique-sherine-juriste_VN-202611110834.html",
    "titre": "FORUM BFMTV - “Les lycéens et les étudiants ne doivent pas revoir leurs exigences à la baisse”, explique Shérine, juriste",
    "date": "2026-11-11"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-en-dialoguant-en-gardant-le-sourire-on-arrive-a-se-faire-comprendre-temoigne-thierry-professeur-de-physique-chimie_VN-202611110836.html",
    "titre": "FORUM BFMTV - Mouvement lycéen: \"En dialoguant, en gardant le sourire, on arrive à se faire comprendre\", témoigne Thierry, professeur de physique-chimie",
    "date": "2026-11-11"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-frederic-lauze-secretaire-general-du-syndicat-des-commissaires-de-la-police-nationale-estime-que-les-manifestations-sont-contaminees-par-des-voyous_VN-202611110826.html",
    "titre": "FORUM BFMTV - Frédéric Lauze, secrétaire général du syndicat des commissaires de la police nationale, estime que “les manifestations sont contaminées par des voyous”",
    "date": "2026-11-11"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-tant-que-l-on-n-a-pas-ces-10-milliards-d-euros-on-continuera-de-bloquer-nos-etablissements-declare-marius-mesnil-co-secretaire-general-de-l-union-syndicale-lyceenne_VN-202611110823.html",
    "titre": "FORUM BFMTV - “Tant que l’on n’a pas ces 10 milliards d’euros, on continuera de bloquer nos établissements”, déclare Marius Mesnil, co-secrétaire général de l’Union Syndicale Lycéenne",
    "date": "2026-11-11"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-il-faut-accepter-cette-volonte-de-dialogue-argumente-me-matheo-moreau-avocat-penaliste-a-paris_VN-202611110818.html",
    "titre": "FORUM BFMTV - Mouvement lycéen: “Il faut accepter cette volonté de dialogue”, argumente Me Mathéo Moreau, avocat pénaliste à Paris",
    "date": "2026-11-11"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-je-vois-mes-eleves-tres-inquiets-sur-l-avenir-explique-farid-enseignant-et-responsable-associatif-dans-le-nord_VN-202611110817.html",
    "titre": "FORUM BFMTV - Mouvement lycéen: \"Je vois mes élèves très inquiets sur l'avenir\", explique Farid, enseignant et responsable associatif dans le Nord",
    "date": "2026-11-11"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/quatre-organisations-syndicales-de-journalistes-deposent-plainte-contre-x-apres-plusieurs-entraves-par-des-forces-de-l-ordre-lors-de-manifestations_8278373.html#xtor=RSS-3-[lestitres]",
    "titre": "Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations",
    "date": "2026-11-11"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-pierre-henri-dumont-porte-parole-de-bruno-retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-parcoursup_VN-202611110816.html",
    "titre": "FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup",
    "date": "2026-11-11"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-mouvement-lyceen-j-ai-des-etablissements-ou-il-n-y-a-pas-de-prof-de-francais-depuis-la-rentree-temoigne-sabrina-sebaihi-deputee-ecologiste-et-social-des-hauts-de-seine_VN-202611110812.html",
    "titre": "FORUM BFMTV - Mouvement lycéen: \"J'ai des établissements où il n'y a pas de prof de français depuis la rentrée\", témoigne Sabrina Sebaihi, députée \"Écologiste et social\" des Hauts-de-Seine",
    "date": "2026-11-11"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-les-gens-comprennent-que-maintenant-on-n-obtient-des-choses-que-par-la-casse-explique-maxime-proprietaire-de-plusieurs-boulangeries-dans-l-oise_VN-202611110811.html",
    "titre": "FORUM BFMTV - “Les gens comprennent que, maintenant, on n'obtient des choses que par la casse”, explique Maxime, propriétaire de plusieurs boulangeries dans l’Oise",
    "date": "2026-11-11"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-greve-nationale-en-espagne-120-000-manifestants-a-madrid-pour-le-logement-et-le-pouvoir-d-achat_VN-202611110808.html",
    "titre": "Grève nationale en Espagne: 120.000 manifestants à Madrid pour le logement et le pouvoir d'achat",
    "date": "2026-11-11"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/economie/social/greve/espagne-des-centaines-de-milliers-de-manifestants-dans-la-rue-pour-le-droit-au-logement-31488423.php",
    "titre": "Espagne : des centaines de milliers de manifestants dans la rue pour le droit au logement",
    "date": "2026-11-11"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-on-doit-etre-fiers-car-les-lyceens-sont-politises-a-un-age-interessant-explique-reda-didi-fondateur-de-l-association-graines-de-france_VN-202611110798.html",
    "titre": "FORUM BFMTV - “On doit être fiers car les lycéens sont politisés à un âge intéressant”, explique Reda Didi, fondateur de l’association Graines de France",
    "date": "2026-11-11"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-blocage-des-lycees-les-chiffres-ministeriels-existent-ils-sont-faux-estime-cyril-coupaud-proviseur-dans-l-essonne-secretaire-academique-du-syndicat-sndpen-unsa_VN-202611110799.html",
    "titre": "FORUM BFMTV - Blocage des lycées: \"Les chiffres ministériels existent, ils sont faux\", estime Cyril Coupaud, proviseur dans l'Essonne, secrétaire académique du syndicat SNDPEN-UNSA",
    "date": "2026-11-11"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-etienne-agriculteur-estime-que-les-jeunes-savent-se-faire-detester_VN-202611110795.html",
    "titre": "FORUM BFMTV - Étienne, agriculteur, estime que les jeunes “savent se faire détester”",
    "date": "2026-11-11"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/grand-littoral/un-salarie-tombe-dans-une-cuve-de-traitement-de-dechets-a-calais-retrouve-mort-apres-une-journee-de-recherches_AN-202611110783.html",
    "titre": "Un salarié tombé dans une cuve de traitement de déchets à Calais retrouvé mort après une journée de recherches",
    "date": "2026-11-11"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_8277731.html#xtor=RSS-3-[lestitres]",
    "titre": "En Espagne, des centaines de milliers de personnes ont manifesté pour l'accès au logement et le pouvoir d'achat",
-   "date": "2026-11-11"
-  },
-  {
-   "n": 33,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-blocage-des-lycees-l-echange-tendu-entre-sylvain-duyck-porte-parole-de-la-peep-et-marius-mesnil-co-secretaire-general-de-l-union-syndicale-lyceenne_VN-202611110782.html",
-   "titre": "FORUM BFMTV - Blocage des lycées: l'échange tendu entre Sylvain Duyck, porte-parole de la PEEP et Marius Mesnil, co-secrétaire général de l’Union Syndicale Lycéenne",
    "date": "2026-11-11"
   },
   {
@@ -397,5 +397,5 @@
    "date": "2026-11-11"
   }
  ],
- "genere": "2026-11-12T05:36:01.004273+00:00"
+ "genere": "2026-11-12T07:10:25.796172+00:00"
 }
