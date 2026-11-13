@@ -1,0 +1,389 @@
+{
+ "titre": "Jeudi 12 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon franceinfo, \"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation. Selon Libération, Au procès de l’agression de Michel Zecler, de jeunes témoins s’expriment : «Je me suis dit que la moindre erreur aurait pu nous tuer». Selon BFMTV, Colère lycéenne: \"Dans une démocratie, la violence devrait délégitimiser toute revendication\", assure François-Xavier Bellamy, eurodéputé LR. Selon Place Gre'net, Une déambulation de lycéens à Grenoble, 3 interpellés à Bourgoin.",
+   "sources": [
+    3,
+    21,
+    26,
+    28
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon BFMTV, NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris (repris par 3 médias). Selon Le Monde, Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences (repris par 3 médias). Selon Sud Ouest, Rouen : la manifestation contre le « racisme anti-blancs » interdite par la préfecture. Selon Ouest-France, Manifestation contre la vie chère : à quoi s’attendre à Vannes ce samedi 14 novembre ?.",
+   "sources": [
+    1,
+    2,
+    4,
+    6
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Sud Ouest, Trombinoscopes saisis dans des lycées : le parquet réfute tout « fichage ». Selon Ouest-France, « Trombigate » : l’énorme colère des parents des 4 500 élèves « fichés et fliqués » à Brest. Selon France 24, Midterms : un sénateur noir élu dans le Mississipi, une victoire historique pour le Parti démocrate.",
+   "sources": [
+    13,
+    24,
+    42
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Radio France, Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\". Selon Europe 1, Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe. Selon Le Monde, Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique. Selon BFMTV, Marine Tondelier, accusée de diffamation par le RN après des propos sur le suspect de l'attentat des Yvelines, se dit \"extrêmement sereine\".",
+   "sources": [
+    5,
+    7,
+    20,
+    22
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-12",
+ "numero": 42,
+ "jour_long": "jeudi 12 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-nos-reporters-racontent-lyceens-mobilises-parents-d-eleves-opposes-le-blocus-se-poursuit-au-lycee-maurice-ravel-a-paris_VN-202611120510.html",
+   "titre": "NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 2,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+   "titre": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 3,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/rappelez-a-l-ordre-vos-forces-de-l-ordre-les-journalistes-demandent-a-laurent-nunez-le-respect-du-droit-d-informer-en-manifestation_8280080.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 4,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/rouen-la-manifestation-contre-le-racisme-anti-blancs-interdite-par-la-prefecture-31501635.php",
+   "titre": "Rouen : la manifestation contre le « racisme anti-blancs » interdite par la préfecture",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 5,
+   "nom": "Radio France",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVExNlpjZWpXZVhhWDJRRGhEUE1sUW9mMXYzWmhfeVdUUzhneUNrdnZoX1pINkFNa0pKeFU0ZG1HN28yZlgwNTZyWXd6MThlcTlQNHFONFppaEZhTi1EZlVMc2hEWFB2TTltTUJmenlUQlN4ekJlaUpIT1hrR2dsX1V0VFJDSzhkckl1UGZXdE55czZuMWRvNHNHdm9fM2JhTTUwTWNiSW14bzMxMVk4TUNxQWhaZVFCY2FnN2d1dG9ZWlZpN0ZETWxrWTdYU3NxbHB3SnVhUF9iUDZtdGlhUWVyd29IYzlGa0M1Zw?oc=5",
+   "titre": "Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\"",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 6,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQelhNTFNQYV9VWjNkM3h3STVUcGVYTEYwNHRRbC1nS2JQcVFNNFFqTkxjMTIyLUJ6VmxzRVJIbGVjODhoclBUSldCazEyUFdmQ1dwQ0c3cllzeGNETHNrTFNKRHdybUxQa0oxX0JnRld5ZWpudWpBVkNRaGpGckVyN0tqWWZrR2tOYWVabXB2R0N1OHBHR3ZpM2xtMHRDanlLZjZOTVlWeVgzWFk1ZlpEVGRvek9qbG45NjFBZWpieE1NNjR5M0lLVW9udEFoS2xndW14Vmt1aE1JZTNLVVpQSVB0eWVJVTQ0eGZDTUZWTUltOGxvMllUNk9XSmE?oc=5",
+   "titre": "Manifestation contre la vie chère : à quoi s’attendre à Vannes ce samedi 14 novembre ?",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 7,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1228463?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 8,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQN21UYmJGb1VZTl9mUDN2Yk1TWll1TExabmxVQWt4ZFltbFBOREQ3N2hTSTI0R0ZfTGtPUlRnaEVsYjJsVFUydVkzbFN0dEk1Z3lrZ3lLcEN2b0l1N1JXYnRJU1lETHFwNmI5VW1vM1hBWXRwOVljWTkxNkVPbktSM1BHWkx3RWVQeHVBVGNBYlo1b1hSZDE3LU9hdnhGaHdIZ09XUVc3OVRLVTlKVnpRQVdnTlRncEd6YzN0R3J3eVU4amktbTBHWURsMkNxbjVrTENrQ1pWYzN5NVVhSkhuSEdzdUFOb29ZTjRxZGJsX0hvcWVBbXlIc1pEX2hDRS1zb3NPOWFFQ0QtQjBJV0hEU1dHTEZ3RFBEMjRWSTNqLUNfakUzMDJxQVRhaw?oc=5",
+   "titre": "Mobilisation lycéenne : rassemblement symbolique devant la préfecture avant le blocus du 17 novembre",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 9,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeVpESXp2R2RuTGtkVHV0LWJuZlBNbElRbXhxLWJQcF9CajdXT0k2U0VRV1ZNb010X20zU0dqcXNfalNiRU03UjQwbldFVzVfZ1lUM3J3QnA3Y0dBMWg4d2VlUHY1Q254aENPcVgxWXA1ZlNHV19zaUF5ZHNldmQ0V2RpUTQ1NldvaW9ibFQxZnk4akUtQ1JxbXRLaGhCYS01cGE1cEg3djVUQkFLdmZMSENiNWdHekdwN3VNWWdCTlNLVlp6U1N0SlFqTUd0X2g1YVpnZm9YMWd3cVhYb0xWd1QzLTNCNmdTUEJCcWQ4Rlh0Z3dxMnhxMHZGV25aRDg5WVE2RFBYRDJ2V1I3S2Y4SHZtcDFSN0lxdTY4cGtnWQ?oc=5",
+   "titre": "Retraites, vie chère, climat, service public… Trois nouvelles manifestations prévues à Caen ces prochains jours",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 10,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mobilisation-sociale-la-coordination-des-gilets-jaunes-les-organisations-de-jeunesse-et-certains-syndicats-appelent-a-un-acte-v-samedi_6809098_3224.html",
+   "titre": "Mobilisation sociale : la coordination des « gilets jaunes », les organisations de jeunesse et certains syndicats appellent à un « acte V » samedi",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 11,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/le-gouvernement-veut-mettre-fin-aux-violences-pres-des-lycees-et-demande-une-saisine-systematique-de-la-justice-20261112_P2CAVY7E5JCX7DWJ3PQY24ECMI/",
+   "titre": "Le gouvernement veut «mettre fin» aux violences près des lycées et demande une saisine «systématique» de la justice",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 12,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/trombinoscopes-saisis-a-brest-le-procureur-refute-toute-tentative-de-fichage-de-lyceens_6809093_3224.html",
+   "titre": "Trombinoscopes saisis à Brest : le procureur réfute toute tentative de « fichage » de lycéens",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 13,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/trombinoscopes-saisis-dans-des-lycees-le-parquet-refute-tout-fichage-31492857.php",
+   "titre": "Trombinoscopes saisis dans des lycées : le parquet réfute tout « fichage »",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 14,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/international/europe/espagne/videos-espagne-mobilisation-massive-pour-le-droit-au-logement-heurts-entre-police-et-manifestants-a-madrid-et-barcelone-31490102.php",
+   "titre": "Vidéos. Espagne : mobilisation massive pour le droit au logement, heurts entre police et manifestants à Madrid et Barcelone",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 15,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-une-inquietude-grandissante-pour-la-preparation-des-examens-les-notes-du-premier-trimestre-et-les-dossiers-parcoursup_6809050_3224.html",
+   "titre": "Mouvement lycéen : une inquiétude grandissante pour la préparation des examens, les notes du premier trimestre et les dossiers Parcoursup",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 16,
+   "nom": "ArcInfo",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNU5EM29pRXJOTFNXVk1LYkVsaFhURGZIcXVjUXl1dEtBdHpPVzlWNDRYQUVhdmpJa1RtWThhVzVMd1Y0X2t6RkY5LUJpMjRLbGNHbEo5cFB5RVNqRWtrNjlfSUhzN3R5UlZBdGdDZ3J4UldTREk1NmxkQVFjeHdHdm1UY051ZXNoV2tBRTRpYWFvVXhzYTdLZ200cGhIQUR2T1p0cGJ1U25SeEd6SGY2eS1DUXJkamtBT1JuTXgyWVJXVEpsekpOYkgtcHpFZHJsUnVMalBoakZ6YWpBaHRfZg?oc=5",
+   "titre": "«Je n’ai passé que trois journées chez moi»: le quotidien éprouvant des policiers français face aux manifestations",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 17,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
+   "titre": "Mobilisation lycéenne : Carole Delga, présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 18,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTEzZHRuQmQtWG5PcmNodFRUN1l5anpyTHdWU2t6ZWVYNEVNS2VXektidVAySHBSVGtZLTV5cUpOdkZrS1RsZFFwZEtJTnIwOXVjV2FaVVZLdXN4cmRtSk1nRWM3eTFLWExTU24yaE15d2NiRkFnMDVXVG1vQ21iVmRzcmQ0WGls?oc=5",
+   "titre": "Blocus des lycées : « On a la boule au ventre »… Les proviseurs sont épuisés et ne veulent plus être pris pour cibles",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 19,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-plus-jeter-de-l-huile-sur-le-feu-qu-eteindre-l-incendie-juge-le-syndicat-national-des-lycees-et-colleges-alors-que-des-enseignants-sont-accuses-de-complicite-sur-les-violences_8280095.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"C'est plus jeter de l'huile sur le feu qu'éteindre l'incendie\", juge le syndicat national des lycées et collèges, alors que des enseignants sont accusés de \"complicité\" sur les violences",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 20,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
+   "titre": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 21,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-de-jeunes-temoins-sexpriment-je-me-suis-dit-que-la-moindre-erreur-aurait-pu-nous-tuer-20261112_JOLRHZPWJREXLEC2KO3EOFTL4I/",
+   "titre": "Au procès de l’agression de Michel Zecler, de jeunes témoins s’expriment : «Je me suis dit que la moindre erreur aurait pu nous tuer»",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 22,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/marine-tondelier-accusee-de-diffamation-par-le-rn-apres-des-propos-sur-le-suspect-de-l-attentat-des-yvelines-se-dit-extremement-sereine_AV-202611120933.html",
+   "titre": "Marine Tondelier, accusée de diffamation par le RN après des propos sur le suspect de l'attentat des Yvelines, se dit \"extrêmement sereine\"",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 23,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/economie/social/mouvement-social-les-differentes-mobilisations-prevues-ce-samedi-14-novembre-20261112_XMJHHCIKYFHGFHIQFQMLUNN5PM/",
+   "titre": "Mouvement social : les différentes mobilisations prévues ce samedi 14 novembre",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 24,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/ecole/trombigate-lenorme-colere-des-parents-des-4-500-eleves-fiches-et-fliques-a-brest-697fa368-debb-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "« Trombigate » : l’énorme colère des parents des 4 500 élèves « fichés et fliqués » à Brest",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 25,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTV1NWhWQnhMRmFJel8wd3RnNUk0VlVJVGJ4bGJwS0RZTGl1eEg4Wi1RVXA1dUVtVThWaElpc3R5eWxOZENqUFRDSmVONkFjbVpoVHl3dE9JVms2V2JCS240d1VIdUZERGtKTDlSSHZERWNvUHJZRzlZYzFMS2RHN1lOR05QZ0JRVlhhN1ozaThXQVhNT1FwWUFIVW9UY1hkQnZMT2kycjg5Z3NRUDVURnp2THBwQdIBuwFBVV95cUxQUWFDeGVTS0V3N2NIS2FiOEo1OG5neUMweE5MSnNnUUhrTk40NUlvOE8tSHdWZ3k2S1hLWThWakNSNWNTTFdOYnQ5RUlhVTFlTGloT0xMRFd6VU1LX2pYaWtvYl9Na1hFXzBwUi1XTlNpNFpxNkJLZnNGdG83Y0Z2ZXMwSU1HQXFlQlZ1MThpWVgzQUxqTjR5MldqZkplSGVORXlqLUt4ZnE4cUJWZUpfSmNqVTZZajNzQ1p3?oc=5",
+   "titre": "Blocus des lycées : «L’angoisse des jeunes» est sous-estimée, estime André Vallini",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-dans-une-democratie-la-violence-devrait-delegitimiser-toute-revendication-assure-francois-xavier-bellamy-eurodepute-lr_VN-202611120911.html",
+   "titre": "Colère lycéenne: \"Dans une démocratie, la violence devrait délégitimiser toute revendication\", assure François-Xavier Bellamy, eurodéputé LR",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 27,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-lyceens-et-leurs-parents-inquiets-face-aux-milliers-d-heures-de-cours-perdues_8279993.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"Il y a un désavantage qui va se faire ensuite pour Parcoursup\" : des lycéens et leurs parents inquiets face aux milliers d'heures de cours perdues",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 28,
+   "nom": "Place Gre'net",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX3pYd1JTSUdQYWk3ZU5pUHhpMlhoQmdBdkJ5c09zNkJNRFl5OUNvZG5RYUpXZVNRdTkyaURpa0dKU1hFY0ZGOF9rN0xhR25zek9UNm8tRE1KT29kY0thYnpObzhfUm5OOHk0RGRodmR6Z0JqeVpJU2d4U2laT25aWTZRdnhmMTRjMGRpLUw3MDFXMDNhd1JyV3p3TlZwVEYtWkc1REVhUV9sSV9IQXpRWmhNMkJqNk4xUzI2aUtzRXJocEUwYl9zVzhfUHB5T0NMNEdqNzNEYlhISlU0c0pNWTdKZmJTaUlybGNaenhLMzRpLS1RUjlv?oc=5",
+   "titre": "Une déambulation de lycéens à Grenoble, 3 interpellés à Bourgoin",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-la-candidate-ecologiste-marine-tondelier-est-l-invitee-de-vous-presidente_LN-202611120882.html",
+   "titre": "DIRECT. Présidentielle 2027: la candidate écologiste Marine Tondelier est l'invitée de \"Vous présidente\"",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 30,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-[lestitres]",
+   "titre": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 31,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/usa/plusieurs-personnes-touchees-par-des-tirs-a-washington-la-police-evoque-une-fusillade-en-cours_8279543.html#xtor=RSS-3-[lestitres]",
+   "titre": "Un tireur fait au moins un mort et quatre blessés à Washington, annonce la police",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 32,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/conso/une-enveloppe-de-725-millions-d-euros-le-plan-du-gouvernement-pour-restaurer-la-souverainete-alimentaire-20261112",
+   "titre": "Une enveloppe de 725 millions d’euros : le plan du gouvernement pour restaurer la souveraineté alimentaire",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 33,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "C'est Benjamin de franceinfo ! #Episode2",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 34,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/huit-profs-sur-dix-sont-en-retard-des-enseignants-ont-mesure-limpact-du-mouvement-lyceen-sur-leur-programme-6cb8f69c-de7f-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "« Huit profs sur dix sont en retard » : des enseignants ont mesuré l’impact du mouvement lycéen sur leur programme",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 35,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/12/presidentielle-2027-je-sais-pour-qui-je-ne-voterai-jamais-ginette-kolinka-rescapee-dauschwitz-prend-le-contre-pied-de-serge-klarsfeld-13649738.php",
+   "titre": "Présidentielle 2027 : \"Je sais pour qui je ne voterai jamais\", Ginette Kolinka, rescapée d'Auschwitz, prend le contre-pied de Serge Klarsfeld",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 36,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-teddy-riner-candidat-il-faut-%C3%AAtre-clair-avec-l-opinion-publique-victorin-lurel",
+   "titre": "Teddy Riner candidat : \"Il faut être clair avec l'opinion publique\" (Victorin Lurel)",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 37,
+   "nom": "France 3 Régions",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaTV0Qnl0UGNDVUY0Q2VPOUFWVWpYaUxndjRqRU1ZbkVhRXlvWG9YN21sSUlMT2E2VEkzeEFPQk5TTEE1NHQwcXFvQTkwcDBXZE0zUm9RM3kzYjlyLXprR0lvUWloLUJDRGI0V1Q2cDYydEF6TW1jUWs2VURwTllnRDVOUFBLWVB5Qm5IczBjVGE1Rk5kU0lKRV9yS1c3M0FpYlRsamI2SHl1V0duQ3gzX1NxSFVZMGFvMGk0T3Bxdm9ZUzhLdFo1cjZNNU44cUhQWnJMLWhiTjJNMWJoR0s2cDJYaTFQYU8tSV9IOEF1SUU1LV80dEMyZ3l2Mi0yLXdIbTQ3Q2JQdjVGN0puTXRZeUpFV1h2R3cyUllUeXlLWU92ZzF4ZmlIdk96MTJpUkxfQlpobE5SYjR3ZkdVV083MmZUMA?oc=5",
+   "titre": "Mobilisation lycéenne : six interpellations, seize établissements bloqués en Haute-Garonne, la préfecture appelle à un \"retour serein en cours\"",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 38,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/faits-divers/la-manifestation-contre-le-racisme-anti-blanc-prevue-samedi-a-rouen-interdite-pour-des-risques-de-trouble-a-l-ordre-public_8279867.html#xtor=RSS-3-[lestitres]",
+   "titre": "La manifestation contre le \"racisme anti-blanc\" prévue samedi à Rouen interdite pour des risques de trouble à l'ordre public",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 39,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQzN6aDlxLXJSOFZfN2FsWS0xbVA5RElfYXM5VlVmeDk2aWJ3RGtvX0kwM3BQVm5PWkl2aGtXbmN6T3RVZC1tcVlubFhiWHVlRllVTnhWNkN0ZW5GRk5OYjlnR1pMVUxoMDJ6QWtDMUVMdDJqWnRQeVhGRjhCdzB2eDNEd3BPV240dTd1RHB2VEYxOHVndjNGd2FHWXhvanNYLWctZl9SQVRJZUxvcHZIblAwbmtucjRNR3hpb1ZDSmZjUGRPaFFEWEtORjl3Wml4Q1EtVk9TWEkxNk1QdFJsVEhwaDJiRHVMNGEyOUtISWk2UWM4RGhqX0lGWUtOWkhwMFNONUNGWGdsWnpoUC1EZDFQb3dGeGhmeEhwT1ln?oc=5",
+   "titre": "Quatorze interpellations, affaires classées sans suite : quelles suites judiciaires après les manifestations à Laval ?",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 40,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-veut-interdire-aux-magistrats-le-droit-de-se-syndiquer-20261112",
+   "titre": "Présidentielle 2027 : Édouard Philippe veut «interdire» aux magistrats le droit de se syndiquer",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 41,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
+   "titre": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 42,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-victoire-de-colom-dans-le-mississipi-quand-un-%C3%A9lectron-libre-du-parti-d%C3%A9mocrate-marque-l-histoire",
+   "titre": "Midterms : un sénateur noir élu dans le Mississipi, une victoire historique pour le Parti démocrate",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 43,
+   "nom": "AEF info",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdVRGQUJzdWVBM3NGVVhSU1pCSWZ1b096bjEwVUpPSTFuNTB6YWExbEc4M081YzExeXF4UnJ6OVY2dnhNazJHQ3B6dUxLQ0tla3VUTHhYcDBLQldKRVFScFVyRU96OFJoeTkzZ1BKQURUMEgwM19EbWZ2OVhzbVBwWUJ1WDJkUGs5Um1LY0hmR0Z5aG41SnRIemZBV045VnlWdVgzcFN4SVN5SmREdTJRVnlGWnRWSnBvS2JKT1Z1MEpmdG11aTIzOTdLUVdoQUQzMkhhRmNKdWo5aG1oSHlXR09GTlhSUHhZYzBieA?oc=5",
+   "titre": "Occupations, interventions de la police, nouvelles fermetures administratives : le point sur la mobilisation du 12 novembre",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 44,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbGgxWHdmYVFncDMxNE53NUdoN1lXbWhDTkM4eWZNX2gwLW1KN1BRWTlJWUp6RXo2RWtXWEVLT1FBVlphaHVIbWJLbC15S2hZTm5ZX2RfbkFSVEtBcEwzTWZINHR0OWlIdW9ReGpweFpwVUkwdFVjS254Q1dzbGZEb3RBdmZLVnFnN21JVF9jTlpsM3ZnR214ZW92ejQ2cHI3YTVtZ1lxMlRwTllweDFqYmRBeGNKM3lWNzNzVFAwR3VIWWxobURrN09zTHI3akNSeWJxbVRWWWIyaUpoMzBTU0hyMFQxalk?oc=5",
+   "titre": "\"Ils sont épuisés\" : après un mois et demi de mobilisation lycéenne, les proviseurs de Haute-Garonne au bout du rouleau",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 45,
+   "nom": "Creusot Infos",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkJBSGx2TDExSml5YlZIdzFDMy1scWhVbURjUWE5UFl6V0Rtd29UTm5LakJpQUpDaFBNQ2FrXzg5b3BMZ1lFeDhibEY4NUxoN2xqdURwT0U5SjMzbElwYXh1SzlDckdGRldCVXdwYW1rWXlfVFFvMTlFUXRNcGR0RVJEajFQaVlNTDZoSnh1OWh4S1A5NUZUMXdzVm9sMDFocDVFeWFjV1ZOVldxUUd5QnJkNnlkMDZaYVlfamtZSGxGa0lZSEE5LTVjbWtOMnRnUEF5YlRR?oc=5",
+   "titre": "BOURGOGNE : L'UNSA dit «stop aux violences et aux blocus des lycées»",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 46,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-estime-que-la-droite-a-enfin-un-candidat-qui-ressemble-a-quelque-chose-avec-teddy-riner_LN-202611120185.html",
+   "titre": "DIRECT. Colère lycéenne: Édouard Geffray indique que 24 lycées sont bloqués ce jeudi",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 47,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4262277-20261112-direct-colere-sociale-lecornu-veut-convaincre-etudiants-va-faire-annonces-agriculteurs?at_medium=display&at_campaign=149",
+   "titre": "Colère sociale : 24 lycées bloqués ce jeudi, les tirs de mortiers se multiplient dans les établissements",
+   "date": "2026-11-12"
+  }
+ ],
+ "genere": "2026-11-13T05:56:58.814393+00:00"
+}
