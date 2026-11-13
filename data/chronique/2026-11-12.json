@@ -7,7 +7,7 @@
   {
    "texte": "Selon franceinfo, \"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation. Selon Libération, Au procès de l’agression de Michel Zecler, de jeunes témoins s’expriment : «Je me suis dit que la moindre erreur aurait pu nous tuer». Selon BFMTV, Colère lycéenne: \"Dans une démocratie, la violence devrait délégitimiser toute revendication\", assure François-Xavier Bellamy, eurodéputé LR. Selon Place Gre'net, Une déambulation de lycéens à Grenoble, 3 interpellés à Bourgoin.",
    "sources": [
-    3,
+    5,
     21,
     26,
     28
@@ -15,12 +15,12 @@
    "theme": "Répression"
   },
   {
-   "texte": "Selon BFMTV, NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris (repris par 3 médias). Selon Le Monde, Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences (repris par 3 médias). Selon Sud Ouest, Rouen : la manifestation contre le « racisme anti-blancs » interdite par la préfecture. Selon Ouest-France, Manifestation contre la vie chère : à quoi s’attendre à Vannes ce samedi 14 novembre ?.",
+   "texte": "Selon Sud Ouest, Rouen : la manifestation contre le « racisme anti-blancs » interdite par la préfecture (repris par 4 médias). Selon BFMTV, NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris (repris par 3 médias). Selon Le Monde, Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences (repris par 3 médias). Selon Ouest-France, Manifestation contre la vie chère : à quoi s’attendre à Vannes ce samedi 14 novembre ?.",
    "sources": [
     1,
-    2,
+    3,
     4,
-    6
+    7
    ],
    "theme": "Le mouvement"
   },
@@ -34,10 +34,10 @@
    "theme": "Colère sociale"
   },
   {
-   "texte": "Selon Radio France, Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\". Selon Europe 1, Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe. Selon Le Monde, Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique. Selon BFMTV, Marine Tondelier, accusée de diffamation par le RN après des propos sur le suspect de l'attentat des Yvelines, se dit \"extrêmement sereine\".",
+   "texte": "Selon Europe 1, Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe (repris par 3 médias). Selon Radio France, Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\". Selon Le Monde, Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique. Selon BFMTV, Marine Tondelier, accusée de diffamation par le RN après des propos sur le suspect de l'attentat des Yvelines, se dit \"extrêmement sereine\".",
    "sources": [
-    5,
-    7,
+    2,
+    6,
     20,
     22
    ],
@@ -53,55 +53,55 @@
  "jour_long": "jeudi 12 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/societe/education/video-nos-reporters-racontent-lyceens-mobilises-parents-d-eleves-opposes-le-blocus-se-poursuit-au-lycee-maurice-ravel-a-paris_VN-202611120510.html",
-   "titre": "NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris",
-   "date": "2026-11-12"
-  },
-  {
-   "n": 2,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
-   "titre": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
-   "date": "2026-11-12"
-  },
-  {
-   "n": 3,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/rappelez-a-l-ordre-vos-forces-de-l-ordre-les-journalistes-demandent-a-laurent-nunez-le-respect-du-droit-d-informer-en-manifestation_8280080.html#xtor=RSS-3-[lestitres]",
-   "titre": "\"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation",
-   "date": "2026-11-12"
-  },
-  {
-   "n": 4,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/societe/greves-et-manifestations/rouen-la-manifestation-contre-le-racisme-anti-blancs-interdite-par-la-prefecture-31501635.php",
    "titre": "Rouen : la manifestation contre le « racisme anti-blancs » interdite par la préfecture",
    "date": "2026-11-12"
   },
   {
+   "n": 2,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1228463?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 3,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/video-nos-reporters-racontent-lyceens-mobilises-parents-d-eleves-opposes-le-blocus-se-poursuit-au-lycee-maurice-ravel-a-paris_VN-202611120510.html",
+   "titre": "NOS REPORTERS RACONTENT - Lycéens mobilisés, parents d'élèves opposés...le blocus se poursuit au lycée Maurice Ravel à Paris",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 4,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+   "titre": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+   "date": "2026-11-12"
+  },
+  {
    "n": 5,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/rappelez-a-l-ordre-vos-forces-de-l-ordre-les-journalistes-demandent-a-laurent-nunez-le-respect-du-droit-d-informer-en-manifestation_8280080.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation",
+   "date": "2026-11-12"
+  },
+  {
+   "n": 6,
    "nom": "Radio France",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVExNlpjZWpXZVhhWDJRRGhEUE1sUW9mMXYzWmhfeVdUUzhneUNrdnZoX1pINkFNa0pKeFU0ZG1HN28yZlgwNTZyWXd6MThlcTlQNHFONFppaEZhTi1EZlVMc2hEWFB2TTltTUJmenlUQlN4ekJlaUpIT1hrR2dsX1V0VFJDSzhkckl1UGZXdE55czZuMWRvNHNHdm9fM2JhTTUwTWNiSW14bzMxMVk4TUNxQWhaZVFCY2FnN2d1dG9ZWlZpN0ZETWxrWTdYU3NxbHB3SnVhUF9iUDZtdGlhUWVyd29IYzlGa0M1Zw?oc=5",
    "titre": "Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\"",
    "date": "2026-11-12"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQelhNTFNQYV9VWjNkM3h3STVUcGVYTEYwNHRRbC1nS2JQcVFNNFFqTkxjMTIyLUJ6VmxzRVJIbGVjODhoclBUSldCazEyUFdmQ1dwQ0c3cllzeGNETHNrTFNKRHdybUxQa0oxX0JnRld5ZWpudWpBVkNRaGpGckVyN0tqWWZrR2tOYWVabXB2R0N1OHBHR3ZpM2xtMHRDanlLZjZOTVlWeVgzWFk1ZlpEVGRvek9qbG45NjFBZWpieE1NNjR5M0lLVW9udEFoS2xndW14Vmt1aE1JZTNLVVpQSVB0eWVJVTQ0eGZDTUZWTUltOGxvMllUNk9XSmE?oc=5",
    "titre": "Manifestation contre la vie chère : à quoi s’attendre à Vannes ce samedi 14 novembre ?",
-   "date": "2026-11-12"
-  },
-  {
-   "n": 7,
-   "nom": "Europe 1",
-   "url": "https://www.europe1.fr/politique/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1228463?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-   "titre": "Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe",
    "date": "2026-11-12"
   },
   {
@@ -385,5 +385,5 @@
    "date": "2026-11-12"
   }
  ],
- "genere": "2026-11-13T07:11:03.975374+00:00"
+ "genere": "2026-11-13T08:33:41.175428+00:00"
 }
