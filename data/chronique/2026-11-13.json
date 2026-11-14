@@ -1,0 +1,416 @@
+{
+ "titre": "Vendredi 13 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 70 000 manifestants en France selon Laurent Nuñez (non recoupé à ce stade), et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "70 000",
+   "libelle": "manifestants en France",
+   "detail": "selon Laurent Nuñez (non recoupé à ce stade)",
+   "sources": [
+    46
+   ]
+  }
+ ],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Ouest-France, Mouvement lycéen et manifestations contre la vie chère : 500 interpellations à Nantes depuis le début, pourquoi autant ?. Selon franceinfo, Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?.",
+   "sources": [
+    13,
+    17
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon La République des Pyrénées, \"Il faut que ça s'arrête\" : mobilisation inédite des proviseurs face aux violences (repris par 5 médias). Selon Mediapart, Les syndicats de fonctionnaires sortent remontés de Matignon et maintiennent l’appel à la grève le 17 novembre (repris par 3 médias). Selon Sud Ouest, Mobilisation sociale. « Une réunion pour rien » : les syndicats de fonctionnaires sortent remontés de Matignon, la CFDT rejoint l’appel à la grève le 17 novembre (repris par 3 médias). Selon CNews, En direct Mobilisation du 14 novembre : 70.000 policiers et gendarmes mobilisés, «entre 50 ou 60» cortèges attendus, selon Laurent Nuñez (repris par 3 médias).",
+   "sources": [
+    2,
+    4,
+    5,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon BFMTV, Après sa réunion avec les syndicats, Sébastien Lecornu ouvre avec eux \"une discussion rapide d'un mois\" portant notamment sur une \"revalorisation des bas salaires\" des fonctionnaires (repris par 3 médias). Selon stephanelarue.com, Vie chère à Châteaubriant (Loire-Atlantique) : la CGT relance un cortège samedi.",
+   "sources": [
+    6,
+    32
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Violences dans les lycées : les syndicats de l’Éducation dénoncent les propos de Lecornu sur de possibles « complicités » de personnels (repris par 5 médias). Selon BFMTV, Présidentielle 2027: David Lisnard fait une percée à au moins 10%, juste derrière Édouard Philippe et Raphaël Glucksmann, selon un sondage (repris par 4 médias). Selon BFMTV, INFO BFMTV. Présidentielle 2027: Teddy Riner fera son premier déplacement de campagne samedi au salon du Made in France (repris par 3 médias). Selon Sud Ouest, Présidentielle 2027 : « J’ai écouté, j’ai noté, le temps de la réflexion va venir », Teddy Riner a effectué sa première visite de campagne dans un hôpital ce vendredi.",
+   "sources": [
+    1,
+    3,
+    8,
+    16
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-13",
+ "numero": 43,
+ "jour_long": "vendredi 13 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/sebastien-lecornu/violences-dans-les-lycees-les-syndicats-de-l-education-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites-de-personnels-31509610.php",
+   "titre": "Violences dans les lycées : les syndicats de l’Éducation dénoncent les propos de Lecornu sur de possibles « complicités » de personnels",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 2,
+   "nom": "La République des Pyrénées",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYlprYlJXOHBCd0hBVlJoY2lzMXJjTlZYUUNMNUJBWU5OZXBjc3hmX2oxSDlQY1d1UGQ1MmNsUEVUZ3RrbjJETkVla0pUdzQtLXBoZUtuTUh4b1kwdUdrUHRnaGZENFdnaEVrd1dQc19tZjl3U2NCZHdrcGJSaHcxbDFXN3R4QUN0ZjhVclpqeVJtSW55X3pUREdmdFJqLXEzeEdaaFBfek9OMFZnVlgtMG04a1NhaUdTZUx2Uy0yYlVEN0kxcFJiODFVNmwwdFZOVWF6R2IxcGNZdDBZcmJRZjlEYUpSX29oXzVpdmVvYnM0Smd4SUE?oc=5",
+   "titre": "\"Il faut que ça s'arrête\" : mobilisation inédite des proviseurs face aux violences",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 3,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-david-lisnard-fait-une-percee-a-au-moins-10-juste-derriere-edouard-philippe-et-raphael-glucksmann-selon-un-sondage_AD-202611130162.html",
+   "titre": "Présidentielle 2027: David Lisnard fait une percée à au moins 10%, juste derrière Édouard Philippe et Raphaël Glucksmann, selon un sondage",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 4,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/fil-dactualites/131126/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-et-maintiennent-l-appel-la-greve-le",
+   "titre": "Les syndicats de fonctionnaires sortent remontés de Matignon et maintiennent l’appel à la grève le 17 novembre",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 5,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/mobilisation-sociale-une-reunion-pour-rien-les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-l-appel-a-la-greve-le-17-novembre-31510755.php",
+   "titre": "Mobilisation sociale. « Une réunion pour rien » : les syndicats de fonctionnaires sortent remontés de Matignon, la CFDT rejoint l’appel à la grève le 17 novembre",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 6,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/economie-social/apres-sa-reunion-avec-les-syndicats-sebastien-lecornu-ouvre-avec-eux-une-discussion-d-un-mois-portant-notamment-sur-une-revalorisation-des-bas-salaires-dans-la-fonction-publique_AD-202611130504.html",
+   "titre": "Après sa réunion avec les syndicats, Sébastien Lecornu ouvre avec eux \"une discussion rapide d'un mois\" portant notamment sur une \"revalorisation des bas salaires\" des fonctionnaires",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 7,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk9SazVHMU9mcy0zZFo5Q2NuX2RvaDV6WHIxZ0FzR1dJakJmX2Jpa0VXWUIzWWlMSi1QMl8yX1ljRWgtcXRjQlBGNnV2M2xRbWREM29XTWIycGdiNU9zU0d0N0JRTXE0TmFiZXV5UmRVTF9Fc0FFWjN4MWpuTWlMQ0RXekVLNnNOQkZqYm9LTnFFdFo3aVJ3bnJ6VWsxeXlZTXBIVk5FdE5zYngxU2ZYd2VfMFRMVDVjVmR3Tg?oc=5",
+   "titre": "En direct Mobilisation du 14 novembre : 70.000 policiers et gendarmes mobilisés, «entre 50 ou 60» cortèges attendus, selon Laurent Nuñez",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/info-bfmtv-presidentielle-2027-teddy-riner-fera-son-premier-deplacement-de-campagne-samedi-au-salon-du-made-in-france_AN-202611130109.html",
+   "titre": "INFO BFMTV. Présidentielle 2027: Teddy Riner fera son premier déplacement de campagne samedi au salon du Made in France",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 9,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeVdCbWp5MmxveUJ0eDhkZk1VZFp5Q3RvUHBjWXhLbXd3VTlKZHp4UEY0bWthenlSeVcxbFlSejVkbHNIeWNsM0VGczZfY2IzcFdWN0VTdWFIaTM3MFZaSmExUUZHR2ZRY0tKMzBWcmZmcC1CYjE0d18weEFuTDRCTDFJbjA1UlE4WVJyTUZCZjRDUzlsdnVFUUtDZm1XMU5VeDJLOXlRN3dTTVZDVkN6RW5JVTZzbk1jVmU2RnZreFp1TFpSd25oaUptNUdSRjhNSy1OcGpXdDJHckFVcWYzZkdGQmZLQ29USlBCU0VCV1ljQQ?oc=5",
+   "titre": "Manifestations du samedi 14 novembre : Gilets jaunes, parcours à Paris… À quoi s’attendre ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 10,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNM0tfbkE1ekpHNTVkS0lrWTVnbkhxbGdqZWVjNlgxekFDeEFkU3pLWTNUeE1DQ3dkeGNTNDN6LXpJZlV0RHVlSC12RTlBc3E5VXRjN0ptdTFvcWNQelp1MjZpeWxGTDc5ZGJGSlFkMWYwd2poNkxFNDRDdF9LNFhnNGV6Ymx5UDBIQUJZZXV2MVh5TmR2cDB6MW1URFRpU0dEcXN1UzZ4X3QzLXNRdkJsdDBoYnpNRU9vYUFMV3dUSlVxdTQ3b2FQd3VCSnpGQ0I1emstRHVLb3h5RERaMHpwajJKRDFaemFoTXgtbGwyVDJodDZEWURYeTBWTjhWd256SXYyejlmZXg1RVRwZmJaSTlXQQ?oc=5",
+   "titre": "Blocus des lycées à Quimper : pressions dénoncées, dialogue avec les élèves… Où en est la mobilisation ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 11,
+   "nom": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUV1UURRQTZXOWx3UWltVk9MbHJHdHpGX0I4WWxkanVJWnJYVExNZWpVWTRDTzhIWTVZenlVRzNPWF9waFNDZm1YaTlwZUhpZU4xdWlqSmM1elJOa0E4QkszVUNoNGZRTnNyRUNOS203WWY1ZndCeUFzTGJWMUxfazdqYnpLQnFNZmphX2l0TWJhbTdIOEN4dGtTRDF3RTBjeDJPcng0dmJjVjhETDBCYjg3NGhLUDd5SXhyVzJ5VUVoNnNFYlBzYm1IVFp1LWd4QWIxdC1Oa2M?oc=5",
+   "titre": "France : 70 000 policiers mobilisés samedi face à une nouvelle journée de manifestations",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 12,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmZoTjd4WDEwNUswbjlxZUgwanBuaGhvTUNNcHM2Rm8wUXF6SmdXYUI0N2NBSjJRR2ZMaVltNE9xaHZObENJenZFOFNsUkx0bVVsR0hWbVlxdE1xOFVUb2VrdHNFR1B0OXZiekNZdDdBcDR2QmhZakpFWVMwamFHWHEtOVdMN1BsTS1tNmRHQ05TQTdYTGwxenpWX25xYTExNTZhQnhhbTFGSWZtQVVIblhsdG1fOVpKbFhOck5FODNDQmF2U0YwZF9hc05zR3Z4c3JMZWNETnppTzVCeC1wX1EycHozVjdNZmRLbnZjaG85Y1pZWVJ2ZTVpT3NWLURkbldqM3ZHRFZmUm5HdkIxd18zNzBkMEZZX0lBZnNDMzdOdkRp?oc=5",
+   "titre": "« Nous risquons notre vie » : les proviseurs sont usés par les violences, après cinq semaines de mobilisation lycéenne",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 13,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcUlvbUpSSGpGU2JDbmlSbHJtbWMyVkU0WVU1MXJhdjQ2RUwyV3RLRUNQNEl2LXVNVkRybWJnWGNJUFAxcWcxd1lrRVNEdnZnVG9XUTdZNmIyMHlVUzZ6WlNpSW9mOFdNenNrZ1dsWWk0YVRuS0hVYXIzZnlvN2tvV3JvYnNhZEdRTjBFQXN5YzNGT3Z6b3YyVGNsdHZTSE9Zbm1TZGk1WVZZYmFRRlR3LS1ONExaZi1meVlTWEFjN2FlWnlMWXBUTzF2cmpnZ3g2YXdrTXlBcnF3LVdkZDVHX2FzbllRLVAzbzJWenZWWl92MHRoUk1zekZCQmp2UnYwVG9zaENQVno4WkNWajMxS1EwOFJMRFZPa192V1p0eF9IWFRZTjh2WVln?oc=5",
+   "titre": "Mouvement lycéen et manifestations contre la vie chère : 500 interpellations à Nantes depuis le début, pourquoi autant ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 14,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbGZ2Q2ozYm5NZThCdWZyX1BDM184clFRckdrdWQtQktoU1NxUVllNFFVc21hLXRBZW1Wa0RSSjZyZDJaSWRXVXg0TVhFdFR4dVpkVHE4N2ZoaDBCckJBcHZYOVJyZm9kQ3BNSklicUlKWXhRTmlSWkNJRmdoaUQ5UmFPSm1MYjNiZTBlSlp6SDJkVzMzc2I4UmRJaVNCN3UxODlZTE1FaFlNdmZ6S0xYN2FRSl9jRE5YWk83XzVtdlNIT1NHaVVFUzRGRkNEMkZ1T1VuUENrVzAyZjAxRFhmenZzbk9FczF4cnFWR2V1VGlwNUcweVk0RGVsbF80V1ZyTnRYSTJzZVlkZ0pacVZwb1kzZUtieG5vWE5WRng1eEhnM2M?oc=5",
+   "titre": "Manifestation du 14 novembre en Ariège : la préfecture interdit les engins pyrotechniques et bidons de carburant \"afin de prévenir les violences et les troubles à l'ordre public\"",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 15,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcVFPelVfbWluUU1CWWpIRFZ2TFVwYzR3TkJ5ZmZXV2x2UjNFNGpBQjktYldxZ2NwdXd6TWNkdnRyQ29JZWlvQnU1cWtyWnFYVExTUXJJbVJhTjNrVXhHRjVUTURyc283UDdqa0wtTm9HY0pFaXJkR0t0ZUVkWjkzMGl2eTF2NWhUdEdOZzdZYkxNRkotNkRzbjZLTGo2dkgwOEd1Z3lvVjhnQ1daVGxyRTJjMFpxblhRTlFNMHNXUzNvTEdiYWRsV0EtV0YtSFkzMldwdG9KOEhPdGJZdU8xTW02SUVZbEZPdHhEcVhHMDc0elZFSjB3WDNR?oc=5",
+   "titre": "Dans le Morbihan, à quoi s’attendre pour les manifestations des 14 et 17 novembre ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 16,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/sport/judo/teddy-riner/presidentielle-2027-j-ai-ecoute-j-ai-note-le-temps-de-la-reflexion-va-venir-teddy-riner-a-effectue-sa-premiere-visite-de-campagne-dans-un-hopital-ce-vendredi-31510707.php",
+   "titre": "Présidentielle 2027 : « J’ai écouté, j’ai noté, le temps de la réflexion va venir », Teddy Riner a effectué sa première visite de campagne dans un hôpital ce vendredi",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 17,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html#xtor=RSS-3-[lestitres]",
+   "titre": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 18,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3RPNTM3bEFFMzJ1eFdJUjEwQmN3ZDVIdno0YWhXbjd6X3UtLWZ5NjdXS3h5c292QnhZMFVMd2dmUy1Rbm5RejlVX1pScFlWZlktTVBrMWNKT1Fqb0JkLTd2bjhSeXkxY1I4UDAwd1dtYzNMWFBmdzVmMlQ5UkRiX2owTWRHXzc5bk5idDBVeVNmUlpGMWFrN0dIVU56N0VYWGJPM05ya3NCMUhSaUFpUUk1cEc2cjQwWWV2WWFXVXN4ejN4Z2VwNTFRNHBDREs5?oc=5",
+   "titre": "Mobilisation contre la vie chère : à quoi faut-il s’attendre ce samedi 14 novembre à Alès ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 19,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 20,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-pour-la-primaire-a-droite-zemmour-espere-que-lisnard-fera-en-sorte-de-l-integrer-31509710.php",
+   "titre": "Présidentielle 2027 : pour la primaire à droite, Zemmour « espère » que Lisnard fera en sorte de l’intégrer",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 21,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4262674-20261113-blocus-lycees-devenu-jeu-comment-endiguer-phenomene-mortiers-artifice?at_medium=display&at_campaign=149",
+   "titre": "Blocus des lycées : « C’est devenu un jeu »… Comment endiguer le phénomène des mortiers d’artifice ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 22,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTHZlN0xMQjQ0LUZRNE1jWUJuV2dieE04cEV6QUFJVV91OTNTaHI1VjFWdUZQWGtoc0otZHJvbWFYSFpsdUluS1JlZEZ5RHMxdVpJaDZ5Mmw5R08zLWRtaDFOb09ZUDFPNjFPMFVnZkZic3BPVk9ERlE5T1FIYVlISFRvanJWQklZdTdXS09TQ25QQUUyc3RwSDFYVWNKTC1PUWhVVkZJbnhpc2pwOUQtWGJ3ckp3aXlmWm9obGVtT3MwNVVGY0FBNXlTYzBWdlo1ajJWNWdXMGNEV1BJRGVQVjFQNXZNUm05SV9KREpEeTJXanNnYU1xMzBmcXV6QkVOMk9MRw?oc=5",
+   "titre": "Climat et droits des enfants : deux manifestations prévues à Toulouse ce samedi, sans lien avec la contestation sociale actuelle",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 23,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/13/mouvement-lyceen-que-les-eleves-reclament-des-toilettes-decentes-invite-a-prendre-au-serieux-la-place-du-corps-dans-les-preoccupations-de-l-ecole_6809314_3232.html",
+   "titre": "Mouvement lycéen : « Que les élèves réclament des toilettes décentes invite à prendre au sérieux la place du corps dans les préoccupations de l’école »",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 24,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/une-nouvelle-manifestation-annoncee-ce-samedi-14-novembre-au-mans-pour-la-jeunesse-et-contre-la-vie-chere-fd56d0c8-df49-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Une nouvelle manifestation annoncée ce samedi 14 novembre au Mans pour la jeunesse et contre la vie chère",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 25,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOS1JZc2FFbFVmVmpyNExjNnBPZ283RW1TYkx1ZF85bmtUZ0UxdHNZVGxwRzVrdUtHUnpBQ0JtcU55Z3JWM0RhRFAwZGRERTZnZ2NrelZNRXMtTW14d0tWTWNOQXgyeUFNVlo1NUoxLTdsWGdqUmVzbmpIUjRVaE9FSkRNak83My02SWhubkhuRWNQQkdOeGNYdFZtbER0M0JHenV5RDNLbE5sMzBHMEtuNzcwUnRuVUtvT3k3c2ZUQXhsc3BjbWluQ3dZTE8yVGZrNkpXNml3em5qZVBfNzRRRTlJWjVHYnp3LTliaUd3VHJwQ2RIZEI2TktvRlJSc3NNU2ZFOEVCeE1iRDV6LXdXSGtQU1hFbjlubE5ZYm9B?oc=5",
+   "titre": "Blocage des lycées : y a-t-il des \"complicités\" du personnel scolaire comme l'affirme Sébastien Lecornu ? 3 questions sur des propos qui font polémique",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-lyceenne-que-disent-vraiment-les-chiffres-des-blocages-des-lycees_VN-202611130431.html",
+   "titre": "Mobilisation lycéenne: que disent vraiment les chiffres des blocages des lycées?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 27,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/education/on-se-demande-meme-s-il-va-falloir-attendre-qu-il-y-ait-des-morts-les-proviseurs-appeles-a-se-mobiliser-ce-vendredi-pour-manifester-leur-ras-le-bol-a-la-violence_AV-202611130423.html",
+   "titre": "“On se demande même s’il va falloir attendre qu’il y ait des morts”: les proviseurs appelés à se mobiliser ce vendredi pour manifester leur \"ras-le-bol à la violence\"",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 28,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/manifestation-du-14-novembre-a-paris-le-parcours-entre-republique-et-nation-autorise-selon-les-organisateurs-20261113",
+   "titre": "Manifestation du 14 novembre à Paris : le parcours entre République et Nation autorisé, selon les organisateurs",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 29,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+   "titre": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 30,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]",
+   "titre": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 31,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-matignon-31507086.php",
+   "titre": "Présidentielle 2027 : Bruno Retailleau n’a « pas de prêt bancaire » et accuse Matignon",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 32,
+   "nom": "stephanelarue.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3VzTDFJSmtfRzFMVUtNY1Q1Ui1LWVY1Tmg3R2FVZWpmcElSSzQzOHJWZ29pX05pSmk4QUNEaWRSOUxHWW1NOXMyOVBNcmZwQU1sLS1JRGhLQjZVbS1vVmtIdW1fbkEtamN4dXI3aUZiZ2dkWHprZnU2TWRycHpKN0ZFMWxSVWVubTdXdW1kclZCWF9jU2lWMXlpTEgtZWROMXJJdA?oc=5",
+   "titre": "Vie chère à Châteaubriant (Loire-Atlantique) : la CGT relance un cortège samedi",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 33,
+   "nom": "DHnet",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZGpyeEM5NW03a0JGMVdmSlpmVUdhVndqSXUtcG4xcUgtdG4zbGVBYU13MV92d21OSURMamtwNkVpOFlGRnhXc3MxMlYwM3g1NWxnU2x1T3JlU2RXWXFrM0RaQlJRa1hSWTFXR3cwbjdhQmxHVlR2MV9HdXhQaFZGQnQyMUZtS0M1T1JkeUhNWVV3MlN4TnVGUGsxTHJfbVU0WlByWEJud24yd25QbmNkS1phc25rODVTaUZhSjI3VldPd3Jzc2w1MGJJN3pZM2pQXzVkM0QyeDZ0TDR5OUE?oc=5",
+   "titre": "De nouvelles manifestations \"contre la vie chère\" attendues en France samedi",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 34,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-teddy-riner-fera-son-premier-deplacement-de-campagne-dans-un-hopital-de-saint-denis-1229987?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Teddy Riner fera son premier déplacement de campagne dans un hôpital de Saint-Denis",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 35,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbHBmZ1I0MHBUWWY5X3pjVi1VLXpzMWh6UlViZFhYLTVfalR5Vi05VXZGQktBRTdEVS0tOU0xUS0yRk8yM3lDVmtqeWtyU2dHWi1VeUg0SXdxOW9NRjh5RlZ6dnhhdExGNURvbjlLWjhEZkNiQ2RTbzVTQ3lhSDgzTV9BTzI1MDlwQTdFWG1XWXU0WmozdEJONldaZFN6SjRHME5nOXQyRlNncGVwU21PRlJrdXlhUXJEMjZ1cDVObFA4ckVLUlk2ekVBaGVRdXU0eXp4cS1sbTVleXpkby15eXAxV1hicUhzZlUwRnBGNDFjZEkzU2JZZ1NsNi14Z0ZpMng1VVdGcUQwZ3E2ekNtWlVfVkxVT3AtcUdmVnpn?oc=5",
+   "titre": "Vie chère, services publics, salaires… Nouvelle manifestation programmée le mardi 17 novembre à Saint-Nazaire",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 36,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/pixels/article/2026/11/13/avec-le-mouvement-lyceen-le-monde-numerique-a-permis-de-nouvelles-formes-de-reel_6809282_4408996.html",
+   "titre": "Avec le mouvement lycéen, « le monde numérique a permis de nouvelles formes de réel »",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 37,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-30-000-a-60-000-manifestants-attendus-a-paris-ce-samedi_AN-202611130342.html",
+   "titre": "Colère sociale: 30.000 à 60.000 manifestants attendus à Paris ce samedi",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 38,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/13/mouvement-lyceen-entre-blocages-persistants-et-montee-des-violences-les-lycees-mobilises-face-a-la-crainte-d-une-situation-inextricable_6809270_3224.html",
+   "titre": "Mouvement lycéen : entre blocages persistants et montée des violences, les lycées mobilisés face à la crainte d’une situation « inextricable »",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 39,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html",
+   "titre": "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 40,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/mobilisation-lyceenne-les-proviseurs-appeles-a-se-rassembler-pour-dire-non-a-la-violence-1228739?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Mobilisation lycéenne : les proviseurs appelés à se rassembler pour dire non à la violence",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 41,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html",
+   "titre": "Mouvement lycéen : le cri d’alarme des proviseurs, « à bout » face aux violences",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 42,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20261113-pr%C3%A9sidentielle-2027-la-candidate-rn-marine-le-pen-chahut%C3%A9e-au-salon-made-in-france",
+   "titre": "Présidentielle 2027: la candidate RN Marine Le Pen chahutée au salon Made in France",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 43,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication",
+   "titre": "États-Unis: «l'espace aérien a été rouvert» après une suspension des vols, selon les autorités",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 44,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/colere-des-lyceens-incivilites-etablissements-saccages-les-proviseurs-mobilises-vendredi-pour-protester-contre-les-violences-31516485.php",
+   "titre": "Colère des lycéens : « Incivilités », « établissements saccagés »… Les proviseurs mobilisés vendredi pour protester contre les violences",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 45,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUtKVVlDSzJsdTVFbXlDcHBsQVhlYjVHb2pYR0ptdXpydWRYeF93YWN3UEU0dTNTRi1FNGZhUWg4Nkh3SFhOX0pBeEVGNDc3dDFCQjhIX2hkN1pZOFc1a1Zka0ZHQkpxT3pfZVZTdk5lVmc3R01kbFp3ZHh4N21STVdIRXdSMUhiZWFHWlNrbG0wemRidXVmWUdydHBUQWVrSUVzRkJMR2xWTms4d3N0aGNKZm12czNlcE1vV2dCeG5CTi1FbmhKakZzcWxfRWdIMHJ3LUZNZmFJQ2pfcGFnemN5cjVyZw?oc=5",
+   "titre": "Manifestation du 14 novembre : une cinquantaine de rassemblements prévue pour l’acte V de la mobilisation",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 46,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-du-14-novembre-acte-v-des-gilets-jaunes-70-000-policiers-et-gendarmes-a-quoi-sattendre-samedi-4e532b58-df3a-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Manifestations du 14 novembre : « acte V » des Gilets jaunes, 70 000 policiers et gendarmes… À quoi s’attendre samedi ?",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 47,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQjI0RHhoYWYyQWhLOFU5UzFyb01FV1RtT2VOTnZ4RnB0eUFSNzVrTTVlNXp5cXBwWHIzZEw5SjJEVUU1aXRmcEhteGV0TkV6cmt4eHNVMTI5UlhIUDdtdlVfbjFHRm4xbU1wMER5YlZYSWctUnNVQk1GRThRR08xeVNtVlNNNWVOeDZYZEx5aFZBY1NwcDdpN2dwVmlTNy1BN0V6dXJ0NEpUZDBZM1VkWTdXNUJqcm84WHMxS3kxLUNnQ3VtajRNTm9FZEdaNkFtQTNydDZwQUk5alZZa282ZHNEX21nSW5yTkpGNHZiY2tYVzFudW5abDFCbHZWUnZKOTNFc094RmtpZVB0bUxuY3Ffbk51dw?oc=5",
+   "titre": "Mouvement lycéen et manifestations contre la vie chère : 500 interpellations à Nantes depuis le début, pourquoi autant",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 48,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVU5hbU1iQVhFTFJIV1VsS2YzX1dDUll3a3dYaWFLSDdqYm9xdU5UZzByOGkzWklocHNrVVpfUVlaZFA2WVYyUmduSU8xTHRfZkpiYmlMb24wNkVXM2ZMNlVETXlJRGxCSXBaOTlFRlFHWkN1NVZRd3FQTlBRdFNtVmVGR2pCMHlQYlhja3FLY0k3bmlTcUxlN3Z6bFlIazl2Y19QQXhNckYxSmJSMDNuQjlGcFNmSzVpZzRxbnY4UDFzT0x6NHl1Y0RUUHlOd3lwaklTVXZXQjNIdUxrUXFjbmIzSEljY0diLUx3d0lyQQ?oc=5",
+   "titre": "Blocages lycéens : plus de 50 blessés, 107 interpellations… Le recteur tire la sonnette d'alarme à Toulouse",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 49,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/131126/crs-blesses-le-fichier-interne-qui-degonfle-le-bilan-du-ministre",
+   "titre": "CRS blessés: le fichier interne qui dégonfle le bilan du ministre",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 50,
+   "nom": "L'Humanité",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTWRaSzlHOXNWajBuLXdnY2VIWjRXTl9UcTR1Q1U0azM3SjhfV0d0WG9vNXlleUJ0b1N1cC1hVGZwM1ZRajhOUVZTYkN4OGVMUng2U1BxNGluQnlfNDhwNlI4azZYMFdOeUJvcGdqYm93N25BN29IQW1hbGZfMmY2MzRMdnR3c0ZQOFdPTDdCZm0wYVhGQkdndnNSVnlYNDRiSk1hMURSbDVtMy10U0VzTnRQQlY4cndtVDlVenpvbkttdVhmcnZySHFaSmV2QWRHTGw3WTkyVUYxbEpqRjlMSFVvdlV2V0RBN0p5SHlXc0Jlc3JDWjQ5RlIyWi1ITHdjN0hPWmxLTWY?oc=5",
+   "titre": "« On a dépassé les 100 mutilés lors des mobilisations lycéennes » : le neurochirurgien Laurent Thinès alerte sur une répression sanglante",
+   "date": "2026-11-13"
+  }
+ ],
+ "genere": "2026-11-14T05:47:29.292878+00:00"
+}
