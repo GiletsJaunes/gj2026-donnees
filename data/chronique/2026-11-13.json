@@ -59,7 +59,7 @@
  "jour_long": "vendredi 13 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -357,23 +357,23 @@
   },
   {
    "n": 43,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemZTZzhoeHAtTXNEc3lQNU1hd3lHam5VczRsNDJPN1Z2b2I2Y0x5ajE2dTMyZkU3VEU3X0NObXJRbFc4eVdLTWFxdXJDRXZXVHhsQkZ1R3JINVBaMHNBZjdsME9NMTJadGFJbmFKZ3hMOWNXenNjS3RQMnJXZHFTcE1sZmQzOWVZTzNzei1WeER0Rk9LaXdhSw?oc=5",
+   "titre": "14 novembre : manifestations, dispositif policier… Tout ce qu’il faut savoir sur l’« acte V »",
+   "date": "2026-11-13"
+  },
+  {
+   "n": 44,
    "nom": "RFI",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication",
    "titre": "États-Unis: «l'espace aérien a été rouvert» après une suspension des vols, selon les autorités",
    "date": "2026-11-13"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/societe/greves-et-manifestations/colere-des-lyceens-incivilites-etablissements-saccages-les-proviseurs-mobilises-vendredi-pour-protester-contre-les-violences-31516485.php",
    "titre": "Colère des lycéens : « Incivilités », « établissements saccagés »… Les proviseurs mobilisés vendredi pour protester contre les violences",
-   "date": "2026-11-13"
-  },
-  {
-   "n": 45,
-   "nom": "Midi Libre",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUtKVVlDSzJsdTVFbXlDcHBsQVhlYjVHb2pYR0ptdXpydWRYeF93YWN3UEU0dTNTRi1FNGZhUWg4Nkh3SFhOX0pBeEVGNDc3dDFCQjhIX2hkN1pZOFc1a1Zka0ZHQkpxT3pfZVZTdk5lVmc3R01kbFp3ZHh4N21STVdIRXdSMUhiZWFHWlNrbG0wemRidXVmWUdydHBUQWVrSUVzRkJMR2xWTms4d3N0aGNKZm12czNlcE1vV2dCeG5CTi1FbmhKakZzcWxfRWdIMHJ3LUZNZmFJQ2pfcGFnemN5cjVyZw?oc=5",
-   "titre": "Manifestation du 14 novembre : une cinquantaine de rassemblements prévue pour l’acte V de la mobilisation",
    "date": "2026-11-13"
   },
   {
@@ -412,5 +412,5 @@
    "date": "2026-11-13"
   }
  ],
- "genere": "2026-11-14T05:47:29.292878+00:00"
+ "genere": "2026-11-14T06:55:20.206344+00:00"
 }
