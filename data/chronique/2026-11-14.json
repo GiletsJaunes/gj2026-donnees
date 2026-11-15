@@ -7,19 +7,9 @@
    "libelle": "manifestants en France",
    "detail": "selon l’intersyndicale jeune",
    "sources": [
-    35,
+    36,
     46,
-    29
-   ]
-  },
-  {
-   "valeur": "106 000",
-   "libelle": "manifestants en France",
-   "detail": "selon l’acte V",
-   "sources": [
-    29,
-    47,
-    48
+    30
    ]
   },
   {
@@ -27,9 +17,19 @@
    "libelle": "manifestants en France",
    "detail": "selon le ministère de l’intérieur",
    "sources": [
-    35,
+    36,
     47,
     46
+   ]
+  },
+  {
+   "valeur": "106 000",
+   "libelle": "manifestants en France",
+   "detail": "selon l’acte V",
+   "sources": [
+    30,
+    47,
+    48
    ]
   },
   {
@@ -63,25 +63,25 @@
   {
    "texte": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale jeune.",
    "sources": [
-    35,
+    36,
     46,
-    29
-   ]
-  },
-  {
-   "texte": "EN DIRECT Manifestation du 14 novembre : 106.000 manifestants en France pour l’acte V, 200.000 selon l’intersyndicale….",
-   "sources": [
-    29,
-    47,
-    48
+    30
    ]
   },
   {
    "texte": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation.",
    "sources": [
-    35,
+    36,
     47,
     46
+   ]
+  },
+  {
+   "texte": "EN DIRECT Manifestation du 14 novembre : 106.000 manifestants en France pour l’acte V, 200.000 selon l’intersyndicale….",
+   "sources": [
+    30,
+    47,
+    48
    ]
   },
   {
@@ -97,46 +97,45 @@
   {
    "texte": "Selon BFMTV, Colère sociale : un coordinateur des Gilets jaunes s'exprime avant une nouvelle manifestation (repris par 3 médias). Selon BFMTV, Gilets jaunes, jeunes... Qui va manifester ce samedi? (repris par 3 médias). Selon infos-media-nantes.fr, Nantes : 52 interpellations annoncées pendant les manifestations du 14 novembre. Selon ladepeche.fr, REPORTAGE. \"On n'a pas peur de manifester\" : à Toulouse, le rassemblement non déclaré contre la vie chère dispersé après des tirs de gaz lacrymogène.",
    "sources": [
-    6,
-    8,
-    17,
-    21
+    7,
+    9,
+    18,
+    22
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon BFMTV, Manifestations: 106.000 personnes ont défilé en France, dont 24.000 à Paris selon le ministère de l'Intérieur (repris par 8 médias). Selon Yahoo Finance France, Pour l'acte V du mouvement social samedi, des mobilisations aux revendications variées (repris par 4 médias). Selon BFMTV, Colère sociale: 106.000 personnes ont manifesté en France ce samedi d’après le ministère de l’Intérieur, 200.000 personnes mobilisées selon les syndicats (repris par 3 médias). Selon franceinfo, Manifestations du 14 novembre : suivez la journée de mobilisation à l'appel de gilets jaunes et d'organisations de jeunesse (repris par 3 médias).",
+   "texte": "Selon BFMTV, Manifestations: 106.000 personnes ont défilé en France, dont 24.000 à Paris selon le ministère de l'Intérieur (repris par 8 médias). Selon Yahoo Finance France, Pour l'acte V du mouvement social samedi, des mobilisations aux revendications variées (repris par 4 médias). Selon Le Journal des Français, Manifestations du 14 novembre : 106 000 personnes selon l’Intérieur (repris par 3 médias). Selon BFMTV, Colère sociale: 106.000 personnes ont manifesté en France ce samedi d’après le ministère de l’Intérieur, 200.000 personnes mobilisées selon les syndicats (repris par 3 médias).",
    "sources": [
     1,
     3,
     4,
-    7
+    5
    ],
    "theme": "Le mouvement"
   },
   {
    "texte": "Selon franceinfo, Sept Français sur dix ont changé leurs habitudes alimentaires avec la baisse de leur pouvoir d'achat, selon un baromètre. Selon lanouvellerepublique.fr, « Tout est lié, tout converge » : de la Marche pour le climat à la lutte contre la vie chère à Tours. Selon franceinfo, Pouvoir d'achat : les Antillais en première ligne face à la vie chère.",
    "sources": [
-    30,
-    38,
-    39
+    31,
+    39,
+    40
    ],
    "theme": "Colère sociale"
   },
   {
-   "texte": "Selon BFMTV, Présidentielle 2027: Gérard Larcher veut rencontrer tous les candidats de la droite et du centre pour fixer \"la méthode de départage\" (repris par 5 médias). Selon Le Monde, Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné » (repris par 3 médias). Selon Le Figaro, Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage. Selon Sud Ouest, Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %.",
+   "texte": "Selon BFMTV, Présidentielle 2027: Gérard Larcher veut rencontrer tous les candidats de la droite et du centre pour fixer \"la méthode de départage\" (repris par 5 médias). Selon Le Monde, Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné » (repris par 3 médias). Selon Le Figaro, Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage.",
    "sources": [
     2,
-    5,
-    41,
-    45
+    6,
+    42
    ],
    "theme": "Politique"
   },
   {
    "texte": "Selon www.actual-immo.fr, OAT à 10 ans près de 4,8 % : ce que le taux de la France annonce pour votre crédit immobilier.",
    "sources": [
-    24
+    25
    ],
    "theme": "Marchés"
   }
@@ -150,7 +149,7 @@
  "jour_long": "samedi 14 novembre",
  "acte": "Acte V",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -175,296 +174,296 @@
   },
   {
    "n": 4,
+   "nom": "Le Journal des Français",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXpOX3RhenBuRGhzUWFzWXp4Ynp6UHNZV08yOEdkN1FRVkVUWE5ZTWxRbjBBcksxZHVxUURvM1hXdjU0MDFMUHF2ZENjNjNsU2dJS2tJcnlyUThrM0ZHSTFBZ2U5d0tpTjZ4OTJKcU9PVWk1bUtvdXYxak5IbGI4TTA1Y25xZWp2aGcxNGE4UERBUHdR?oc=5",
+   "titre": "Manifestations du 14 novembre : 106 000 personnes selon l’Intérieur",
+   "date": "2026-11-14"
+  },
+  {
+   "n": 5,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-106-000-personnes-ont-manifeste-en-france-ce-samedi-d-apres-le-ministere-de-l-interieur-200-000-personnes-mobilisees-selon-les-syndicats_AD-202611140313.html",
    "titre": "Colère sociale: 106.000 personnes ont manifesté en France ce samedi d’après le ministère de l’Intérieur, 200.000 personnes mobilisées selon les syndicats",
    "date": "2026-11-14"
   },
   {
-   "n": 5,
+   "n": 6,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
    "titre": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
    "date": "2026-11-14"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-colere-sociale-un-coordinateur-des-gilets-jaunes-s-exprime-avant-une-nouvelle-manifestation_VN-202611140224.html",
    "titre": "Colère sociale : un coordinateur des Gilets jaunes s'exprime avant une nouvelle manifestation",
    "date": "2026-11-14"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
    "titre": "Manifestations du 14 novembre : suivez la journée de mobilisation à l'appel de gilets jaunes et d'organisations de jeunesse",
    "date": "2026-11-14"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-gilets-jaunes-jeunes-qui-va-manifester-ce-samedi_VN-202611140086.html",
    "titre": "Gilets jaunes, jeunes... Qui va manifester ce samedi?",
    "date": "2026-11-14"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "Le Berry Républicain",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYm5tN3FBVnFRaXpONmgwZnlOekxEWVdtNmFXdVFsckI3MHRwbk1YRnhGQmlqZTVaMHo5cnRFNnhBc2pnMjJieDFva3dxYzNscV9nWmd5Rk8wOVpwLXlFUTN2cUJPeXBrRGpIaWhOcFI1eVd0QTktVU96cm9HZTRjeVA2c3FHZTRLc25XMjRUd3hDWlhBVjJ3OERZQ2Nza3lJZmxoNHo0UzVvdW9Ha1dROEg0eTRsTkFSOEVGQWRld1M1N0QweFdpaDFXMUdkS0J1c1dTaDd3YzBXUmhOQUcwOS12S0FDQXp3Q25Gd2ZBYUM1Z3h3TlROV3NzTm1YbWVIYUxhTHo2bHFsQQ?oc=5",
    "titre": "Dégradations des Gilets jaunes aux péages de Bourges et Vierzon : l'État ne remboursera pas le moindre centime à Cofiroute",
    "date": "2026-11-14"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/societe/manifestation/en-images-on-nous-empeche-de-nous-exprimer-des-crispations-lors-de-la-manifestation-contre-la-vie-chere-au-mans-53f46c0c-e043-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "EN IMAGES. « On nous empêche de nous exprimer » : des crispations lors de la manifestation contre la vie chère au Mans",
    "date": "2026-11-14"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/flash-actu/baissez-les-loyers-augmentez-les-salaires-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-20261114",
    "titre": "«Baissez les loyers, augmentez les salaires» : des milliers de Portugais manifestent contre la crise du logement",
    "date": "2026-11-14"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/a-lyon-des-journalistes-de-bfm-tv-agresses-en-marge-de-la-manifestation-la-prefecture-denonce-une-volonte-de-lynchage_6810459_3236.html",
    "titre": "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
    "date": "2026-11-14"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOC1UVXdMaUo0VzdrNmJ5V1V0cHFMUERrMTE0eXhpd3V3NFBLdHVTZXlHdW9IWmlnWno4REpEakZkQlV3MTJoVU5IYUVwaUtTWjlWSzZDZ3hXYnJoZG5DN3NMZHNWNTdmME44WHZWbUJoM2h4TXFEaTltY2I1cExxaGZ6eTZvZlpkX0t0N1lmeXhMOUc2Tm1Ua19PMTFnekM3VjRSbHdVNWh5XzdPUERlTVZGdVc2YTJYZFllZjRyalVuLXZxa3Q5NUQ1d1NtTHFSWWJvWDBQTnJEWmZRdDVhb2lVQm1GTDdROXVpR3NVN1JkQQ?oc=5",
    "titre": "Acte V de la mobilisation sociale : 106.000 manifestants selon l’Intérieur, 200.000 selon les organisateurs",
    "date": "2026-11-14"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "blue News",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWxLSUxZWUppT3hjNFp2ZFJkMm5YQ2lmeFZTYjFKSGVGVmNxaXVjMnBQSkJKaFRHZlhZUnJKUmJqRzJ3ZGZkeGpXeENNU3piOHlTWVk2Qkc5a1JrTlA0ZmZrTmFqRjlMWkwzUnJWTUJ3Rkh3dENDS0ZQRXJScGZudzBqOWJnbk9ITHNxZFhpLTc5am1PYm4tODdKUDdmbDk2OE5LaFE4c3BMQTZYcjlzag?oc=5",
    "titre": "France : 106'000 manifestants selon l'Intérieur lors de l'acte V",
    "date": "2026-11-14"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Virgule.lu",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQm5hNk1QRTZyWjNIYzh2TzhjS1VRTWhZS29aSjJGMWlqZnRWVG1IWllLY2hnN0lXSUdsLUROODRzMUZ6VEhlUlBldHlnd0VrQkJmV3ZCeGFqOUZGQkVxbEcwM0FWTUxCQmstR3VxUW5telVXMHpBWm5NWFM5SlJSVG53cnloS3ZTV3Z6N1hNWjE4WUdDWFQ3eE1JeXVELWc1YTZUVWg4WTIwNGhIYUQ4X2gtcDRxaUJVS2VYbEdRTjJBeHZYUENWWHp2QW1lTzNYTUJuOG9NT1RwbUxK?oc=5",
    "titre": "Manifestations: 106.000 personnes ont défilé dans les rues en France, plus de 120 arrestations",
    "date": "2026-11-14"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQURZMzk3ZDJrOWtNUUpYSlV0Y0xDM2hwQmtRcDgwT2dRcWl2WHZITFRjcUtWb0NXTUZXbUNSTzZrUUw3Y3NPTmFKSGlNQjFCc0FjZWdWTFd6SWgxajhRZGthdDcyLU1qdkdKd1ZqTl9tN01zdkJRSi1UNE1BckROcnJSS3lmZ1RDMl9vVnVrc08yZFlLRU9ITUNJT29HcHVBVFJ5WkxqMkQ2el9pc0NNZ0Q5VEVkNG9Xc20teGhXLXBaOUZlaTY5S0o4OUhuLXkwV2VDVWFXMUkyZEVQRXdWejV0a1YzZ2ZvZHlfVmc1akl2elhKWkZqcktITkJ3eUd1b1pKVVlvWXQxc1ZJUDlnSmYwRUwwUzRFQWl1Z2hqQTV1bW8?oc=5",
    "titre": "Mobilisations contre la vie chère : entre 1000 et 4000 personnes à Nancy, plusieurs tensions sur le parcours",
    "date": "2026-11-14"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "infos-media-nantes.fr",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5ENVJ0ekhJd1RlOFVBaDFMZTY0Sk1nZEN0Ui0tdG5nVm9ab1JXWDBjVUZTOTZyNUZJMXNxeFhMUFZ4Wm82Q2ZzRnZWWjR2akl6N3l0YktvX2k2M1owamZzUHljeTFKU21nUVhaX2toRGRsczVLb1NIc2U5SXNyTmdRMk9nMlJlNF9yWVMyMUVRU0lBQ0JxcTB3?oc=5",
    "titre": "Nantes : 52 interpellations annoncées pendant les manifestations du 14 novembre",
    "date": "2026-11-14"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/les-revendications-ne-sont-pas-satisfaites-les-gilets-jaunes-appellent-a-un-acte-vi-de-mobilisation-samedi-21-novembre_8282648.html#xtor=RSS-3-[lestitres]",
    "titre": "\"Les revendications ne sont pas satisfaites\" : les gilets jaunes appellent à une nouvelle journée de mobilisation samedi 21 novembre",
    "date": "2026-11-14"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYW5uUkViSFBqWG5ta1FBNzFBN01NLUNFYU43UjMydXR4UzdCMngzQnVQcno1OTZzRlF3blZhRGNTdWdpOElXU0FDQVI4czZoSnltYWE2YVJkYWVjbFJSQ1ZxWFRjT2FlSC14YXNJdlI0OHRYa1VQc2lVME5Tb0hmYUdkSEVtdWFNLTF5dDg0U2NZbzZodzIxT3dacUhvaEpfenN1dXFuYVlMWm9pX0FWc21mTjNoTkxiTjBuaHpuU1BwSDVLc1pRR1VQWG5odmgzdFhfZS1IUQ?oc=5",
    "titre": "Vie chère « Acte V » : un embryon de manifestation à Nantes",
    "date": "2026-11-14"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONU5Na01lTGpFZWRnaTRpOXptZGRxNHZycHpVbGZvQjJXdXU5TjVZTGNxWFFRbElvNHpaVzNfQ0FwSkFydnlyb0w5dHF6cjFwSDBWVWlPUWxMVFFQZG9KcGk3MFpERFNrdE95YjJpejREaVpsNUNSWmVGRE1XTzBqSVpRTnBNeWppdlNyRE4zZDNESExwNEM4QzlpVHNfX3hueHoyMGJhYVQ3OVNSQ0RJeGdTNW5aczJUUjc5M2lNZHFNbW8?oc=5",
    "titre": "Vie chère, moyens pour l'éducation, protection infantile : nouveau samedi de mobilisation dans toute la France",
    "date": "2026-11-14"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "ladepeche.fr",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeHl3LUpfZEIzUEJhTzNXNHZGTVZ2MWFPcXNmNUdCZGZFbmFXb2p4UThxMURWemVXNHBONnhfUm9QT2U1eGxsaWRFeG50ZzNjQUozR3RwOWRSbS1xUnAxcEdHQ29acTBLeDhUOVBxd2plc2VmLWVUcTV3dC1pNnJrTnJXVDJKYjVOWnRaR1VJN0JNYVg5ekc5dGZtSS1CbkRkWUpuYUJpV2tWUWZoa0VfSmlPSk1xLTZIZmUtTlNYRnpLVWVRWVdnSUtYOS1Gakc3UjdudEVrUk1SWTFRU0lsdjR2aXJJS0owY1dxU01KeWd1Wmk3bGhlaTY1dER2WERoM2hldERrWHFCZw?oc=5",
    "titre": "REPORTAGE. \"On n'a pas peur de manifester\" : à Toulouse, le rassemblement non déclaré contre la vie chère dispersé après des tirs de gaz lacrymogène",
    "date": "2026-11-14"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-acte-v-contre-la-vie-ch%C3%A8re-une-mobilisation-aux-revendications-multiples",
    "titre": "Acte V contre la vie chère : une mobilisation aux revendications multiples",
    "date": "2026-11-14"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-rouen-quelques-tensions-dans-le-cortege-contre-la-vie-chere_VN-202611140271.html",
    "titre": "Rouen : quelques tensions dans le cortège contre la vie chère",
    "date": "2026-11-14"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "www.actual-immo.fr",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRlN1dzg3TUhmWW5GTVc1VDIyMFMzaHNfNzVneTFDMTZ5ODkydUlpQ3hGemZJQldSUkF6YVJOc1lFb3B6Vl9LUERES0dwbVcyX0V6STFVeWw5NUlkNUxNTWtB?oc=5",
    "titre": "OAT à 10 ans près de 4,8 % : ce que le taux de la France annonce pour votre crédit immobilier",
    "date": "2026-11-14"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPM2xMalgySlRydm5OU21lTXlWQTVMMU1sNEZDZm9KNXVMMFhjdWtrWFFUOVF0N2M5Nkl0TmVGMF9YcjNRdC13VVNpa1QwMnF1M2d3XzBJLWpVdWUyOHdreWlZLV9uMzRseGhRRDMxTWFuVjZmdXlYZnJQMDRWcE41dzdFWGtLaHJlbXVJOWpNX3IzY1dFMG5PV0Q3WDNiVkVSUjNIdDBncHpEcGFOcDEzSkZ1TExtdFE1ajdUODQ5S25ENDA1ZkZUVHR3c1ZUNWs2NHV6NFZINzhKQVR2S21Va1c0YXR5dFJYR1dDa2lRVWpYNHBnRWYxNmUyVkRrR2hCUWVWeUQtWUt5SzJDUHB2d3RiUG0xUVIwUDFzZw?oc=5",
    "titre": "« On continuera à se battre » : aux Sables-d’Olonne, les Gilets jaunes réunissent une quarantaine de manifestants",
    "date": "2026-11-14"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-colere-sociale-notre-mobilisation-fonctionne-ils-commencent-a-trembler-affirme-la-porte-parole-de-l-union-etudiante_VN-202611140232.html",
    "titre": "Colère sociale: \"Notre mobilisation fonctionne, ils commencent à trembler\", affirme la porte-parole de l'Union étudiante",
    "date": "2026-11-14"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZjXzc1dTVWaFpsTG1nTFVDX0tLX0xDTVFxV2JIdHdNSG44Q0JJTmI3S3gyOENrWFRJRHNXRVY3aHN6RU5CeUREZjBNS3NwLVNtZ09KVlJpUmJIcnRSNlhUc1N3Q3VhUmNiNFBCR1UxVmhFUXRaajlRelhnREVsSERTMDZNN1pDcFE5aFUwa1ZXQ1VnRF9EOUhrdkZyNlN3Z2MxVFhKWGFSWGdXTmVQSHhvNDBxVmRtY0xDckduSkdzZw?oc=5",
    "titre": "\"On veut augmenter notre pouvoir de vivre\" déclarent les Gilets jaunes",
    "date": "2026-11-14"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/video-colere-sociale-un-peuple-tout-entier-qui-est-en-train-de-se-lever-affirme-benjamin-ball-gilet-jaune_VN-202611140213.html",
    "titre": "Colère sociale: \"Un peuple tout entier qui est en train de se lever\", affirme Benjamin Ball, Gilet jaune",
    "date": "2026-11-14"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/societe/4262788-20261114-direct-manifestation-14-novembre-70-000-policiers-gendarmes-mobilises-acte-v-jusqu-60-000-manifestants-attendus-paris?at_medium=display&at_campaign=149",
    "titre": "EN DIRECT Manifestation du 14 novembre : 70.000 policiers et gendarmes mobilisés pour l’acte V, jusqu’à 60.000 manifestants attendus à Paris…",
    "date": "2026-11-14"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/info-radio-france-sept-francais-sur-dix-ont-change-leurs-habitudes-alimentaires-avec-la-baisse-de-leur-pouvoir-d-achat-selon-un-barometre_8282183.html#xtor=RSS-3-[lestitres]",
    "titre": "Sept Français sur dix ont changé leurs habitudes alimentaires avec la baisse de leur pouvoir d'achat, selon un baromètre",
    "date": "2026-11-14"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-joue-la-strategie-du-pourrissement-deplore-l-union-syndicale-lyceenne_8282162.html#xtor=RSS-3-[lestitres]",
    "titre": "Le gouvernement \"joue la stratégie du pourrissement\", déplore l'Union syndicale lycéenne",
    "date": "2026-11-14"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Le Journal des Français",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnpRM3FON3NuNDNSdW1ISG1yZWZBR01SYXNwaGFmUGVUd3d3TnRZYWFPb2RnaTJ1WUZwMHhtcGczY3RZQ2hvalFBdnk3anhBaXVQQk8zdy1MdDExaE1QeTBaMG84S1JvRG12cG5pRURkNm1zamVRb05OMGpnVkVMNGJ2aFlPazdpRU0xZ25sYkFsaExYc2FMWlRn?oc=5",
    "titre": "106 000 manifestants le 14 novembre selon le ministère de l’Intérieur",
    "date": "2026-11-14"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/societe/manifestation/une-mobilisation-en-baisse-ce-samedi-14-novembre-106-000-manifestants-selon-le-ministere-200-000-selon-les-syndicats-8f2eebc8-e050-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Une mobilisation en baisse ce samedi 14 novembre : 106 000 manifestants selon le ministère, 200 000 selon les syndicats",
    "date": "2026-11-14"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemRCSFR5VFdVa2ZiUEwtYVNPU1FHMXdQU3h0SWZOQXYwN2ttWHlFLWxtX0pkbXVqVG9XTUktVHlIajFUZXZpY1pMLVJkVGZkR2o4cG5kbzZFQ0pRU0dxNkYta09RbHFacnBTWHlBM0RtUWg2dTVXdWY4YXQ4eThPNzctbUFNUG1rdzBWLW9mbEo0M3RJeHV1RVZ3RGxGcU9kUjJEeWNnbC1xTXBxNF80RU1qcTd1aWhhV1Q2TWFUUk5wT0RmelR6V0E4WVZKbjJ4MTg0c3hrUWswLWs?oc=5",
    "titre": "Mobilisation du 14 novembre : suivez l'\"acte V\" des manifestations contre la \"vie chère et pour la jeunesse\"",
    "date": "2026-11-14"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
    "titre": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale jeune",
    "date": "2026-11-14"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/international/asie/russie/video-mobilisation-lyceenne-la-russie-accusee-d-avoir-cherche-a-radicaliser-le-mouvement_VN-202611140097.html",
    "titre": "Mobilisation lycéenne : la Russie accusée d'avoir cherché à radicaliser le mouvement.",
    "date": "2026-11-14"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
    "titre": "Mouvement lycéen : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
    "date": "2026-11-14"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXctWVpSM3BwMl8td0o1WFltOGE3RnhRNnFQVFlTSmlCVEQ0VDJMMVZhOHBuQzhORjJpMkN5eFgwODhZNEI1WDY0UFgxblpZN0x2RFprS3NpUVRGVk9tLVhES0cwWWo1WGRNTnNfeG5vSFVLNkl1b2R1NTZEdy1ZeHFjRUZPVEMta0d6U19pdkNqS0pEZ3NhdXZWN2tDQnBjZ2lJU3AwR2h5bldGek1LdHVLX1AxUUllTEplMHVUVlJlN1BRaW1hcG0zalZvZE8telNqNVptS3V0T18zSUlB?oc=5",
    "titre": "« Tout est lié, tout converge » : de la Marche pour le climat à la lutte contre la vie chère à Tours",
    "date": "2026-11-14"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pouvoir-d-achat-les-antillais-en-premiere-ligne-face-a-la-vie-chere_8282885.html#xtor=RSS-3-%5Bsociete%5D",
    "titre": "Pouvoir d'achat : les Antillais en première ligne face à la vie chère",
    "date": "2026-11-14"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "Le Centrisme",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTNab2VfWWJJRS1ILW9OSHoxQXRSOEhKdXF2Z3JDQzVtUmVBSm9GcUJZV1hwNGRnNXU4NFVzOENjaW1wLWJDdkx2TEJxZTBKLUk1eVEyZThKWW44bEU5XzRRNUl5dzhkVjdSUlB1RFR6U1Nqc2NPM3RJWGNMTnhTUi05MXJBUQ?oc=5",
    "titre": "La Quotidienne centriste du 14 novembre 2026. La cause des enfants n’a rien à voir avec la CGT et les Gilets jaunes",
    "date": "2026-11-14"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
    "date": "2026-11-14"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
    "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
    "date": "2026-11-14"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "Dijon Actualités",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOWltZUlBUEVJTFhLR05OWk1SaTFnNVQ0NUlaRmJsUDh2dUJZa0h1dUF0a2gwNUdQNXpacTN4R2NjbEJIMDVtbkxSUjZmUmVHVjdsQkY0MkNPZGdfZTFzODhxdHVhQ1VQampMNVF4QjVJaW9ESGZWQVBZcDlPdXpXaHFqSlJ6bWV6cDhEc3JtaFFVRVVuSnY2OUhhTzVDT1RTZWpmQlFPRUU4eDNyeTJaMVZIc1laalMwOFpQaVJLTVptNG9GS1UyM2VocmplRUJXX05KRHZPOXRqQlVPSnZxQlNvTXAxZ3Y3czdYcm9zTC1TVzhVT3Bxc09NNHBPMjZWN2lpWGlmWGYxeUXSAZMCQVVfeXFMUGNXZVdkcVE2RU5oc252aDM0YWZSenF5YnNOLWwwRWJ4YjE3ZF8tLTVsWUlxSFB2ZEQwZDBFeTlmNFBoMkwyYUJGMkhnS3R0MHJvSV9ZbnFxR21rZWg2OU1za2dOelVXYXBhS3VfbEV4ck93OXhyVm9zR3B5bHJrVlZIVUN3UkQ1Y2t1SXh0QkYzZ2tzRjVLR2NvbHlpQWhLVzRBMWtNN0JDcHJaRW1BUS1WRFhLaDhqME9BdGpxOGwzSTE1bml2V1QzdHJCNUtiQncyQmZhSXdoS1F4YTktLVQ3a2ZuQ2Zua1BPOWl0eVJrWFR0bUJhckt0N0VzdFlXZ3VWR2lBNHdtR3l4bDE4YjhBWlE?oc=5",
    "titre": "Manifestation contre la vie chère à Dijon : 800 manifestants, des gaz lacrymogènes et aucune interpellation se",
    "date": "2026-11-14"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Midi Libre",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQczlEbGVWOXQ1TDM4LXpzcEJKVEhPTHNPSjhmeFhkWl9FcVNaakhXeTFpTkdaVmZfRGRCbDdsajVKVjF6WTRrbndiM2RvbXVCdGV5VlV4S29uTmRmU2E3ZUlYNGpyQ3lkLTBoNWNNYnhzcmpaeEVsZzMwOVp2U0IyTmZpYkprbkZFRHdVb3UtN1lhNWZzbWc0N2Z5OTBWby1PYVdzMGp3azRlTDJOWUZ0TUJ5b2haUlIwcnlUaWVmQ3pzYzg0VUk5bjJtV0g3QjVTVWdBalhKZlJGYXpMOVk3cFlIVDN5T3J0WUpYSTcxYzMxWUViQXgzUzBXblEtak1fcDFsTHZITk9rdw?oc=5",
    "titre": "24 000 manifestants à Paris, 219 interpellations, 10 policiers blessés, une équipe de BFMTV agressée… ce qu’il faut retenir de l’Acte V",
-   "date": "2026-11-14"
-  },
-  {
-   "n": 45,
-   "nom": "Sud Ouest",
-   "url": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-un-sondage-donne-marine-le-pen-largement-en-tete-jean-luc-melenchon-deuxieme-et-teddy-riner-a-4-5-31529430.php",
-   "titre": "Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %",
    "date": "2026-11-14"
   },
   {
@@ -478,7 +477,7 @@
    "n": 47,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
-   "titre": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+   "titre": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, selon le ministère de l’Intérieur, des tensions en fin de cortèges à Paris, Lyon, Bordeaux et Nantes",
    "date": "2026-11-14"
   },
   {
@@ -608,5 +607,5 @@
    "date": "2026-11-14"
   }
  ],
- "genere": "2026-11-15T06:24:18.980640+00:00"
+ "genere": "2026-11-15T07:40:41.467182+00:00"
 }
