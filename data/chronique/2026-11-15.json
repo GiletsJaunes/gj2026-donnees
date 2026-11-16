@@ -1,0 +1,485 @@
+{
+ "titre": "Dimanche 15 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 106 000 manifestants en France selon le ministère de l'Intérieur (non recoupé à ce stade), et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "106 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l'Intérieur (non recoupé à ce stade)",
+   "sources": [
+    46
+   ]
+  },
+  {
+   "valeur": "106 000",
+   "libelle": "manifestants en France",
+   "detail": "selon Beauvau (non recoupé à ce stade)",
+   "sources": [
+    47
+   ]
+  }
+ ],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon BFMTV, Manifestation du 14 novembre à Paris: 108 gardes à vue, dont 38 mineurs, recensées (repris par 8 médias). Selon Europe 1, Manifestation de samedi : à Paris une centaine de gardes à vue, dont 38 mineurs (repris par 6 médias). Selon La Libre.be, Manifestations en France : 404 interpellations et 50 policiers et gendarmes blessés ce samedi (repris par 4 médias). Selon Libération, Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi.",
+   "sources": [
+    1,
+    3,
+    4,
+    12
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Ouest-France, Le gouvernement interdit la vente de mortiers d’artifice jusqu’au 27 novembre (repris par 8 médias). Selon BFMTV, Mobilisation lycéenne: \"Il va falloir que le gouvernement y réponde davantage\", réitère Yannick Jadot, sénateur et soutien de Raphaël Glucksmann (repris par 3 médias). Selon franceinfo, Les Tchèques manifestent en masse contre la réforme du financement des médias publics (repris par 3 médias). Selon BFMTV, Mobilisation lycéenne: \"Ce que je refuse, dans la réponse apportée par le gouvernement, c'est le mensonge\", déclare Laurence Garnier, sénatrice LR et porte-parole de Bruno Retailleau.",
+   "sources": [
+    2,
+    5,
+    6,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon BFMTV, Colère sociale: les rassemblements interdits à Paris autour de certains lycées et universités. Selon franceinfo, Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans. Selon BFMTV, Colère sociale: \"Celles et ceux qui subissent les revendications et qui en plus en pâtissent ce sont les PME\", observe Dieynaba Diop, porte-parole du PS. Selon Sud Ouest, Élection présidentielle 2027 : les Restos du cœur appellent à des « solutions structurelles » contre la pauvreté.",
+   "sources": [
+    8,
+    10,
+    18,
+    27
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Ouest-France, Présidentielle 2027. Un départ à 60 ou 62 ans, mais plus de travail : le plan du RN pour les retraites. Selon Le Figaro, Présidentielle 2027 : Édouard Philippe promet de construire 4 millions de logements en dix ans pour faire baisser les prix.",
+   "sources": [
+    34,
+    42
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon Le Figaro, Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner. Selon franceinfo, Présidentielle 2027 : les coulisses de l'accélération de la campagne de David Lisnard. Selon BFMTV, Présidentielle 2027: \"Je n'en vois qu'un qui peut battre Marine Le Pen, c'est Raphaël Glucksmann\", déclare Yannick Jadot, sénateur et soutien du candidat. Selon France 24, Présidentielle 2027 : un champion olympique à l'Elysée ?.",
+   "sources": [
+    15,
+    19,
+    20,
+    24
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-15",
+ "numero": 45,
+ "jour_long": "dimanche 15 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/manifestation-du-14-novembre-a-paris-108-gardes-a-vue-dont-38-mineurs-recensees_AD-202611150204.html",
+   "titre": "Manifestation du 14 novembre à Paris: 108 gardes à vue, dont 38 mineurs, recensées",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 2,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/le-gouvernement-interdit-la-vente-de-mortiers-dartifice-jusquau-27-novembre-e0d34386-e08a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’au 27 novembre",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 3,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/manifestation-de-samedi-a-paris-une-centaine-de-gardes-a-vue-dont-38-mineurs-1235022?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Manifestation de samedi : à Paris une centaine de gardes à vue, dont 38 mineurs",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 4,
+   "nom": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPczF4NHFKU0syVWdzcWNHbVpucW4wX1FGVFdlUUNiVl9RRXU5T3ViOFFVZ1NjRmNxTWFkakxzdURMb2RUSGJkQjhGSnJtQzZlMkl5dTBXNVktcVFFM3J1NVhiYWswUThIc0lqeW1KX0ZkMzV4ZXh1LUl4VXBPc0c3VUM2dHVEMlhtR2F6ODBRbWxvQzdlQWtlX3huR1Nzemp5Y0N2VUkyOF9HYlFzbnN1Zzl0Wnl0Q2FCSzc0S3JHTDl0Q3IwcGFHYk1tdlZuQzI5S2dPTURUbXVxYUtBOGcydmswMmxoOEI1Wm9XOGIxa2huOFhZdEpUSnV5dkc1YlhoTUtHZg?oc=5",
+   "titre": "Manifestations en France : 404 interpellations et 50 policiers et gendarmes blessés ce samedi",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mobilisation-lyceenne-il-va-falloir-que-le-gouvernement-y-reponde-davantage-reitere-yannick-jadot-senateur-et-soutien-de-raphael-glucksmann_VN-202611150428.html",
+   "titre": "Mobilisation lycéenne: \"Il va falloir que le gouvernement y réponde davantage\", réitère Yannick Jadot, sénateur et soutien de Raphaël Glucksmann",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 6,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-[lestitres]",
+   "titre": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mobilisation-lyceenne-ce-que-je-refuse-dans-la-reponse-apportee-par-le-gouvernement-c-est-le-mensonge-declare-laurence-garnier-senatrice-lr-et-porte-parole-de-bruno-retailleau_VN-202611150439.html",
+   "titre": "Mobilisation lycéenne: \"Ce que je refuse, dans la réponse apportée par le gouvernement, c'est le mensonge\", déclare Laurence Garnier, sénatrice LR et porte-parole de Bruno Retailleau",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 8,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-les-rassemblements-interdits-a-paris-autour-de-certains-lycees-et-universites_AD-202611150393.html",
+   "titre": "Colère sociale: les rassemblements interdits à Paris autour de certains lycées et universités",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 9,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlHczBQWWlFMGtLdUo5N09yY3doUUZHSmNQelRqUHdnODktWDFZR3c0NXNEb0tPRHB3MW94dW1jWEJTVERwcUpmY3YxcVd6RkxEeHpFeURIQ2xYZTRRMTFUSkhVV2UxM3gyUWdhS0tVODg4ZFNXMEQ1LU11dTJ0aXE0SlVsNnhjTURFdEJ3TFFkSGE4cmtpX1ROVW9iMG9qVTI5Ul8zRjh3cU11V0ZTbXpYbEFEaW13U0pJMnd5NlRIalFPRVlKZDJ1T2V3aHlyR3NISVVRTGRHVXVjblNhbXVWQlFhWmFsdGNlLUkyNEhwbU9NM3c3RjBiUk8zdnhqbV9QYW85SUJwRmlTekxxeGhUMVp1c3BGN3NsR21udVREbFYxc2VwWjVRWHc2X3BVb2oyMmlOaVo5Zw?oc=5",
+   "titre": "\"Nous en avons ras-le-bol que nos enfants soient interdits d'école\", lance un parent d'élève alors que la mobilisation lycéenne se poursuit",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 10,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-[lestitres]",
+   "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 11,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNamNQd2xQVlFDRW9qV19fcDlLblppeUI4eW5KOXUwRXBmWFZvUXNYYzVSU1pjcko2aFlRLUFFR0hjTUxlR3locDRsWnNLcS1BQ3llZnQ5TFJjejg3LVRYdkdWS2dBOFBhVDNnbmFYbDJzUmtBWnVPNTBZalAtb1VqSVBHSEtkVEk1R3JNSXJuQ2tHbUJrYXd0d1cxems5S3J3SHQ5NzlSaDlfZWZrbzYwWDRYbkduX25HSVlqNE9UNWhXNHNNWUw3dWtPdzc4dkkyZWxDUGdFN1JfX1Z2c0FFWFg4U204RUZQZW9kNjBTZ1EwNFItZDNVSE1WOFlMeWxv?oc=5",
+   "titre": "Manifestations, blocages lycéens, vie chère : une nouvelle semaine de mobilisations s'annonce à Toulouse... Voici à quoi s'attendre",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 12,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/mouvement-social-plus-de-400-personnes-interpellees-en-france-lors-des-manifestations-de-samedi-20261115_LLKQO2PKRBFAVFQKMOMZWLENZM/",
+   "titre": "Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 13,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-centaine-de-personnes-placees-en-garde-a-vue-a-paris-dont-38-mineurs-20261115",
+   "titre": "Colère sociale : plus de 400 interpellations en France, une centaine de gardes à vue à Paris",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 14,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/nantes/une-deuxieme-rentree-le-lycee-nelson-mandela-a-nantes-s-apprete-a-rouvrir-partiellement-ses-portes-apres-avoir-subi-un-incendie-lors-d-un-blocage-lyceen_AV-202611150150.html",
+   "titre": "\"Une deuxième rentrée\": le lycée Nelson-Mandela à Nantes s'apprête à rouvrir partiellement ses portes après avoir subi un incendie lors d'un blocage lycéen",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 15,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/sports/autres-sports/57-sont-opposes-a-voir-les-sportifs-se-presenter-a-une-election-les-francais-donnent-leur-avis-sur-la-candidature-de-teddy-riner-a-la-presidentielle-20261115",
+   "titre": "Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 16,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-manifestations-219-interpellations-sur-l-ensemble-du-territoire-national-dix-policiers-legerement-blesses_VN-202611150068.html",
+   "titre": "Manifestations: 219 interpellations sur l'ensemble du territoire national, dix policiers légèrement blessés",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 17,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/international/arretez-la-course-a-l-ia-a-san-francisco-des-manifestants-reclament-un-traite-sino-americain-20261115",
+   "titre": "«Arrêtez la course à l'IA» : à San Francisco, des manifestants réclament un traité sino-américain",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 18,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-sociale-celles-et-ceux-qui-subissent-les-revendications-et-qui-en-plus-en-patissent-ce-sont-les-pme-observe-dieynaba-diop-porte-parole-du-ps_VN-202611150443.html",
+   "titre": "Colère sociale: \"Celles et ceux qui subissent les revendications et qui en plus en pâtissent ce sont les PME\", observe Dieynaba Diop, porte-parole du PS",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 19,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-les-coulisses-de-l-acceleration-de-la-campagne-de-david-lisnard_8283962.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "Présidentielle 2027 : les coulisses de l'accélération de la campagne de David Lisnard",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 20,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-je-n-en-vois-qu-un-qui-peut-battre-marine-le-pen-c-est-raphael-glucksmann-declare-yannick-jadot-senateur-et-soutien-du-candidat_VN-202611150432.html",
+   "titre": "Présidentielle 2027: \"Je n'en vois qu'un qui peut battre Marine Le Pen, c'est Raphaël Glucksmann\", déclare Yannick Jadot, sénateur et soutien du candidat",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 21,
+   "nom": "Politique Matin",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXljcDlYVlN1d3hDUlo0UGNZV3NMUHVuUU5COVpGSGMtN2J0c202ZXpHdG0zRjVpY0tKQmJqZ2ctZWRsN2JyLU1UZzR2eGNBVWExZ095WTZ2d0t6akFzYzN5bzdOVndaVDUzWGFpRlZBUDNXTE51N1NJdDJoVHdsOVFkWGxkVUFybVhmMWFxcDhxZzhvbmwtNUMwQQ?oc=5",
+   "titre": "À Angers, l’interdiction de rassemblement a pris fin dimanche à 7 heures après la mobilisation contre la vie chère",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 22,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-etudiante-comment-noter-les-eleves-en-l-absence-de-cours_8283953.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Mobilisation étudiante : comment noter les élèves en l'absence de cours ?",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 23,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-manifestations-en-france-colere-sociale-le-prealable-c-est-le-retablissement-de-l-ordre-declare-franck-allisio-depute-rn_VN-202611150427.html",
+   "titre": "Manifestations en France, colère sociale: \"Le préalable c'est le rétablissement de l'ordre\", déclare Franck Allisio, député RN",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 24,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
+   "titre": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 25,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public",
+   "titre": "République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 26,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4262990-20261115-presidentielle-2027-sandrine-rousseau-lache-patronne-philippe-refuse-primaire-deconvenues-teddy-riner?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : Sandrine Rousseau lâche sa patronne, Philippe refuse la primaire et déconvenues pour Teddy Riner",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 27,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/economie/social/election-presidentielle-2027-les-restos-du-coeur-appellent-a-des-solutions-structurelles-contre-la-pauvrete-31541222.php",
+   "titre": "Élection présidentielle 2027 : les Restos du cœur appellent à des « solutions structurelles » contre la pauvreté",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 28,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/mortiers-d-artifice-malgre-le-decret-du-gouvernement-des-vendeurs-continuent-de-les-proposer_8283896.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Mortiers d'artifice : malgré le décret du gouvernement, des vendeurs continuent de les proposer",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 29,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
+   "titre": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 30,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
+   "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", selon les Restos du Coeur",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 31,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/l-election-presidentielle-2027-est-la-plus-importante-de-ma-vie-affirme-francois-hollande-refusant-encore-de-se-declarer-candidat-20261115",
+   "titre": "L'élection présidentielle 2027 est «la plus importante de ma vie», affirme François Hollande, refusant encore de se déclarer candidat",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 32,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/une-jeune-fille-de-12-ans-interpellee-a-paris-lors-de-la-mobilisation-du-14-novembre-et-remise-a-son-educateur-de-l-aide-sociale-a-l-enfance-par-la-police_8283875.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Une jeune fille de 12 ans interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance par la police",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 33,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-francois-cope-appelle-les-candidats-de-la-droite-a-l-esprit-de-responsabilite-et-au-dialogue-20261115",
+   "titre": "Présidentielle 2027 : Jean-François Copé appelle les candidats de la droite à l’« esprit de responsabilité » et au « dialogue »",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 34,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-un-depart-a-60-ou-62-ans-mais-plus-de-travail-le-plan-du-rn-pour-les-retraites-d78f6318-e125-11f1-af71-dcff17318571?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027. Un départ à 60 ou 62 ans, mais plus de travail : le plan du RN pour les retraites",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 35,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+   "titre": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 36,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-grand-oral-2027-il-faut-que-les-manifestations-s-arretent-lance-jean-francois-cope-lr_VN-202611150369.html",
+   "titre": "Le Grand Oral 2027: \"Il faut que les manifestations s'arrêtent\", lance Jean-François Copé (LR)",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 37,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/international/europe/a-prague-une-mobilisation-massive-pour-defendre-les-medias-publics-20261115_7DMDZP3GFJCH5E2F4LGIJ6EJUA/",
+   "titre": "A Prague, une mobilisation massive pour défendre les médias publics",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-mobilisations-lyceenne-et-etudiante-nicolas-sarkozy-a-sa-part-de-responsabilite-estime-robert-menard-maire-dvd-de-beziers_VN-202611150360.html",
+   "titre": "Mobilisations lycéenne et étudiante: Nicolas Sarkozy \"a sa part de responsabilité\", estime Robert Ménard, maire DVD de Béziers",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 39,
+   "nom": "L'Union",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmFRbm1IVFVNUHRYbER5UmJNNDlQQTREN0VTaFNPd3NtbFl3N0d1aDFDM2paQWNyS3F5MllEbUU4ZnlRSWJBME9qdHZVdWJVS05HVFFuWlZwbmw3cG1wVWZSblZOOC1fZGpWSzRDR1ljNzBaUzQwOXdmRXl3RHJ6ZGhka0JjUGU0eTN0YVF1akk5aEJvQXZaVWhuRHpZT3Zua2pldTVQSVV6dkZvbUlaOG95dFI3X0I1UGhFT25zNjdsZUNubTNpVV9n?oc=5",
+   "titre": "Grève du 17 novembre : intersyndicale de la fonction publique, cheminots, lycéens… Le point sur la mobilisation de ce mardi",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 40,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/exclusif-pour-une-societe-qui-ne-laisse-personne-de-cote-lappel-des-restos-du-cur-avant-la-presidentielle-2027-f0a926fe-e030-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "EXCLUSIF. « Pour une société qui ne laisse personne de côté » : l’appel des Restos du cœur avant la présidentielle 2027",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 41,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/alsace/bas-rhin/strasbourg/les-inegalites-se-creusent-la-presidente-de-l-universite-de-strasbourg-interdit-les-blocages-de-plusieurs-batiments_AN-202611150342.html",
+   "titre": "\"Les inégalités se creusent\": la présidente de l'Université de Strasbourg interdit les blocages de plusieurs bâtiments",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 42,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-edouard-philippe-promet-de-construire-4-millions-de-logements-en-dix-ans-pour-faire-baisser-les-prix-20261115",
+   "titre": "Présidentielle 2027 : Édouard Philippe promet de construire 4 millions de logements en dix ans pour faire baisser les prix",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 43,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/sport/football/espagne/videos-nous-nous-souviendrons-toujours-lemouvant-premier-match-du-cd-tenerife-depuis-la-mort-de-jesus-de-miguel-77ef1176-e114-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "VIDÉOS. « Nous nous souviendrons toujours » : l’émouvant premier match du CD Tenerife depuis la mort de Jesus De Miguel",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 44,
+   "nom": "Le Nouvel Obs",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdF9fbXhmUk5yZ2dtWjJqM1JwV1BDYzVkS3NBWm1oQXdrYTFxNmRTQkV4SndzNmVadDVBN0Z6TFhRTU9hTE5YOE5VUVF1NXJOUzcxb3NYanRYeEFROFhaRkpiR3d0QWRCblpJelFZS1gtQVkxVTRDbVdmRXJJQXpBclk5Xzc2SlZUYUx5Vkx6RUlqbzk3T2VVMERFeHB4bGJkQnhnRGtDU1gxdWhMVlRzcElBalZkV281MTNwN2FBXzhGbllsOFZNZ2MwUHp3THNydWRuSjhHeGE4Ry1YUmhJb0ZUdEFTeTZ5RV9KckoyUTNTbDdEWGlYSGprS05UMWg2M1d2TUQ5VQ?oc=5",
+   "titre": "Manifestations contre la vie chère, vol de données après le piratage d’une filiale de La Poste… Les cinq infos du week-end",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 45,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ0dHam1ESUNiV1RZV0V5ZzFhdjlpamI1RnFUZ2xadTlqeUNRWWNBVk5xQmhVdWEwTU04ODZSbk1JZmthVExnVkJMSDZ3VUdaN2F0WGxzOTUtY3JmMThPSjhXbHFNd0Naa1l0Q252Mmx3V1lRY3QtNnhld2ZVdmV4TTZQSWVtV1pFSW1adWd0anFKMWNJOXVHVlowdGFTdU9DQjlFYS1IX0ViMHg2TmFoLWpoQWJ5bzhSaEVyeWZyYko2SGhJN29nYVcwWXlpYi15eFpkLVBfNWxYNVBqbzlxZmREQnlrc29RelVRRDJnektTQQ?oc=5",
+   "titre": "Mobilisation sociale : grève mardi à l'appel des syndicats, \"acte VI\" samedi, à quoi faut-il s'attendre cette semaine",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 46,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-colere-toujours-presente-malgre-une-mobilisation-en-baisse_8283212.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Manifestations du 14 novembre : une colère toujours présente malgré une mobilisation en baisse",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 47,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
+   "titre": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 48,
+   "nom": "Virgule.lu",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQm5hNk1QRTZyWjNIYzh2TzhjS1VRTWhZS29aSjJGMWlqZnRWVG1IWllLY2hnN0lXSUdsLUROODRzMUZ6VEhlUlBldHlnd0VrQkJmV3ZCeGFqOUZGQkVxbEcwM0FWTUxCQmstR3VxUW5telVXMHpBWm5NWFM5SlJSVG53cnloS3ZTV3Z6N1hNWjE4WUdDWFQ3eE1JeXVELWc1YTZUVWg4WTIwNGhIYUQ4X2gtcDRxaUJVS2VYbEdRTjJBeHZYUENWWHp2QW1lTzNYTUJuOG9NT1RwbUxK?oc=5",
+   "titre": "Manifestations: 106.000 personnes ont défilé dans les rues en France, plus de 120 arrestations",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 49,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/manifestation-a-paris-apres-lacte-v-une-centaine-de-gardes-a-vue-dont-38-mineurs-c8985ca0-e0e6-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Manifestations﻿ : après l’acte V, plus de 400 interpellations en France, dont 126 à Paris",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 50,
+   "nom": "Watson",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSjhlOWYwMUJDZno5ckw1bERQcXpibURUbm9GRFd0MkZxT2o0b2d3d1BuWWFvdTk0eHczaXJMZW5sNHlvLWtReWZyVVNnZ181b3M2dUNWQ2liYktWOXYyQnV3YjUwVmNMSUtnaGFfdk1SWDZqaU04aEFKaVBySnhrWUxYdnJPZlowWEZDWXVFb1h4eHN1WFlnb1JyWUZkUWkxQ3dRaFBOcUxNY21jV0kzRXF3U0V2Wi03X2d2dml2SXNrdw?oc=5",
+   "titre": "Plus de 400 personnes interpellées lors des manifestations en France",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 51,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSlU0ZlN0bEx0Z1Vzb2lyOWtlUXFOdGh0eFpZbFVrNEtoeVNuUGY4ZzNralNBekFCVXNkc1pxVWlndGh0cnJ0M0ZpTE8tczNDY2V1VnFkeWg4U1I0WGVSVzM4UG1vMzBiYmFIRkF4WTVoXzZERWpvMWtKbUdPaS10UGdKNGdQOHRnazJZMmdLb1hySFFSZDlScVpvakJhcXNrOHRpR0F6VzNqRXFWajlxcjg3eGsxU3BVUzFkUnVuMUdxZV85cFVHQmxkUGU3U2RmdG5OQjZORXBOT2hXT013OGFNaWZzRWloQ2Z6Z0M1N3l3ck9ia25wdjFkSmZsUQ?oc=5",
+   "titre": "Manifestations: 219 interpellations sur l'ensemble du territoire national, dix policiers légèrement blessés",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 52,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/police-justice/manifestations-de-samedi-plus-de-400-interpellations-en-france-1235397?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Manifestations de samedi : plus de 400 interpellations en France",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 53,
+   "nom": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHJuQ2lEbnMyQVV1di10Uk9HOVdxS2pFZEw0UzFxOWxyWUhsazVIb0JQdE1VbnJ2VGFrVzJ5OGJfYUN0OWpiT2ZhdGg1VGtFcnFOV3ExWENrSTkyUVBZbmxNTC1YcTVfMmx4dFg1UGIwd1JyVU1LcldJLWZ4OG5oOE1uTWlQb2ViNmJiUWhNYjlha3NLSGVzeTNreXg5NUVjTzMyVlFFMTY2a1dGZGdxUjlLaGRhd2pZeTJubUNPdzZUaHVyckFCaHJ2SWpUUQ?oc=5",
+   "titre": "France : 126 interpellations à Paris lors d’une nouvelle mobilisation contre la vie chère",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 54,
+   "nom": "Stéphane Larue News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUt6amNaUGxtckJHRzFURkdhNGVvRkpsVnRqdmY3cTJ4MmRnaHdhbmFrdmRvTXN1d0hwS3ZDbGdray04MFd1cVZlSWhtWVdiZzdpWnJaS3NteTFDLXZDVXBSdnA4U2laMmJDZEVXVjJvU3l4RnZad1I0cWNleTlBWnNDRUlGNzZpaE9pdTl2ZlhubWFQVl9jd0ZiMFc5TUxpdmV5aHdrYw?oc=5",
+   "titre": "Vie chère à Paris (75) : l’acte V se solde par 108 gardes à vue, 38 mineurs inclus",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 55,
+   "nom": "Watson",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3ZTd1MyUkE5RE50eVhtbU1Leko2TjZyMVEtNU0yUmtBdkJnbWhSWVltZ25qVlpCZEdUR3h2U0gwSmlOQUp4WnQ4bHEtLXNLS3M0aEZucEh5LUJNcXVwazBLMmVJd2dNY3BxMFUxV29zNVlzOG52ZFFuOFBVd25wOEhuVmtBN3dVbzFkTEFvR25ic1VMQnpqT3BfS3RCaEwyaHVhTzN1MG1uUFRNS1Bz?oc=5",
+   "titre": "La manifestation à Paris débouche sur 108 gardes à vue",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 56,
+   "nom": "Demócrata",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZUdhSmZvdVcxajcyN28xY3FWZXpfYjFQVzd1ZDVwMFk1TzE5Y0VHeUpjWDQ4ZUZTVFFFWVpKYjJSWVlzUVAyVGtsby02aUxSMkFsV1g5Y0doMGdsd0RyMTNPX0RYbzdLRjhLZW9xcVN0QTZyVTNOcVowZVJvM3pCbFJBcmtJNUE4NC1hUUtOUE5yTDhzYVdvMW5wWGU1VVRWRlFXSVJFMl9DeGFvcWoxRFo1a1M1NmdndGVDRkkyLVJPVDZranNScUtReWg2N2tEblczeHhrTEVtQdIB3wFBVV95cUxORUZPel92ZmpyVHpiVldDY1p4TjBodjh2Ump6R01taG5XRE96MktUdERYOU8zMTYxWmVyUnVRTmo2cjdKUmlqVFV3NFEzdG1KVDVzR3VOdEFtbVEyMkpHZjJHaGJIcGk4bG1Yc3l1VHlIejdieXlfNEdRR3FjV1kwNVNjbzZ3UjgwUTV5ODAzZkhNY25kaDBRN01Qam1EbHBsMGprMEcxdi1WdldhUmlrdW9QSGFVSlFvMDhzbTVDWWdOeEdoUjB5MElVcjlDblMyQXpHeUNVaFZpT1JlMEJz?oc=5",
+   "titre": "Une fois arrêtés et 16 agents blessés lors des manifestations contre le sommet de l’ASEAN à Manille",
+   "date": "2026-11-15"
+  },
+  {
+   "n": 57,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbzFEN08zcC1NRDdRNm5laDZ6VVVXeDRqNG9FbmxadnBmWEJXZktnaWJ0RFRyemg0UFZMcnBkRDR3bllabGV3Uk83OFF2YmF2c29GWTA2RGlhTmVTUGN2OW53QjhTUHc1dk91TDRIdEhQMWtNb1ZBTnZOZ1hhRHlfOWs5M1hsYWJPV0l6dXlLdFRzTGh0RWRkQjRSeV9hR1IwYVpURm9ZYi1CV3JVcmxnWjJwMGl5QlJKS012c0taMmFTLWMwTGtBajdOeDQ0NkJvdjJUcjM0Z0pfRzJEVjI0Q3NtZWNjMnVkZ2pfUDNTaUM3SjM4SDlZaDgwLVZOTFFtZnFCaEx5MFBOSkh2ajUwTUdaYXpOc2J3cndhVXBUaGhOcm1lem5Lbjln?oc=5",
+   "titre": "Portails incendiés, vitres brisées… Plus de 500 000 € de dégâts dans les lycées publics de Rennes lors des blocus",
+   "date": "2026-11-15"
+  }
+ ],
+ "genere": "2026-11-16T05:51:18.714230+00:00"
+}
