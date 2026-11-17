@@ -7,14 +7,14 @@
   {
    "texte": "Selon BFMTV, Colère sociale: trois blessés lors de la manifestation du 17 octobre à Nancy portent plainte. Selon BFMTV, Une enfant de 12 ans interpellée en marge de la manifestation du samedi 14 novembre à Paris. Selon BFMTV, \"Il n'y a pas plus grand danger pour le pays que l'extrême droite\", assure Sophie Binet, secrétaire générale de la CGT.",
    "sources": [
-    9,
-    12,
-    39
+    10,
+    14,
+    42
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon L’Écho Républicain, Transports, éducation, Gilets jaunes… À quoi s’attendre pour la grève du 17 novembre ? (repris par 5 médias). Selon Le Dauphiné Libéré, Social. Grève du 17 novembre : fonction publique, écoles, gilets jaunes... À quoi faut-il s'attendre mardi ? (repris par 3 médias). Selon Libération, Nantes : les cours de nouveau suspendus au lycée Nelson Mandela (repris par 3 médias). Selon BFMTV, Transports, éducation... À quoi faut-il s'attendre pour la journée de grève du mardi 17 novembre? (repris par 3 médias).",
+   "texte": "Selon L’Écho Républicain, Transports, éducation, Gilets jaunes… À quoi s’attendre pour la grève du 17 novembre ? (repris par 5 médias). Selon Le Dauphiné Libéré, Social. Grève du 17 novembre : fonction publique, écoles, gilets jaunes... À quoi faut-il s'attendre mardi ? (repris par 4 médias). Selon Libération, Nantes : les cours de nouveau suspendus au lycée Nelson Mandela (repris par 3 médias). Selon BFMTV, Transports, éducation... À quoi faut-il s'attendre pour la journée de grève du mardi 17 novembre? (repris par 3 médias).",
    "sources": [
     1,
     2,
@@ -26,25 +26,25 @@
   {
    "texte": "Selon Libération, Pouvoir d’achat : l’Assemblée adopte un texte pour débloquer l’épargne salariale. Selon Le Monde, EN DIRECT, présidentielle 2027 : suivez le débat entre Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau sur les questions de pouvoir d’achat. Selon France 24, Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions. Selon Ouest-France, Élection présidentielle 2027. Ce qu’il faut retenir du débat sur la solidarité, le pouvoir d’achat et la précarité.",
    "sources": [
-    6,
-    8,
-    25,
-    27
+    7,
+    9,
+    28,
+    30
    ],
    "theme": "Colère sociale"
   },
   {
    "texte": "Selon Le Monde, EN DIRECT, débat de la présidentielle 2027 : les cinq candidats s’affrontent sur les retraites ; Marine Le Pen cible la Ligue des droits de l’homme, « un ramassis de gauchistes ».",
    "sources": [
-    30
+    33
    ],
    "theme": "Argent et crise"
   },
   {
    "texte": "Selon BFMTV, Présidentielle 2027: Marine Le Pen défend une \"prime d'activité étudiante\" et le permis gratuit pour les jeunes. Selon Yahoo Actualités, Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation.",
    "sources": [
-    24,
-    28
+    27,
+    31
    ],
    "theme": "Politique"
   }
@@ -58,7 +58,7 @@
  "jour_long": "lundi 16 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -90,289 +90,289 @@
   },
   {
    "n": 5,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4263239-20261117-blocus-lycees-bilans-donnes-education-nationale-minimises-voire-revus-baisse?at_medium=display&at_campaign=149",
+   "titre": "Blocus des lycées : Les bilans donnés par l’Éducation nationale sont-ils minimisés voire « revus à la baisse » ?",
+   "date": "2026-11-16"
+  },
+  {
+   "n": 6,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVzhuVlgzNG9IMnlwUE5BZ3luSmk2NmFrbjRXM0JWSTRobHd1blFkc1hoZlBxR1lWMDBsUkhROUFLbHlNcGUzbWsxZk5TYTl4Rlk2VHlpLVVxOGdVaktON3h6MWFVdVh2TmJ4NU4tekJ3Skl1M245cWdYR1dQRE5JdzlMZkItRkRHTTk5dFdIWVZBbk8tRmtJZ0hEclBOQko3XzJkRFVSVjh2d2gtWXFPM2laYmdYYkItR255cDJSdmItVFRFMXZjb1Itdm9samVmSGhvQ3hLUXhCY1d4ZlBrU2F6c016NlRNVDBaYTh0T3dkMElEN0Z5bnVlR1hKRjcxTXpTemRxOXhDRk5ibi1lTGs5QmdBcXZsQ2dFRG5jY0FXTkd0QXc?oc=5",
    "titre": "Après sept semaines, où en est la mobilisation lycéenne à Rennes et quels établissements ont été les plus touchés ?",
    "date": "2026-11-16"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "Libération",
    "url": "https://www.liberation.fr/politique/pouvoir-dachat-lassemblee-adopte-un-texte-pour-debloquer-lepargne-salariale-20261116_P6PJL2WFZNAU7N6QXHKOUCGYJI/",
    "titre": "Pouvoir d’achat : l’Assemblée adopte un texte pour débloquer l’épargne salariale",
    "date": "2026-11-16"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-marine-le-pen-veut-supprimer-parcoursup-le-controle-continu-et-avancer-le-bac-en-mai-20261116",
    "titre": "Présidentielle 2027: Marine Le Pen veut supprimer Parcoursup, le contrôle continu et avancer le bac en mai",
    "date": "2026-11-16"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-suivez-dans-notre-live-le-debat-entre-gabriel-attal-raphael-glucksmann-marine-le-pen-jean-luc-melenchon-et-bruno-retailleau-sur-la-vie-chere_6811633_6205049.html",
    "titre": "EN DIRECT, présidentielle 2027 : suivez le débat entre Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau sur les questions de pouvoir d’achat",
    "date": "2026-11-16"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-trois-blesses-lors-de-la-manifestation-du-17-octobre-a-nancy-portent-plainte_AD-202611160792.html",
    "titre": "Colère sociale: trois blessés lors de la manifestation du 17 octobre à Nancy portent plainte",
    "date": "2026-11-16"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "radiobip.fr",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUE1hbTc0ZE1yWHZRUS1lZ1pOSE9ZVTRfc1JNa1FSUUVlQ3dvbElEdkRGR3RKaFpxanpIWlB2eENTMnI4Q3k5TC1FSWdfUkdHSjVDM1Z0MHZWeDlDRjhuVkdmZk95X19EWHhpQ1pZTGxqYlBXSUFsYzZGQ0h2WVZNbml2a2xzU0lPdHNObVVCUThuaWhOUDNkaFFXRmcwS09zUGhidkJadG1mdENUc0Z0MFg5MXpfUjNfZWJoTEZiYlFVQkJ3QjdqVmsxMUswZjhqd0g5VUEyLW1oSkI3?oc=5",
    "titre": "Manifestation du 16 novembre – À Besançon, la rue reste mobilisée contre la vie chère et les pratiques policières",
    "date": "2026-11-16"
   },
   {
-   "n": 11,
+   "n": 12,
+   "nom": "franceinfo",
+   "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/manifestations-ecoles-transports-a-quoi-s-attendre-en-alsace-pour-la-journee-de-mobilisation-du-17-novembre-3450465.html#xtor=RSS-3-[lestitres]",
+   "titre": "Manifestations, écoles, transports : à quoi s'attendre en Alsace pour la journée de mobilisation du 17 novembre ?",
+   "date": "2026-11-16"
+  },
+  {
+   "n": 13,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/16/on-a-ete-fouilles-mais-ils-ont-reussi-a-les-rentrer-quand-meme-apres-5-semaines-de-blocus-intensif-ce-lycee-du-sud-de-toulouse-evacue-apres-des-13655551.php",
    "titre": "\"On a été fouillés, mais ils ont réussi à les rentrer quand même\", après 5 semaines de blocus intensif, ce lycée du sud de Toulouse évacué après des incidents jamais vus dans l'établissement",
    "date": "2026-11-16"
   },
   {
-   "n": 12,
+   "n": 14,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/police-justice/une-enfant-de-12-ans-interpellee-en-marge-de-la-manifestation-du-samedi-14-novembre-a-paris_AV-202611160649.html",
    "titre": "Une enfant de 12 ans interpellée en marge de la manifestation du samedi 14 novembre à Paris",
    "date": "2026-11-16"
   },
   {
-   "n": 13,
+   "n": 15,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-saint-etienne-deux-eleves-et-la-proviseure-d-un-lycee-legerement-blesses-en-marge-de-la-mobilisation-lyceenne-les-suspects-arretes_8285009.html#xtor=RSS-3-[lestitres]",
    "titre": "À Saint-Etienne, deux élèves et la proviseure d'un lycée légèrement blessés en marge de la mobilisation lycéenne, les suspects arrêtés",
    "date": "2026-11-16"
   },
   {
-   "n": 14,
+   "n": 16,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81XzVzaTJNUWwyaU1yQUwwakNMSkl2bFR3SXBXMnhTbldZQ196SWZqZmxOaktqOFowV0RaSVVUdXJkdlotcFo1OEpDSFowaW80RGlxdmhjNS1sblZ6Q2kxT2NodHdNS1pfZjVRRTRPT1l5c1JLUEVOQUFyQQ?oc=5",
    "titre": "Gironde : Un ado de 16 ans entre la vie et la mort après avoir été poignardé",
    "date": "2026-11-16"
   },
   {
-   "n": 15,
+   "n": 17,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/economie/greve/greve-du-17-novembre-manifestations-transports-rassemblements-a-quoi-faut-il-sattendre-bdfd0924-e19c-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Grève du 17 novembre : manifestations, transports, rassemblements… À quoi faut-il s’attendre ?",
    "date": "2026-11-16"
   },
   {
-   "n": 16,
+   "n": 18,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
    "titre": "Grèves dans la fonction publique, mouvement lycéen, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
    "date": "2026-11-16"
   },
   {
-   "n": 17,
+   "n": 19,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/greve-du-17-novembre-manifestants-transports-perturbations-a-quoi-sattendre-ce-mardi-1238148?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Grève du 17 novembre : manifestants, transports, perturbations... À quoi s’attendre ce mardi ?",
+   "date": "2026-11-16"
+  },
+  {
+   "n": 20,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/campus/article/2026/11/16/mobilisations-lyceennes-les-cours-reprennent-au-lycee-nelson-mandela-de-nantes-incendie-debut-octobre_6811675_4401467.html",
    "titre": "Mobilisations lycéennes : les cours reprennent au lycée Nelson-Mandela de Nantes, incendié en octobre",
    "date": "2026-11-16"
   },
   {
-   "n": 18,
+   "n": 21,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/16/brulez-le-un-journaliste-de-bfmtv-roue-de-coups-a-lyon-en-marge-dune-manifestation-sa-collegue-raconte-leur-agression-13654815.php",
    "titre": "\"Brûlez-le\" : un journaliste de BFMTV roué de coups à Lyon en marge d'une manifestation, sa collègue raconte leur agression",
    "date": "2026-11-16"
   },
   {
-   "n": 19,
+   "n": 22,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQREhlZzU2MTNDQnVlUHNsa2F6cVlfcnRCSnh2Q2tyclRCcElzQU5TZ3dfWWxILTY4dVB6VmVwN1lGUkZ1UHNEMVhiaHlxWUdyR2dEVVhWVkxjczF1bFVYdU5DMmFwZ3pXemMtWWxVdjZFb2lGRFdEendtc1hSMWZuUDRycTZIMGR5Q1Z3d2FHU3FuWk1ydmR0MlRtQ3l2N3N0VmVwYVRsTzVrTUY4ZTlsU2RkUVBJNVlIYldsOXh2WW9ndVVicnNhU1N3NDZzMFpHcTJPMlcwTmFaWndTTXVEM2UwR1pnV2FUZHBCVEY2NkZJVE44SjhKTU1lU0R3YjkxcWFfYWJxWQ?oc=5",
    "titre": "Mobilisation lycéenne. Au Mans, le lycée Bellevue a rouvert : « Mes parents me forcent à retourner en cours »",
    "date": "2026-11-16"
   },
   {
-   "n": 20,
+   "n": 23,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/16/manifestation-du-17-novembre-greve-des-cheminots-ecoles-fermees-transports-perturbes-a-quoi-faut-il-sattendre-mardi-13654762.php",
    "titre": "Manifestation du 17 novembre : grève des cheminots, écoles fermées, transports perturbés... à quoi faut-il s'attendre mardi ?",
    "date": "2026-11-16"
   },
   {
-   "n": 21,
+   "n": 24,
    "nom": "CNews",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczMzLUNuM01NakpOeHhwV21xRDZCR0h1S190dmFKRGM2aTlPaTdWOGpPZkQzNXNwTk5WdDZmRF9PeThRV2MzcERTalpPeGc4Tl9weFR5ZGM5Wk1GV2ZETnhYMDE0dVdPdUNUODh0d1V4YVBEMmVLby1rV1BPcTExZlFnamVkamhZZm14YWhYUWlWbmNBSU12bVBfNEpnLTBLQlNtbmFuN2hXOGIwNlhNME9Ba1J2UdIBuwFBVV95cUxQTHhhWW9Gc0V2OVIyOFhUOTBZLTVhQ2FoRTIzcHJfV1dlVDJXdl9zVlZtQ005Z0QtOTdLSXpyWF82LWVQS2JGaE1Ra2NieGM1TkY4RV9DRldUcVg1Q2NZcTZjVzVwVzNPLW9DV3RxYjhuU1F4bmJxRjVvT3gzb1ViTDAzanpoa3k0bWFiU1BWVGVoWXdfd0FVWFBLUm5rQzI3cXFYX2lpNm9vb29UM1VONnBSMWx0WFczNk1J?oc=5",
    "titre": "Nantes : le lycée Nelson-Mandela, incendié lors d'un blocus, rouvre ses portes ce lundi",
    "date": "2026-11-16"
   },
   {
-   "n": 22,
+   "n": 25,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
    "titre": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
    "date": "2026-11-16"
   },
   {
-   "n": 23,
+   "n": 26,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/manifestations/le-gouvernement-se-met-le-doigt-dans-l-il-s-il-anticipe-une-mobilisation-moindre-ce-mardi-tacle-sophie-binet_AD-202611160979.html",
    "titre": "\"Le gouvernement se met le doigt dans l'œil\" s'il anticipe une mobilisation moindre ce mardi, tacle Sophie Binet",
    "date": "2026-11-16"
   },
   {
-   "n": 24,
+   "n": 27,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-marine-le-pen-defend-une-prime-d-activite-etudiante-et-le-permis-gratuit-pour-les-jeunes_AD-202611160977.html",
    "titre": "Présidentielle 2027: Marine Le Pen défend une \"prime d'activité étudiante\" et le permis gratuit pour les jeunes",
    "date": "2026-11-16"
   },
   {
-   "n": 25,
+   "n": 28,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
    "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
    "date": "2026-11-16"
   },
   {
-   "n": 26,
+   "n": 29,
    "nom": "Place Gre'net",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS3hfalVBOUpyVmduMktQSkc5QmRmc3pkQ3hxVUlYdjg5S1I2TTJKWGpiMDd5a2YzdnVETkdEN1JmcF96aTJBZFJmWVFfZE1BcTJyTmxNQmgzekVZd3VuUjhDLTBXdENSNUtPS0xXVEpLZzIzeVJFa3RyWFVaU205SDRBZlFsYjl4emoydUxEa1VRTl9ZQkRJVjhkRk5kd2IzQmgwaS1PNW1zSGE3VVpDQTFGdDN4QXZFSG9ILVBScU1HMHl4TzhtSG94cE9BVVlIMnNNYi00QlRxRTVSWjBtcm00aHJZdUp5ZGNKSFl3UmN3dEdVUDdj?oc=5",
    "titre": "Grève du 17 novembre : l'intersyndicale dénonce les sanctions",
    "date": "2026-11-16"
   },
   {
-   "n": 27,
+   "n": 30,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/election-presidentielle-2027-ce-quil-faut-retenir-du-debat-sur-la-solidarite-le-pouvoir-dachat-et-la-precarite-f78247e6-e1dc-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Élection présidentielle 2027. Ce qu’il faut retenir du débat sur la solidarité, le pouvoir d’achat et la précarité",
    "date": "2026-11-16"
   },
   {
-   "n": 28,
+   "n": 31,
    "nom": "Yahoo Actualités",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm1iZklSMDFLN0hZWmRnZW1zN2NyRzdwSEQ3a0FMc0RaVVZOcTRWTVI4RjFjcUl5UHRvbWROd0s0T0w1V2UwSFViS0FxY1dVVzRhdll0RlV3emhSdTIwVUZOTXFIUjBVcXBMVDlSSlZ0aWEtUmJ2NkVwck5iMnFpSmZNWXIwLS1uOWc?oc=5",
    "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
    "date": "2026-11-16"
   },
   {
-   "n": 29,
+   "n": 32,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116",
    "titre": "Présidentielle 2027 : impôts, logement, associations… Ce qu’il faut retenir du grand débat entre cinq candidats sur la vie chère",
    "date": "2026-11-16"
   },
   {
-   "n": 30,
+   "n": 33,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
    "titre": "EN DIRECT, débat de la présidentielle 2027 : les cinq candidats s’affrontent sur les retraites ; Marine Le Pen cible la Ligue des droits de l’homme, « un ramassis de gauchistes »",
    "date": "2026-11-16"
   },
   {
-   "n": 31,
+   "n": 34,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4263396-20261116-presidentielle-2027-clash-magicien-grand-perdant-faut-retenir-debat-tf1-lci?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : Clash, « magicien », grand perdant… Ce qu’il faut retenir du débat TF1-LCI",
    "date": "2026-11-16"
   },
   {
-   "n": 32,
+   "n": 35,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/international/a-new-york-le-maire-dissout-une-unite-de-police-controversee-pour-ses-methodes-brutales-20261116",
    "titre": "À New York, le maire dissout une unité de police controversée pour ses méthodes brutales",
    "date": "2026-11-16"
   },
   {
-   "n": 33,
+   "n": 36,
    "nom": "Rue89Bordeaux",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzFRUjVOT1VEMHNOYVpCQ0NVYnZMZnNlZEhjbjc2NDMxR3VUdmg5bVpXR3Q2UGVVcVRsdU5tcUxXdFUyRHpMRlIyTERTVjVMMS1OSTBMSGU2X1dpRUlTWXRzVXVwUlB3REZMYnhUY3JNSTZTT1RieXR0eUhGT1loNjhWNjRRQ1NqeDdiTV9XbDljVnlDZEdTaXVXTl9DRjMxZlEycExESmduaHh1ZVJvVTdVNTJld9IBuwFBVV95cUxQTUFHOHN4MlBjcnhQbkg0dkJmSHd6dFJoeWY4bUFDR2NNV2FXWFY0OTFUNFgyajlzMWVjWWJyM2p4RDByQ2tWTER1TzFBRkdBeG9lUS1kSnpQREFjNldEU1UzcWlJenFYdkY1QkR4NmVPdG1mM18yMWdQLTBVSk5vVlk5NmhVWHlMaEJuaHUwS21GRXB0aVlrUEJpR0FWQ2ppMTFuNDlING1rOXdoRHBJaGRuUVFndUVicmJz?oc=5",
    "titre": "Pour empêcher les blocus, les regroupements interdits devant 11 lycées de Gironde",
    "date": "2026-11-16"
   },
   {
-   "n": 34,
+   "n": 37,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZXlJLUhacnplVzhlYzI5QWU2NHNyb21Ra0V3SmNFbmFDRm9hakxnQTB2MDJqanFXMjhpQ21MbDc2V3ZSOEtGY1ZwcTdhYW8zSGEzWU41OFBEUzlsY3BlbFRXUjNZNUlEMmhMSDRjNjNiOXQ0T3BSSm5UMDQ0djUtajEyV0loVGJ1MHdiTlgzOVNsbXFOY0ExUUZ6ckY2YmsxamZqZVJKQkIxeldHcTN4R1NxQlExV3NXWlhwdFN0YUFYYmVGdzVxdVJpSWlRaTdNZkJWdzlPS2dRNnRzWFZDM0pTRVFFTnBiaTJMZ3d5aEE5SDY2anpkR1BIekJCRUhRUjdUMFROeUs?oc=5",
    "titre": "Des blocages devant les lycéens et à l'université, à la veille d'une nouvelle journée de mobilisation pour les salaires",
    "date": "2026-11-16"
   },
   {
-   "n": 35,
+   "n": 38,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/les-agents-des-services-publics-ont-vraiment-besoin-d-etre-reconnus-et-revalorises-souligne-la-cfdt-education-avant-la-mobilisation-du-17-novembre_8285489.html#xtor=RSS-3-[lestitres]",
    "titre": "Les agents des services publics \"ont vraiment besoin d'être reconnus et revalorisés\", souligne la CFDT Education avant la mobilisation du 17 novembre",
    "date": "2026-11-16"
   },
   {
-   "n": 36,
+   "n": 39,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/lyon/lyon-la-justice-autorise-une-manifestation-place-bellecour-mardi-pour-la-premiere-fois-depuis-le-17-octobre-20261116",
    "titre": "Lyon : la justice autorise une manifestation place Bellecour mardi pour la première fois depuis le 17 octobre",
    "date": "2026-11-16"
   },
   {
-   "n": 37,
+   "n": 40,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/societe/video-greve-nationale-presidentielle-entretien-avec-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160914.html",
    "titre": "Grève nationale, présidentielle: entretien avec Sophie Binet, secrétaire générale de la CGT",
    "date": "2026-11-16"
   },
   {
-   "n": 38,
+   "n": 41,
    "nom": "QUB radio",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzRvMWRrbTZlck5lZ3NMam5KSVRoWXRKR24yUW9FbVg5YjhYcGZmY21sSUpEWVktMXhSdVhxWXRMbWxFbElGQk15d2dhVHh2TS1XRFVHVWNPTG1hOXlOZVlTRnRDTHhjMTI3d2c3a19kOUhfOFRBYmNlaTNCblpKSWZnM0VYbXhfZHJvWFB6RG5RT1NUc3VmSU5OSzhWbXZrTHBscVpLT0JEMDlfdGtDN0ZOdG9nQXdXWV95bGtRRlhDa0E?oc=5",
    "titre": "Violences en marge des manifestations à Paris: record d'atteinte aux biens, selon le maire",
    "date": "2026-11-16"
   },
   {
-   "n": 39,
+   "n": 42,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-a-pas-plus-grand-danger-pour-le-pays-que-l-extreme-droite-assure-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160902.html",
    "titre": "\"Il n'y a pas plus grand danger pour le pays que l'extrême droite\", assure Sophie Binet, secrétaire générale de la CGT",
    "date": "2026-11-16"
   },
   {
-   "n": 40,
+   "n": 43,
    "nom": "Libération",
    "url": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
    "titre": "«Une politique de ségrégation spatiale» : au débat présidentiel, Marine Le Pen critiquée pour sa proposition de priorité nationale pour l’accès au logement social",
    "date": "2026-11-16"
   },
   {
-   "n": 41,
+   "n": 44,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/societe/manifestation/la-liberte-de-manifester-est-en-danger-en-france-sinquiete-lavocat-de-la-ligue-des-droits-de-lhomme-de-la-sarthe-ea9065e4-e1bf-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "« La liberté de manifester est en danger en France », s’inquiète l’avocat de la Ligue des Droits de l’Homme de la Sarthe",
    "date": "2026-11-16"
   },
   {
-   "n": 42,
+   "n": 45,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/lyon/manifestation-du-17-novembre-a-lyon-le-cortege-arrivera-place-bellecour-une-premiere-depuis-les-violences-du-17-octobre_AN-202611160884.html",
    "titre": "Manifestation du 17 novembre à Lyon: le cortège arrivera place Bellecour, une première depuis les violences du 17 octobre",
-   "date": "2026-11-16"
-  },
-  {
-   "n": 43,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/economie/video-hausse-du-smic-le-compte-n-y-est-pas-souligne-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160883.html",
-   "titre": "Hausse du Smic: \"Le compte n'y est pas\", souligne Sophie Binet, secrétaire générale de la CGT",
-   "date": "2026-11-16"
-  },
-  {
-   "n": 44,
-   "nom": "BFMTV",
-   "url": "https://www.bfmtv.com/economie/video-greve-et-manifestations-ce-mardi-nous-serons-tous-unis-dans-la-rue-demain-assure-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160877.html",
-   "titre": "Grève et manifestations ce mardi: \"Nous serons tous unis dans la rue demain\", assure Sophie Binet, secrétaire générale de la CGT",
-   "date": "2026-11-16"
-  },
-  {
-   "n": 45,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html",
-   "titre": "Mobilisation du 17 novembre : des trains et des ports seront perturbés en raison d’un appel à la grève",
    "date": "2026-11-16"
   },
   {
@@ -390,5 +390,5 @@
    "date": "2026-11-16"
   }
  ],
- "genere": "2026-11-17T07:12:02.615413+00:00"
+ "genere": "2026-11-17T08:38:11.465815+00:00"
 }
