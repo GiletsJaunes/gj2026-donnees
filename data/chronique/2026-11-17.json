@@ -1,0 +1,561 @@
+{
+ "titre": "Mardi 17 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 500 000 manifestants en France selon la CGT, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "500 000",
+   "libelle": "manifestants en France",
+   "detail": "selon la CGT",
+   "sources": [
+    23,
+    46,
+    47
+   ]
+  },
+  {
+   "valeur": "146 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l’Intérieur",
+   "sources": [
+    46,
+    48,
+    49
+   ]
+  },
+  {
+   "valeur": "28 000",
+   "libelle": "manifestants en France",
+   "detail": "selon les autorités…",
+   "sources": [
+    50,
+    51
+   ]
+  },
+  {
+   "valeur": "500 000",
+   "libelle": "manifestants en France",
+   "detail": "selon sa part décompté (non recoupé à ce stade)",
+   "sources": [
+    54
+   ]
+  },
+  {
+   "valeur": "175 000",
+   "libelle": "manifestants en France",
+   "detail": "selon la CGT (non recoupé à ce stade)",
+   "sources": [
+    23,
+    55
+   ]
+  },
+  {
+   "valeur": "146 000",
+   "libelle": "manifestants en France",
+   "detail": "selon Beauvau (non recoupé à ce stade)",
+   "sources": [
+    56
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000.",
+   "sources": [
+    23,
+    46,
+    47
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Grève du 17 novembre : 146.000 manifestants en France d’après le ministère de l’Intérieur, plus de 500.000 selon la CGT.",
+   "sources": [
+    46,
+    48,
+    49
+   ]
+  },
+  {
+   "texte": "EN DIRECT Mobilisation du 17 novembre : 146.000 manifestants en France dont 28.000 à Paris selon les autorités….",
+   "sources": [
+    50,
+    51
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon Sud Ouest, Mobilisation du 17 novembre : à bout, des CRS se ruent chez le médecin pour contourner l’interdiction de faire grève, notamment à Bordeaux. Selon ladepeche.fr, Il participe à une manifestation interdite et se fait interpeller : lors de sa garde à vue, il frappe et blesse des policiers. Selon BFMTV, Colère sociale: 7.184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre. Selon Le Figaro, Manifestations : Darmanin fait état de 7184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre.",
+   "sources": [
+    15,
+    17,
+    29,
+    30
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon RTL, Grève du 17 novembre pour la fonction publique : 146.000 manifestants recensés en France par le ministère de l'Intérieur, plus de 500.000 selon la CGT (repris par 4 médias). Selon BFMTV, Mobilisation lycéenne: \"Je ne sais pas s'ils auront du travail\", craignent Édith et François, retraités, venus soutenir leur petite-fille (repris par 3 médias). Selon BFMTV, Mobilisation lycéenne: \"Une minorité d'élèves ultra-radicalisés empêche la majorité de bénéficier du droit à l'instruction\", dénonce Édouard Geffray, ministre de l'Éducation nationale (repris par 3 médias). Selon BFMTV, Colère sociale: la justice fait annuler trois décisions du ministère de l'Intérieur empêchant des manifestants de se mobiliser.",
+   "sources": [
+    2,
+    4,
+    5,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Le Monde, Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle (repris par 3 médias). Selon BFMTV, FORUM BFMTV - \"La retraite est finançable, il y a des choix qui peuvent être faits\", explique Julien Troccaz, secrétaire fédéral SUD-Rail. Selon franceinfo, Revenus, professions, sentiment de déclassement : 3 infos pour comprendre la classe moyenne. Selon franceinfo, Moins de taxes, plus d’aides… Quelles sont les attentes de la classe moyenne ?.",
+   "sources": [
+    6,
+    28,
+    35,
+    36
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon La Dépêche, Présidentielle 2027 : pourquoi Jean-Luc Mélenchon va dîner avec les grands patrons Bernard Arnault et Patrick Pouyanné ce mardi 17 novembre (repris par 4 médias). Selon Europe 1, Élection présidentielle 2027 : Gabriel Attal, David Lisnard et Bruno Retailleau s'accordent sur une primaire en janvier (repris par 3 médias). Selon Ouest-France, Présidentielle 2027 : toujours l’impasse pour une primaire à droite et au centre. Selon La Dépêche, Présidentielle 2027 : l'Unicef suspend la mission d'ambassadeur de Teddy Riner après l'annonce de sa candidature.",
+   "sources": [
+    1,
+    3,
+    10,
+    11
+   ],
+   "theme": "Politique"
+  },
+  {
+   "texte": "Selon Libération, L’Union européenne appelle la France et la Belgique à réduire leur déficit et leur dette. Selon BFMTV, \"On a vu une forte hausse des écarts entre les taux d'emprunt\": la Commission européenne appelle la France et la Belgique à réduire leur déficit et leur dette.",
+   "sources": [
+    13,
+    16
+   ],
+   "theme": "Marchés"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-17",
+ "numero": 47,
+ "jour_long": "mardi 17 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/17/presidentielle-2027-pourquoi-jean-luc-melenchon-va-diner-avec-les-grands-patrons-bernard-arnault-et-patrick-pouyanne-ce-mardi-17-novembre-13656545.php",
+   "titre": "Présidentielle 2027 : pourquoi Jean-Luc Mélenchon va dîner avec les grands patrons Bernard Arnault et Patrick Pouyanné ce mardi 17 novembre",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 2,
+   "nom": "RTL",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZFJScWpPTGxjQklUbkFFZldwcXVUVEFKakFNSi1PYWVjNFB0U1huWldfMmQwVHB0alB5SEh6OGFBbFNhRUtHM2Vkc3V1SkNHYmttMk9KZDY0ZVRQbDBzaktQdDdRYk9naHZZbnJBU0p2bnF1R0F6WDVnTzN1YUI1bnRyd2lpbzQ5U2dZLWRoVmFkMG1wWkNJMDZmS3l0Y29VR1dBX3FJVUlCN3BnSHZ1NlUxTFFkNk5KamxhaXl2MHFSY3NXZ2ZVTzhZUjBwaXNmY3dubkZLWEp4SmxPZ1pMVE9CbDdXclFHS1VTSG5rOFdjMHZ2ZEJWem5MbFZ3V3VxU2IyZ2RrdGF2aEJKVTRDRkx0UjVIRXNoTEpISkh5d2NndGs?oc=5",
+   "titre": "Grève du 17 novembre pour la fonction publique : 146.000 manifestants recensés en France par le ministère de l'Intérieur, plus de 500.000 selon la CGT",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 3,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/election-presidentielle-2027-gabriel-attal-david-lisnard-et-bruno-retailleau-saccordent-sur-une-primaire-en-janvier-1239033?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Élection présidentielle 2027 : Gabriel Attal, David Lisnard et Bruno Retailleau s'accordent sur une primaire en janvier",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 4,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-lyceenne-je-ne-sais-pas-s-ils-auront-du-travail-craignent-edith-et-francois-retraites-venus-soutenir-leur-petite-fille_VN-202611170751.html",
+   "titre": "Mobilisation lycéenne: \"Je ne sais pas s'ils auront du travail\", craignent Édith et François, retraités, venus soutenir leur petite-fille",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-mobilisation-lyceenne-une-minorite-d-eleves-ultra-radicalises-empeche-la-majorite-de-beneficier-du-droit-a-l-instruction-denonce-edouard-geffray-ministre-de-l-education-nationale_VN-202611170641.html",
+   "titre": "Mobilisation lycéenne: \"Une minorité d'élèves ultra-radicalisés empêche la majorité de bénéficier du droit à l'instruction\", dénonce Édouard Geffray, ministre de l'Éducation nationale",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 6,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html",
+   "titre": "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 7,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/colere-sociale-la-justice-fait-annuler-trois-decisions-du-ministere-de-l-interieur-empechant-des-manifestants-de-se-mobiliser_AN-202611170830.html",
+   "titre": "Colère sociale: la justice fait annuler trois décisions du ministère de l'Intérieur empêchant des manifestants de se mobiliser",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 8,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/17/journalistes-a-cnews-ils-pretendent-avoir-ete-sequestres-par-des-lyceens-a-nantes-lequipe-educative-les-contredit-et-denonce-une-mise-en-scene-13657177.php",
+   "titre": "Journalistes à CNews, ils prétendent avoir été séquestrés par des lycéens à Nantes : l'équipe éducative les contredit et dénonce \"une mise en scène ridicule\"",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 9,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/17/une-atteinte-grave-et-manifestement-illegale-aux-libertes-fondamentales-la-justice-suspend-linterdiction-des-rassemblements-autour-des-lycees-13657508.php",
+   "titre": "\"Une atteinte grave et manifestement illégale aux libertés fondamentales\" : la justice suspend l'interdiction des rassemblements autour des lycées parisiens",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 10,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-toujours-limpasse-pour-une-primaire-a-droite-et-au-centre-18fde962-e290-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : toujours l’impasse pour une primaire à droite et au centre",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 11,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/17/presidentielle-2027-lunicef-suspend-la-mission-dambassadeur-de-teddy-riner-apres-lannonce-de-sa-candidature-13657500.php",
+   "titre": "Présidentielle 2027 : l'Unicef suspend la mission d'ambassadeur de Teddy Riner après l'annonce de sa candidature",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 12,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4263619-20261117-colere-lyceenne-violence-cesse-appel-mere-manifestant-19-ans-gravement-blesse-poitiers?at_medium=display&at_campaign=149",
+   "titre": "Colère lycéenne : « Que la violence cesse »… L’appel de la mère d’un manifestant de 19 ans gravement blessé à l’œil à Poitiers",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 13,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/international/europe/lunion-europeenne-appelle-la-france-et-la-belgique-a-reduire-leur-deficit-et-leur-dette-20261117_MM6BKPYDUVFUFHYLPXOWFH2DTI/",
+   "titre": "L’Union européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 14,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-greve-du-17-novembre-sophie-binet-estime-que-seule-une-reponse-aux-revendications-arretera-la-mobilisation_VN-202611170543.html",
+   "titre": "Grève du 17 novembre: Sophie Binet estime que seule \"une réponse aux revendications\" arrêtera la mobilisation",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 15,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/gironde/bordeaux/mobilisation-du-17-novembre-a-bout-des-crs-se-ruent-chez-le-medecin-pour-contourner-l-interdiction-de-faire-greve-notamment-a-bordeaux-31562130.php",
+   "titre": "Mobilisation du 17 novembre : à bout, des CRS se ruent chez le médecin pour contourner l’interdiction de faire grève, notamment à Bordeaux",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 16,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/on-a-vu-une-forte-hausse-des-ecarts-entre-les-taux-d-emprunt-la-commission-europeenne-appelle-la-france-et-la-belgique-a-reduire-leur-deficit-et-leur-dette_AD-202611170537.html",
+   "titre": "\"On a vu une forte hausse des écarts entre les taux d'emprunt\": la Commission européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 17,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUkVWMWJFNUZ2N1dQS3BEUnZaQVlScXRmd0xveks5bFZIRDlSbnhNQm9fNFRHd2lDbzB6aGI4SE1iUGZiaUlHb3dyS2pLeGFhTk51RHRySjdjMFlnN2pBcFM4VUc2X3ZHYnVPWkRDTmVxRHpZajRWQkxmRFlZWjJkLTJMU0ozdWdSQ2RjdWYtdjZfTUNhRWw2OHFRS3AyNHliYVByZmJ2Wldwc1JKSHV4M1FicHRWbjF0VmtlRy15eEQ3SGRYOTNBM1ptT0RMUFRWNXN1LWhiV1BwR0JjTDNzQnBaUURLX2VKTG5qaHgxTFF4c3FycW9icHAwUm0xSVV5?oc=5",
+   "titre": "Il participe à une manifestation interdite et se fait interpeller : lors de sa garde à vue, il frappe et blesse des policiers.",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 18,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZjhlUHJOZW1rb2RQODlkRjZfY1U2S2piMWFmOHZlNFRqcnBZVVJZY1RIVEh1cjJjTXdkU3RrbnF1RVh2bVh6cE1TTFVuTWFDaU44SVB5dkYtU051WTFxT285c2NWeVFJbWpuZTUwTEtOaGhIMWItUVluWTlUVG51YkFLenBiREZsMllUTVIwR210THNkR21Jd1RvY2Jvallza3d2QW5RZVhYUVp1X3hmV3Awakw1THAwV21xNWZDNDdfT05NV0NxQUd2LUVVTXpuRFZrU0ZPeHlQUExQTm84X3ViX1dtUTY2Yk9Tend3a2lTTkFERnpaeUlObHBtRVRjRG9WTDFXOTY2Zlhk?oc=5",
+   "titre": "\"Il ne comprend toujours pas pourquoi\" : à 19 ans, il risque de perdre son œil gauche après avoir manifesté à Poitiers, sa mère témoigne",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 19,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdHBmMU1sRVRUSXpUMUl0eExkVm1XNUZhLXVFelIyVWVLY3FPNWhvdExrcEJYbTV4TjRaVjktVGgxcTBnZlA5MWE3X2Q5SlBfZEs5aHQ5NDhtakpvUmdXT1dkMTh5aG5mZUxySUZoeVc3eFJYYXJWaTVUU2w0RFBhVFF5dGVPaWY5WTNEWTNFUUNkVnhQbXVVTFRwbnRXSTVnd1pUYkxVaks1RVZ0dlBEYkpnNmJOSWh1SjVjVG1GS2xRZmlNdjQtSFlnQU1obHQzZkgzRW9LU09QRHlvV1gwQW1VbllHWlRHSU1EUU9jdjBxVUk0YVZESk80U2I2NVp0M3dV?oc=5",
+   "titre": "Mobilisation sociale : 500 000 manifestants en France selon la CGT, 146 000 selon Beauvau",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 20,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/environnement/je-vais-tegorger-a-la-samuel-paty-un-enseignant-dun-lycee-parisien-menace-de-mort-pendant-un-cours-en-ligne-1238424?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "«Je vais t’égorger à la Samuel Paty» : un enseignant d’un lycée parisien menacé de mort pendant un cours en ligne",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 21,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdGZ5RzduRkhXQzNTM0VVWTZNMDFRdDFiZU1QQkpENjU0ZW5DRlZ4SUk4anVablpiVFhHU09Eb2UxMFVxVHIxNmpiM2xtZDZBYmEwQzVKcF9XNl93SnF2SXlMSmpJVDQwZlFKd0c4eGhONFFsRXhCc0V1NHR0bjFWSU9IWlhadmtvcThnRGdCZTJVNmVpTUNIcWZxdUZuNGpfSWFNZDBJVXRLaU5pSERvZEVlM3k4eXZvZ2FMM1hrc1EySXhaMjVuN0ZOY0N2SkNPay1MUDliSQ?oc=5",
+   "titre": "Mobilisation du 17 novembre : plus de 500.000 manifestants selon la CGT, 146.000 selon le gouvernement",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 22,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGY3aFB6eWRVMEdMVW5PY0RSVFRjSkd3RXhFclR6MWRIVEN1aEtDZGlGZ2Q0YmZaazhTZ3Q3V3BKbDdZb0ZreC1yazFOdTZ5bGhqNGZ0a0tNUVgwQXJGOE82VFA1cDdldUFLNGFIWUowQWQ5M1laVVRfWm1nbmd1UVFMWkJ6NUJYUndjdjZ6V0ZKaXBkN3RrUWoyTHNtMjQ3d0lZLUtRclpmNU1mOHkwTEZzSjhxYm90M3lJUkhpN1pGNEktOFNhWHpQc0ExTW9iVnNUSWhwNmhldTg?oc=5",
+   "titre": "Mobilisation lycéenne : « Le blocage peut être un moyen de communication »",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 23,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+   "titre": "Grève et manifestations du 17 novembre : suivez la journée de mobilisation",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 24,
+   "nom": "DNA.fr",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDNNQjRpWTBfOVhHWjQ0NWdPN3Vpd2ZCdW9xaGFwT05jMzN2UlQwZkNvUmxQRHRXOFlVUXBMTWtfVXlCN1UxQUtYNUhUeGxycGN5VVpDbmtMOG1yUHo4MjNrcXY3RjlwcHN0ajZpTldUT0pnVmFnQlItZ0NVRkxjTTk2al9LUTlkSWI4RVdFNzFNM3ZFbF9VSG9keDljMERzaXpqTXln?oc=5",
+   "titre": "Alsace. Il y a 8 ans jour pour jour, les Gilets jaunes sur les ronds-points",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 25,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTlsQllkN0Q3YXA4MzctRm9XMFhlSDl2YlRCMWZjcllLOUlKdE9JcWlWOWttcno2SGMycmNobHZtWTlTMVdDNTBpYzcxSFNnQUtZM2dDMzhpRzB6c2V3b2Z6a2dOb00xNkYyRkNsLWJINDZpRmZRYnFZQmI1ZHJEQWhQeERmVkxPNTQ2bHpMUlg1ZHVyZ1dqLUplRUppN0Nwako5ZFJVYjRlUHkwQUFPOVFKTVYzZE9GUjhFdm9HZEptXzM2MnBiM21NWEFwNjNsUDJxT2lzeUE?oc=5",
+   "titre": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 26,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html",
+   "titre": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 27,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/17/l-appel-d-elus-du-conseil-national-de-la-vie-lyceenne-a-quoi-sert-notre-mandat-si-nos-travaux-ne-debouchent-sur-aucune-discussion-suivie-d-effets_6812970_3232.html",
+   "titre": "L’appel d’élus du Conseil national de la vie lycéenne : « A quoi sert notre mandat si nos travaux ne débouchent sur aucune discussion suivie d’effets ? »",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 28,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-la-retraite-est-financable-il-y-a-des-choix-qui-peuvent-etre-faits-explique-julien-troccaz-secretaire-federal-sud-rail_VN-202611171009.html",
+   "titre": "FORUM BFMTV - \"La retraite est finançable, il y a des choix qui peuvent être faits\", explique Julien Troccaz, secrétaire fédéral SUD-Rail",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-7-184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre_AD-202611171006.html",
+   "titre": "Colère sociale: 7.184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 30,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/manifestations-darmanin-fait-etat-de-7184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre-20261117",
+   "titre": "Manifestations : Darmanin fait état de 7184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 31,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20261117-philippines-des-milliers-de-manifestants-d%C3%A9noncent-l-imp%C3%A9rialisme-am%C3%A9ricain-et-donald-trump",
+   "titre": "Philippines: des milliers de manifestants dénoncent l'impérialisme américain et Donald Trump",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 32,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-en-france-il-faut-condamner-toutes-les-violences-rappelle-yannis-employe-polyvalent_VN-202611171000.html",
+   "titre": "FORUM BFMTV - Manifestations en France: \"Il faut condamner toutes les violences\", rappelle Yannis, employé polyvalent",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 33,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-je-reste-dans-mon-commerce-avec-mon-chien-et-mon-flashball-temoigne-didier-buraliste_VN-202611171001.html",
+   "titre": "FORUM BFMTV - Manifestations: \"Je reste dans mon commerce, avec mon chien et mon flashball\", témoigne Didier, buraliste",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 34,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-police-en-manifestation-il-y-a-un-ras-le-bol-complet-et-en-face-de-nous-il-y-a-un-gouvernement-qui-ferme-les-yeux-note-jean-christophe-couvy-secretaire-national-du-syndicat-de-police-un1te_VN-202611170999.html",
+   "titre": "FORUM BFMTV - Police en manifestation: \"Il y a un ras-le-bol complet et en face de nous, il y a un gouvernement qui ferme les yeux\", note Jean-Christophe Couvy, secrétaire national du syndicat de police UN1TÉ",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 35,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/revenus-professions-sentiment-de-declassement-3-infos-pour-comprendre-la-classe-moyenne_8287232.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Revenus, professions, sentiment de déclassement : 3 infos pour comprendre la classe moyenne",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 36,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/moins-de-taxes-plus-d-aides-quelles-sont-les-attentes-de-la-classe-moyenne_8287202.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Moins de taxes, plus d’aides… Quelles sont les attentes de la classe moyenne ?",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 37,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/c-est-scandaleux-le-depute-aymeric-caron-rappele-a-l-ordre-apres-avoir-quitte-l-hemicyle-furieux-d-avoir-vu-son-micro-coupe_AV-202611170989.html",
+   "titre": "\"C'est scandaleux\": le député Aymeric Caron rappelé à l'ordre après avoir quitté l'hémicyle, furieux d'avoir vu son micro coupé",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 38,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOblJtSlk1TGF4b0pPRXNtU2xzMnpURlJMdFQtRjUxMV9fZFppMktzd2sybjBvaUZVSm9RejZuWlZUQWFKc0l1ekk3TGJqMC1jQmFZRWQ2dm96RjdCUlJPSG9VOGw4cDJQalJDOHJLSmZfekYwQ0M1Q2hkR3FWa1JSSWkxNTN3MU9wR0dfalNQZ3JyRkhEZXFLMHR6d0s5eENFZXZSWEJvaEh3eVk4QVV4UWNPZnFLSkoxMU9ZM3JFYnR0a2tQbW5Id0MzUTZ6cU81dlh6TEVMZ3hIMWNoSHJITm5ROXhTQnp0WER6Wkd5Q0VMckpOR1h6anc5RUJUSElDWHZDdW5mMHg1eVFPUTZmbXVnSllqR3BuN3ZQVHB3?oc=5",
+   "titre": "Plus de 7 000 gardes à vue, 356 personnes incarcérées… Le lourd bilan judiciaire des manifestations « contre la vie chère",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 39,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-vous-etes-des-voleurs-echange-tendu-entre-cherrine-juriste-et-aleksandar-nikolic-porte-parole-du-rn_VN-202611170988.html",
+   "titre": "FORUM BFMTV - \"Vous êtes des voleurs\": échange tendu entre Cherrine, juriste et Aleksandar Nikolic, porte-parole du RN",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 40,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-je-suis-passee-de-3-000-euros-par-mois-a-1-119-euros-le-temoignage-de-giulia-retraitee_VN-202611170987.html",
+   "titre": "FORUM BFMTV - \"Je suis passée de 3.000 euros par mois à 1.119 euros\": le témoignage de Giulia, retraitée",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 41,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/mobilisation-sociale-7-184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre-annonce-le-ministre-de-la-justice-31570018.php",
+   "titre": "Mobilisation sociale : 7 184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre, annonce le ministre de la Justice",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-en-france-aujourd-hui-les-demandes-sont-tres-precises-raconte-clemence-dibout-grand-reporter-bfmtv_VN-202611170980.html",
+   "titre": "FORUM BFMTV - Manifestations en France: \"Aujourd'hui, les demandes sont très précises\", raconte Clémence Dibout, grand reporter BFMTV",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 43,
+   "nom": "franceinfo",
+   "url": "https://la1ere.franceinfo.fr/guadeloupe/presidentielle-2027-olivier-serva-apporte-son-parrainage-a-teddy-riner-1758795.html#xtor=RSS-3-[lestitres]",
+   "titre": "Présidentielle 2027 : Olivier Serva apporte son parrainage à Teddy Riner",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 44,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-vie-chere-il-faut-defendre-les-generations-les-plus-jeunes-parce-qu-elles-sont-les-plus-pauvres-affirme-gabriel-professeur-agrege_VN-202611170975.html",
+   "titre": "FORUM BFMTV - Vie chère: \"Il faut défendre les générations les plus jeunes, parce qu'elles sont les plus pauvres\", affirme Gabriel, professeur agrégé",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 45,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-en-france-je-ne-vois-pas-trop-a-quoi-ca-sert-declare-julien-infirmier_VN-202611170973.html",
+   "titre": "FORUM BFMTV - Manifestations en France: \"Je ne vois pas trop à quoi ça sert\", déclare Julien, infirmier",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 46,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-toutes-les-organisations-appellent-a-se-mobiliser-massivement-ce-mardi-pour-transformer-l-essai-20261117",
+   "titre": "EN DIRECT - Grève du 17 novembre : 146.000 manifestants en France d’après le ministère de l’Intérieur, plus de 500.000 selon la CGT",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 47,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/en-direct-manifestations-du-17-novembre-146000-manifestants-en-france-selon-le-ministere-de-linterieur-plus-de-500000-personnes-selon-la-cgt-1238553?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Manifestations du 17 novembre : 146.000 manifestants en France, selon le ministère de l'Intérieur, plus de 500.000 personnes, selon la CGT",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 48,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
+   "titre": "EN DIRECT – Mobilisation sociale : 146 000 personnes ont manifesté en France, selon le ministère de l’Intérieur",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 49,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-entre-250-000-et-360-000-manifestants-attendus-partout-en-france-sophie-binet-apelle-a-un-maximum-de-greves_LN-202611170129.html",
+   "titre": "DIRECT. Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 50,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/societe/4263432-20261117-direct-mobilisation-17-novembre-fonctionnaires-nouveau-rue-hausses-salaires?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Mobilisation du 17 novembre : 146.000 manifestants en France dont 28.000 à Paris selon les autorités…",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 51,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWRqZXpZWHNOYVNNZzB4di14cWdlaFgwRVdfV3JrUjk4VWdYdUtSUE5acnlaU2pqZUpuVVpYa2k4el90elIyX1F4aDRNM29JZmFlTzBTeGN3WHRZV3UyWU41YTNteWF4UVpJRGZwR3B1ck4yelo0OXprLWNRYU00b2pRb1VqT0RRZjJYZFZuWEJTNGo2SFVmTjhLRlUtQVhHSVNURlNxWk91TVMtUGJYQ3paeGp6U3paVzRn0gHAAUFVX3lxTFBnOXgtV1dGM0dPVEp0bnNhbm9pMFlkSGhkX2FreVh3U0I1b2JfNklsX096eC1rdHNwLUpJTFBON1lFWWx5bkhOTUc0bEQwQ1h2NUdTSHVva2FwQ1c4T0h2VDc0SlhxZVBOSnJFS2hNTG1ydkh0QU10N0dUbWhMVGlNcGFkekE1aVkweWdRQS1LNkRkaXZjM0xCN0pwQk5abjhWYU5GQmlNaUNJU3ZzbllDcnVOQUxqWFUzT2h6bnNSbw?oc=5",
+   "titre": "Mobilisation du 17 novembre : 146.000 manifestants en France, dont 28.000 à Paris, selon le ministère de l'Intérieur",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 52,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVFh4QVdxOUdsLTBHZ1BGSFFXTDZqZDJlNWdUajNUaThFWFJydjh5d0ZiYi1EV3NBZWw4bnRFUzc4YklhdFhlQlBPWkRic3FXU3VBaGVwaVEyOHdLY28tNkRVLVRyTUlTenQ3emxidFpqTGVDa2NWdGJsVU9aMl8teG93UVctOFdxNnhUZzBmamdyTkY0VHdlMEJ1UjE3cnlXUHFJWDNsbERfMVFpX3FIN2JQTXl2YUtIZWlnaldjY3NwRncySmJHRWFON194UkR0TjNUQ0R4N2lScVVHQ3dBTUlWb1dZN0kxYmVsLW5QbFBtWmsyMGk2RGhJbUx5aHBxWFltVzFYTGt5MjlJa05pMS0tN1Zndw?oc=5",
+   "titre": "Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 53,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261117-fractures-fran%C3%A7aises-jusqu-o%C3%B9",
+   "titre": "\"Fractures françaises\" : jusqu'où ?",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 54,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-avec-1-800-euros-par-mois-tout-est-une-contrainte-pour-cet-educateur-qui-manifestait-a-paris-ce-17-novembre_VN-202611170817.html",
+   "titre": "Avec 1.800 euros par mois, \"tout est une contrainte\" pour cet éducateur qui manifestait à Paris ce 17 novembre",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 55,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html",
+   "titre": "EN DIRECT, manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France contre la vie chère",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 56,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
+   "titre": "🔴 Mobilisation en direct : 500 000 manifestants en France selon la CGT, 146 000 selon Beauvau",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 57,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/video-blocages-des-lycees-plus-de-10-000-eleves-interpelles-assure-laurent-nunez_VN-202611170687.html",
+   "titre": "Blocages des lycées: plus de \"10 000 élèves interpellés\", assure Laurent Nuñez",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 58,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html",
+   "titre": "EN DIRECT, manifestations du 17 novembre : 200 lycéens bloqués à Marseille, le cortège parisien arrive à place d’Italie… Suivez la mobilisation en France grâce à nos correspondants",
+   "date": "2026-11-17"
+  },
+  {
+   "n": 59,
+   "nom": "La Provence",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVTFkWXZIRjZxb0hvcEd5ZThwU3hCc3hyYXdNR1REU1N0R1BvdWRRY0pVS2JnN2gydmsyTWFaOHRldnBubkFTS0tiQTRxRXdvOWpxcTY1ZWs0cE9hR0FnVG5mdXRYZ1BwNmtVeGk0RVhyVjFtWWRsLWFmWXRXX0hwZWFHMnl0cTY1SUw5ODhLbzh2WW0wRzhjTk9HdncwT2ktYVRZNXVWREMwdHJZdnhjTWo5RGVsVzFSRTZTZi1qaHhYdVkwRzNrWE9mUTVUM3k5MzVDZ2VJQmFabkxLbXFTUUR0MzBfb1psb3k1clREUW91QlJidU51RVdZMFZZalU?oc=5",
+   "titre": "Plus de 50 000 euros de dégradations et 22 gardes à vue : la Mairie de Manosque dresse le bilan des blocus lycéens",
+   "date": "2026-11-17"
+  }
+ ],
+ "genere": "2026-11-18T06:04:29.027046+00:00"
+}
