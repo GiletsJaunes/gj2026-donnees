@@ -1,0 +1,404 @@
+{
+ "titre": "Mercredi 18 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon 20 Minutes, Colère sociale : Laurent Nuñez visé par une plainte pour « diffusion de fausses nouvelles » sur les policiers blessés (repris par 7 médias). Selon franceinfo, Des avocats portent plainte contre Laurent Nuñez \"pour diffusion présumée de fausses nouvelles\" concernant les policiers blessés en marge des manifestations (repris par 4 médias). Selon Sud Ouest, Mobilisation sociale : 106 saisines suite à des interventions des forces de l’ordre, selon le Défenseur des droits (repris par 3 médias). Selon Ouest-France, Interpellée lors d’une mobilisation lycéenne à Lannion, une jeune fille de 17 ans jugée à Saint-Brieuc.",
+   "sources": [
+    1,
+    3,
+    4,
+    7
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon BFMTV, Gérald Darmanin estime que Jean-Luc Mélenchon “gagnera” face à Marine Le Pen en cas de duel au second tour de l’élection présidentielle (repris par 3 médias). Selon QUB radio, Pas moins de 15 blessés lors d'une manifestation du mouvement étudiant. Selon ladepeche.fr, Manifestation du 17 novembre à Perpignan : une militante communiste empêchée d'accéder au centre-ville à cause d'une chasuble PCF. Selon Ouest-France, Blocus des lycées : conseils de disciplines, exclusions, enquêtes… Le ministre de l’Éducation nationale fait le point.",
+   "sources": [
+    5,
+    6,
+    8,
+    10
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon BFMTV, Prix, salaires : comment sortir de l'impasse?. Selon Le Figaro, Présidentielle 2027 : pour réduire la dette, David Lisnard veut supprimer 400.000 postes de fonctionnaires. Selon BFMTV, Vie chère: \"Ce sont les Français qui trinquent face à ce quinquennat de l'inutile\", fustige Max Brisson, sénateur \"Les Républicains\" des Pyrénées-Atlantiques. Selon BFMTV, Vie chère: \"Surmonter la crise du carburant, ça c'est l'urgence\", mais \"il y a des questions de moyen et long terme qui ne peuvent se trancher qu'à l'occasion de la présidentielle\", juge Maël de Calan, porte-parole d'Édouard Philippe.",
+   "sources": [
+    17,
+    18,
+    25,
+    26
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Le Figaro, Présidentielle 2027 : Jean-Philippe Tanguy propose «un débat» avec David Lisnard.",
+   "sources": [
+    15
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon franceinfo, VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027 (repris par 6 médias). Selon franceinfo, \"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise. Selon La Dépêche, Présidentielle 2027 : Jean Dujardin refuse de choisir entre \"l'extrême gauche et l'extrême droite\" et envisage de \"voter blanc\" lors du prochain scrutin. Selon Le Monde, Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI.",
+   "sources": [
+    2,
+    23,
+    28,
+    32
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-18",
+ "numero": 48,
+ "jour_long": "mercredi 18 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "20 Minutes",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVc4b1ZybTJSYTJsYXlfNXp3Z2FnMjNWVTRha1EwRDRPSVZtaXdDTkF6aDFvRHNTZHZBVDlxRlVXT0tEV083R2NGU0UwWnZrMGNIQVY1TEVmd1BoTnBGX1AtVXduZ2FfMkx6MERpTG4weExCSS1KVmJlVGVwR3JqYXZJOU1TYlBhY09neUhKdVlWY3Q2YlZ5NDRMbktONm45WU5jZ29LWG9HNlZFWk9tdUg3dVQ2QmdKbjZHOW9CWVM4VS1PSXZvUVVZV0dQbkhTOWN3?oc=5",
+   "titre": "Colère sociale : Laurent Nuñez visé par une plainte pour « diffusion de fausses nouvelles » sur les policiers blessés",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 2,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 3,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/justice/des-avocats-portent-plainte-contre-laurent-nunez-pour-diffusion-presumee-de-fausses-nouvelles-concernant-les-policiers-blesses-en-marge-des-manifestations_8287880.html#xtor=RSS-3-[lestitres]",
+   "titre": "Des avocats portent plainte contre Laurent Nuñez \"pour diffusion présumée de fausses nouvelles\" concernant les policiers blessés en marge des manifestations",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 4,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/mobilisation-sociale-106-saisines-suite-a-des-interventions-des-forces-de-l-ordre-selon-le-defenseur-des-droits-31575774.php",
+   "titre": "Mobilisation sociale : 106 saisines suite à des interventions des forces de l’ordre, selon le Défenseur des droits",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 5,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/gerald-darmanin-estime-que-jean-luc-melenchon-gagnera-face-a-marine-le-pen-en-cas-de-duel-au-second-tour-de-l-election-presidentielle_AD-202611180359.html",
+   "titre": "Gérald Darmanin estime que Jean-Luc Mélenchon “gagnera” face à Marine Le Pen en cas de duel au second tour de l’élection présidentielle",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 6,
+   "nom": "QUB radio",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0RvdFBIemtGM2xlejNsemtSdTVBZ0tReXVpZDhrdzFUdWNjYmt4NUE1NDdNY1ROSW11SFlVNTJNSU53V2JpdXFmTVRnN3poYTVlS2JDbHZlY3JxYTNoOHNGVERfLXdGakE4YjUxc1NFNlZ4clFOMU10RTlTV3p4MjFHU19lRW5SWFRQNjY5VmNaNE1FSElxTlByNFJMVXIzTTQyX2xuVE1pNFZL?oc=5",
+   "titre": "Pas moins de 15 blessés lors d'une manifestation du mouvement étudiant",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 7,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORnRJVmRFZUZhMTNMSWc5SWpCejF3LVdmalZTUWhYeHBVSjJTdmZ1R0pTcUk0S0RBZ3E5aHdqUHFKNXNTQkJyX2R5YnpxWW55ZFEzeF9kcDBRaWhCRVZnUUNNNzR5TGxNWXNDcWxOOGk5aUlHTUJMd0xwbTQtTTZfU0pjYlo2Z29nZ2h2N3JWaGt5eVNZM25TejRscmdwRlBFOUJIZ0pwUGViTHlETUVVaTJXY00yWi1zbjFLV201RGZtSTRVMW1pVVlVNURoZjBOODR6Q3N2dENCRk1tVldtY3I5ZzNidUVIVmc4aGhiX2FhYlMtd2sxVzNBS1NzR1MzclhTd0VLWDZteDRpT2c?oc=5",
+   "titre": "Interpellée lors d’une mobilisation lycéenne à Lannion, une jeune fille de 17 ans jugée à Saint-Brieuc",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 8,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTBWU2xFZkNQcEhyS0tlbkRmc2RYSFhrbjFPeXRxLWdINEJLa2NGb3l1SWlIam53NUYtYkF2SGliUkZkbkY1WEFHWEw3bDVqWjVpZmlIMlV2X1FBV1lCbU43TnFSakY2VmVsaFV4Tm8wX0lvaHo1NDhQbVJURWhlVmRaZkRjZjdCYWpwVEZROG5tQWdnX1d5UXluQzNWOFhvcTRtdjZhZnpaZGpidFJmSWVjY3ZhZHlZRnBiMVM5S3ZYODdJME10OGE4Y0tnSG4yRFFYeERDb2N4cjhZYmVPZVM2cVNlTzVGeUxWWU9sOEMtZTRWVjd3d2o0TWNtN0R0WFBzcA?oc=5",
+   "titre": "Manifestation du 17 novembre à Perpignan : une militante communiste empêchée d'accéder au centre-ville à cause d'une chasuble PCF",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 9,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 10,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/ecole/blocus-des-lycees-conseils-de-disciplines-exclusions-enquetes-le-ministre-de-leducation-nationale-fait-le-point-27efb1b8-e348-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Blocus des lycées : conseils de disciplines, exclusions, enquêtes… Le ministre de l’Éducation nationale fait le point",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 11,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVmhLM0JyOTUtTzcxY1hTanVWeUZjRUJHemVzNno4dGtnQ0t2ZGlBRjVjUzY0eHBTYU04M3ZmX082NXFsdy1Nck1NalJwbkF3VU5FOFprdEd1ZElvNUs0R2QxcTk3T1pkazZNTURROFhBU1k1YjhMYzJuVVRVT0VZZnRIQ09WLUZvczVoOGdlbXFkQnVGUjc1alJVUkt5MERwTXlnOTk0VHA2OGJNTXNjMHdoZjlNaFFDZm4tTS1xRmlPNU9jWFJNdzZwZFNNWnFmVzBnTDdvWHByUHpJQ0M4ZTJlajA3REFTeWp2YjMyaDBlYkQ1QWc5OHhsaDM3VDAxbmRUNW9aZk8wckxSVERnSlc3V1prZw?oc=5",
+   "titre": "\"La police en a ras-le-bol\" : des policiers manifestent devant le ministère de l'Intérieur pour exiger une hausse de 35 % de leur prime de risque",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 12,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/",
+   "titre": "Mouvement lycéen : 3 000 élèves sont passés en conseil de discipline depuis le mois de septembre",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 13,
+   "nom": "Franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOYllJZTREQjBHRV9NZXVvaFA2T1NhNjdRNkJESDlmYUpBdXc3dkplRWhQdmtBbXhPTDB4bG9FcV9XTXN1SVRsQVVHX1FydVkyU3Awa3ZoUUxGWGd1aEtYT2hnMkRjcF9hcUhKcnFNYWhOQUhMX2h3TEp6dEFQTXNXNUZVNE5wdXVRRGR1NjhwTkFxazVrTmVzZnhkX0pNRXg4eU11Uk1qU0wwWGQ5VnZkZXRQZzktSkhpei1iaWY2NUNkRHB5Umd3Rnh5S1NDdkdMb0hSQnN6NmxZdzhqd0FLZVhoT3pOd1JZOE91WWlORTlCY3M4ZC1RUm9WZ0duMXVhTGNfeXlubnFpb0ZVUUVHck11ODUtcU9GTjhGRlQ3X2VOLWstRUJ2ZVNRYkx5SFZGN1pONWJyQTd5b01oR0pkX0xnTQ?oc=5",
+   "titre": "Quelque 3 000 élèves sont passés en conseil de discipline entre septembre et début novembre du fait de violences lors de la mobilisation lycéenne",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 14,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOFVEaTJqQWU1bWJ0a0R4WjdIeWk0aUstN0Y0VHRCUGE1UFdmYl9vUlZiV0ZuS0QyM01jcTFBVEpkY0ZPNElOdnM3S196RkNBSXYycVpwREc3Z01zY3VjcnBmdzU1ZVE3QTA0TlV6T3Q3RHlLZG9mZlctVDFCc2dBN1BsdjJmdzgtNGhhMWMtaGFSdlg3QUFySTB1RkpQQzY0VjdHa0hGbXZQWW9DV2ZSblpXYzF5SEdNYkkwZm5GcTkzS3lXYXNnR3NIWUdPTEpNNjRxZ3p4bmFsaW4xX2llcUJacjFJX1VrS1djOTc0T1VMTWtULTY3dFJWbDNpczJhakZnYkRrVjFhUHZUYXRyLUdWdDhOc2xCdVE?oc=5",
+   "titre": "Jeune lycéenne interpellée au cœur du mouvement lycéen en Côtes-d’Armor : une mobilisation de soutien au tribunal",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 15,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-philippe-tanguy-propose-un-debat-avec-david-lisnard-20261118",
+   "titre": "Présidentielle 2027 : Jean-Philippe Tanguy propose «un débat» avec David Lisnard",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 16,
+   "nom": "Police & Réalités",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYmpneU9kUEM3Ty1nRVRfVWVLZE9kMktJN0REVEhmWTlVWjdTcTgyR0FQbDQwdUZoZ0J6a2p1NW9VUkVENm9sdloxY1hrRklhMlp2TG4xX1NlaXBFajMzanpVemVUanRUZ2tINTBraVhIOEozcFNkdzk4TDZheUhwelJmbEVGNE51MzFwSFVGMFg4R1FxaTc2ZVlRR3B6cUdsbi1jVjlFampvODV0cnVoQ2pnUEJPVW1CWVdNMm05ZVZzSHdveFVjZHVtVlhfZURhTHVWMG5NYmVneXZINF9iM2VGdkpIZ3ZfdHExYThDeVJ5bmhZLVVkMzc2ZmhxWXZrdVNuOUNYRktYWmZpSlJv?oc=5",
+   "titre": "Laurent Nuñez visé par une plainte de 12 avocats qui lui reprochent d’avoir « surévalué les blessures policières » et diffusé « de fausses nouvelles »",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 17,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-prix-salaires-comment-sortir-de-l-impasse_VN-202611181045.html",
+   "titre": "Prix, salaires : comment sortir de l'impasse?",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 18,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-pour-reduire-la-dette-david-lisnard-veut-supprimer-400-000-postes-de-fonctionnaires-20261118",
+   "titre": "Présidentielle 2027 : pour réduire la dette, David Lisnard veut supprimer 400.000 postes de fonctionnaires",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 19,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-mortiers-d-artifice-quinze-lyceens-blesses-aujourd-hui-18-11_VN-202611181030.html",
+   "titre": "Mortiers d'artifice : quinze lycéens blessés aujourd'hui - 18/11",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 20,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-maintien-de-l-ordre-la-police-et-la-justice-sont-deux-services-publics-en-crise-aujourd-hui-souligne-jerome-guedj-depute-parti-socialiste-de-l-essonne-et-porte-parole-de-raphael-glucksmann_VN-202611181027.html",
+   "titre": "Maintien de l'ordre: \"La police et la justice sont deux services publics en crise aujourd'hui\", souligne Jérôme Guedj, député \"Parti Socialiste\" de l'Essonne et porte-parole de Raphaël Glucksmann",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 21,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-violences-a-l-encontre-des-forces-de-l-ordre-il-faut-regler-le-vrai-probleme-celui-de-la-justice-lance-thomas-menage-depute-rassemblement-national-du-loiret_VN-202611181026.html",
+   "titre": "Violences à l'encontre des forces de l'ordre: \"Il faut régler le vrai problème, celui de la justice\", lance Thomas Ménagé, député \"Rassemblement national\" du Loiret",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 22,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 23,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 24,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-de-la-mairie-de-limoges-la-videosurveillance-relance-l-enquete_8288966.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Incendie de la mairie de Limoges : la vidéosurveillance relance l'enquête",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 25,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/les-republicains/video-vie-chere-ce-sont-les-francais-qui-trinquent-face-a-ce-quinquennat-de-l-inutile-fustige-max-brisson-senateur-les-republicains-des-pyrenees-atlantiques_VN-202611180967.html",
+   "titre": "Vie chère: \"Ce sont les Français qui trinquent face à ce quinquennat de l'inutile\", fustige Max Brisson, sénateur \"Les Républicains\" des Pyrénées-Atlantiques",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/horizons/video-vie-chere-surmonter-la-crise-du-carburant-ca-c-est-l-urgence-mais-il-y-a-des-questions-de-moyen-et-long-terme-qui-ne-peuvent-se-trancher-qu-a-l-occasion-de-la-presidentielle-juge-mael-de-calan-porte-parole-d-edouard-philippe_VN-202611180963.html",
+   "titre": "Vie chère: \"Surmonter la crise du carburant, ça c'est l'urgence\", mais \"il y a des questions de moyen et long terme qui ne peuvent se trancher qu'à l'occasion de la présidentielle\", juge Maël de Calan, porte-parole d'Édouard Philippe",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 27,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-vie-chere-soit-le-gouvernement-repond-a-la-colere-sociale-soit-faut-qu-ils-s-en-aillent-lance-manon-aubry-eurodeputee-la-france-insoumise_VN-202611180959.html",
+   "titre": "Vie chère: \"Soit le gouvernement répond à la colère sociale, (...) soit faut qu'ils s'en aillent\", lance Manon Aubry, eurodéputée La France insoumise",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 28,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/18/presidentielle-2027-jean-dujardin-refuse-de-choisir-entre-lextreme-gauche-et-lextreme-droite-et-envisage-de-voter-blanc-lors-du-prochain-scrutin-13659600.php",
+   "titre": "Présidentielle 2027 : Jean Dujardin refuse de choisir entre \"l'extrême gauche et l'extrême droite\" et envisage de \"voter blanc\" lors du prochain scrutin",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 29,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/181126/mouvement-de-la-jeunesse-le-gouvernement-joue-le-pourrissement-la-colere-s-enkyste",
+   "titre": "Mouvement de la jeunesse: le gouvernement joue le pourrissement, la colère s’enkyste",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 30,
+   "nom": "La Presse",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzZLZzZtdU0wOE1xMUNYeTJpSTIyN21FYUM5VDRQeXl0dkdaZUwwcC1SX2k1TXEwMndPSGR3bkFaUHBMVkJsUHFuOWJkSVRuVENMZTZmWXYzOWd3aGtxWnliR1ZwMklfa0FpN2Jic3lWZF9wMHVPeC1Wdk5NM3ZENW5XNjlDODVTakhkX1hmT1BtbWM5ajZ2S3dmcUFwUUZlXzhEekJJcXRmQWVWVm5vSVJtY1l2MVVZbkgtNA?oc=5",
+   "titre": "Montréal | Des étudiants blessés lors de la manifestation",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 31,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/j-ai-trouve-ca-surrealiste-a-perpignan-une-manifestante-retenue-par-les-crs-parce-qu-elle-refusait-d-enlever-sa-chasuble-pcf_AN-202611180922.html",
+   "titre": "\"J'ai trouvé ça surréaliste\": à Perpignan, une manifestante retenue par les CRS parce qu'elle refusait d'enlever sa chasuble PCF",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 32,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html",
+   "titre": "Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 33,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcl9Kc0ZVMVJUNWs1Mm82ZjJaai1Ba1lHMUlZZEtpVzYxSk1XSVBfbTNTSnpIMnNqZDFDTlU4M19ydVBSX19Qbk1NZWpFREVMMlEtelEwTzlqY1BYSlB0aGd5Z1ZuQzFlSHdUWG5pS2o2Z2VvaDVGeXB6T29IT2o2SkJOdFctQUNpOUdvcnVLRTNVWmxTeEwwVkNlMGlqVkRqYUU3WEJWQjN4MEgxM200OUxiTHZqTzlNc2dmWEhSb2tmU3pjWkhrVE5PWklod2xXbFl2cmFUY3lFZzM2Nzk4Tm1aZkZVRXVjX2Zac2NnVHlHVG9XS3ZmT0FTOUV6UUZzYWhiYXhCajlUbnhROGtNV3lZQ2o?oc=5",
+   "titre": "Mobilisation lycéenne : \"40 membres de l'Éducation nationale\" ont-ils été complices de violences commises, comme l'avance Sébastien Lecornu",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 34,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/flash-actu/melenchon-appelle-a-severement-punir-les-policiers-qui-ont-manifeste-devant-beauvau-20261118",
+   "titre": "Mélenchon appelle à «sévèrement punir» les policiers qui ont manifesté devant Beauvau",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 35,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/18/presidentielle-2027-la-doudoune-cest-la-france-qui-bosse-apres-le-buzz-autour-de-sa-tenue-bruno-retailleau-assume-son-choix-vestimentaire-13659493.php",
+   "titre": "Présidentielle 2027 : \"La doudoune, c'est la France qui bosse\"... Après le buzz autour de sa tenue, Bruno Retailleau assume son choix vestimentaire",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 36,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUHRwdlJkM0JuajJ5WlZuUXlTSmNmcnVVMGVkbWxvZzB5UzdDZEZhbmhjcnJiZklHZFBGRWRhWWFqR3h1b2h6VmpmQXJDX3dtLWZzWVE4YThQYWltb19wc1NJVExXdGJFWmw1RDdKZzZXejZQTWlPaHhnZ3FiWklxLWl5QXVRcjdiVURFWHJ4Q1BEY05sY0tvaTZsOWlPemhlRGNidVVJZHY3X3BjaG9sLVlFZ2dsSklDd0hJNUlUMm9nUDk2anZxR3UwLTB6aUxJcXE5WlJfS3JOM1Rpc3ZkemxwOW85M1NqZlFsbkRWalVxNVZkWUluWk9sQUstNXhQXzktcWFPUG1GVk9xeFZLZFFDT3hLN2JxZzFzdElQS1h2WFhHTVE?oc=5",
+   "titre": "\"Son cas est emblématique de la répression du mouvement\" : des militants apportent leur soutien à Lino, interpellé à Montpellier lors d’une manifestation de lycéens",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 37,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/checknews/perpignan-des-crs-avaient-ils-le-droit-dobliger-une-militante-communiste-a-retirer-sa-chasuble-pour-quitter-une-manifestation-20261118_6NDFKVTLEJER5MZYGNYKDSQ5RQ/",
+   "titre": "Perpignan : des CRS avaient-ils le droit d’obliger une militante communiste à retirer sa chasuble pour quitter une manifestation ?",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 38,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/video/2026/11/18/les-images-de-l-echange-tendu-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-a-l-assemblee-nationale_6813192_823448.html",
+   "titre": "Les images de l’échange tendu entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen à l’Assemblée nationale",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 39,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-processus-d-une-primaire-s-enclenche-dans-la-cacophonie-en-maintenant-la-pression-sur-edouard-philippe-20261118",
+   "titre": "Présidentielle 2027 : le processus d’une primaire s’enclenche dans la cacophonie en maintenant la pression sur Édouard Philippe",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 40,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/politique/presidentielle-2027-edouard-philippe-tient-son-cap-sous-la-pression-des-sondages-et-d-une-primaire-20261118",
+   "titre": "Présidentielle 2027 : Édouard Philippe tient son cap sous la pression des sondages et d’une primaire",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 41,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/presidentielle-2027-david-lisnard-devancerait-d-une-courte-tete-edouard-philippe-a-la-primaire-de-la-droite-et-du-centre-selon-un-sondage-31579662.php",
+   "titre": "Présidentielle 2027 : David Lisnard devancerait d’une courte tête Édouard Philippe à la primaire de la droite et du centre, selon un sondage",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 42,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/181126/pourquoi-pas-matignon-et-l-elysee-la-prochaine-fois-les-syndicalistes-d-alliance-forcent-une-rencontre-au",
+   "titre": "«Pourquoi pas Matignon et l’Élysée la prochaine fois?»: les syndicalistes d’Alliance forcent une rencontre au ministère de l’intérieur",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 43,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/justice/manifestations-juge-a-angers-batman-devra-faire-un-stage-de-citoyennete-inacceptable-denonce-une-avocate-50619258-e369-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Manifestations : jugé à Angers, « Batman » devra faire un stage de citoyenneté, « inacceptable » dénonce une avocate",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 44,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/presidentielle-2027-un-duel-melenchon-le-pen-inciterait-plus-d-un-tiers-de-l-electorat-a-bouder-les-urnes-au-second-tour-31579555.php",
+   "titre": "Présidentielle 2027 : un duel Mélenchon-Le Pen inciterait plus d’un tiers de l’électorat à bouder les urnes au second tour",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 45,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/18/presidentielle-2027-suppression-des-35-heures-limitation-du-statut-de-fonctionnaire-privatisation-de-france-travail-edouard-philippe-devoile-ses-13659509.php",
+   "titre": "Présidentielle 2027 : suppression des 35 heures, limitation du statut de fonctionnaire, privatisation de France Travail... Edouard Philippe dévoile ses nouvelles mesures",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 46,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/manifestations-7-184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre-20261118",
+   "titre": "Manifestations : 7 184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 47,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-manifestation-gerald-darmanin-recense-7-184-gardes-a-vue-et-466-peines-d-emprisonnement-prononcees-depuis-le-17-octobre_VN-202611180453.html",
+   "titre": "Manifestation: Gérald Darmanin recense 7.184 gardes à vue et 466 peines d'emprisonnement prononcées depuis le 17 octobre",
+   "date": "2026-11-18"
+  },
+  {
+   "n": 48,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxONVB1QjdidHJ3NE9wdHhpS09jbUYxbW1RVktnSHhscXl3TmlpdlQtODRJdjVreWdYcWliY0tKV29WaWhEcFVkZm1IVUoxZFU4alJHeHQzVGtCY2ROLVM1cjlPYzlNQUZZQ0dZU0MwMWIyajVVTnBDVHFLZUxfcGhlb0hEaUxWUU9ZUGx4UEhGUG9lcEozZE8xb0xibmo1LVliZ095RXBrWW05d3FucmVBSFQ4dmlIbDl0NzhsQ1NRT2FsQmdEaEh2VW0tamwyWWhnNm42LVU1Q2djbTE2Zzk5YUZGSzY1VXVUa0kzQW9tdjRLYnRPNHM2Y3F2b0lKeVpMbkJGS3lQRDIzbzVna0R3N0ZZajZhejdIV2d0MmcwUUtaWVRxbUpVRGs1MTA?oc=5",
+   "titre": "Blocus des lycées : 50 000 € de dégradations recensés au total dans cette ville et 22 mineurs placés en garde à vue",
+   "date": "2026-11-18"
+  }
+ ],
+ "genere": "2026-11-19T05:01:53.675680+00:00"
+}
