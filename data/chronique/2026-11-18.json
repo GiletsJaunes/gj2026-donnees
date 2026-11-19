@@ -42,7 +42,7 @@
    "theme": "Argent et crise"
   },
   {
-   "texte": "Selon franceinfo, VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027 (repris par 6 médias). Selon franceinfo, \"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise. Selon La Dépêche, Présidentielle 2027 : Jean Dujardin refuse de choisir entre \"l'extrême gauche et l'extrême droite\" et envisage de \"voter blanc\" lors du prochain scrutin. Selon Le Monde, Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI.",
+   "texte": "Selon franceinfo, VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027 (repris par 7 médias). Selon franceinfo, \"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise. Selon La Dépêche, Présidentielle 2027 : Jean Dujardin refuse de choisir entre \"l'extrême gauche et l'extrême droite\" et envisage de \"voter blanc\" lors du prochain scrutin. Selon Le Monde, Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI.",
    "sources": [
     2,
     23,
@@ -61,7 +61,7 @@
  "jour_long": "mercredi 18 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -400,5 +400,5 @@
    "date": "2026-11-18"
   }
  ],
- "genere": "2026-11-19T05:01:53.675680+00:00"
+ "genere": "2026-11-19T06:29:29.883021+00:00"
 }
