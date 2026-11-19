@@ -61,7 +61,7 @@
  "jour_long": "mercredi 18 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -400,5 +400,5 @@
    "date": "2026-11-18"
   }
  ],
- "genere": "2026-11-19T06:29:29.883021+00:00"
+ "genere": "2026-11-19T07:54:23.935873+00:00"
 }
