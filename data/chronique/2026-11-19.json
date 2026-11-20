@@ -1,0 +1,401 @@
+{
+ "titre": "Jeudi 19 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Orange Actualités, Le Havre, une minute pour tout comprendre : mobilisation lycéenne, six mineurs interpellés. Selon Sud Ouest, Pau : un jeune de 18 ans interpellé lors de la manifestation du 17 octobre condamné à huit mois de prison ferme.",
+   "sources": [
+    13,
+    27
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Ouest-France, Violences urbaines du 17 octobre : la facture des dégâts estimée à 207 millions d’euros, selon France Assureurs (repris par 3 médias). Selon franceinfo, Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen. Selon Le Monde, Manifestation du 21 novembre à Paris : syndicats, jeunes et défenseurs du droit au logement défileront ensemble ; les « gilets jaunes » devraient les rejoindre. Selon franceinfo, Professeure d'économie convoquée après un devoir sur le mouvement lycéen : \"Notre collègue n'a fait que son travail\", selon le Snes-FSU.",
+   "sources": [
+    4,
+    8,
+    17,
+    20
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Le Figaro, «Le logement est l’ennemi principal du pouvoir d’achat des Français» : Édouard Philippe veut geler l’interdiction de louer des passoires thermiques pendant 5 ans. Selon BFMTV, La proposition de loi visant à lutter contre la vie chère en Outre-mer a été adoptée par l'Assemblée nationale. Selon Lyon Mag, Acte VI contre la vie chère : rassemblements interdits dans une partie du centre de Lyon samedi.",
+   "sources": [
+    14,
+    19,
+    43
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : Édouard Philippe veut mettre en pause l’interdiction de location des passoires thermiques.",
+   "sources": [
+    11
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne (repris par 4 médias). Selon 20 Minutes, EN DIRECT Présidentielle 2027 : L'alliance avec Marine Tondelier « devrait pouvoir se faire », estime Jean-Luc Mélenchon (repris par 4 médias). Selon Libération, Présidentielle 2027 : les créateurs de contenus devront pour la première fois respecter le pluralisme, annonce l’Arcom (repris par 3 médias). Selon Sud Ouest, Présidentielle 2027 : Glucksmann étrille Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes en choisissant Mélenchon (repris par 3 médias).",
+   "sources": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-19",
+ "numero": 49,
+ "jour_long": "jeudi 19 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-a-ce-stade-de-la-campagne-31591266.php",
+   "titre": "Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 2,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4264007-20261119-direct-presidentielle-2027-alliance-marine-tondelier-devrait-pouvoir-faire-estime-jean-luc-melenchon?at_medium=display&at_campaign=149",
+   "titre": "EN DIRECT Présidentielle 2027 : L'alliance avec Marine Tondelier « devrait pouvoir se faire », estime Jean-Luc Mélenchon...",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 3,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE/",
+   "titre": "Présidentielle 2027 : les créateurs de contenus devront pour la première fois respecter le pluralisme, annonce l’Arcom",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 4,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/manifestation/violences-urbaines-du-17-octobre-la-facture-des-degats-estimee-a-207-millions-deuros-selon-france-assureurs-880ff23c-e416-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Violences urbaines du 17 octobre : la facture des dégâts estimée à 207 millions d’euros, selon France Assureurs",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 5,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/jean-luc-melenchon/presidentielle-2027-glucksmann-etrille-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes-en-choisissant-melenchon-31583116.php",
+   "titre": "Présidentielle 2027 : Glucksmann étrille Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes en choisissant Mélenchon",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 6,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-yannick-jadot-annonce-quitter-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-20261119",
+   "titre": "Présidentielle 2027 : Yannick Jadot annonce quitter Les Écologistes après la main tendue de Tondelier à Mélenchon",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 7,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-pourquoi-le-president-du-senat-gerard-larcher-demande-officiellement-d-avancer-la-date-de-l-election-de-l-election-31590981.php",
+   "titre": "Présidentielle 2027 : pourquoi le président du Sénat Gérard Larcher demande d’avancer la date de l’élection",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 8,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 9,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-clementine-autain-qui-avait-quitte-lfi-apres-les-purges-de-2024-appelle-a-soutenir-jean-luc-melenchon-20261119",
+   "titre": "Présidentielle 2027 : Clémentine Autain, qui avait quitté LFI après les «purges» de 2024, appelle à soutenir Jean-Luc Mélenchon",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 10,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom",
+   "titre": "Présidentielle : les créateurs de contenus sommés de respecter le pluralisme par l'Arcom",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 11,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/presidentielle-2027-edouard-philippe-veut-mettre-en-pause-l-interdiction-de-location-des-passoires-thermiques-31588161.php",
+   "titre": "Présidentielle 2027 : Édouard Philippe veut mettre en pause l’interdiction de location des passoires thermiques",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 12,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/19/presidentielle-2027-hugo-decrypte-guillaume-pley-pour-la-premiere-fois-les-gros-createurs-de-contenus-devront-respecter-le-pluralisme-dans-leur-13661458.php",
+   "titre": "Présidentielle 2027 : Hugo Décrypte, Guillaume Pley... Pour la première fois, les gros créateurs de contenus devront respecter le pluralisme dans leur traitement de l'élection",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 13,
+   "nom": "Orange Actualités",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3Z6T3NQTmtUTTVJYUxyWi1LWmdyRERHd1VwUkEzY3l5U2V0bDBBTXRveTRwTk1lNjluSnVXR1JWSENzTXBENnNDUjg1OG5Zc012VHhQU2E2MHpjTnBzSGdYT3ZfekpIU1dIN3o1SEJ6THFVVmZFWnd0dF9nd0tQVVRwZzZQUHEwYzNGdVNsLVNqZGlpSHAxS1Q3SExpNzNXUG1YTy1EUm11MF9XNnlncTVqRWVkUzQ2T3JpTEkxd2JIRm5HSngzOXZXZGJtLXpQbXp4TlVYSFRHQm5zM1pka0RR?oc=5",
+   "titre": "Le Havre, une minute pour tout comprendre : mobilisation lycéenne, six mineurs interpellés",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 14,
+   "nom": "Le Figaro",
+   "url": "https://immobilier.lefigaro.fr/article/edouard-philippe-veut-geler-l-interdiction-des-passoires-thermiques-pendant-5-ans-20261119",
+   "titre": "«Le logement est l’ennemi principal du pouvoir d’achat des Français» : Édouard Philippe veut geler l’interdiction de louer des passoires thermiques pendant 5 ans",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 15,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-seloigne-des-ecologistes-en-choisissant-melenchon-bd81908c-e3fe-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027. Raphaël Glucksmann étrille Marine Tondelier qui «s’éloigne» des écologistes en faveur de Mélenchon",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 16,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119",
+   "titre": "EN DIRECT - Présidentielle 2027 : «C’est une bonne nouvelle. Faisons-le !», répond LFI à Marine Tondelier prête à «une coalition autour de Mélenchon»",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 17,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/19/manifestation-a-paris-syndicats-jeunes-et-defenseurs-du-droit-au-logement-defileront-ensemble-samedi-les-gilets-jaunes-devraient-les-rejoindre_6813343_823448.html",
+   "titre": "Manifestation du 21 novembre à Paris : syndicats, jeunes et défenseurs du droit au logement défileront ensemble ; les « gilets jaunes » devraient les rejoindre",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 18,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4264290-20261119-presidentielle-2027-melenchon-pense-grands-patrons-passes-cote-rn?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : Mélenchon ne pense pas que les grands patrons soient passés « du côté du RN »",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 19,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/video-la-proposition-de-loi-visant-a-lutter-contre-la-vie-chere-en-outre-mer-a-ete-adoptee-par-l-assemblee-nationale_VN-202611191057.html",
+   "titre": "La proposition de loi visant à lutter contre la vie chère en Outre-mer a été adoptée par l'Assemblée nationale",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 20,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeure-d-economie-convoquee-apres-un-devoir-sur-le-mouvement-lyceen-notre-collegue-n-a-fait-que-son-travail-selon-le-snes-fsu_8290724.html#xtor=RSS-3-[lestitres]",
+   "titre": "Professeure d'économie convoquée après un devoir sur le mouvement lycéen : \"Notre collègue n'a fait que son travail\", selon le Snes-FSU",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 21,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html",
+   "titre": "Enquête sur des fuites vers le RN : le préfet Hugues Moutouh convoqué par Laurent Nuñez vendredi",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 22,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/19/presidentielle-2027-il-y-a-des-sujets-ou-la-polemique-na-pas-sa-place-le-maire-repond-a-la-lettre-ouverte-de-son-opposant-apres-la-venue-de-francis-13661867.php",
+   "titre": "Présidentielle 2027 : \"Il y a des sujets où la polémique n'a pas sa place\"… Le maire répond à la lettre ouverte de son opposant après la venue de Francis Lalanne et Dieudonné",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 23,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-tirs-de-mortiers-font-plus-de-20-blesses-dans-des-lycees-en-france_8290592.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Des tirs de mortiers font plus de 20 blessés dans des lycées en France",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 24,
+   "nom": "Le Média",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2VEdC10ZV8yV0syTjVOM1UwdjlaTkJaUUNZM09BOXh5OTdxV3NlNjJaWkYtM2lCZ0ZvYzgzRWlDZm9MYk0zdDFRX1JadTJ3SHYwLXgyUHJjTF9UdlZPeFdidS00dXpyeEM3MUNCYVVwZXlVSTNGQ2NCSnNlc1BGYlVaLWl1RWl1NXBNQmwwUmRrU3dvNkwwbC0xQ3N1Vl9rM09GNGZkTlo2SjJJVmFWVHNR?oc=5",
+   "titre": "La police menace, Nuñez cède : qui gouverne vraiment",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 25,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+   "titre": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 26,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-le-niveau-de-menace-est-sans-precedent-et-va-s-intensifier-previennent-sebastien-lecornu-et-vincent-strubel-le-directeur-de-l-anssi_8290514.html#xtor=RSS-3-[lestitres]",
+   "titre": "Cyberattaques : le niveau de menace \"est sans précédent\" et \"va s'intensifier\", préviennent Sébastien Lecornu et Vincent Strubel, le directeur de l'Anssi",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 27,
+   "nom": "Sud Ouest",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUmIwaGRhQ1Q5YVZQUW1CcW5uMWJyZ0Jabi1hSExEUzV2dEdoakxIdmpsTWdHRzhHY1U3MmJVOHItV3lIZVU5dWczWjlKbGRsUzRrY1BjS0VGQ2ZCUVFEME83RXdGRXBjbjVCSlk1MjlnU0RZTHlnSkQ3N0lXbHlfdUQ4alltSFRLeWgzSmpRaERaOG1YcE90cnZSaGNmOGI1NWluNlFaSk5aUUpVbW5rMExKdVJzNWRiOFlSQmExZHhtTGM3c0dicUg3Wm9DNzRVYWw1akV2Sm5DNzA5RmllQ2xvUVR0YkdIamhJQ1FJdEhNclhvdjBOblU4M0FYdDky?oc=5",
+   "titre": "Pau : un jeune de 18 ans interpellé lors de la manifestation du 17 octobre condamné à huit mois de prison ferme",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 28,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-au-match-de-hockey_8290166.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "C’est Benjamin... à Amiens, au match de hockey",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 29,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-marine-le-pen-assume-de-couper-le-robinet-de-l-aide-a-l-ukraine-20261119",
+   "titre": "Présidentielle 2027 : pourquoi Marine Le Pen assume de couper le robinet de l’aide à l’Ukraine",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 30,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/election-presidentielle-2027-en-hausse-dans-les-sondages-david-lisnard-devient-une-cible-a-droite-1240531?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Élection présidentielle 2027 : en hausse dans les sondages, David Lisnard devient une cible à droite",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 31,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/medias/presidentielle-les-plus-influents-createurs-de-contenu-devront-respecter-le-pluralisme-20261119",
+   "titre": "Présidentielle 2027 : les plus influents créateurs de contenu devront respecter le pluralisme",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 32,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/191126/une-professeure-de-ses-convoquee-au-rectorat-pour-un-devoir-sur-la-mobilisation-lyceenne",
+   "titre": "Une professeure de SES convoquée au rectorat pour un devoir sur la mobilisation lycéenne",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 33,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-il-veut-sauver-la-republique-dominique-de-villepin-presque-candidat-3d3621c2-e42b-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : il veut « sauver la République », Dominique de Villepin presque candidat",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 34,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/culture/presidentielle-2027-l-arcom-impose-les-memes-regles-aux-createurs-de-contenus-qua-la-television-et-a-la-radio-20261119",
+   "titre": "Présidentielle 2027 : l’Arcom impose les mêmes règles aux créateurs de contenus qu’à la télévision et à la radio",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 35,
+   "nom": "Centre Presse Aveyron",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNa1FUaVhtTHJ6cWhBaVZlbVQtYXlDaWRybS1ENmlJSkZpN09WcFU2dVllNEYxbExMWmhFSUlGR0VPdGUxV3UxZkxYWVc5MGRreTllbVFMRkl6c2ltOVRTN2Z0WmZqWVZEYzB4T0MxZ2F1OVNXcTdkODVCUm1RMnNKRDhTZTFmWF9falhqeExTVDZzZnhuZGJObVhNc2pBX003anZIYUF2SFZkTzQyNGZPWVRtZmllenlPOHRyVGNXemVEZ2tGM0lHZ09TQTFFR0I2SEdNVm5zak9iUTNiX1pJUjRKMF9xMVJ3UUg1TEd4SGVXT3BNUGhkMDlfQWoyV2dEOXFNM0NZVi1iRWd3NXY4blkzQmhOYVRmdS12aGgtaG5FSHlSemUxcjdBYTJRRm8?oc=5",
+   "titre": "\"Du même ordre de grandeur que les émeutes de 2005 ou du mouvement des Gilets jaunes\" : le coût des violences du 17 octobre révélé par France Assureurs",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 36,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/cyberattaque/cybersecurite-sebastien-lecornu-met-en-garde-contre-une-menace-grave-qui-risque-de-saggraver-avec-lia-473ae472-e436-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Cybersécurité : Sébastien Lecornu met en garde contre une « menace grave » qui risque de « s’aggraver » avec l’IA",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 37,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/presidentielle-2027-pres-de-cinq-ans-apres-l-invasion-russe-l-effet-drapeau-disparu-de-la-guerre-en-ukraine-20261119",
+   "titre": "Présidentielle 2027 : près de cinq ans après l’invasion russe, l’« effet drapeau » disparu de la guerre en Ukraine",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elysee/guerre-en-ukraine-emmanuel-macron-assure-que-la-russie-n-a-pas-manifeste-de-signes-de-paix_AD-202611190859.html",
+   "titre": "Guerre en Ukraine: Emmanuel Macron assure que \"la Russie n'a pas manifesté de signes de paix\"",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 39,
+   "nom": "La Voix du Nord",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSjM5RDM3ZjJnN0dmZ0s2all2QU9iWTJVZ2RtLWRoYmRHeG0yVmVRSDZLWnJGMFdORWpZY2hKT3E3YWxmWndDSHJObkhXMUNyQUg5N0JpSDEyeHVsYjMxeUN5RS15NmlOSnpSSHBsTVhNbnkwUk5SVDJHN0FJakp6YUxscEZ3V1VyTWNHTDdRelYxcGlGQTRPaU5yRmRNYkFOd2tvRi1ob0lnZHJnTWF1X3hIYVUzeThDc0RaR0xzaHhpSTIzWkpFdVktb0VBM2pS?oc=5",
+   "titre": "« Même ordre de grandeur que les Gilets jaunes » : les violences urbaines des 17 et 18 octobre coûteront plus de 200 millions d’euros",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 40,
+   "nom": "Le Figaro Étudiant",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOamV2ZE1NeGRsTVBfcFQ1UjR1b25RczhUX1luUTFRWC1MVW5PTF85T0hqNnBNNkpOU19FRzlyejh6cXc5M2trMTlFNUg4bEN1b3hCbkE1RUsxbjRrVlJ1c3MyNWt3ODF4WWEtWWZrSUN6bGNCX1V1Q29Qa1d4OUV4QXE0dG03aU9yREhCcUNmMlkxOHFGRU1fc1I2WUlCcm5DYWsyNVpvWEQ2UzlrZEZ1U3ljd1JDdDdrYUh3SGhNa0ZHVzEyenpwUFlobXE0Ty0zMXZRZkpQYkw3aXAzX0E5YkFhamhjaXM?oc=5",
+   "titre": "Après des plaintes de parents, une enseignante convoquée pour un devoir sur la mobilisation lycéenne",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 41,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/19/mobilisation-de-la-jeunesse-contre-la-guerre-a-toulouse-un-cortege-autorise-les-rassemblements-non-declares-interdits-dans-le-centre-ville-ce-vendredi-13661679.php",
+   "titre": "Mobilisation de la jeunesse contre la guerre à Toulouse : un cortège autorisé, les rassemblements non déclarés interdits dans le centre-ville ce vendredi",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 42,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-tondelier-penche-vers-melenchon-mais-pour-quelle-union-20261119_XUODGNQFVZHENBNUDVGXNICMIM/",
+   "titre": "Présidentielle 2027 : Tondelier penche vers Mélenchon, mais pour quelle union ?",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 43,
+   "nom": "Lyon Mag",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSXpRM2lBdThETWItNG9fRC1OX1Z4YnhzLU83UGNWTTRmaHVVUTBhWXcydjFXS0xKd1ZSZ3FXdHpNWmNzcE9zTDRxM3dBemQtMU5OTVRVamM0bktHTFhRMm43Y3JQNENCRmVndERuTkVMZ2taZTI4TDRKWU5Bbl85QWc5Q0R4UmRlY0JEeno0Q29FYW9DV2Z4UkczOXRmR3ZvaERkcTJkc3BXOFhQcVFDdE5iSFJGMnpMYWpBWDFZQ0hXZTVoTDlUUnlZc0Q?oc=5",
+   "titre": "Acte VI contre la vie chère : rassemblements interdits dans une partie du centre de Lyon samedi",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 44,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQX1JsMWYyQlM0WkFLcDFHMXMyTzNwazkyemMyaVBYdHNBOE51Y2h2c2kwZExVa2piQVJzTWlPM3c5Q3ZQOFJueTA0YlZsRnQxN3lHT1hua2NHZWJweDJTc1o1bEhQclR0MHh2NjhEaUdNaERuM25kMnhaZnFPS0ZiOWhWdGJhUEhRQzZhNmJZZU5nY3lPZ3pad0N6d2cxaGlzRmp5QVVtbnAzZXVLcWxsUmdxNWZuaWFjYW80Q2xiaVpuZ1F1M1dMdVpWS21zVnh2anp1SmxXUkl2M2kyWFlvbzZlSUFydlpRS29iZEJMendESkJSZnFIUHpOLTQwZFo3LXJBZzBwdl9MdXREejE5Y0RPZ0R6eWh6RFVVWThXYWdjZw?oc=5",
+   "titre": "Pour l’acte VI des manifestations, deux cortèges annoncés à Caen ce samedi avec deux points de départ distincts",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 45,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/191126/manifestations-interdites-le-conseil-d-etat-refuse-d-imposer-des-delais-aux-prefets",
+   "titre": "Manifestations interdites: le Conseil d’État refuse d’imposer des délais aux préfets",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 46,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/violences-urbaines-du-17-octobre-france-assureurs-estime-les-couts-a-207-millions-d-euros-20261119",
+   "titre": "Violences urbaines du 17 octobre : France assureurs estime les coûts à 207 millions d’euros",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 47,
+   "nom": "Paris Normandie",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV2hUSUp4SjdHWkQ4SUlJdlptSjNUUUVaRVJDM2Q1RjdMd2dZUFBDNVFTZDZmMlZkRGVZWnktaW52dlF3aHZ1a2hQdjVoMC1Oc0xMUjd6Q2p2c3preWU3N3BlYmJPYWZxUHhxbjdWcHlSdHVRRXM3VmR6cjlfRGZGSjIxVFV6RDVSX05ZeVpsT0xBWGZESlU2WjVJdnJJM2NDRWxmV0d0YjhEUGJXM1pUczdNMFFWWWxydEc1VlJnM2NwWUVkYXBUZURTU3NGd2c?oc=5",
+   "titre": "Une minute pour tout comprendre : Mobilisation lycéenne, 6 mineurs interpellés",
+   "date": "2026-11-19"
+  },
+  {
+   "n": 48,
+   "nom": "BFMTV",
+   "url": "https://rmc.bfmtv.com/actualites/police-justice/faits-divers/info-rmc-mouvement-lyceen-10-blesses-et-5-interpellations-apres-des-tirs-de-mortiers-d-artifice-dans-le-rhone_AN-202611190547.html",
+   "titre": "INFO RMC. Mouvement lycéen: 10 blessés et 5 interpellations après des tirs de mortiers d'artifice dans le Rhône",
+   "date": "2026-11-19"
+  }
+ ],
+ "genere": "2026-11-20T05:59:50.366646+00:00"
+}
