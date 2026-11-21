@@ -14,12 +14,11 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon BFMTV, Manifestations: le ministre de l'Intérieur, Laurent Nuñez, dit entendre la \"fatigue\" des CRS. Selon Le Monde, Mouvement lycéen : l’impossible débat sur le « maintien de l’ordre à la française ». Selon Mediapart, Violences policières, racisme: contre l’impunité, l’éclat de la justice. Selon Le Figaro, La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement.",
+   "texte": "Selon BFMTV, Manifestations: le ministre de l'Intérieur, Laurent Nuñez, dit entendre la \"fatigue\" des CRS. Selon Le Monde, Mouvement lycéen : l’impossible débat sur le « maintien de l’ordre à la française ». Selon Mediapart, Violences policières, racisme: contre l’impunité, l’éclat de la justice.",
    "sources": [
-    27,
-    29,
-    36,
-    45
+    28,
+    30,
+    37
    ],
    "theme": "Répression"
   },
@@ -36,9 +35,9 @@
   {
    "texte": "Selon BFMTV, Colère sociale: des dizaines de milliers de jeunes se mobilisent à travers l'Europe. Selon Info-Chalon.com, Mouvement « contre la vie chère » - Les mesures mises en œuvre pour ce samedi 21 novembre à Dijon. Selon franceinfo, Le logement est le premier poste de dépense qui \"ampute le pouvoir d'achat\" des Français, souligne Christophe Robert, de la Fondation pour le logement des défavorisés.",
    "sources": [
-    40,
     41,
-    42
+    42,
+    43
    ],
    "theme": "Colère sociale"
   },
@@ -62,7 +61,7 @@
  "jour_long": "vendredi 20 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -157,226 +156,226 @@
   },
   {
    "n": 14,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWHcwU1ZiVHFabWdCNU0xN3RrejN0c2d0cUZQN01HSlQyb3d1dnR6X3dqOWxvaU1KdTZvQy1ibkZBRTBCWWljYmFWbUVTbTN6VXM3aXpUNGI4R1FfTnRtVWMzdE1BNFF3TUlVX1BWenhjYnhaT1VpTFVnUm5FZ1NPaEF6eEFEeGVmbWxHTDhIMmRYMlhzb3hUMjluVXVGNHlrUVFNUUZMeW42RWgwVVhwSk5la3dnbFpIb3Zrd1lQcHZHQWpicjUyRzEyR0w2RWVvZ1JiTV96TE04SzMySGF6aXBiaUtXbmFNM1RKLWFkZkdPdzJTQ0VsY0FDUTdfY2M2dE9FU1lidw?oc=5",
+   "titre": "Manifestations du 21 novembre : 70 000 policiers et gendarmes, anniversaire des Gilets Jaunes… À quoi s’attendre en France ce samedi",
+   "date": "2026-11-20"
+  },
+  {
+   "n": 15,
    "nom": "stephanelarue.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0REazJ1TXFVckhMaS16NlVuZ0UxbkdKSUlMeXo5MldKTEU0ZkhpMk5saFEza1lSNW5wWjdfbXBKLWVaZTBMdC1sVDZHWHBhOGNGLUFaeF9VOGtyTVpTQmVhSFJjaUFSQW41aFBwV3VGYW1reDNjQ0g3ZW9zUC1LaUlMV2k4QkJRdUFocE53MVVnRUpvVDU3c21FZw?oc=5",
    "titre": "La RATP ferme 16 stations de métro pour la manifestation vers Nation",
    "date": "2026-11-20"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQbjJKQk9JNDNjeFoxVTE2aXdFaS1DUXFONGRKVTdNVm9Ka2VZbnFxRjJFWUNnbzhqaVNMQ016MjNKN2FWMWtRRWRpVUZGNmdPa2xNWFh1Wk1tek02cm1OcHBTRFVlS0RRenVSVkRUS0pOQVVuS2dvQ3B1M3dIcVJ3NG1qTF9ZaWwyUnE0ek8wcURVb3R1bU1CQkVraWUtVk12dko1a3liZ1pWZ3pfRVF3WFFYaUFGTmxFY19nRTZhQ0xXU3IyRGpNYlFIM0t4TzVTNWhpcVdfb01DcTU4aGZrWmlUMHdYSFN2ZWlCdzFfYlVaV3NtSkpQNHQ1VlNWdEJCaWQ4cmtvWUcyM3RvZzNlWnhMbmFYUjQtRGlQMXJNNXB1aVhyZEZN?oc=5",
    "titre": "Mobilisation lycéenne à Saint-Nazaire : vingt déclenchements d’alarme incendie et un blocus avorté à Aristide-Briand",
    "date": "2026-11-20"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "ici.fr",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS2lUVnRxYmhySVJfbVE3cEdFOWdqV2pCTXFoMmxoeWJubHdycEN0aUlWWE5qWEZQeUJnM19lMFNyaXJDNEVGZUhLUE5DbXZsLWxKMmRjcC1Fd1RaREFidjUxT0QyVjZ1ZnpBb0c5WlBtVkJURVEwYkFtWU5ZTHNlTVIwU0dublhPQmFHRTNJUnd1S2lnc0VQWVljbGtaY1FGX1E0WEppNnBweHhXc3kzYW91U1pmekE0WEU4V2dObDY1ZFBBQzctdTVjZjZhREJXVzQtczByRy14eTdjTXRtczNhb0VWbzRqQlE?oc=5",
    "titre": "Mobilisation du 21 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi",
    "date": "2026-11-20"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1g4Tm5kdThYcmlKWjhPcTMyVEotTW9oU29ZcXEtOFBXQnQtUnBzMU5LUTJVeUtiaFM3OTcwTDF3OTBPa0t3WXE5aGRBWG82N3VVMDRJUlZia2JvcHVNZTF1Skt5UWVVUVNuZk8yWFRQWVk5QnY1akxudEU5YTlPV3hPVm1UUVFUejBjaWUzSF9UcUJ6TVRiNUZObHNVX2ZIOUc2MGRiVC01a1dxTTFTMHFhbUJxQXEza2Voa2tNek5CcktpanBtMDJQeTlJa3ZNaE9Zbno5MDdHRTFpQUdYMF9HVHA2cVllbUdzbGdEWElXNjViOWtMRjZUdE1adkE1YlFJbHNn?oc=5",
    "titre": "Blocus ou pas, à Couëron, cette structure ouvre ses portes aux lycéens en quête d’un QG pour travailler",
    "date": "2026-11-20"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-philippe-devance-melenchon-sil-est-candidat-unique-du-centre-et-de-la-droite-selon-un-sondage-36c53ac4-e4e6-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Présidentielle 2027. Philippe devance Mélenchon, s’il est candidat unique du centre et de la droite, selon un sondage",
    "date": "2026-11-20"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcU5YOFk5M29ZcmNlRmdveDZMSW40YmRFUnVHN0lUamNuSzhRT0ZvU3VZQUJRTFNlWVgxSk11STJJa2hsMEswdHRVNy03UjJvR2pGVXFMSWxleVZZcjhQcW9LZkFVTFVvbVVzRW1WLUQ2NlZYcEVseEJvazN0U3V0ekp3OGFvemJMVWtOOUpzU0I2ZWZJUXREWnNsTXNmVnZFMi04ZkFFbXFiRW1tbkxSZS15NHI0WmxFbUJhRXVweEFvYU5WYURiaWpuSlJ4Vm95cWx4OUZ6T1ZDRGFhaXlzazMwWkNCalUwbkp3c2hMXzNsS3l1enM2dTQ3Q19RajZndGV1Tkhld0ZtNjNRZXdTX1NKUG9XblJ4aU1OcktxLVFIR2s?oc=5",
    "titre": "Après un nouveau début de blocus, de nouvelles mesures d’interdiction de blocages prises pour plusieurs lycées du Mans",
    "date": "2026-11-20"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-il-vient-de-lannoncer-dominique-de-villepin-est-officiellement-candidat-842a80a0-e4b7-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Présidentielle 2027 : Dominique de Villepin, officiellement candidat, veut barrer la route du RN et de LFI",
    "date": "2026-11-20"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "20 Minutes",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUhSaE5BQnBnVjJyYnFPdXd6MFFKM195NzByR0REcnQwNVNvRlhPbXQyNWdnV19SbkY1SDFsc1dibnVZSC0wLXZIN0g5R1k3WlZyZ3QzcEM2ZGJYOGo4UVMwQ3dzdGlxUTNaM1lZUEpRMDJVREp1OVpTaURKSC05bTlxa08wQ3hTcDdacXdUTHZsSk9SMW5kck5RR05VbmFnUE9SbFY5dF9wS1JUTlRSVkpjcUVKU0tELXFlNTA2Q3Fyb3hCT1Rn?oc=5",
    "titre": "Blocus des lycées : Une nouvelle affaire de trombinoscope saisi dans un éta…",
    "date": "2026-11-20"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "Orange Actualités",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZllzMWxITTFhdXZtbDEwaC13X2xSVTJ2S3VFR1JSQTlYTjdTMVFCczhrOTA3Sml4aWtHVk5PbDBnVVRRTFFpSzcxVDhLeUFEQmIzNHBlbGRGdWR4dG5reVFIU1RiZWFRS0hOSVpxbVBYMUl4VkU3OEJPdUFJSlNvQTgwdmtjdXJ3ZDdTLUNvcFlibl9UVnItT216ZWg5S01YMGl3SExna0pxUklUSFVIS0NfT3IxOWNyUjNMU2Rzc3dGeGU3b0NWQV9hN0pFT1NVeFFZeG1MSzg4MTk5NTR4THdabGttOEUtOElQMlZSa0RVZThYQW5LbWY1Zl81SzRLUHExWlRBM1o?oc=5",
    "titre": "Syndicats, jeunesse, Gilets jaunes... à quoi faut-il s’attendre pour la journée de mobilisation du 21 novembre",
    "date": "2026-11-20"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/economie/article/2026/11/20/commerces-endommages-lors-des-manifestations-les-modalites-de-l-aide-pouvant-aller-jusqu-a-10-000-euros-publiees-au-journal-officiel_6813612_3234.html",
    "titre": "Commerces endommagés lors des manifestations : les modalités de l’aide pouvant aller jusqu’à 10 000 euros publiées au « Journal officiel »",
    "date": "2026-11-20"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "Sortir à Paris",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVngyTnkzX29ldlRRbTZGdWxZTnZTazBGSHVRbnN1S2VKSVFrTGVGWnF1eTBabmtDTDAyWWVwcFNJU1pZTktBSUxSWV84M3ZMQmk5bktIUzJYS2ZPVkg0U0ZZY2tGM0cxRnZiZlItN0V0TExpMFB5clhfemYyVTFRUlBGRE82eUtvbThsUnJYWmYzS1owRTRoTHF6dEViNUlveG1uRncxWEdqeFFXVFRtWmtvUzhMa0g0NnFLd2FRYnVNdnFxYUlZQnFEaWFkbVk?oc=5",
    "titre": "Manifestation du 21 novembre à Paris : le parcours validé pour ce samedi",
    "date": "2026-11-20"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/medias/les-agressions-et-intimidations-contre-les-journalistes-a-un-niveau-preoccupant-alerte-l-arcom-20261120",
    "titre": "Les agressions et intimidations contre les journalistes à un niveau «préoccupant», alerte l'Arcom",
    "date": "2026-11-20"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xtor=RSS-3-[lestitres]",
    "titre": "Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
    "date": "2026-11-20"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-manifestations-le-ministre-de-l-interieur-laurent-nunez-dit-entendre-la-fatigue-des-crs_VN-202611200354.html",
    "titre": "Manifestations: le ministre de l'Intérieur, Laurent Nuñez, dit entendre la \"fatigue\" des CRS",
    "date": "2026-11-20"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-207-millions-d-euros-5-280-sinistres-les-violences-en-marge-du-17-octobre-ont-coute-autant-que-les-gilets-jaunes_VN-202611200345.html",
    "titre": "207 millions d'euros, 5.280 sinistres... Les violences en marge du 17 octobre ont coûté autant que les Gilets Jaunes",
    "date": "2026-11-20"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/20/mouvement-lyceen-l-impossible-debat-sur-le-maintien-de-l-ordre-a-la-francaise_6813554_3224.html",
    "titre": "Mouvement lycéen : l’impossible débat sur le « maintien de l’ordre à la française »",
    "date": "2026-11-20"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html",
    "titre": "A travers l’Europe, des mobilisations vendredi et tout ce week-end contre la « militarisation », la vie chère et pour l’éducation",
    "date": "2026-11-20"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-vives-tensions-chez-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-jadot-et-iordanoff-quittent-le-parti-31592793.php",
    "titre": "Présidentielle 2027 : vives tensions chez les Écologistes après la main tendue de Tondelier à Mélenchon, Jadot et Iordanoff quittent le parti",
    "date": "2026-11-20"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html#xtor=RSS-3-%5Bpolitique%5D",
    "titre": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage",
    "date": "2026-11-20"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
    "titre": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
    "date": "2026-11-20"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-presidentielle-2027-il-y-a-beaucoup-de-candidats-et-peu-de-projets-observe-bruno-le-maire-ancien-ministre-de-l-economie_VN-202611200955.html",
    "titre": "Présidentielle 2027: \"Il y a beaucoup de candidats et peu de projets\", observe Bruno Le Maire, ancien ministre de l'Économie",
    "date": "2026-11-20"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "Anadolu Ajansı",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm55eG1wS3YyQTVSMEUteGJKaENTZUNRYkgxWC00R3BjYl9IclU0alJtRHZhVUhMeXlDR3VfcHJuQ05vdnVDWjUyODBHcFlKTVExY2lQZjhBVkItODdQbGp3ek5ZUHRLbnN3ekNjNk1UZFRwTG1wdWpUWHNTUjdjUDRPNldlOVAzaTZwWGF6UVFYeWFCd3Z0OXBaRFViNWR5dFcwS1RDNA?oc=5",
    "titre": "France : entre 15 000 et 30 000 manifestants attendus à Paris",
    "date": "2026-11-20"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "Mediapart",
    "url": "https://www.mediapart.fr/journal/france/201126/violences-policieres-racisme-contre-l-impunite-l-eclat-de-la-justice-0",
    "titre": "Violences policières, racisme: contre l’impunité, l’éclat de la justice",
    "date": "2026-11-20"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
    "titre": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
    "date": "2026-11-20"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/actualite-france/lourdes-le-commissariat-desenvoute-par-une-chamane-la-prefecture-denonce-un-dysfonctionnement-20261120",
    "titre": "Lourdes : le commissariat «désenvoûté» par une chamane, la préfecture dénonce un «dysfonctionnement»",
    "date": "2026-11-20"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "Pokaa",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaENTRmphdWlhNVV4V0lKcGdNcE0zNno5NDdPUDFTeHpGME5aQ2xwNU03amM2MFBkVkRPbkJPNjVtTm9pa1J4QjBFRmJaamVkckVCdUhxenNuLVVQZ2ZQU0NTeWRnQXE3S0JwX3NmczYwcU5Rdms1a0FURElFbmRIOXJkaGtteFRvRHBNWTV2ZDcydlZzb1RCUldHX0JSNnFBSGljS3h0UlFoTkdDTE1sQ2ZzRQ?oc=5",
    "titre": "Nouvelle journée de mobilisation : les choses à savoir samedi 21 novembre à Strasbourg",
    "date": "2026-11-20"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/international/europe/italie/video-colere-sociale-des-dizaines-de-milliers-de-jeunes-se-mobilisent-a-travers-l-europe_VN-202611200916.html",
    "titre": "Colère sociale: des dizaines de milliers de jeunes se mobilisent à travers l'Europe",
    "date": "2026-11-20"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "Info-Chalon.com",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjVkaDFLOXB6VUhYZTBzbHhHdXA0YlhwNmxqbVQxZnRuU3RGc1pRMmtqWnA4TDEyT3BpU0JwT1FlYUlvZy1FZDVCWm9sSm9OQ2REcTNzNkR4ZU4wc2h6TEtGSHU4bjktcXl6SEZ1ZkZBLWFpT3RyX3R5WDBoZmgtcERlZ1RqX3Nva09rZDFVQmNkZTN2TlhCSnRfcjBOM1pHUnRjRVVwaWlKYzFfd0JxTzhsYzRHVDh6YmNuQXVKc0lQU05tQ0ZPMEs0aWtSdzh4MVFWZ1pFUVpFdjRfWGhPRzVR?oc=5",
    "titre": "Mouvement « contre la vie chère » - Les mesures mises en œuvre pour ce samedi 21 novembre à Dijon",
    "date": "2026-11-20"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/elections/le-logement-est-le-premier-poste-de-depense-qui-ampute-le-pouvoir-d-achat-des-francais-souligne-christophe-robert-de-la-fondation-pour-le-logement-des-defavorises_8292908.html#xtor=RSS-3-[lestitres]",
    "titre": "Le logement est le premier poste de dépense qui \"ampute le pouvoir d'achat\" des Français, souligne Christophe Robert, de la Fondation pour le logement des défavorisés",
    "date": "2026-11-20"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "https://infos-media-nantes.fr/",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUFScVFnMm1ZZ01PcGdfQVZ6VDFHQUZndHNjbTdRNmYyR0tFRV9pZDlFZjk4dmF4WE5GdmQ4NWN6dlAyY0pWLWYxbTZGVnhBRDZjb2FjZ21paHA0ekJJNW95ZnZ2elNUVFNDSHFxRHROLUc0cWluU09TUS1qWm1CLVpCWHM3eTNQQWd2V2ZPUlZmTUEzeXFv?oc=5",
    "titre": "Nantes : face aux blocus des lycées, des familles envisagent l’enseignement privé",
    "date": "2026-11-20"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRll3dTE3TjN6aGpfZ0dYd2U3VnM0aGY3NVJPWUhJLW1ZN0s5Ui1wRUxRUjkxSUZfLVg3bjZNY3I2eVlaU3hZYlJtSzl5aUF4cHJCSHFPeTRoWWNjXzdsem16cmFwOU5pRDlibF9tc3Z6a0RLWHVZT2dtaE1LejRpV3pOZG8zQlhOX2ZydTllU2dVdEl2U3hSTVg0c1pqOWlwRFFOM3RiWmkxMl9SRGQ3QnNudnJmck5XSGhvZEkwajdsM1J5VHJvcnc3RUF5MDY4YUltOVB2Rnhicjd1S1lqTS04VjY5TDhhd3pNTldQbVFRMUZEdjlFSWNCNldlQkJmQmVacjhodVR2T252U0g4QmNoc21ZaTR0UTlnSUo2eXdzdjRW?oc=5",
    "titre": "« Afin de retrouver un peu de sérénité » : à Rennes, les lycéens de Zola ne seront pas accueillis la semaine prochaine",
-   "date": "2026-11-20"
-  },
-  {
-   "n": 45,
-   "nom": "Le Figaro",
-   "url": "https://www.lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120",
-   "titre": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
    "date": "2026-11-20"
   },
   {
@@ -394,5 +393,5 @@
    "date": "2026-11-20"
   }
  ],
- "genere": "2026-11-21T05:30:45.153895+00:00"
+ "genere": "2026-11-21T07:03:43.152073+00:00"
 }
