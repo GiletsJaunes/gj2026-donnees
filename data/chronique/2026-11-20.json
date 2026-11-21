@@ -61,7 +61,7 @@
  "jour_long": "vendredi 20 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -373,9 +373,9 @@
   },
   {
    "n": 45,
-   "nom": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRll3dTE3TjN6aGpfZ0dYd2U3VnM0aGY3NVJPWUhJLW1ZN0s5Ui1wRUxRUjkxSUZfLVg3bjZNY3I2eVlaU3hZYlJtSzl5aUF4cHJCSHFPeTRoWWNjXzdsem16cmFwOU5pRDlibF9tc3Z6a0RLWHVZT2dtaE1LejRpV3pOZG8zQlhOX2ZydTllU2dVdEl2U3hSTVg0c1pqOWlwRFFOM3RiWmkxMl9SRGQ3QnNudnJmck5XSGhvZEkwajdsM1J5VHJvcnc3RUF5MDY4YUltOVB2Rnhicjd1S1lqTS04VjY5TDhhd3pNTldQbVFRMUZEdjlFSWNCNldlQkJmQmVacjhodVR2T252U0g4QmNoc21ZaTR0UTlnSUo2eXdzdjRW?oc=5",
-   "titre": "« Afin de retrouver un peu de sérénité » : à Rennes, les lycéens de Zola ne seront pas accueillis la semaine prochaine",
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDBiQTdVd2Q0d09aSlctSWtoYV96bHd0WVg3a1ZsQWJSVzN5YzZjV0N2WmtDVHU5MV93cHhiYmVzalhVRHd4cnJrUEh3cW9VemQ4UHl2Y1c0bTlZQXpvbVhYM0lLdm9nTm04N0tOUEEwcVlxU003enA5Y1VKR2dIeEhiTE8wVmJTTHp1M0Q3LTZmX2c4cWxrMHRnR3dwamNUYWw2MHhFNGVRb3pqb3J6dlVDRU1OcHNHcGpWcHZHMm9nZHBoMC1YSFNvUnJYNG9MWmo3Tg?oc=5",
+   "titre": "Manifestations du 21 novembre : Montpellier, Nîmes… À quoi s’attendre dans la région ce samedi",
    "date": "2026-11-20"
   },
   {
@@ -393,5 +393,5 @@
    "date": "2026-11-20"
   }
  ],
- "genere": "2026-11-21T07:03:43.152073+00:00"
+ "genere": "2026-11-21T08:27:09.152608+00:00"
 }
