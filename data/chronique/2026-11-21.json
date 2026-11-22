@@ -1,0 +1,564 @@
+{
+ "titre": "Samedi 21 novembre : Acte VI",
+ "chapeau": "Le mouvement continue avec l’Acte VI : 150 000 manifestants en France selon les organisateurs, et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "150 000",
+   "libelle": "manifestants en France",
+   "detail": "selon les organisateurs",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "valeur": "82 500",
+   "libelle": "manifestants en France",
+   "detail": "selon ministère de l’Intérieur",
+   "sources": [
+    49,
+    38,
+    47
+   ]
+  },
+  {
+   "valeur": "21 500",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l'Intérieur",
+   "sources": [
+    50,
+    51
+   ]
+  },
+  {
+   "valeur": "150 000",
+   "libelle": "manifestants en France",
+   "detail": "selon l'Union étudiante (non recoupé à ce stade)",
+   "sources": [
+    38
+   ]
+  },
+  {
+   "valeur": "82 500",
+   "libelle": "manifestants en France",
+   "detail": "selon Beauvau (non recoupé à ce stade)",
+   "sources": [
+    48
+   ]
+  },
+  {
+   "valeur": "80 000",
+   "libelle": "manifestants en France",
+   "detail": "selon le ministère de l'Intérieur (non recoupé à ce stade)",
+   "sources": [
+    53,
+    54
+   ]
+  }
+ ],
+ "points": [
+  {
+   "texte": "Colère sociale: 150.000 personnes se sont mobilisées partout en France selon les organisateurs.",
+   "sources": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "texte": "EN DIRECT - Colère sociale : 82.500 personnes présentes dans les cortèges ce samedi, annonce le ministère de l’Intérieur.",
+   "sources": [
+    49,
+    38,
+    47
+   ]
+  },
+  {
+   "texte": "En direct Manifestation du 21 novembre : 82.500 personnes dans les rues dont 21 500 à Paris selon le ministère de l'Intérieur.",
+   "sources": [
+    50,
+    51
+   ]
+  }
+ ],
+ "recit": [
+  {
+   "texte": "Selon Ouest-France, EN IMAGES. Mobilisation contre la vie chère : 70 manifestants près du Mans, deux interpellations. Selon La Dépêche, VIDEO. Manifestation du 21 novembre à Toulouse : une colère intacte et un centre-ville noyé sous les gaz lacrymogènes. Selon France 24, Manifestations en France : colère contre la vie chère et les violences policières. Selon BFMTV, Éborgnés, amputés, mutilés... Des manifestants racontent comment leur vie a basculé lors des mobilisations contre la vie chère.",
+   "sources": [
+    17,
+    19,
+    24,
+    29
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon La Libre.be, Manifestations en France - Syndicats, jeunesse et gilets jaunes dans la rue pour le sixième samedi consécutif (repris par 14 médias). Selon Daily Beirut, Sixième samedi : Gilets Jaunes et syndicats mobilisés (repris par 8 médias). Selon Le Monde, Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation (repris par 7 médias). Selon La Croix, Enquête contre des policiers pour violence et agression sexuelle après la manifestation du 31 octobre (repris par 5 médias).",
+   "sources": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon brest-infos, Brest : environ 1 500 personnes mobilisées contre la vie chère, une participation en baisse malgré une détermination intacte.",
+   "sources": [
+    45
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche encore en lice » (repris par 3 médias). Selon Libération, Présidentielle 2027 : François Ruffin retire sa candidature (repris par 3 médias). Selon Le Figaro, Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d'exclure les macronistes». Selon Europe 1, Présidentielle 2027 : Éric Zemmour lance sa campagne avec un premier meeting à Toulon.",
+   "sources": [
+    9,
+    10,
+    15,
+    34
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-21",
+ "numero": 51,
+ "jour_long": "samedi 21 novembre",
+ "acte": "Acte VI",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOM0w4RlBGSjBvckVHN2RkZWhaUjlrbE9MWUNBbXR6UmxVUmdyVVhhR0FUbE5vc1d3Z0lfVlItekI0ZDkyQ1k0WHI1Y3FxVGpweWRVQlI2NnNRZmo5UzVlTi0wNk9GVUsxZDBOaVJoNkpPa1RncjAyWFdLeHI0QlFpalp6YUZRTXlYUGdFUGEzNEFaeFNKdFphckdVUnp2YS1uMmZVMzIzTHp3cnA0RG5ucFdYZGdlem9FWGM4NXNzRlJYaFpIbFJPMVN1ME83anE1dDdiSkJWM1ZFLVRtd216ZHNCX1pGMlljdmoyam5XUlVJQzVUVVJVRW11cjlQV2ZpSWV6eXQyU0w0WWNNdlhJOE43RG5uUQ?oc=5",
+   "titre": "Manifestations en France - Syndicats, jeunesse et gilets jaunes dans la rue pour le sixième samedi consécutif",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 2,
+   "nom": "Daily Beirut",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWFxVllsa0RkUUpIbldlOGRNUEgxZE5EMGFOT1kwSm9mM00yMUlnRDNhdkVlc0YzUWpQdXRFMDZlTDgtNURsaDB0QlU5UDRTVmpQWVFzMVkwRnJ5TlJLekExSk84OTNSejl4WTBnNDZJV2cteFhnbktScXJUaDBSNzVDYkg4MHVZZDZuZktHdE9UMU9PUjRrdk15THFrNmNs?oc=5",
+   "titre": "Sixième samedi : Gilets Jaunes et syndicats mobilisés",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 3,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
+   "titre": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 4,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/societe/enquete-contre-des-policiers-pour-violence-et-agression-sexuelle-apres-la-manifestation-du-31-octobre-20261121",
+   "titre": "Enquête contre des policiers pour violence et agression sexuelle après la manifestation du 31 octobre",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 5,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/faits-divers/ca-va-etre-fun-y-a-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-d-une-manifestation-20261121",
+   "titre": "«Ça va être fun, y’a pas de caméra dans la bagnole»: enquête ouverte contre des policiers pour violences et agression sexuelle lors d’une manifestation",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 6,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20261121-mobilisation-en-france-un-acte-vi-sous-l-impulsion-des-syndicats-et-des-gilets-jaunes-qui-f%C3%AAtent-leurs-8-ans",
+   "titre": "Mobilisation en France: l'acte VI rassemble 150 000 manifestants selon les organisateurs",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 7,
+   "nom": "l'Opinion",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV21Na1FXRkY0aUV2cUkwY1JVNS1ZN2NzUmdtX1FUTzd0REZkVDdoS0Y2djZINTV1UmhFTUg1cC0tN05veTYxUVRRNXA2bnNYWUJhVXhpdC1DS1pxWGlGWG9XanVsRjVuUFl6QU9OQ05ISUQwRE1weVlrLXhQRlJ2SnFybENLMEQ2eVNmN1dkUkd4TUlHSnZvQWRKR3ZPRFU3LXIxSnBZdnU4NVhsVlNiWkpRZ3k?oc=5",
+   "titre": "Colère sociale : un sixième samedi de manifestations contre la vie chère en France",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 8,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRG5TcXhOZU9PT3YzQmJzY3BfTDBOYUFwcnZHakxMdzFGcklRV0ZGZ3FVRVR6RHVGYTZzQU92aGZjbGFrNDRmV3pQaWtlRFE1d2k2MUtSelVkdHlWWGFiQmlNZ3BETjZsVl9yZ2J3ci1tTDJQRTc3UWVlX1hGbE9fN2E1Nml0dEpmQ3h2S3djUzFEVm9uaXZabWg5ZUcyVmNHNy15Zl82QXA5OFdENHF5YW1rMTZVZXo0enRfNHpUWHo1aXVNWmczSnNrSmNtWmM?oc=5",
+   "titre": "\"Comment on se reconstruit ?\" : dans les plaies des manifestants gravement blessés",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 9,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-ruffin-retire-sa-candidature-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice-31606366.php",
+   "titre": "Présidentielle 2027 : Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche encore en lice »",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 10,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/",
+   "titre": "Présidentielle 2027 : François Ruffin retire sa candidature",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 11,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/ile-de-france/harcelement-et-suicide-de-la-lyceenne-camelia-ses-proches-deposent-une-nouvelle-plainte-pour-relancer-l-enquete-31604318.php",
+   "titre": "Harcèlement et suicide de la lycéenne Camélia : ses proches déposent une nouvelle plainte pour relancer l’enquête",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 12,
+   "nom": "Yahoo Actualités",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXZWNWliWkpVYmNLNnRwSFhVWGRQTTJWZ2xnOHdCUnE0RHM1dzMxSnNrODEtLWJPOURqY04tSzF2ZDZDZlUzNVZJZ1lBSGRCbVpVYmZfU1RKeWFZcGlmSGtzeTB3TzEwaWpPR1MzWEJMWEcwRFdRWEVwaWVmUTBKOXBsN2wtdw?oc=5",
+   "titre": "Mobilisation en France: un acte VI sous l'impulsion des syndicats et des gilets jaunes, qui fêtent leurs 8 ans",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 13,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/au-depart-ce-sont-des-mesures-de-l-etat-d-urgence-que-sont-les-micas-ces-procedures-administratives-qui-visent-certains-manifestants_AN-202611210237.html",
+   "titre": "\"Au départ, ce sont des mesures de l'état d'urgence\": que sont les MICAS, ces procédures administratives qui visent certains manifestants?",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 14,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTVPMXJ4VUVkalE4YThuWkFoZ2VMM185TlZlakJkZ0ttV2VnM1BaZmRGZUpiYmRSbDVaNENJVUlOYkxZUkFSM2VuUWxVcFZtR1RYYUVidUM3SkVlLXVrTVZmR1pnTEh5dFp5OFQ1bk90RDg1UXc3Y3pFY0pqb1BTdEFHbm9Qb2JtVzRfejY4bnFpM0UwN3V4d2dUNV82MUpkX3JvSDh0Yk9vZG5rc2F0OUxxSVdSTGVIMXJZcTlZdnhhTl9tT3NMS3YwVFJnUmc?oc=5",
+   "titre": "Crise sociale. Syndicats et gilets jaunes dans la rue pour un acte VI, la contestation s'étend à l'Europe",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 15,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261121",
+   "titre": "Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d'exclure les macronistes»",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 16,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/manifestation-du-21-novembre-le-ministere-de-l-interieur-denombre-82-500-participants-en-france-les-organisateurs-en-recensent-150-000_AP-202611210392.html",
+   "titre": "Manifestation du 21 novembre: le ministère de l'Intérieur dénombre 82.500 participants en France, les organisateurs en recensent 150.000",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 17,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMldBRGlXWHR5UXRBa2tKUk1CMmpoejNBaTJEMFdpZmtWb19IX0JaVWhwRm1OSDVLQXd6T0c3cEhGd1BweF9uN2RrdjVSQ0VjZG5ISXFkMkNiMDZhWl9oQzlGUnNzZmR2X21RajZYSmV1dTVCSVpOekxhalk2NWtRTFNRY2RLbm94dFpmYl9seHl1VkI0V1Z6Z1o1V2xXa00wZmJ0WEVsUGZWNDg1ek9jaVZpRUd6VDU1Uml3aTBteHB5cnF6OTQ3ajNSNWVzN1lRU1dYR0g4M3pNWGduZmtybFEtZUJoM3ROSzhGNU1BSVMtQVpveFdldUhQS1dGSEVvbGFVVEdvYW10YjA?oc=5",
+   "titre": "EN IMAGES. Mobilisation contre la vie chère : 70 manifestants près du Mans, deux interpellations",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 18,
+   "nom": "RTL",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOHpUcjlGbEY1cXdPdmFMSDd1Wmd5QVNzVklGcXE2bThRdHpvdzd1eV9relpXUFlfUi03RDVrTFFKMFByd1FiQVhnakVEdGw1UUhEdUt5ejNFZVhiSlU4NEYzZkM3SDl6bTdhSnVkNHhNVFNnbTJiOGtUVTg5d19keWZuRHg1VVpKY0VZWURkR05QSU15S2ZFZG9BekkzeXVla1NFQWpPeVpYdGppTmd6NWZ6S1JzWjVid1JxT0R5VkxaNnV3b1RBaVJsbm80bDh3WmtYV0F0anJjaWZScnU1SC1kRGdpN3p0MTA2T2lrWm9BUmVmaEZCUloxUllLZw?oc=5",
+   "titre": "Mobilisation du 21 novembre : 150.000 personnes ont manifesté en France selon les organisateurs, 82.500 selon le ministère",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 19,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/21/manifestation-du-21-novembre-a-toulouse-une-colere-intacte-et-un-centre-ville-noye-sous-les-gaz-lacrymogenes-13664715.php",
+   "titre": "VIDEO. Manifestation du 21 novembre à Toulouse : une colère intacte et un centre-ville noyé sous les gaz lacrymogènes",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 20,
+   "nom": "Le Bien Public",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEFHeThUNDk3WEtzYmpGdDNlamRiVXJCeDBpcVd1aktYTWZqSi1saFVnVlJTQmFiVldaTlIzanhoWkt6bXR3TWZiaGMyVUpwU2kzUzRjcnBRR0M5ZXh6VFBkc0ZCcFBpRnF2RDlFcl9WTnB2bEtPT3UyblBHNDlDUUhLc19Wd2wxSWhJOW16SzZmTDAwNm9VeFJoaFlOWGUzdk1BdkhobDVORlRFSEZGSmllb2lGNUh0WnFpYVF3a0M0TW8?oc=5",
+   "titre": "📸 En images. Manifestation du 21 novembre : entre 600 et 800 personnes dans les rues de Dijon",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 21,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNOFpCYmJsdjZyMmkybFJxb1lLdWplWTRLVjhzRU5yYUg0cDhPT2FWTDNxVlhGQU1kRnd4TXFPa3piRVhZR01jckxlVGp2T2tIZHJPN3JGbFJlcldqZWZiQldEQVlSRGxiYzNUU0hkX2dCRnQybW5qRDJIZzFHQU1EcTVjSHJfakQzd0hxRWgxRjE1a0ZMbVZaNmk5RE14ejZFSjNSc0h4WW52RGdRemVBbzNxR2tVY0VuNENrZDZMeEFHRG4xcGJzTFlIOGxzWElZQ1pLZExHNGY2dVZRa21tb3RabDdrNTgyMm9STmI3Wkhmc3N5bXFBcG44M1VnbnVudmI2eF8xeFpwRjB3Si01VVB3UmJRaktfTDRN?oc=5",
+   "titre": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 22,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZDlFbU14WkdZVUVBQWtKZ2g1Uk8wcHRsdzhuSGpnYjBpSTQ3UXZPZ2ktYlNXaWV5ZFE5cFhqYzV2V3F3U0ZzYkkzMVVvaFgxMFNTNktJWVFMcmMycHBiX05uUE9RWXkyb25KWW1WWXJSZDEzN0lZbTJ2VllUQ05wZFpnRDlzdTJwS2R5YzlIblpKdERtalNvTXZXdHoxZ3Y2NDVfYVZZNEVQS3BweGR3ZjhqNDVwRlVQY1FSSW9BeVNHT1J5UUlGLTRnNkRuR05iVXhvZXpYYkNlMTgwMzNlbjkwZGVSUGFNd0MwQmJINFJpdm1lSm5DNlRDZGxhSkpaSDB0dVB3?oc=5",
+   "titre": "Colère sociale : \"des blessés de guerre\"... éborgnés, mutilés, ces manifestants grièvement blessés racontent comment leur vie a basculé",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 23,
+   "nom": "L'Indépendant",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXFtXzJCZ0dXNndkbmZHU2V1SUcxNXhpOHhTT0tZRmQ3YUMxVC1KWkRZa040Vlp6YWJNeF9DaVRYcHE3NU9fX3hmN1A4ZGxkRlBoSmRLenk0cVdMcURTaWlEZzNvcHpvemNoQ1pCOEZOc3IwdjZzOEhtNWh0TVhQTzBCLUZ3Q3dSYkVkN3loMk54QkExQm5fTk9FZXpjcGhJSUF4cHBKVFBLTUJqV3FXTXhoZUVDZEhMN0RIREc4blJwazZNazhnUmFaWEZZUXR6N3Q2Qk9IbEhoSTg?oc=5",
+   "titre": "Mobilisation contre la vie chère : une centaine de manifestants sur le pont Arago à Perpignan",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 24,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestations-en-france-col%C3%A8re-contre-la-vie-ch%C3%A8re-et-les-violences-polici%C3%A8res",
+   "titre": "Manifestations en France : colère contre la vie chère et les violences policières",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 25,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQazA0YnpGVTMyOF9mcjdVZzNZSFZXMENmYWRpRi1nUWplTWJOX2hibTlJLXgtNzlLak1TRGNKMExQb2xka01JalFsdDl5QlE0YURQWTBicWUxWm9Gb2lxem9CWW1oY0JLS2E5Z1R4OUZTdDNxeG95cjByTjhwckxGdGl0MGtrLVV4cmItREI2NFk2aDYwLTgzSko1ZWZ1WE9NRE1PUjFYTGdFX2JxLUljNXBQWGEyZEtEanpaWU5Hb0VPeTZXdVZYWGo1ZUlGQmU3NWd3WDVtS1VjLUhrdVhzYU45djJCbmRobm9DWWx0cFNfbGRfcHBtWXlBZUctR09kVmhYbXJZYzA2dGI0X0tEWVhINXBVYTlwNkZiM1lFYXFETkV4?oc=5",
+   "titre": "Manifestations du 21 novembre : dispositif policier majeur, date anniversaire des Gilets jaunes, villes privées de cortège... Ce qu'il faut savoir de \"l'acte VI\"",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 26,
+   "nom": "La Libre.be",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdm9kQnpTUE5OV1dfOXJuZWgtRHNmSFFHRWJiNDNfTDg0NVE4MnE0TXdQMnJEZ053bF90STU3eDl5akFFMWt2QVlFazZ5TWh4WTZpYnc3NUtBbS1yUzEwSGtJZ1dUSVNiSFFQSy1zTnlzSm1ZRVpYXy0zdDFybUxsNWhSTnJrWTUtSHJ3ZU84QV9vVUhkaE10ejJxZXAxeG9fM25lNDBlSDZNY0k1b24yeEFxdlRGYnJtUzBDbV9qR2VZY00ycHJ4aF9LYnV6NU5HUjhXU3dqU1ZyLTZ2MVdfSmFhemlMcmxOU2p3R0NuRTBmSjZUU2xlTjJ3cw?oc=5",
+   "titre": "France: des policiers accusés de violences et agression sexuelle sur des manifestants",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 27,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-un-vent-de-revolte-en-europe-manon-moret-porte-parole-de-l-union-nationale-des-etudiants-de-france-s-exprime-au-depart-de-la-manifestation-parisienne-contre-la-vie-chere_VN-202611210321.html",
+   "titre": "\"Un vent de révolte en Europe\": Manon Moret, porte-parole de l'Union nationale des étudiants de France, s'exprime au départ de la manifestation parisienne contre la vie chère",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 28,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestations-en-france-la-r%C3%A9volution-en-fanfare",
+   "titre": "Manifestations en France : la révolution en fanfare ?",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 29,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/eborgnes-amputes-mutiles-des-manifestants-racontent-comment-leur-vie-a-bascule-lors-des-mobilisations-contre-la-vie-chere_AD-202611210310.html",
+   "titre": "Éborgnés, amputés, mutilés... Des manifestants racontent comment leur vie a basculé lors des mobilisations contre la vie chère",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 30,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-manifestations-des-controles-preventifs-dans-les-gares-parisiennes_VN-202611210263.html",
+   "titre": "Manifestations: des contrôles préventifs dans les gares parisiennes",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 31,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/face-a-l-essoufflement-du-mouvement-des-gilets-jaunes-appellent-a-trouver-d-autres-moyens-d-action_8293499.html#xtor=RSS-3-[lestitres]",
+   "titre": "Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\"",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 32,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "DIRECT. Mobilisation du 21 novembre : le cortège s'élance de la place de la République à Paris, pour le sixième samedi de manifestation",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 33,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/direct-manifestations-du-21-novembre-pour-la-jeunesse-contre-la-vie-chere-suivez-l-acte-vi-de-la-mobilisation-ce-samedi-31602527.php",
+   "titre": "DIRECT. Manifestations du 21 novembre : pour la jeunesse, contre la vie chère... Suivez l’acte VI de la mobilisation ce samedi",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 34,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-lance-sa-campagne-avec-un-premier-meeting-a-toulon-1241287?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Éric Zemmour lance sa campagne avec un premier meeting à Toulon",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 35,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGFsekJWUkhyX0gzQWpMVVRPQVppQzVxMjhRd2JSWnNiMkZIU1ZEN2dLWHpzdHNtbzJDTndwNm1GelVrZkRHUGN2aGNfR2NWeVJlekRtMG5oV1BKTGd4WjFmVUgwUEhVbENnYnZWaGhKV2UyNlhseFZHbzZ4VWhwWWJCTUhRT25vS3FkZktWSzItZ2JBQ2s5eVVRc2ZoQm15dTZwU2tWb0VpbnF0UGF4djRERWNLclpXd2xzVDdkX2xMWEdwVGNEZEdEMGU?oc=5",
+   "titre": "Lyon. Manifestation contre la vie chère : crainte de nouveaux incidents en Presqu’île ce samedi",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 36,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZFl1OFNMcmU0MW12Q2xxWVpEaUhRV21CVDRBS09hOS1KUEg2dUFEb2wwWlNrejVNcmswRTJ3b1hVd193UjBFbmp5S0hYbEhOd2FmSFZ3XzhrVDNyRThmLXVVT0l2T2RHa001WVMzV0poM1VQd3BadzB2SzZ5ZW1qaWREREZZd3haT293ZnA1WUU0cXNZTl8yS3NUV3p6Z1ZDSUpzQ2k3aWR5dFE0WHprdnVWY1JGZGZvNXNFTS0xel8tSmNZbENCM0Y1WW9BZFZTT0lCcDdUUmVsRmcxbzdTVkhVTjJGNVdiTlZyazlKRVIxR2lCRnV4VF9XQ3hJcjBzdzI0YTYtaw?oc=5",
+   "titre": "Mobilisation lycéenne : les preuves des accusations de « complicités » de violences portées par Matignon à l’encontre d’enseignants restent introuvables",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 37,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html",
+   "titre": "Mobilisation lycéenne : les introuvables « complicités » de violences parmi les enseignants dénoncées par Matignon",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 38,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/direct-acte-vi-de-la-colere-sociale-15-000-a-30-000-manifestants-attendus-ce-samedi-a-paris-huit-ans-apres-le-debut-des-gilets-jaunes_LN-202611210140.html",
+   "titre": "DIRECT. Acte VI: 15.000 à 30.000 manifestants attendus ce samedi à Paris, huit ans après le début des gilets jaunes",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 39,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZFBjcDhwVGhGQ0l4RmNKRmdlelp1SHplS2s4U2xadEhEeEgxbjdqOVpJcFVxLU9zNEIwdEQxcEdVUjFLNFdla2JXWk1WTUcwQjZ6aWp1Z1J6YkpxenhzbElJcy1FcThoTE9DZ0F0WVZGeGpjdWRHNjNiSTg5bklNeWYyOGxhVzVtYWs2aWh0OFlMU1dmeW9jSVVCZXhqX2dhQzZ0Z1p6cjFxak5OaldhUWt5clhsWGJ1eERaZmVjV1FUZzhHbzFFS200Y3R6RzJURjBHb1hrQjRSNVFkX2RDbUw4WHRtWm95aDFlWnIyVnk0WmlteVBDakxlbGNUNTQ5SGVjT1lBbw?oc=5",
+   "titre": "Manifestations du 21 novembre : un sixième samedi de mobilisations contre la vie chère en France, dans un contexte de ralentissement du mouvement",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 40,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNRjYwUDdrbDh4czYtcnNNaG9aa1pRWGJsOVl0YlN6dnIxVXh6MjdCSHQ1WVI4ZEtyWWUtM2tBNGVEQ203T2NZTEtGekI2YzJFZ3YtRVBYMFNuOVZLTmFScjZ5SFQzWUFMX25fd3BfazRLRzFDZFhHT0FJTF9fRDNGbTc2Mlo1RTFoU3V6ckNCV2o0di1IMkZRazZOX1lUVkZhblhHV2R1ZGZFaTJJNGFMNGVhMVpKUW1GbEI0Tno5TUdOWVhNQklyeFc3ekcxNU81OXc4SE1pT3pDcFNWaXhlLWVMbzVFWHBzZlUxYmVuM3JMeGNiYU5xeGQ3dHdHd1VrNE56TFphR1pRZTNMdkU1Y0dndVVDR1kzNWNRR3l2RTNUS2NmMVFieVFuZkptUjUwU3pn?oc=5",
+   "titre": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 41,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-a-strasbourg-un-etablissement-refuse-de-reintegrer-un-eleve-innocente-par-la-justice_6814015_3224.html",
+   "titre": "Mobilisation lycéenne : à Strasbourg, un établissement refuse de réintégrer un élève innocenté par la justice",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/video-allemagne-italie-espagne-de-3-000-euros-brut-combien-reste-t-il-en-net-selon-les-pays_VN-202611210485.html",
+   "titre": "Allemagne, Italie, Espagne ... De 3.000 euros brut, combien reste-t-il en net selon les pays ?",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-tout-va-se-passer-a-partir-du-mois-de-fevrier-analyse-thierry-breton-ancien-ministre-de-l-economie_VN-202611210471.html",
+   "titre": "Présidentielle 2027: \"Tout va se passer à partir du mois de février\", analyse Thierry Breton, ancien ministre de l'Économie",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 44,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMi1qcEZRSS1UVXdaWmdrQTJsMHN3dTJTdEM0cVZHc3dkVURjenJNaE1sa1ZhYTgtUDE4N00xNDlrRThuOGhfYVdMakRxT2R1cmRpSnBqbUVNcFRsU1pFTmVJQWFESXVIQTVES25BUnVuOTM5Z0ZwbzlvYXdaVW4yRm9TalQ1SmQzWVk4a0F5dzNzZ3hCS2phTENpYVhBSG8zQ2xmdG1SVGI1QlcxaVFHMTU2bVZZUdIBuwFBVV95cUxNLUd6TVlEek9hWUFrZlR4SmZXVkVrc1d5Y2xGekFvMGhXX1NjVUxYamREUDFOUVNUQnVnQU10Z2hGTlB0bFF3cjQwanJkaDJTZ1Jwd193Nzk2X1ZEaHQ4ZW9yQzRWdjZ0dDNCdVlLVllRZklSVVZzWjNkdVZ4TGhDREo1RDB2SUhWMU00YXZqNXRXenBGb0s2azhWb2ExZmJkLU03M0lvN2x0MUhCTnZlbWFxM3pEMkpMS3cw?oc=5",
+   "titre": "Blocus des lycées : «J'ai peur pour mon diplôme», s'inquiète Chloé, étudiante à Toulouse",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 45,
+   "nom": "brest-infos",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZi1lazcwNGdTb3RpSFYzQXpqYTRFYVBkUG1NUzlqV1N5bktfUWFfdWczeno2TkpiU3hQWTVieEV1NkdWNktSc1VadlM2VG9YSXR6LW16ZjMxaVlZTEtoRllGWGYzLXM1YnIzOTdMbDItd2ZPNjFwYlRKbGVlem96a3RLcHpQMVlaWkRJMUFwYTIyZ0ZEOXVTNUR5YVI1LTFDelI1UGRCNzFMcTZ6RGRVd1lreWViQ2c2LTF3cUlLTDR0ZGdRUTZBVEl0em9GNVYzUk1ZTTVFdnZYX2pNYWc?oc=5",
+   "titre": "Brest : environ 1 500 personnes mobilisées contre la vie chère, une participation en baisse malgré une détermination intacte",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 46,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-colere-sociale-150-000-personnes-se-sont-mobilisees-partout-en-france-selon-les-organisateurs_VN-202611210372.html",
+   "titre": "Colère sociale: 150.000 personnes se sont mobilisées partout en France selon les organisateurs",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 47,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/mobilisation-du-21-novembre-82500-manifestants-selon-les-autorites-150000-selon-les-syndicats-1241815?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Mobilisation du 21 novembre : 82.500 manifestants selon les autorités, 150.000 selon les syndicats",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 48,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
+   "titre": "🔴 En direct : 82 500 personnes ont manifesté en France selon Beauvau, 150 000 d'après la CGT",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 49,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+   "titre": "EN DIRECT - Colère sociale : 82.500 personnes présentes dans les cortèges ce samedi, annonce le ministère de l’Intérieur",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 50,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVS1GWFNWU0ttTUM4ZWllelQ3cEFLLW9lSWlvTFlLSEhaRjN4ZnR2S1dja1ZocFdxVWxCTi05a0VmT01obHU0WWdFYTZJRmpuTjBlcFF0TVVuMkozd1lLdXU2WlFlaDJGV3N6Z0g1Nk4zOU5CWDkxbHV3UlpNRUN0bVhhLXVXSWM5enZ1Vi1MMkJnYVVITHdKUF8xRjBIQlhHMXNXN2I4c1hJaUFjcno5N1VZb3Q4UQ?oc=5",
+   "titre": "En direct Manifestation du 21 novembre : 82.500 personnes dans les rues dont 21 500 à Paris selon le ministère de l'Intérieur",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 51,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-contre-la-vie-chere-les-gilets-jaunes-fetent-les-huit-ans-de-leur-mouvement_8294042.html#xtor=RSS-3-[lestitres]",
+   "titre": "Mobilisation contre la vie chère : les gilets jaunes fêtent les huit ans de leur mouvement",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 52,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObHhKV0MxMW8xNV91WURuMnBtN3BPbXY0Zk9SR25CZFVTMWp5and4T1o4NUVCREwtMVM2RHIycTNoUVF5aUNEMExLdkJDY2o0S3Q0T2hsTVZ5YkNmbk8yYXR1MzYtcjNGV29uTW1lNXZ5RXZMczZWVVdJUDdQYTJsV1hRdE1hbEozQlc1NXI4N0dRTERPSExkN3JyalhSUlFHZGVtbmRuSnFMNDFZa3hrbHc3OEpVdnQweklfc3U4cVFtdXRJU3JOOFQtUVBPdzNaU2plR3VmUll1VEM2bUtSNWlOVGZ1WFhKWktHc0o2MHdUU0Z6ZF9WdW93Vy1Zbk0zQUNGcDNuWDFFOVNlV1VaRlRsS251SGtEVnlfcTdxdU9NQ1ZOdE00?oc=5",
+   "titre": "Manifestation du 21 novembre: le ministère de l'Intérieur dénombre 82.500 participants en France, les organisateurs en recensent 150.000",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 53,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-21-novembre-le-ministere-de-l-interieur-denombre-plus-de-80-000-manifestants-en-france_VN-202611210395.html",
+   "titre": "21 novembre: le ministère de l'Intérieur dénombre plus de 80.000 manifestants en France",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 54,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcWU1cnhUSk1lTHp3cVljekpZam1oenB1WXcwQWJ0UnlyVDZNZ3RhTVZHbDlyZS1adXQ5YzdsVDFmbmJUZGdETXpZbWM0b0ZIR0xYc3BwbzhWTFdnMklocDZubVVUNE9TdFludmNUZXM4SjVxLTU2UTRhdmttZ01xbkhORHdSSEltc05yVkRXUnFTS3JSYWYxRHhaRXY0aU5JS200dzBqTDZhczBoeldBTGZQOXNmQklVT1FvNm55MnFYX3ltdmRJUlJjRWlPeTFPRzUwUjR3NjlDcWR0ZjZjZ2xDQTZ2WXBpclo5eXBISQ?oc=5",
+   "titre": "21 novembre: le ministère de l'Intérieur dénombre plus de 80.000 manifestants en France",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 55,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZGhfN0FwMHVXYWxnblVpdU9GV2V6SklDTEtJYmdXdmdKbXV5X0tiUDE0T1h6ZE9VN0hIczMtSVBRajZqeGd2SFIxRzF2MFNpWlRoSG92ZmtKVWtQaHBTc2F2Z3lCNDNJVS14SVg2QVNaMW9XYlVaQkRWOXlqQWVpVmV4SXI5TFh0NTkyZGtaZndHV3B5SFlzay1DVkFLV082a1V0Mmo2V0dIZFVPQy1sdGVFYmxyMXJRSi05dXg2MXRBeG5vUWtnYThEdlRXRXNiRHpQTTVkQW9lTnFlXzJSM0pWcmZoWTYteWhkX1dRN0pqemxackE?oc=5",
+   "titre": "A Marseille, syndicats, jeunes et gilets jaunes, 80.000 manifestants ce samedi selon la CGT, 4.300 selon les autorités",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 56,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb2FObmpJVVozbFkyVUhJSlpsd2dEVTZuNTRqd2dFSE1pVzk4M1d2ckZJT2E2RzhzRnQ0aUdCTlVRZW9rTG8zVmw4NTRMTFdDU29XcmdWNTgwZkpsTU1vRUJYa0FyY0tVMDdaSjJJLWZpdVhCT1NHakRDN0NLbGFoNVNpZHczSklhaGRMUEIzTllSMHNUM04yMy1XVEwyTUFycEtvcmF5QVdIQm16akNuZ0FJdF9KalNmVmhwdVRQMWNzVEFsQ3ZjRDFmZENJNDYwYTJrX0xXMDdUR1AwcUpyOWpkbk4?oc=5",
+   "titre": "Manifestation du 21 novembre à Caen : un peu plus de 2 000 personnes mobilisées, trois interpellations",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 57,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+   "titre": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 58,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZlVnN0U1QUZuQng0aHpFOWVNd1U5ek1JWGZsZTJFcUJtdlo0bEdraG43MFotaGMyWEZYZEJYMEJzLVpzZ01yVF9EOWZzbW1PcHlyZVh3Y0Izal8xT014YVVSTHR3dVBvRTEtb19UTEpCVEs2d3hYM1F1WVVaTmFyU3pZcHctYkhGQTQ5dHgwbjZqVGVNOGltY21adkwxWlQ4RENaYlpjMVRWSWd0TWt1NXVwTDA2cTVHVXfSAb8BQVVfeXFMTkhGTmxtRjJwVHJrM2RuejhIWGtyVV84dVJBT1hWWW9SUmc0VzM3aVJTZ21PUzB3N3dTb2JlRllUc0hfb0t4Yy1RQ3NLdU80M3czZVBFQXlRQlg4U0UtMlpIUUtrT3ZQX2xVQ0RDWHZQS3lxVWJRb3dkSEZocDdLOVhZaTNqVTNMVXNkWmNvZ2FaTjFfbmQ4elhMVl9IeU55ZFV6Qmo2TW4zZFduMTBYYlJtYnUyS3JvRUEwWWhUaEE?oc=5",
+   "titre": "Manifestation du 21 novembre : 144 interpellations en France, annonce le ministère de l'Intérieur",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 59,
+   "nom": "maville.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTd5OEVZR1lmQVpXOS1sUVB4Uy1kLXZCblY3MlVmMTVrLXFmaWk4T1EwNWFrLUg4UTNHNFJ0WUxzVXoweC1Xa2RqNzd2VV9IR1ZUOFRYUGt2NnVxbUFYZGx1VDNHY1RsZkw3ZW5JSjItWVdPM1YteWh0VGN1VzlmbnQydU53UnVCZkowSHJWT2k3Z0hmbFlCM1FxR2xnMGxKaEN5cVBrUzl3Nm9ueFFoYWxZQWJUSnh5N0xkWmdJckowemdmSlVXSWVDZDRKWVRPdHMyX0I0MDNfY0Y3MFo3dGdvSkR2aElTN0E?oc=5",
+   "titre": "EN IMAGES. Mobilisation contre la vie chère : 70 manifestants près du Mans, deux interpellations",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 60,
+   "nom": "La Provence",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYmQ5aWVqUnpGMi16Z05RSFBteUdyNVhSTFVCVENua29TS2YwWm1oQWs3MERKb0hFbElpcDZlSzlSdUl5dWV4Sk9BWUJaQW44R3NsZmtWY2lmZW5tWWJnNGZZY2FPM3VWTXBSVTM5Z2UwSmpjcHdLdUtoMXAwS000UGZGdzNLZFYwOHFtUEFzdHpja1FMNnZIQkRGMGVQdnBVaTNaM2RfWGRZLVVXUjFLeTQ5LWFUenFKTmpwV1JESEZ0eDZ3WUNxTVhRb3UyRTF4ckZWdDE3aGdjZTVxcVFJZ1ItWmh5XzVMNGpBWkFsbFdjNVRSNkZwNEZvUFBvSklhdl9WSnd0MlVQUQ?oc=5",
+   "titre": "Mobilisation du 21 novembre : 10 interpellations en marge de la manifestation contre la vie chère à Marseille",
+   "date": "2026-11-21"
+  },
+  {
+   "n": 61,
+   "nom": "Radio SCOOP",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejlWS0dDajdVUnZuZklSYlEtZERuT2xTYzJiUjFlZ3pmbUE2TEZoWVVmV2pFZjlSMjhUVU1EOXhiSXJBVk5LV2dpeHZDWkQwZkdkd2liZ3pudTdYZ091WGhNaTVpV1ZPQzQxNlI0bmEzR0lYTGt0Z2dtOUhUWDVic3pNdDd2b1BsX1JEeG8zN25qVTZ2ZlhtSERkSUw4REYtZGM5OHNGV1YzNUoyVnp6NjVFRXVONFdyZVVpNEliNkc?oc=5",
+   "titre": "[MAJ] Acte VI contre la vie chère à Lyon : 8 personnes interpellées à la fin de journée",
+   "date": "2026-11-21"
+  }
+ ],
+ "genere": "2026-11-22T05:56:41.957562+00:00"
+}
