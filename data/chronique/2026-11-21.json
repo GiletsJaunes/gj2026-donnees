@@ -130,7 +130,7 @@
  "jour_long": "samedi 21 novembre",
  "acte": "Acte VI",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -560,5 +560,5 @@
    "date": "2026-11-21"
   }
  ],
- "genere": "2026-11-22T05:56:41.957562+00:00"
+ "genere": "2026-11-22T07:05:24.579266+00:00"
 }
