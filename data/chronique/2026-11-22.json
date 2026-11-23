@@ -1,0 +1,412 @@
+{
+ "titre": "Dimanche 22 novembre : ce que dit la presse",
+ "chapeau": "Le mouvement continue : 82 500 manifestants en France selon de meilleurs salaires ou des logements dignes (non recoupé à ce stade), et la presse suit les suites de la journée.",
+ "chiffres": [
+  {
+   "valeur": "82 500",
+   "libelle": "manifestants en France",
+   "detail": "selon de meilleurs salaires ou des logements dignes (non recoupé à ce stade)",
+   "sources": [
+    46
+   ]
+  }
+ ],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon France 24, Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition. Selon BFMTV, La mobilisation des ouvriers du textile se poursuit au Bangladesh: autorités et patronat sont sous pression (des commandes sont déjà transférées vers d'autres pays). Selon BFMTV, BFM SUR LE TERRAIN: Maxime Brandstaetter, journaliste police-justice chez BFMTV, explique le principe d'être \"embedded\", embarqué avec les forces de l'ordre.",
+   "sources": [
+    11,
+    33,
+    44
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon franceinfo, En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition. Selon RFI, Ukraine: six morts lors de frappes russes dans la région de Kiev. Selon Ouest-France, REPORTAGE. En Turquie, le pouvoir s’attaque aux derniers médias d’opposition. Selon La Dépêche, DECRYPTAGE. \"Les journalistes sont devenus des cibles\" Agressions en manifestation, exclusions politiques, finances dans le rouge : comment les médias sont mis sous pression.",
+   "sources": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon franceinfo, Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique. Selon La Dépêche, \"En dix ans d'existence nous n'avons jamais vécu de période aussi difficile\" : des parcs et entreprises de loisirs du Lot alertent après une année \"chaotique\". Selon Le Monde, Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France. Selon France 24, Sommet tripartite de Shenzhen, COP 31 et gronde sociale en France : la semaine en images.",
+   "sources": [
+    10,
+    27,
+    28,
+    45
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon 20 Minutes, Présidentielle 2027 : Guerre ouverte entre Lisnard et Le Pen, Macron culotté sur le déficit.",
+   "sources": [
+    17
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon France 24, Présidentielle 2027 : \"La dynamique de vote utile s'exprime de manière très anticipée\". Selon Sud Ouest, Présidentielle 2027 : attaqué par le RN et le centre, Lisnard ne lâche rien sur la primaire. Selon Le Figaro, Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens ». Selon La Dépêche, Présidentielle 2027 : \"Ce n'est pas un simple parti pris, c'est insultant\"... Benjamin Biolay dézingue Pierre Perret après sa chanson visant LFI.",
+   "sources": [
+    6,
+    7,
+    12,
+    14
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-22",
+ "numero": 52,
+ "jour_long": "dimanche 22 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html#xtor=RSS-3-[lestitres]",
+   "titre": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 2,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/europe/20261122-ukraine-six-morts-lors-de-frappes-russes-dans-la-r%C3%A9gion-de-kiev",
+   "titre": "Ukraine: six morts lors de frappes russes dans la région de Kiev",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 3,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/monde/turquie/reportage-en-turquie-le-pouvoir-sattaque-aux-derniers-medias-dopposition-0430482c-e68c-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "REPORTAGE. En Turquie, le pouvoir s’attaque aux derniers médias d’opposition",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 4,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/22/decryptage-les-journalistes-sont-devenus-des-cibles-agressions-en-manifestation-exclusions-politiques-finances-dans-le-rouge-comment-les-medias-sont-13663174.php",
+   "titre": "DECRYPTAGE. \"Les journalistes sont devenus des cibles\" Agressions en manifestation, exclusions politiques, finances dans le rouge : comment les médias sont mis sous pression",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 5,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html",
+   "titre": "VIDÉO | Manifestations de la « gen z » et contre la vie chère : retour sur un week-end de mobilisation en Europe",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 6,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-pr%C3%A9sidentielle-2027-la-dynamique-de-vote-utile-s-exprime-de-mani%C3%A8re-tr%C3%A8s-anticip%C3%A9e",
+   "titre": "Présidentielle 2027 : \"La dynamique de vote utile s'exprime de manière très anticipée\"",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 7,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-attaque-par-le-rn-et-le-centre-lisnard-ne-lache-rien-sur-la-primaire-31615987.php",
+   "titre": "Présidentielle 2027 : attaqué par le RN et le centre, Lisnard ne lâche rien sur la primaire",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 8,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
+   "titre": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 9,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/gouvernement/laurent-nunez-estime-que-les-debats-sur-l-antisemitisme-ne-doivent-pas-devenir-un-theme-de-bataille-electorale_AD-202611220412.html",
+   "titre": "Laurent Nuñez estime que les \"débats\" sur l'antisémitisme ne doivent pas devenir un \"thème de bataille électorale\"",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 10,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 11,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/asie-pacifique/20261122-des-milliers-de-personnes-manifestent-%C3%A0-istanbul-contre-la-fermeture-de-m%C3%A9dias-d-opposition",
+   "titre": "Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 12,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
+   "titre": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 13,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRXZmNjdzd2p0OFRWb2J6aHNqVnlZQkt4anFFLVFZOWdXcFFqb3cwN2VxMURISEFoeTZSdzQyQ2w1b21MLUEtZGhabGdHSHNGaTJQTVBWSEpVTTJUUC1ZM2FmV2Vhdzk1UWdPWi1TTDg0UUlDQ3l6bXpCbG9sWk96X0pUcGhLWllEN212bkVxVHFfUHJGMnQxNF9Hem0zQ2JqbHRCcWNQaG52OHdYQVhXcF84My1xNERFUm1Ud2lyZHAyOE5GMGtZMllJSTRYcThXQ0xvUGJWVFhEWElYYkoyeUJicWNUY2RDRXRkX0xNWkFzY2VvT3Zqekdqa3d6OW5VYkJUcGpVT1J0QQ?oc=5",
+   "titre": "Participer à une manifestation relève-t-il de la fonction d'élu ? Un élu orléanais saisit le tribunal administratif",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 14,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/22/presidentielle-2027-ce-nest-pas-un-simple-parti-pris-cest-insultant-benjamin-biolay-dezingue-pierre-perret-apres-sa-chanson-visant-lfi-13665968.php",
+   "titre": "Présidentielle 2027 : \"Ce n'est pas un simple parti pris, c'est insultant\"... Benjamin Biolay dézingue Pierre Perret après sa chanson visant LFI",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 15,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-presidentielle-2027-david-lisnard-candidat-nouvelle-energie-a-l-election-presidentielle-estime-que-ce-serait-mieux-de-modifier-les-dates-du-scrutin_VN-202611220381.html",
+   "titre": "Présidentielle 2027: David Lisnard, candidat Nouvelle Énergie à l’élection présidentielle, estime que \"ce serait mieux\" de modifier les dates du scrutin",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 16,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/societe/racisme/plusieurs-groupuscules-dultra-droite-se-rassemblent-a-angers-pour-manifester-contre-le-racisme-anti-blanc-767f86f8-e68d-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Plusieurs groupuscules d’ultra-droite se rassemblent à Angers pour manifester « contre le racisme anti-blanc »",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 17,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4264788-20261122-presidentielle-2027-guerre-ouverte-entre-lisnard-pen-macron-culotte-deficit?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : Guerre ouverte entre Lisnard et Le Pen, Macron culotté sur le déficit",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 18,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/logement/effondrements-de-la-rue-daubagne-a-marseille-on-observe-une-regularite-des-strategies-du-capitalisme-urbain-et-des-rentiers-20261122_N35IVIGBWBD7RACVZCZICESMBM/",
+   "titre": "Effondrements de la rue d’Aubagne à Marseille : «On observe une régularité des stratégies du capitalisme urbain et des rentiers»",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 19,
+   "nom": "Le Journal de Millau",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTEhUM1RIYTNZNlpqNWlyemNQTjhFZmVXUnJ5dVhoZjV2aDVVcG5OYU01R0NKZXZFeUljZnhua2V4djNBdTNOSGpiVGk0S014YTJYYk52MXNqTlZIVmRvb181Q3Awem5DV05JclRqNDBvaU5wU0JiQ29JcEx6OUtfN3hIbzBWUTgtRFc1V1pENEdRQ1YtbXZkMTd2bFFqUzItb21jbjRIeWF0REFheEgwcWNDNXY2RmJiTDR2VWNKOEliVkp2U0dsOUhuNA?oc=5",
+   "titre": "Une mobilisation contre les violences faites aux femmes ce mercredi à Millau",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 20,
+   "nom": "Le Ch'ni",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQnRKVExqM3d3Z05IQm1NZUprek1CMHZxYktBa3NuYi1QYzJSYjBCSjhhZUhDLUw5RWVNQ1RFNERXaFBmQ1Fpc2E4LXp0WkZNcUhfYUEybDNJaXQ3N1NPQno0TElGSG1ZTVU1QUttcmF3S1c3VnlpWHlwbkppQVJHZnpHVkhYZHpsTlRmUDhDZUNrWGlTMFljTFFIY3FtY2pZQVZ5UmU1WC1BZWhfYk5PX2JvR1VkNlMyQTNLMmFZSmFUMTBGdjhleHFCRllVZTl1a1NvcUxMV2ZsamJIRms1S1VoNUxsdW1uLUdhZVlB?oc=5",
+   "titre": "« Acte VI » à Besançon : « Huit années se sont écoulées depuis les gilets jaunes, mais ce sont les mêmes problématiques qui dominent »",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 21,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel",
+   "titre": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 22,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
+   "titre": "Présidentielle 2027 : la dynamique David Lisnard s’installe tandis que la primaire de la droite et du centre est dans l’impasse",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 23,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-je-n-en-vois-aucun-qui-est-capable-de-remplir-la-fonction-lance-henri-guaino-ancien-conseiller-special-de-nicolas-sarkozy-a-l-elysee-interroge-sur-les-candidats_VN-202611220341.html",
+   "titre": "Présidentielle 2027: \"Je n'en vois aucun qui est capable de remplir la fonction\", lance Henri Guaino, ancien conseiller spécial de Nicolas Sarkozy à l’Elysée, interrogé sur les candidats",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 24,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-le-pen-attaque-lisnard-et-son-projet-de-broyer-le-code-du-travail-31613571.php",
+   "titre": "Présidentielle 2027 : Le Pen attaque Lisnard et son projet de « broyer » le code du travail",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 25,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-bangladesh-la-fili%C3%A8re-textile-estime-%C3%A0-428-millions-de-dollars-le-co%C3%BBt-des-gr%C3%A8ves-pour-les-salaires",
+   "titre": "Bangladesh: la filière textile estime à 428 millions de dollars le coût des grèves pour les salaires",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 26,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/people/video-presidentielle-2027-je-suis-angoisse-comme-beaucoup-de-gens-d-avoir-a-choisir-entre-la-peste-et-le-cholera-lance-le-comedien-thierry-lhermitte_VN-202611220324.html",
+   "titre": "Présidentielle 2027: \"Je suis angoissé comme beaucoup de gens d'avoir à choisir entre la peste et le choléra\", lance le comédien Thierry Lhermitte",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 27,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/22/en-dix-ans-dexistence-nous-navons-jamais-vecu-de-periode-aussi-difficile-des-parcs-et-entreprises-de-loisirs-du-lot-alertent-apres-une-annee-chaotique-13655663.php",
+   "titre": "\"En dix ans d'existence nous n'avons jamais vécu de période aussi difficile\" : des parcs et entreprises de loisirs du Lot alertent après une année \"chaotique\"",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 28,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
+   "titre": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 29,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/economie/presidentielle-2027-marine-le-pen-est-du-cote-des-oligarques-affirme-gabriel-zucman-55654252-e67c-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : « Marine Le Pen est du côté des oligarques », affirme Gabriel Zucman",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 30,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOd3R0c2FxRzJraXoyaS05MXpfRjBISkNndUJSU2dfcFFONWU3WFpFRVNBNDV2R1dTbGpERldHcnFZMk1FMlhKbGhTX3hZOEx6Ui1VVVE5eDJqRFFTOWVqMldDb2FxTFZ0UzdLZEs3V3BCX0pFS29QdF90Q0ZuSE9Lbm1JdnE0N0MzVGpGcVl1OVZESm51NUx0ckZVU0pOU2VDSnpCUFZYbFBDZHd1cERpUjh4VFB2S0tnTmlPeTJhTG84ZFpCWjk3Qk9JRDJobEtPU1ZpSUREejhScDdBdXZ2QXctNVl4eWVCZFNwTHhPblV2ZlZTS0wxX1ZoakowaWZwVFpWbnNqcXE2ZEVGS29QOVBuZEItV3hSQ08wU21QVTBKXzBibGc?oc=5",
+   "titre": "Manifestation du 21 novembre à Nantes : trois personnes seront jugées, quatorze interdites de paraître en centre-ville",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 31,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
+   "titre": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 32,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/22/interview-il-ny-a-pas-eu-de-saccage-du-marche-de-noel-tout-est-en-train-detre-remis-en-ordre-explique-jean-luc-moudenc-le-maire-de-toulouse-13665625.php",
+   "titre": "INTERVIEW \"Il n’y a pas eu de saccage du marché de Noël, tout est en train d’être remis en ordre\", explique Jean-Luc Moudenc, le maire de Toulouse",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 33,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/economie/international/la-mobilisation-des-ouvriers-du-textile-se-poursuit-au-bangladesh-autorites-et-patronat-sont-sous-pression-des-commandes-sont-deja-transferees-vers-d-autres-pays_AD-202611220303.html",
+   "titre": "La mobilisation des ouvriers du textile se poursuit au Bangladesh: autorités et patronat sont sous pression (des commandes sont déjà transférées vers d'autres pays)",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 34,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/sport/article/2026/11/22/le-paris-basketball-et-sa-singuliere-offensive-sur-le-terrain-social_6814218_3242.html",
+   "titre": "Le Paris Basketball et sa singulière offensive sur le terrain social",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 35,
+   "nom": "Le Poing",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXNHMGVBLUpFR2lVektMSUNpNW84TTl2M2ZZenlpcXk0YVN6VUhNZU1fakkxd2M2UEFPc1hXYnBJaFZYOTB2M29SbFJWRDdzaTlUeW85eFFxa01YQnNYcDhiRl9HT1N5Rko2MW1ub1NkX2dWQnFkZWs3S3dmQm9uRmpNSUNSQ2o0VVJnei0waEJJZ1M0bk1GdUM5dmR2dXdWQ1JXRGdqdDVyMUNtdFVvb096Q3VJZw?oc=5",
+   "titre": "Montpellier : un manifestant fuyant la police chute de 8 mètres, les grilles de la Ville en cause",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 36,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeDllTnNlOGd1YnRWMi12azA5UEtxVFVISWxkdjFodERRZVloU1J6NXg0SV94Z0Vpc0k5RS1lNFFVdUh3bDNsczg3ajBTZjBLbkZPSlMwd0pZSnRKLWNCeWdla1RzSEJmN1hQZjBINEF2bnpaTTJMdURQWHVZUVBPV2JZUGZKeXV0Q2FEd1lmVmlPMVlOOFBuanIyR2VHXy03aUNLNDV6eDNsNjFXanpDV0ZKQnJJdnF3Ymx6dmJqQmo0bXQ1RTNZMll1UEQ4dlVzeGV1Q0lMbXROUQ?oc=5",
+   "titre": "DIAPORAMA. Mobilisation contre la vie chère à Tours, les temps forts de l’acte VI en images",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 37,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-philippe-laurent-estime-que-lamf-ne-peut-pas-etre-un-plan-b-pour-david-lisnard-1242094?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : Philippe Laurent estime que l’AMF « ne peut pas être un plan B » pour David Lisnard",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 38,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
+   "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 39,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/culture/musique/jeff-mills-pionnier-de-la-techno-plus-nous-imaginerons-un-avenir-dystopique-plus-nous-participerons-a-le-creer-20261122_B2NUB43WQRGMPIZ2SCS7J6SAJU/",
+   "titre": "Jeff Mills, pionnier de la techno : «Plus nous imaginerons un avenir dystopique, plus nous participerons à le créer»",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 40,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
+   "titre": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 41,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
+   "titre": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 42,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/international/video-bfm-sur-le-terrain-juan-palencia-grand-reporter-chez-bfmtv-revient-sur-ses-huit-missions-en-ukraine-chaque-fois-qu-on-y-va-c-est-une-nouvelle-guerre-qu-on-decouvre_VN-202611220259.html",
+   "titre": "BFM SUR LE TERRAIN - Juan Palencia, grand reporter chez BFMTV, revient sur ses huit missions en Ukraine: \"Chaque fois qu'on y va, c'est une nouvelle guerre qu'on découvre\"",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 43,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-bfm-sur-le-terrain-l-enjeu-c-est-d-etre-les-yeux-et-les-oreilles-des-gens-temoigne-alexandra-gonzalez-cheffe-adjointe-du-service-police-justice-de-bfmtv-qui-a-couvert-cette-semaine-le-proces-de-l-affaire-michel-zecler_VN-202611220256.html",
+   "titre": "BFM SUR LE TERRAIN - \"L'enjeu, c'est d'être les yeux et les oreilles des gens\", témoigne Alexandra Gonzalez, cheffe adjointe du service police-justice de BFMTV, qui a couvert cette semaine le procès de l'affaire Michel Zecler",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 44,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/police-justice/video-bfm-sur-le-terrain-maxime-brandstaetter-journaliste-police-justice-chez-bfmtv-explique-le-principe-d-etre-embedded-embarque-avec-les-forces-de-l-ordre_VN-202611220255.html",
+   "titre": "BFM SUR LE TERRAIN: Maxime Brandstaetter, journaliste police-justice chez BFMTV, explique le principe d'être \"embedded\", embarqué avec les forces de l'ordre",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 45,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/asie-pacifique/20261122-sommet-tripartite-de-shenzhen-cop-31-et-gronde-sociale-en-france-la-semaine-en-images",
+   "titre": "Sommet tripartite de Shenzhen, COP 31 et gronde sociale en France : la semaine en images",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 46,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/societe/manifestations/video-colere-sociale-82-500-manifestants-ont-defile-en-france-144-personnes-ont-ete-interpellees_VN-202611220107.html",
+   "titre": "Colère sociale: 82.500 manifestants ont défilé en France, 144 personnes ont été interpellées",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 47,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEVSUTJoNlI2cXBYcnhxcV9GV1FOalB3MGdudjNQRlBYU3BnbDd4MTJ0V2R1T1YzYTRmTmNWQXZxMGc2VEdpM0FTSkQwekJCR09qZWt6NGtPbGpjVVMyeUd2RFc2eDA2bXU3NHc1M0NZU3VSc0VFcENhOUZCbmF2RDdxc3R3N0dhZVYyLVlvQmRYUmdfUk56Vzl6WlNMUFBvb3NWcUVTcUEzQlhLODBSSklLNFlLYm02TzlRSEwxV1drV1ZvN2QwMVYxUURqX1pfRGlWT0pGOWMyc0lvMG94QTVEOHNjWVpmREZDNkctUVE1b3A2WVE?oc=5",
+   "titre": "Un fonctionnaire blessé et 13 interpellations après la manifestation de l’Acte VI contre la vie chère à Montpellier",
+   "date": "2026-11-22"
+  },
+  {
+   "n": 48,
+   "nom": "ODS Radio",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ010T19QRUtTZks3ZFc4SHFGOGZxNTJEQk1jdm1pQTVILTVPN2k4Z0N1NUlZNWY3aUV6Q0dMYVdjR2JBdXlFVHhtc0NLeTZCcWtGSVRtMEt0c01QSW81OE1nSE53YUxpM25fNFMyR3VLTHh4ZTB1ZVYxYWtVSG91a291TnNheEFrYXVTZ21ybHB2dXJNbmd0ZkZiN05Id0xDMktvajBpUXRBb3lKcWxqY21XczRKbG9mSzJKTHo0WENIUVY5NThjWHRwZWdEY1BTYm1BbE9vVFVfNmdr?oc=5",
+   "titre": "Chambéry : manifestation non déclarée, 4 interpellations",
+   "date": "2026-11-22"
+  }
+ ],
+ "genere": "2026-11-23T05:21:42.445301+00:00"
+}
