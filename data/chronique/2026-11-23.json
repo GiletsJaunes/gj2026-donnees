@@ -5,17 +5,16 @@
  "points": [],
  "recit": [
   {
-   "texte": "Selon franceinfo, Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre. Selon Libération, Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable». Selon Sud Ouest, Le militant Cédric Herrou interpellé chez lui pour « provocation publique et directe non suivie d’effet à commettre un crime ou un délit ». Selon franceinfo, Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle.",
+   "texte": "Selon Libération, Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable». Selon franceinfo, Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre. Selon Sud Ouest, Le militant Cédric Herrou interpellé chez lui pour « provocation publique et directe non suivie d’effet à commettre un crime ou un délit ».",
    "sources": [
-    30,
-    32,
-    37,
-    45
+    7,
+    31,
+    37
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Le Dauphiné Libéré, Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement (repris par 3 médias). Selon Ouest-France, Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray (repris par 3 médias). Selon La Croix, Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre. Selon Le Monde.fr, Une intersyndicale appelle à une nouvelle mobilisation, jeudi 26 novembre, des étudiants et des enseignants de l’enseignement supérieur.",
+   "texte": "Selon Le Monde.fr, Une intersyndicale appelle à une nouvelle mobilisation, jeudi 26 novembre, des étudiants et des enseignants de l’enseignement supérieur (repris par 3 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement (repris par 3 médias). Selon Ouest-France, Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray (repris par 3 médias). Selon La Croix, Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre.",
    "sources": [
     3,
     4,
@@ -27,7 +26,7 @@
   {
    "texte": "Selon Libération, Mali : Amnesty International se mobilise pour la libération d’une influenceuse «détenue arbitrairement».",
    "sources": [
-    42
+    43
    ],
    "theme": "Colère sociale"
   },
@@ -35,7 +34,7 @@
    "texte": "Selon Sud Ouest, Budget : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit (repris par 3 médias). Selon Le Monde, Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement.",
    "sources": [
     2,
-    14
+    15
    ],
    "theme": "Argent et crise"
   },
@@ -43,9 +42,9 @@
    "texte": "Selon Le Figaro, Présidentielle 2027 : David Lisnard double Édouard Philippe dans un sondage, Marine Le Pen perd jusqu'à 5 points (repris par 5 médias). Selon franceinfo, Présidentielle 2027 : \"Son combat est le mien\", assure Raphaël Glucksmann sur François Ruffin, qui s'est retiré de la course à l'Elysée. Selon BFMTV, Présidentielle 2027: \"La grande arme de David Lisnard c'est que les Français ne le connaissent pas\", lance Jean-François Copé, maire LR de Meaux. Selon BFMTV, Présidentielle 2027: \"quand on est antifasciste, on vote Raphaël Glucksmann\", lance Boris Vallaud, député PS.",
    "sources": [
     1,
-    9,
-    11,
-    12
+    10,
+    12,
+    13
    ],
    "theme": "Politique"
   }
@@ -59,7 +58,7 @@
  "jour_long": "lundi 23 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -77,212 +76,212 @@
   },
   {
    "n": 3,
-   "nom": "Le Dauphiné Libéré",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT0ZGVFJEOWNqMmhjY1Q2OWJSM083anVLMGZIYy1raXFKdlJNb3VvZXctb3FuMGJsVFljVWtOR2RzTkNYdEFUWlZxeFF5Q3RLdkMtemp2Vi1ONzJDVE54ZjJpQkEycWdGUk51M2tmOWpVRXhkNmJpOEdCNU55c2MxTkN0T2Q0UEt5WklaTUtYNlU4UlJhdmY3dDh2M3ptMmM0SVFrOC1RTW5WRGhfb3RwRGtMby1URmhISVAxMlI3YW9yd2k0Z0R3ZXJpaVZ0c2VEUmJtQUJjSU00eUdkdm5sWDhpRnVhUVE?oc=5",
-   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 4,
-   "nom": "Ouest-France",
-   "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-98-eleves-blesses-en-une-semaine-annonce-edouard-geffray-7a87ca34-e710-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 5,
-   "nom": "La Croix",
-   "url": "https://www.la-croix.com/economie/appel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre-20261123",
-   "titre": "Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 6,
    "nom": "Le Monde.fr",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWVdtY0FlUTFNcF9mVDBPV2RUMjBVQmxFcGZrZmhCMG5uV2FuTUt3b3JRSVhoZnFablZVdWN1SV9iRmNWc2JCU3ZxQ3dLemFVTVVyT0tjVm5QS3Bzd2VFU3hpeUxXaldOaXVnTF9UaktMWTRhcDlVVnplSXVRaGtoWmtRNENhVjdVU3FhcFY1Y1Q2Ql9Nc1QzSUlyMXEtazY5bEMzdDg0SGlmb0ZYb2NPZHBkMVUxYkJFMDczMW1hYTA5OWN1YU5XUU5OSGZzVWdycE1qNzlzcnJVOUZoMFlPWmtxMkV6V3YwTmt3YUlZMnExeVRnek5OaTVGWldpQ2tXaTJzaFloX0VVSTB6LW1IV1FGaEZzUWpoUXlKNFVYYmR4QUN5WXhYWFZWNA?oc=5",
    "titre": "Une intersyndicale appelle à une nouvelle mobilisation, jeudi 26 novembre, des étudiants et des enseignants de l’enseignement supérieur",
    "date": "2026-11-23"
   },
   {
+   "n": 4,
+   "nom": "Le Dauphiné Libéré",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT0ZGVFJEOWNqMmhjY1Q2OWJSM083anVLMGZIYy1raXFKdlJNb3VvZXctb3FuMGJsVFljVWtOR2RzTkNYdEFUWlZxeFF5Q3RLdkMtemp2Vi1ONzJDVE54ZjJpQkEycWdGUk51M2tmOWpVRXhkNmJpOEdCNU55c2MxTkN0T2Q0UEt5WklaTUtYNlU4UlJhdmY3dDh2M3ptMmM0SVFrOC1RTW5WRGhfb3RwRGtMby1URmhISVAxMlI3YW9yd2k0Z0R3ZXJpaVZ0c2VEUmJtQUJjSU00eUdkdm5sWDhpRnVhUVE?oc=5",
+   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 5,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-98-eleves-blesses-en-une-semaine-annonce-edouard-geffray-7a87ca34-e710-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 6,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/economie/appel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre-20261123",
+   "titre": "Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre",
+   "date": "2026-11-23"
+  },
+  {
    "n": 7,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/video-militante-de-jeunes-filmee-a-lassemblee-nationale-yael-braun-pivet-condamne-un-acte-inacceptable-20261123_OX3HCMSZLRH6FO23A74FHI66YI/",
+   "titre": "Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable»",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 8,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/grand-littoral/inondations-dans-le-pas-de-calais-le-ministre-de-l-interieur-annonce-une-procedure-acceleree-de-reconnaissance-de-l-etat-de-catastrophe-naturelle_AN-202611230437.html",
    "titre": "Inondations dans le Pas-de-Calais: le ministre de l'Intérieur annonce \"une procédure accélérée de reconnaissance de l'état de catastrophe naturelle\"",
    "date": "2026-11-23"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "franceinfo",
    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUtaUE5ZTEt5V1A3RF9NMTIxUHd1d1NRS3FHWldGNGZjQTZtamRaZTVLZWtNOWxZSlRWeWhkMFpOcWxfeWhjRTA5dTNhQllWVTBpS3dyYkRudF9tTWFKX1YzSGZWVG9wRGdiNTVNMHpFbUJHZ3VteDhNNzVmYWl0NU5lQ0F3UUpzc1pOY1JkaC0tN2JucmxlY0FRQ0RTVGFKYTFQX0hWOHdESnYzOVJYaWV3TWl6dmZKU2w0b2l1UnJkaDN5T254ZnR1SmtvMENoWVY0OHRIVHY1UlNWWGxYTEI2cW5zSldFS1JTdldFY1hRX0F2M0RfZjZJZ25TMHNRblRwLVZRQjdwcnhaYWptdzlzS0k2WG1sc2E5Nm5CSm5UbVNrVmdRTVJ3?oc=5",
    "titre": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière",
    "date": "2026-11-23"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
    "titre": "Présidentielle 2027 : \"Son combat est le mien\", assure Raphaël Glucksmann sur François Ruffin, qui s'est retiré de la course à l'Elysée",
    "date": "2026-11-23"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/international/europe/ukraine/guerre-en-ukraine-au-moins-15-morts-apres-les-frappes-dans-la-region-de-kiev-selon-un-nouveau-bilan_AD-202611230161.html",
    "titre": "Guerre en Ukraine: au moins 15 morts après les frappes dans la région de Kiev, selon un nouveau bilan",
    "date": "2026-11-23"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/video-presidentielle-2027-la-grande-arme-de-david-lisnard-c-est-que-les-francais-ne-le-connaissent-pas-lance-jean-francois-cope-maire-lr-de-meaux_VN-202611230918.html",
    "titre": "Présidentielle 2027: \"La grande arme de David Lisnard c'est que les Français ne le connaissent pas\", lance Jean-François Copé, maire LR de Meaux",
    "date": "2026-11-23"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-quand-on-est-antifasciste-on-vote-raphael-glucksmann-lance-boris-vallaud-depute-ps_VN-202611230907.html",
    "titre": "Présidentielle 2027: \"quand on est antifasciste, on vote Raphaël Glucksmann\", lance Boris Vallaud, député PS",
    "date": "2026-11-23"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-il-y-a-une-sorte-de-fatalisme-analyse-boris-vallaud-depute-ps_VN-202611230906.html",
    "titre": "Présidentielle 2027: \"Le ralliement de Marine Tondelier [à Jean-Luc Mélenchon], il y a une sorte de fatalisme\", analyse Boris Vallaud, député PS",
    "date": "2026-11-23"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
    "titre": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
    "date": "2026-11-23"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/justice/4265203-20261123-presidentielle-2027-tintin-congo-teddy-riner-depose-plainte-contre-ex-directrice-cabinet-sarkozy?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : « Tintin au Congo »… Teddy Riner aurait déposé plainte contre l’ex-directrice de cabinet de Sarkozy",
    "date": "2026-11-23"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/police-justice/des-propos-sexistes-racistes-et-des-saluts-nazis-tenus-dans-une-ecole-de-police-la-justice-saisie-20261122_AMKVEJWKMBDG5OJKLCQHK5V47A/",
    "titre": "Salut nazi et propos racistes dans une école de police : Laurent Nuñez condamne des «faits inacceptables»",
    "date": "2026-11-23"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWldzV0hIWXJPVUVJeEszRUMzQ2c1T1FjRFdKbFRYNGxBTHZkRnRrVmxDNkFFZXpVYUZBU2VmOEFsQmhMMmdxM3l4VHZGR0ZOdml6N3l6dkoyX0k5c2VDZVhZaTNqTmgtcVRfd3h3X0w3dktnX3lYR3ZyQUl2UWEwTHBoSjVkVGdkcERPMC1wUS1tLXZURUVQUjFYYkdHcHk0d2xhZm5kR1dQbm85NXpnMzhFaDRmNVZZMmNtUi0taF9ZcVBSNTRRTDRvY2tWeTg3YmxZWDJrRnB2djNvV0V1X1p3RmRQNENtUUtkSktnRmRzdnNyNklFUGhWS2NESmdSX0NKelp6Z0pWaTJVdm1OUU04Q0JhLVZaYTJPaHFwQQ?oc=5",
    "titre": "« On est en train de faire un Covid 2 » : à Rennes, des parents de lycéens en colère après des semaines de blocage",
    "date": "2026-11-23"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/23/decryptage-presidentielle-2027-faut-il-maintenir-un-second-tour-le-2-mai-on-vous-explique-les-risques-a-conserver-cette-date-ou-a-avancer-le-scrutin-13667623.php",
    "titre": "DECRYPTAGE. Présidentielle 2027 : faut-il maintenir un second tour le 2 mai ? On vous explique les risques à conserver cette date ou à avancer le scrutin",
    "date": "2026-11-23"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
    "titre": "Présidentielle 2027 : qui pourra rassembler ?",
    "date": "2026-11-23"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Libération",
    "url": "https://www.liberation.fr/international/amerique/le-sexe-fait-vendre-comment-donald-trump-a-pilote-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261123_HSZPXB34VFEGNE6IU5GN2OEZ4Y/",
    "titre": "«Le sexe fait vendre» : comment Donald Trump a piloté le retour de Jensen Huang à la tête de Nvidia",
    "date": "2026-11-23"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html#xtor=RSS-3-[lestitres]",
    "titre": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
    "date": "2026-11-23"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/faits-divers/apres-des-messages-racistes-dans-une-ecole-de-police-laurent-nunez-dit-condamner-avec-la-pus-grande-fermete-des-propos-et-des-faits-inacceptables_8296632.html#xtor=RSS-3-[lestitres]",
    "titre": "Après des messages racistes dans une école de police, Laurent Nuñez dit \"condamner avec la plus grande fermeté\" des propos et des faits \"inacceptables\"",
    "date": "2026-11-23"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/presidentielle-comprendre-les-cles-du-debat-avec-sud-ouest-et-l-institut-montaigne-31624555.php",
    "titre": "Présidentielle 2027 : comprendre les clés du débat avec Sud Ouest et l’Institut Montaigne le 1er décembre",
    "date": "2026-11-23"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/23/presidentielle-2027-je-ne-vous-repondrai-pas-david-lisnard-refuse-de-choisir-entre-marine-le-pen-et-edouard-philippe-en-cas-de-duel-au-second-tour-13667744.php",
    "titre": "Présidentielle 2027 : \"Je ne vous répondrai pas\"... David Lisnard refuse de choisir entre Marine Le Pen et Édouard Philippe en cas de duel au second tour",
    "date": "2026-11-23"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQLTY2c0daQlhrXy1kY3hIZ09SQUpwdzN1T3hrdnFnSjN1RFRUYWRrbXRlbWlIemNHX2RUajU0R2hibnN0dFFkbllrOWpDUkkyX3pkVml3R0FvQVpiakxlRGNiNGx2RUU0d21tdVBaV0RxemcxTFkwZWo2bl9hYnc1R1ZUSEN6MmlLZXNFTDlnYTA2Tmc4dWY5UzdtcjAtbElqZU9tZXBfYjlOSGlPejFKRlZmUGt2c1d1TkpGRTZEbmw2Sjg1bTdRZnZKbFJLVk5tX1QxZE15aTBJa3hkRGFlNGNJYnZmNUlDTW9fd2dwYmFnYUM5UzhKMmtpcW81cHQ1dVl4bDdYRzM5aXgtTUFzblFiSXVFaXF3cnRsRDMtdjNFSkh6WlBZVmYtQ1I0bmhIY240?oc=5",
    "titre": "«Ça va péter» : à Rennes, le trafic de drogue profite-t-il de l’absence des policiers mobilisés sur les manifestations ?",
    "date": "2026-11-23"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQ3gzWDJ3aGwyVWUxOFh1dHVERjItamJsTnJhVzBtTVBwUy1oWURaYk1HWXBENG5jVGhUOEdaQ1NqdkNQTGlUbE1JcVRFc3Z1X08wcnpKNWp2dk9kb2dkTVRSNTBiRXpkd3hsMnRzdVVEWjQ2cS1uTGdiVmpvM0pHRDZqMmZhbGpERGxnSjhnVzNULWJaZGJkaTRRZE9nQ2VVVF81dkE3aExNSnhoTzBYa1lyWFU2UWR2S2ZJZjhtbG1VbVFwS0FkQUpsNnVZRXZPY0Q0WG02OGtXZXQtQ3MzTkx4MG94RDFkZlBPRU9FNG8tSXlRR3FvcW45bE1SOS1qSFFJTElOSjJ4T1NycDhmbkNrRE5xTnlpbUVYSEFtYnFLd0JqYkE?oc=5",
    "titre": "« Nous n’avons plus confiance » : après la saisie des trombinoscopes, des lycéens de Brest boycottent la photo de classe",
    "date": "2026-11-23"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "Libération",
    "url": "https://www.liberation.fr/idees-et-debats/editorial/mobilisation-lyceenne-et-etudiante-rejouissons-nous-de-voir-lemergence-de-la-jeunesse-dans-le-debat-public-20261123_XXWJAUMYBRCORDRXDHEQQ5WXCQ/",
    "titre": "Mobilisation lycéenne et étudiante : réjouissons-nous de voir l’émergence de la jeunesse dans le débat public",
    "date": "2026-11-23"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/education/contestation-etudiante-appel-intersyndical-a-la-mobilisation-ce-jeudi-26-novembre-31627280.php",
    "titre": "Contestation étudiante : mobilisation ce jeudi 26 novembre à l’appel de l’intersyndicale",
    "date": "2026-11-23"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "lanouvellerepublique.fr",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbjNPZ3dzdDV5MHI5d01telVIcE1tcnJ4enlJUS1VekYxWm9lcVJVZDlvRjRGSGp2RWdNUVo3T2xSaTZmcEc2alh1d0tROUgwd2gxblRLTW9lOG10MTZzd05NNUtucWxzRlhkck5kUGFEVkFmYXRIbmFlTldsVEtFbklxbnlxbG1EbUduOVJGZzhSVHBLNDAyZ255STMweTdpaUx5Sm4zbWNySm1FVW05b2JTQUVDYjRmSElWMWpEY0pGZWF6NFA3MExnSEhRWl9kTEp5WEhyZlJ2RDhKd2UxLXMzdkY5SEE?oc=5",
    "titre": "Il agresse un policier en marge d’une manifestation à Tours : prison ferme pour l’homme à la béquille",
    "date": "2026-11-23"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-personne-de-53-ans-mise-en-examen-apres-un-tir-de-mortier-qui-a-gravement-blesse-un-manifestant-a-montpellier-le-17-octobre_8296626.html#xtor=RSS-3-%5Bsociete%5D",
    "titre": "Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre",
    "date": "2026-11-23"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "France 24",
    "url": "https://www.france24.com/fr/europe/20261123-notre-avenir-plut%C3%B4t-guerres-europe-jeunesse-mobilise-contre-r%C3%A9armement",
    "titre": "\"Notre avenir plutôt que leurs guerres\" : en Europe, la jeunesse se mobilise contre le réarmement",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 32,
-   "nom": "Libération",
-   "url": "https://www.liberation.fr/politique/video-militante-de-jeunes-filmee-a-lassemblee-nationale-yael-braun-pivet-condamne-un-acte-inacceptable-20261123_OX3HCMSZLRH6FO23A74FHI66YI/",
-   "titre": "Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable»",
    "date": "2026-11-23"
   },
   {
@@ -322,58 +321,58 @@
   },
   {
    "n": 38,
+   "nom": "Le Figaro Étudiant",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWJBM3BfQ1FYRWE2cFh2UGdrV2dRRVd1NWhQaTlFN2htNW4tdGVxdVpnQ19TMU4zem1QWjE3aVFMQ0NHQ1hrSGVnS2kybzFPTzFZa3JZZnRlVGx2bDNxTDFjcmVCLUp5QjVwUTBmSE9yaFEyMDJuUzdIc2x1TkpadGxKNWFjUGFKNXlialNuVmp5czhNRGN6NVl0WE0wbTF6S1JqNklqeGJBVnJFYUlMOHBZNEd2Z0xrbFlLaG5lMW5EUk1fX1o5czZ2WVBRemZkS2lLTWF5cU84QnVGTXc?oc=5",
+   "titre": "Blocages : désaccord entre le ministère et les syndicats lycéens sur l’état de la mobilisation",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 39,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste-31624134.php",
    "titre": "Présidentielle 2027 : Yannick Jadot et Jérémie Iordanoff, en rupture avec Marine Tondelier, créent un nouveau parti écologiste",
    "date": "2026-11-23"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "Libération",
    "url": "https://www.liberation.fr/international/amerique/liran-mis-au-defi-par-donald-trump-de-briser-le-blocus-naval-americain-20261123_GT6QB5SVXVDJPAIQU54KGN4W3A/",
    "titre": "L’Iran mis au défi par Donald Trump de briser le blocus naval américain",
    "date": "2026-11-23"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/23/une-lyceenne-agee-de-18-ans-decede-apres-avoir-ete-percutee-par-un-camion-alors-quelle-circulait-a-trottinette-electrique-avec-une-amie-13667485.php",
    "titre": "Une lycéenne âgée de 18 ans décède après avoir été percutée par un camion alors qu'elle circulait à trottinette électrique avec une amie",
    "date": "2026-11-23"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/politique/presidentielle-2027-des-tatamis-aux-mairies-teddy-riner-en-quete-des-500-signatures-20261123",
    "titre": "Présidentielle 2027 : des tatamis aux mairies, Teddy Riner en quête des 500 signatures",
    "date": "2026-11-23"
   },
   {
-   "n": 42,
+   "n": 43,
    "nom": "Libération",
    "url": "https://www.liberation.fr/international/afrique/mali-amnesty-international-se-mobilise-pour-la-liberation-dune-influenceuse-detenue-arbitrairement-20261123_FLP4MCKR2JDH5HZATIEUI75CL4/",
    "titre": "Mali : Amnesty International se mobilise pour la libération d’une influenceuse «détenue arbitrairement»",
    "date": "2026-11-23"
   },
   {
-   "n": 43,
+   "n": 44,
    "nom": "Actu.fr",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUXI3YVRMTzF5SjBHdW9xOWdqczhLRW9BM1Exa3JMQ0ZJWHFrU3RZYm1Ud0diS2Z3TEdGQy1VQUdYTlZpc09rMXp4bDZpelh0WWpMRnFTa1p1SDliSEh1bHkzVkVuS1BabW1MZ0s4dFIzZFpRTV8tVUdRcFBNdW8tenZuazRMNkVyYXNxaE1NbUxBZDl1NDFyR01SY3d2T1BOajk3Z1c5Y2RPUGZYdmxGYVc4ZHUwRE9ieUtnaHJzSG5aSEFTeUFyYjNuc3ZiZFp5ajl4bmRmOHhSZzF4aENGR1JmQ1VPV2hNRWptLXVSUm1YUW0tMTlkY29aSQ?oc=5",
    "titre": "\"Trois lieux, trois ambiances\" : à quoi s’attendre pour l’Acte VII des Gilets jaunes à Toulouse, ce samedi 28 novembre ?",
    "date": "2026-11-23"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "Libération",
    "url": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
    "titre": "«Tintin au Congo» : Teddy Riner envisage de porter plainte contre Emmanuelle Mignon",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 45,
-   "nom": "franceinfo",
-   "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-demande-l-ouverture-d-une-enquete-interne-apres-une-video-denoncant-les-violences-policieres-tournee-dans-l-hemicycle_8296124.html#xtor=RSS-3-%5Bpolitique%5D",
-   "titre": "Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle",
    "date": "2026-11-23"
   },
   {
@@ -392,30 +391,30 @@
   },
   {
    "n": 48,
-   "nom": "Le Republicain Lorrain",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNUQ1QWhVT3hWb1FjdklHNVF2VEYxTjl4bmhvbHYyd1NiNzVoLUFzeERRbEpnbGllTzVrdUFfaHlTZXdraVhYZnMxQzVwZnZWZWRwZmdpVzNYN3ZMVlQtQm1IbHlQVVAwOEZHS0ZiTng0V2tPTmpZWkdRZ2VESFBteUJ5d1hkWDZhbkdiUGNRazY1Yzg5YWxHRmxIZzd0eDFQaTV4b1BUeWFXVS1QdEltckZ0UFlBRlA3cHBqb01KMDhrMmJYaHU5UVZob3MtcmxvUVlGUkU0Tlo5cFUwOFhZX2dkS3dfT3BVcHNIbklnNDVvdw?oc=5",
-   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 49,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmFhbjhSQlB4MVVmMjd2TVpKM3FsWm1lWEJzbkFURmQ0RlRvc0s5Mk1IUkVPSGNuNXl3LTZidEhmN05NajFSU0NVcWlUcU9KRXNtSHdrWGVFR1FTTjZpclJ4VmlsWXpnNGwtcTQzcTJIVlNfLWdSYkk1eGJzNU5GbXpDTFdhMXpCanZvM19kelhmbExuY09fdDBRQWs5ZXR4UUdVSHY0SEQzVk50YUJHNTJWOXNNQjZ6MHJzYW9FT0hHdG1QRVFJdHdNTTFYUjdDSFJ4bXREeVIxb1prN0VGcHlFcGlhX0th?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
    "date": "2026-11-23"
   },
   {
-   "n": 50,
+   "n": 49,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaWp3ZDlSaUt1a0tJaUtOVzVqQzU2WUxOWVRYNGtfbnBleDFUNHM4TVJYXzczeFBfVExPaE5nbHFQSk1QMFdYVVJJZjhUeURaWUc4Ukg4WVdJOHhOZ1F0ZXpiaEk0MFNIanlPWk5ZWnJyb2M0OU9tSUtoOFZQMG4yNXFKaFRrYTFXRHpSNVNTc1dYX2ZmQjhtbVV2RTRoRjdwb3QzbkQwUUpFMGZVaHBJWnVCa09zWE1RYlk4Tk9uTW5PTHU1U2NkUnFGazBzdzBVcy1fWWQ4bUY1MUZoRDZTLTJXaXpHdDlNWW5ITXpfTVozaUNBZWlwVWFDbw?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves ont été blessés la semaine dernière, annonce Édouard Geffray",
    "date": "2026-11-23"
   },
   {
-   "n": 51,
+   "n": 50,
    "nom": "maville.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV3pFbFN0MHVxc1QxS0J2b2RRWkZ3dVVYZ01wUE9ha3RleG5LYWRNQUE5SUt4VmZiSkpIQTZZZ0xZRXkyN2EyUDNMS0FKS1diYy1ZMzZ1cERfVWlGMUxYQWhEOUVKMm5fNmxuSFlEd1VYUlRIc2RnNlRGVTB6R3B2aDYzeDF4TlBuZ0hCRjJ0TElEaHdpSzhTMjBtdXQ1VUFsWjJnVVBMaFNydEVNdEpTbTFsdm40c0hkTmlmdzBKWnhEc0N2ejNwMXVwUmtYVjRBd3RWV1lQZnAzQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEwtOFF3MmVLSXhVUFExSUp0VWVLMVg5REQ3eERiQ0lqeWFpcGdUNkRlbkFfcVBla1A0dDRSeXg4T3RyYnZGRE1nbnZJVUhfWFRScktyS1p5UEh5SXlsZmh5a2U3SkJXYlo3dkh1UG9rdFAzVnJwWXF3Qm94b184TEhqVndBeG51ZzZZQjNfSlhrcnI2WWk1eGxUbFJkcmwtQ1haZTZvaFZDcDlaVUtkX21KbGdUMUZlNEtLbjFZUzlHYWY2RVFEWEt0RmEzNWo0aWgwRHo4dWlFNVk?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 51,
+   "nom": "Le Republicain Lorrain",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNUQ1QWhVT3hWb1FjdklHNVF2VEYxTjl4bmhvbHYyd1NiNzVoLUFzeERRbEpnbGllTzVrdUFfaHlTZXdraVhYZnMxQzVwZnZWZWRwZmdpVzNYN3ZMVlQtQm1IbHlQVVAwOEZHS0ZiTng0V2tPTmpZWkdRZ2VESFBteUJ5d1hkWDZhbkdiUGNRazY1Yzg5YWxHRmxIZzd0eDFQaTV4b1BUeWFXVS1QdEltckZ0UFlBRlA3cHBqb01KMDhrMmJYaHU5UVZob3MtcmxvUVlGUkU0Tlo5cFUwOFhZX2dkS3dfT3BVcHNIbklnNDVvdw?oc=5",
+   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
    "date": "2026-11-23"
   },
   {
@@ -433,5 +432,5 @@
    "date": "2026-11-23"
   }
  ],
- "genere": "2026-11-24T10:48:33.973173+00:00"
+ "genere": "2026-11-24T21:04:41.424780+00:00"
 }
