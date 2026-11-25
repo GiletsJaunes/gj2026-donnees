@@ -7,14 +7,14 @@
   {
    "texte": "Selon Libération, Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable». Selon franceinfo, Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre. Selon Sud Ouest, Le militant Cédric Herrou interpellé chez lui pour « provocation publique et directe non suivie d’effet à commettre un crime ou un délit ».",
    "sources": [
-    7,
+    8,
     31,
     37
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Le Monde.fr, Une intersyndicale appelle à une nouvelle mobilisation, jeudi 26 novembre, des étudiants et des enseignants de l’enseignement supérieur (repris par 3 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement (repris par 3 médias). Selon Ouest-France, Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray (repris par 3 médias). Selon La Croix, Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre.",
+   "texte": "Selon Le Monde.fr, Une intersyndicale appelle à une nouvelle mobilisation, jeudi 26 novembre, des étudiants et des enseignants de l’enseignement supérieur (repris par 3 médias). Selon franceinfo, Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière (repris par 3 médias). Selon Le Dauphiné Libéré, Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement (repris par 3 médias). Selon Ouest-France, Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray (repris par 3 médias).",
    "sources": [
     3,
     4,
@@ -58,7 +58,7 @@
  "jour_long": "lundi 23 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 2,
+ "essais_ia": 3,
  "sources": [
   {
    "n": 1,
@@ -83,44 +83,44 @@
   },
   {
    "n": 4,
+   "nom": "franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUtaUE5ZTEt5V1A3RF9NMTIxUHd1d1NRS3FHWldGNGZjQTZtamRaZTVLZWtNOWxZSlRWeWhkMFpOcWxfeWhjRTA5dTNhQllWVTBpS3dyYkRudF9tTWFKX1YzSGZWVG9wRGdiNTVNMHpFbUJHZ3VteDhNNzVmYWl0NU5lQ0F3UUpzc1pOY1JkaC0tN2JucmxlY0FRQ0RTVGFKYTFQX0hWOHdESnYzOVJYaWV3TWl6dmZKU2w0b2l1UnJkaDN5T254ZnR1SmtvMENoWVY0OHRIVHY1UlNWWGxYTEI2cW5zSldFS1JTdldFY1hRX0F2M0RfZjZJZ25TMHNRblRwLVZRQjdwcnhaYWptdzlzS0k2WG1sc2E5Nm5CSm5UbVNrVmdRTVJ3?oc=5",
+   "titre": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 5,
    "nom": "Le Dauphiné Libéré",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT0ZGVFJEOWNqMmhjY1Q2OWJSM083anVLMGZIYy1raXFKdlJNb3VvZXctb3FuMGJsVFljVWtOR2RzTkNYdEFUWlZxeFF5Q3RLdkMtemp2Vi1ONzJDVE54ZjJpQkEycWdGUk51M2tmOWpVRXhkNmJpOEdCNU55c2MxTkN0T2Q0UEt5WklaTUtYNlU4UlJhdmY3dDh2M3ptMmM0SVFrOC1RTW5WRGhfb3RwRGtMby1URmhISVAxMlI3YW9yd2k0Z0R3ZXJpaVZ0c2VEUmJtQUJjSU00eUdkdm5sWDhpRnVhUVE?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
    "date": "2026-11-23"
   },
   {
-   "n": 5,
+   "n": 6,
    "nom": "Ouest-France",
    "url": "https://www.ouest-france.fr/education/mobilisation-lyceenne-98-eleves-blesses-en-une-semaine-annonce-edouard-geffray-7a87ca34-e710-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
    "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
    "date": "2026-11-23"
   },
   {
-   "n": 6,
+   "n": 7,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/economie/appel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre-20261123",
    "titre": "Appel intersyndical à la mobilisation des étudiants et enseignants du supérieur le 26 novembre",
    "date": "2026-11-23"
   },
   {
-   "n": 7,
+   "n": 8,
    "nom": "Libération",
    "url": "https://www.liberation.fr/politique/video-militante-de-jeunes-filmee-a-lassemblee-nationale-yael-braun-pivet-condamne-un-acte-inacceptable-20261123_OX3HCMSZLRH6FO23A74FHI66YI/",
    "titre": "Vidéo anti-violences policières de jeunes tournée à l’Assemblée : Yaël Braun-Pivet condamne un acte «inacceptable»",
    "date": "2026-11-23"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/grand-littoral/inondations-dans-le-pas-de-calais-le-ministre-de-l-interieur-annonce-une-procedure-acceleree-de-reconnaissance-de-l-etat-de-catastrophe-naturelle_AN-202611230437.html",
    "titre": "Inondations dans le Pas-de-Calais: le ministre de l'Intérieur annonce \"une procédure accélérée de reconnaissance de l'état de catastrophe naturelle\"",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 9,
-   "nom": "franceinfo",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUtaUE5ZTEt5V1A3RF9NMTIxUHd1d1NRS3FHWldGNGZjQTZtamRaZTVLZWtNOWxZSlRWeWhkMFpOcWxfeWhjRTA5dTNhQllWVTBpS3dyYkRudF9tTWFKX1YzSGZWVG9wRGdiNTVNMHpFbUJHZ3VteDhNNzVmYWl0NU5lQ0F3UUpzc1pOY1JkaC0tN2JucmxlY0FRQ0RTVGFKYTFQX0hWOHdESnYzOVJYaWV3TWl6dmZKU2w0b2l1UnJkaDN5T254ZnR1SmtvMENoWVY0OHRIVHY1UlNWWGxYTEI2cW5zSldFS1JTdldFY1hRX0F2M0RfZjZJZ25TMHNRblRwLVZRQjdwcnhaYWptdzlzS0k2WG1sc2E5Nm5CSm5UbVNrVmdRTVJ3?oc=5",
-   "titre": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière",
    "date": "2026-11-23"
   },
   {
@@ -391,30 +391,30 @@
   },
   {
    "n": 48,
+   "nom": "Le Progrès",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMkI2Zi1VaWFLX2VIejJuanBkcmlpb29OUGQ1TkRMSjVCam5EcjhXajZqdjFMUkRBT3JzNXRLTVRUTnlYSFloa2ltNGM4ZHpmdUFBUUVKZnZGUzhPUFJaeDgwN2QzTk94SkV0UUNDTVhMMmRQUjdzbEFhNFNFUExJcXRLRVluLXFsNldkQU1SR2pEWVQwRTVHejdTLVRMMXA2WWc4eHVMVFlMV0Jja21BN2RFMy1uMHc0NnZhUnY1RVhQaC1yQ2JPU09xNFRkckNIOWoxRFJ1TWlUVVVOLVl6ZElQUU8?oc=5",
+   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
+   "date": "2026-11-23"
+  },
+  {
+   "n": 49,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmFhbjhSQlB4MVVmMjd2TVpKM3FsWm1lWEJzbkFURmQ0RlRvc0s5Mk1IUkVPSGNuNXl3LTZidEhmN05NajFSU0NVcWlUcU9KRXNtSHdrWGVFR1FTTjZpclJ4VmlsWXpnNGwtcTQzcTJIVlNfLWdSYkk1eGJzNU5GbXpDTFdhMXpCanZvM19kelhmbExuY09fdDBRQWs5ZXR4UUdVSHY0SEQzVk50YUJHNTJWOXNNQjZ6MHJzYW9FT0hHdG1QRVFJdHdNTTFYUjdDSFJ4bXREeVIxb1prN0VGcHlFcGlhX0th?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
    "date": "2026-11-23"
   },
   {
-   "n": 49,
+   "n": 50,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaWp3ZDlSaUt1a0tJaUtOVzVqQzU2WUxOWVRYNGtfbnBleDFUNHM4TVJYXzczeFBfVExPaE5nbHFQSk1QMFdYVVJJZjhUeURaWUc4Ukg4WVdJOHhOZ1F0ZXpiaEk0MFNIanlPWk5ZWnJyb2M0OU9tSUtoOFZQMG4yNXFKaFRrYTFXRHpSNVNTc1dYX2ZmQjhtbVV2RTRoRjdwb3QzbkQwUUpFMGZVaHBJWnVCa09zWE1RYlk4Tk9uTW5PTHU1U2NkUnFGazBzdzBVcy1fWWQ4bUY1MUZoRDZTLTJXaXpHdDlNWW5ITXpfTVozaUNBZWlwVWFDbw?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves ont été blessés la semaine dernière, annonce Édouard Geffray",
    "date": "2026-11-23"
   },
   {
-   "n": 50,
+   "n": 51,
    "nom": "maville.com",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEwtOFF3MmVLSXhVUFExSUp0VWVLMVg5REQ3eERiQ0lqeWFpcGdUNkRlbkFfcVBla1A0dDRSeXg4T3RyYnZGRE1nbnZJVUhfWFRScktyS1p5UEh5SXlsZmh5a2U3SkJXYlo3dkh1UG9rdFAzVnJwWXF3Qm94b184TEhqVndBeG51ZzZZQjNfSlhrcnI2WWk1eGxUbFJkcmwtQ1haZTZvaFZDcDlaVUtkX21KbGdUMUZlNEtLbjFZUzlHYWY2RVFEWEt0RmEzNWo0aWgwRHo4dWlFNVk?oc=5",
    "titre": "Mobilisation lycéenne : 98 élèves blessés en une semaine, annonce Édouard Geffray",
-   "date": "2026-11-23"
-  },
-  {
-   "n": 51,
-   "nom": "Le Republicain Lorrain",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNUQ1QWhVT3hWb1FjdklHNVF2VEYxTjl4bmhvbHYyd1NiNzVoLUFzeERRbEpnbGllTzVrdUFfaHlTZXdraVhYZnMxQzVwZnZWZWRwZmdpVzNYN3ZMVlQtQm1IbHlQVVAwOEZHS0ZiTng0V2tPTmpZWkdRZ2VESFBteUJ5d1hkWDZhbkdiUGNRazY1Yzg5YWxHRmxIZzd0eDFQaTV4b1BUeWFXVS1QdEltckZ0UFlBRlA3cHBqb01KMDhrMmJYaHU5UVZob3MtcmxvUVlGUkU0Tlo5cFUwOFhZX2dkS3dfT3BVcHNIbklnNDVvdw?oc=5",
-   "titre": "Mobilisation lycéenne : 98 élèves blessés la semaine dernière, 280 professionnels depuis le début du mouvement",
    "date": "2026-11-23"
   },
   {
@@ -432,5 +432,5 @@
    "date": "2026-11-23"
   }
  ],
- "genere": "2026-11-24T21:04:41.424780+00:00"
+ "genere": "2026-11-25T04:31:52.386182+00:00"
 }
