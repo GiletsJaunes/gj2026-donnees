@@ -8,14 +8,14 @@
    "texte": "Selon BFMTV, Mobilisation lycéenne: Cédric Herrou a été mis en garde à vue pour \"provocation publique\" puis relâché. Selon La Dépêche, Manifestations du samedi à Toulouse : chez les commerçants, le ras-le-bol des casseurs. Selon Le Canard enchaîné, Maintien de l'ordre : Comment les syndicats de flics ont mis Laurent Nuñez sous tutelle. Selon Europe 1, Blocages de lycées : qui se cache derrière les mobilisations ?.",
    "sources": [
     2,
-    13,
-    21,
-    34
+    14,
+    22,
+    35
    ],
    "theme": "Répression"
   },
   {
-   "texte": "Selon Mediapart, Manifestation du 17 octobre: un adolescent blessé par balle place de la Nation, une enquête ouverte pour tentative de meurtre (repris par 8 médias). Selon 20 Minutes, Paris : Un manifestant de 15 ans touché par une balle le 17 octobre, une enquête pour tentative de meurtre ouverte. Selon Marseille Infos Autonomes, Projection sur le mouvement des Gilets jaunes. Selon Ouest-France, « Une démarche choquante » : une prof convoquée au rectorat pour avoir utilisé la mobilisation lycéenne pour un devoir.",
+   "texte": "Selon Mediapart, Manifestation du 17 octobre: un adolescent blessé par balle place de la Nation, une enquête ouverte pour tentative de meurtre (repris par 10 médias). Selon 20 Minutes, Paris : Un manifestant de 15 ans touché par une balle le 17 octobre, une enquête pour tentative de meurtre ouverte. Selon L'Humanité, Mobilisation lycéenne : une enquête ouverte pour tentative de meurtre sur un adolescent à Paris. Selon Marseille Infos Autonomes, Projection sur le mouvement des Gilets jaunes.",
    "sources": [
     1,
     3,
@@ -27,8 +27,8 @@
   {
    "texte": "Selon franceinfo, \"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte. Selon La Dépêche, REPORTAGE. Colère des agriculteurs : \"On veut rencontrer Monsieur Leclerc\"... Dans l'Aude, les paysans montrent les muscles face à la grande distribution.",
    "sources": [
-    38,
-    43
+    39,
+    45
    ],
    "theme": "Colère sociale"
   },
@@ -36,9 +36,9 @@
    "texte": "Selon La Croix, Budget : Lecornu recevra la semaine prochaine les présidents des groupes parlementaires. Selon Sud Ouest, Budget 2027 : Sébastien Lecornu va recevoir les présidents des groupes parlementaires pour « poursuivre les discussions budgétaires ». Selon franceinfo, Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027. Selon Le Monde, Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027.",
    "sources": [
     6,
-    23,
-    27,
-    29
+    24,
+    28,
+    30
    ],
    "theme": "Argent et crise"
   },
@@ -47,8 +47,8 @@
    "sources": [
     4,
     5,
-    9,
-    10
+    10,
+    11
    ],
    "theme": "Politique"
   }
@@ -62,7 +62,7 @@
  "jour_long": "mardi 24 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -108,275 +108,275 @@
   },
   {
    "n": 7,
+   "nom": "L'Humanité",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalpqMl9YdnliVU9wVXVua3N2dm9HQlh0Z0VuWHhhZzBsSnpaT2ctcXpoejg3TlVWLUxoTmFWYVg4ZUlFbXdWemFaVlBYVC1UdzZDNVhiY21TVDhuUUVCc3RudlNYekRWanJOTlJvZVFGclRUbWU1NEF5NmdFMXppOF9Qd3pIS2tQTmRadDJHQnllVDdrMDNqSlh6dlNCaUFWc21jblpPeVhTZFpWNGFnYlZoNmt3RVlPYXlPQkNjd0RCVVFUOEFVYnI3Y2w2WGFhNzhHNDNn?oc=5",
+   "titre": "Mobilisation lycéenne : une enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
+   "date": "2026-11-24"
+  },
+  {
+   "n": 8,
    "nom": "Marseille Infos Autonomes",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZ21rWXhfNUhMaHNyOFI5emhqZmhuWEs0aTMyazI5WFY2WHkwWGhaTnZPcVprR0JINmtudWpmeUJlRER2ZVA4QV96eVowT3VyUzF5NGRMVjV1ZFRLdEhFQi1vbFItamQ1b2d3?oc=5",
    "titre": "Projection sur le mouvement des Gilets jaunes",
    "date": "2026-11-24"
   },
   {
-   "n": 8,
+   "n": 9,
    "nom": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcGRWVFVDNHJ3Z0p6a0VHSTNzNXZBc1Bha1VmcTcySlJ4ejQ4OUoyTFdiUnJwdUxUZk1GdUsyNkM0V3BtamZfSFlCSl9QU3Nxa1pxY2xTQVR4bk9VaWVUOE9aNUw4QnM3aVdzbDFiRUQwWmtlbWxsSjNaUFZPcE5vRFpyeW5NeGdRZGlzLTJWSTBBZkQ3NEdpN2c0bTJwUUZSREJCZFNGSmxIdjRuQTZRd1Mwc1NmUWlwUFhkMFRqVU85OEtFNkpSNTd5UGFHTTFxYWsyVm9jaF9IcmJxdW1WcHRGVFVHNXhCdHJPTUZDSGo4Nmd5VTViODZxUkpTSF9pMFZ2N1Z4V0ZOaWpzSzJkT29DZVJIQQ?oc=5",
    "titre": "« Une démarche choquante » : une prof convoquée au rectorat pour avoir utilisé la mobilisation lycéenne pour un devoir",
    "date": "2026-11-24"
   },
   {
-   "n": 9,
+   "n": 10,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-une-enquete-ouverte-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe-20261124",
    "titre": "Présidentielle 2027 : une enquête ouverte pour détournement de fonds publics à l'agglomération du Havre présidée par Édouard Philippe",
    "date": "2026-11-24"
   },
   {
-   "n": 10,
+   "n": 11,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-on-a-detruit-petit-a-petit-la-democratie-locale-natacha-polony-assure-avoir-la-moitie-des-parrainages-requis-31650245.php",
    "titre": "Présidentielle 2027 : « On a détruit petit à petit la démocratie locale », Natacha Polony assure avoir la moitié des parrainages requis",
    "date": "2026-11-24"
   },
   {
-   "n": 11,
+   "n": 12,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-teddy-riner-va-rencontrer-robert-menard-a-beziers-vendredi-20261124",
    "titre": "Présidentielle 2027 : Teddy Riner va rencontrer Robert Ménard à Béziers vendredi",
    "date": "2026-11-24"
   },
   {
-   "n": 12,
+   "n": 13,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/societe/mouvements-sociaux-plus-de-300-gendarmes-blesses-depuis-mi-septembre-selon-le-patron-de-la-gendarmerie-1243510?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Mouvements sociaux : plus de 300 gendarmes blessés depuis mi-septembre, selon le patron de la gendarmerie",
    "date": "2026-11-24"
   },
   {
-   "n": 13,
+   "n": 14,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/24/manifestations-du-samedi-a-toulouse-chez-les-commercants-le-ras-le-bol-des-casseurs-13667308.php",
    "titre": "Manifestations du samedi à Toulouse : chez les commerçants, le ras-le-bol des casseurs",
    "date": "2026-11-24"
   },
   {
-   "n": 14,
+   "n": 15,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/societe/article/2026/11/24/mouvement-lyceen-la-delicate-et-precaire-reprise-des-cours-dans-les-etablissements-les-plus-mobilises_6814703_3224.html",
    "titre": "Mouvement lycéen : la délicate et précaire reprise des cours dans les établissements les plus mobilisés",
    "date": "2026-11-24"
   },
   {
-   "n": 15,
+   "n": 16,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/idees/article/2026/11/24/mobilisations-lyceennes-elus-locaux-mettez-la-jeunesse-a-la-table-des-decisions_6814824_3232.html",
    "titre": "Mobilisations lycéennes : « Elus locaux, mettez la jeunesse à la table des décisions ! »",
    "date": "2026-11-24"
   },
   {
-   "n": 16,
+   "n": 17,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html",
    "titre": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
    "date": "2026-11-24"
   },
   {
-   "n": 17,
+   "n": 18,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-aucun-insoumis-n-a-aucune-responsabilite-dans-aucune-action-violente-qui-a-ete-menee-dans-ce-pays-autour-des-mobilisations-lyceennes-rappelle-manuel-bompard-coordinateur-de-la-france-insoumise_VN-202611241017.html",
    "titre": "\"Aucun insoumis n'a aucune responsabilité dans aucune action violente qui a été menée dans ce pays autour des mobilisations lycéennes\", rappelle Manuel Bompard, coordinateur de La France insoumise",
    "date": "2026-11-24"
   },
   {
-   "n": 18,
+   "n": 19,
    "nom": "BFMTV",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-on-n-a-pas-encore-les-500-parrainages-confie-manuel-bompard-coordinateur-de-la-france-insoumise_VN-202611240951.html",
    "titre": "Présidentielle 2027: \"On n'a pas encore les 500 parrainages\", confie Manuel Bompard, coordinateur de la France insoumise",
    "date": "2026-11-24"
   },
   {
-   "n": 19,
+   "n": 20,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/education/mobilisations-lyceennes-quand-la-fiction-traverse-le-reel-la-responsabilite-des-createurices-dimaginaires-20261124_OJH7UML5NRCV5H63JUP2XREAVI/",
    "titre": "Mobilisations lycéennes : quand la fiction traverse le réel, la responsabilité des créateur·ices d’imaginaires",
    "date": "2026-11-24"
   },
   {
-   "n": 20,
+   "n": 21,
    "nom": "Anadolu Ajansı",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaWUwMjNtTFdlYzQyN0NqNU9MWUhueWh2YjB4Q2daTXFIcUZGcEcwLXZRMmlvc08tZEhPS2toR2ZBbGs3emZHTE13eS1sOVU1eTAybkc0NGlPa3dYSmhQQmxtTkRXUUc1eFNsRFAtWTJUV1NuZmx4LXQzTU5aYVNFOVU0VnNGWk9nOV9XX2ZVYjIxY18tN2F1endIb1llb2tjdTBDSHprNUk0ajQ0WGotLU5Vd0phUnNKNjJWZkxTQmFBRjBZRnI1WQ?oc=5",
    "titre": "France : Plus de 300 gendarmes blessés depuis le début des mobilisations sociales",
    "date": "2026-11-24"
   },
   {
-   "n": 21,
+   "n": 22,
    "nom": "Le Canard enchaîné",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcV9iTm5sTkIteW5VV09LbWs5YkFlQlBfdjlwNEFMekV5bjYzZW13T1lsd1dNLTNCYTdLeFRpVHNtVE05SnZJSU9fY053RGhHUEZVdjdCb21iR1E2TUJFM0lnbDk4dFIyRFNkWFFCSWJpakpXWnV3SEF0b0FqNzZXbEVoaDJ0aHBiV2lqWGtqZnluLTFYdmp1NHBlUGJOSWZCSDc3S3dGdFY3ekhUc2M1cGJReTA3dXlYMGN4VXVJLUxkeDBPX052SW05TFNrREV4MVcxWg?oc=5",
    "titre": "Maintien de l'ordre : Comment les syndicats de flics ont mis Laurent Nuñez sous tutelle",
    "date": "2026-11-24"
   },
   {
-   "n": 22,
+   "n": 23,
    "nom": "Place Gre'net",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUI3YjllTTk1akY1S3QyZTJDLWhtM1FjT21PRFVFdWtBaVdtTEdqalpRVHExeGlOc2ZHUTdGbExDM3p6bk1Femdrcmlkd1M4eDJLNkNyRWlSdzVMSVNOWTVpY0dIaS1MUExrWnRpRXJxR21MbDNLU1p2cWZwYTYtOWlZTUdiNWdxUG1wSFN3enp3djhIU0dycU1TU1RUUVZtVXlIZlh5WEx3c2M4bXIyZjVYdV9vWXlOcjVkc0tFV2NiRE82RXlkZkl1dU9GRVVieHhTRHAyWQ?oc=5",
    "titre": "Plusieurs nouvelles manifestations annoncées entre le 26 novembre et le 1er décembre à Grenoble",
    "date": "2026-11-24"
   },
   {
-   "n": 23,
+   "n": 24,
    "nom": "Sud Ouest",
    "url": "https://www.sudouest.fr/politique/budget-2027-sebastien-lecornu-va-recevoir-les-presidents-des-groupes-parlementaires-pour-poursuivre-les-discussions-budgetaires-31658275.php",
    "titre": "Budget 2027 : Sébastien Lecornu va recevoir les présidents des groupes parlementaires pour « poursuivre les discussions budgétaires »",
    "date": "2026-11-24"
   },
   {
-   "n": 24,
+   "n": 25,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/24/presidentielle-2027-patrick-pouyanne-bernard-arnault-comment-voteront-les-grands-patrons-en-cas-dun-duel-entre-jean-luc-melenchon-et-marine-le-pen-13669471.php",
    "titre": "Présidentielle 2027 : Patrick Pouyanné, Bernard Arnault... comment voteront les grands patrons en cas d'un duel entre Jean-Luc Mélenchon et Marine Le Pen ?",
    "date": "2026-11-24"
   },
   {
-   "n": 25,
+   "n": 26,
    "nom": "Le Figaro",
    "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124",
    "titre": "Présidentielle 2027 : le camp d’Édouard Philippe pointe le « flou » de David Lisnard face à « l’extrême droite »",
    "date": "2026-11-24"
   },
   {
-   "n": 26,
+   "n": 27,
    "nom": "Libération",
    "url": "https://www.liberation.fr/environnement/un-recul-tres-significatif-sur-la-reglementation-des-pesticides-a-strasbourg-des-manifestants-reclament-le-retrait-du-texte-europeen-omnibus-x-20261124_C3I76FWZRNBNTOO6HRKDSG4PAI/",
    "titre": "«Un recul très significatif sur la réglementation des pesticides» : à Strasbourg, des manifestants réclament le retrait du texte européen «Omnibus X»",
    "date": "2026-11-24"
   },
   {
-   "n": 27,
+   "n": 28,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-[lestitres]",
    "titre": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
    "date": "2026-11-24"
   },
   {
-   "n": 28,
+   "n": 29,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-l-epicier-du-quartier_8297910.html#xtor=RSS-3-%5Bpolitique%5D",
    "titre": "C’est Benjamin... à Amiens, avec l’épicier du quartier",
    "date": "2026-11-24"
   },
   {
-   "n": 29,
+   "n": 30,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html",
    "titre": "Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027",
    "date": "2026-11-24"
   },
   {
-   "n": 30,
+   "n": 31,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-et-etudiant-plus-on-est-flou-plus-on-crie-20261124_NECBH3OLQZE7FBAAEW6MO24NRY/",
    "titre": "Mouvement lycéen et étudiant : plus on est flous, plus on crie",
    "date": "2026-11-24"
   },
   {
-   "n": 31,
+   "n": 32,
    "nom": "BFM",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbm1Wd0dpRlRNLXQ2TzQzLUFaNVJYcFFscEtxUTFPY0JjNWVxRnR0RW1oM0VOWmgzOGZBczRsSXBjRWxGTnNrdmtIbW1Ia1B5VlVzbmxWX3FuSEJzenlzeUwzRktpbTd1a25mSzNnOGxxWDZ2b18tZ0lOMG01OElSVEVyMEpCTVVoX1VJRkJ2dmxnZFJHcHgxLWRwOUI3eElSMm1pM256Z1dNenFBVWFHYVRTMmczTnhFa0Y1NWw2N2dSNmR2ZEZvVDlVbEJFSGN3Zl9GT1c5ZG9hVFViMnNTRm9EVlpwTFE?oc=5",
    "titre": "Mobilisation lycéenne : jusqu’à quand les lycées resteront-ils bloqués ?",
    "date": "2026-11-24"
   },
   {
-   "n": 32,
+   "n": 33,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/police-justice/tibo-inshape-porte-plainte-apres-laction-dun-groupuscule-identitaire-devant-chez-lui-20261124_2WPVRV4NRZEAFOD5JBO7TY4ZV4/",
    "titre": "Tibo InShape porte plainte après l’action d’un groupuscule identitaire devant chez lui",
    "date": "2026-11-24"
   },
   {
-   "n": 33,
+   "n": 34,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html",
    "titre": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
    "date": "2026-11-24"
   },
   {
-   "n": 34,
+   "n": 35,
    "nom": "Europe 1",
    "url": "https://www.europe1.fr/societe/blocages-de-lycees-qui-se-cache-derriere-les-mobilisations-1244047?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
    "titre": "Blocages de lycées : qui se cache derrière les mobilisations ?",
    "date": "2026-11-24"
   },
   {
-   "n": 35,
+   "n": 36,
    "nom": "Mediapart",
    "url": "https://www.mediapart.fr/journal/france/241126/violences-policieres-quand-la-justice-est-rendue-c-est-presque-un-miracle",
    "titre": "Violences policières: «Quand la justice est rendue, c’est presque un miracle»",
    "date": "2026-11-24"
   },
   {
-   "n": 36,
+   "n": 37,
    "nom": "Libération",
    "url": "https://www.liberation.fr/societe/mouvement-lyceen-et-etudiant-la-violence-des-foules-comme-cliche-persistant-20261124_NATQLL6PBJGSFPRKZP4E7VFIWE/",
    "titre": "Mouvement lycéen et étudiant : la violence des foules comme cliché persistant",
    "date": "2026-11-24"
   },
   {
-   "n": 37,
+   "n": 38,
    "nom": "20 Minutes",
    "url": "https://www.20minutes.fr/politique/4265401-20261124-presidentielle-2027-voudrais-froisser-administres-maires-face-casse-tete-parrainages?at_medium=display&at_campaign=149",
    "titre": "Présidentielle 2027 : « Je ne voudrais pas froisser mes administrés »… Les maires face au casse-tête des parrainages",
    "date": "2026-11-24"
   },
   {
-   "n": 38,
+   "n": 39,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-[lestitres]",
    "titre": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
    "date": "2026-11-24"
   },
   {
-   "n": 39,
+   "n": 40,
    "nom": "Le Parisien",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeUgwZzZ0NWNweE11Y0VQWlJVNjAxcHZuWHNzRnNfdmIya3NLYi12YVhxOEstWkphZm5NMW1DcTNWX08tWnBKUlp6TWJjLUZHWmROekkzaHlyZGJZOXNsdHk0VDRSNzhkTTNnMERuT1VuWE11bVg3bjFseWVrZXJJLUtlTENwbnJRd3htY25RYUxNVmUzblpTek5ncnZ0VmVHa1RLckItZHpwUDZOWHhMckhGVHZyTlJVa3FPM3JiekpWSVFRM0liVTRzQUNtVGxfT1hsN1JFUUJBcFd1OTQ1VlpCSUlMUE0wWm1Ld0VOa2haNGNHT09aY1h3b3E0RnNvUVZTaFlOdw?oc=5",
    "titre": "« On sait qu’on ne fait qu’accentuer les inégalités » : avec le blocus des lycées, la demande de soutien scolaire bondit",
    "date": "2026-11-24"
   },
   {
-   "n": 40,
+   "n": 41,
    "nom": "Le Monde",
    "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html",
    "titre": "Présidentielle 2027 : Edouard Philippe a voté pour David Lisnard à la présidence de l’AMF, mais fustige sa posture dans la course à l’Elysée",
    "date": "2026-11-24"
   },
   {
-   "n": 41,
+   "n": 42,
    "nom": "RFI",
    "url": "https://www.rfi.fr/fr/europe/20261124-nouvelle-mobilisation-devant-le-parlement-europ%C3%A9en-contre-la-lev%C3%A9e-des-normes-de-certains-pesticides",
    "titre": "Nouvelle mobilisation, devant le Parlement européen, contre la levée des normes de certains pesticides",
    "date": "2026-11-24"
   },
   {
-   "n": 42,
+   "n": 43,
+   "nom": "RFI",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWtHVHgyV21SYUdIU0dkdnloeFo2dm1LdFhtanZ3M3RRUmVFYVpmU0N3cnU5NXJtVzk0MWpNc3hGOXNDYUp0VFhoVXdnUzRWTGt3SDFRS0lFeXllWXB3RGFxa1RaM0JVdkVuOElabDFVNUh4d1Nub19CV3dnRHBqbUh0cnFUV3EzMDJaU3EwWjNoUXYxTmZXNXNhQ28tV0REZ3Ywd1BHMmNMV08xSHc?oc=5",
+   "titre": "Accents d'Europe - Quelles sanctions face aux violences policières?",
+   "date": "2026-11-24"
+  },
+  {
+   "n": 44,
    "nom": "La Croix",
    "url": "https://www.la-croix.com/societe/est-ce-que-notre-annee-va-compter-a-marseille-des-etudiants-bouscules-par-les-blocus-20261124",
    "titre": "« Est-ce que notre année va compter ? » : à Marseille, des étudiants bousculés par les blocus",
    "date": "2026-11-24"
   },
   {
-   "n": 43,
+   "n": 45,
    "nom": "La Dépêche",
    "url": "https://www.ladepeche.fr/2026/11/24/reportage-colere-des-agriculteurs-on-veut-rencontrer-monsieur-leclerc-dans-laude-les-paysans-montrent-les-muscles-face-a-la-grande-distribution-13668777.php",
    "titre": "REPORTAGE. Colère des agriculteurs : \"On veut rencontrer Monsieur Leclerc\"... Dans l'Aude, les paysans montrent les muscles face à la grande distribution",
-   "date": "2026-11-24"
-  },
-  {
-   "n": 44,
-   "nom": "Le Télégramme",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQM1R2QVpnV0RIOHFUVDBXVV9PSmlrN2p4YzR2encxQjhTMWdFM1NKcXhWSkw2QUxxVG5SV2d3MmRVWWlCd0VUbTZPMllNMXVqUHBFTE1LZ0J6WU1KNVVKNlBuM3l3cFRaS0VXNE8wbGxITzRWczVPcFpyZXU5YXlLZ01DNTI0RFBPOXMwNWo4OV9qdkQtblZQT0xqUmZ5UExYRFVtNDNmM0dLX0FjcDE3MHB4b1VuRG5zbFZtbklTN0s2YjN2UUtXMDRHZFhNdzd5UGprcVBvXzNIeHVuUl9zU3JqdjR6bVFkTS10Z0NWbjRkVzhWVEtZU25oVjhCbDUtdWQ0V183M1BRSWFxLVEyeEdibEU?oc=5",
-   "titre": "Banquet du Canon français, match du RCV, marché de Noël et manifestation… À Vannes, un samedi 5 décembre sous haute surveillance",
-   "date": "2026-11-24"
-  },
-  {
-   "n": 45,
-   "nom": "Le Monde",
-   "url": "https://www.lemonde.fr/societe/article/2026/11/24/alcool-l-experimentation-en-hausse-chez-les-collegiens-et-les-lyceens-les-autres-usages-regressent-y-compris-chez-les-adultes_6814822_3224.html",
-   "titre": "Alcool : l’expérimentation en hausse chez les collégiens et les lycéens, les autres usages régressent, y compris chez les adultes",
    "date": "2026-11-24"
   },
   {
@@ -401,5 +401,5 @@
    "date": "2026-11-24"
   }
  ],
- "genere": "2026-11-25T15:26:13.903761+00:00"
+ "genere": "2026-11-25T23:45:52.578562+00:00"
 }
