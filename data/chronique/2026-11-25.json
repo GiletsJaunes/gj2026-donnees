@@ -1,0 +1,394 @@
+{
+ "titre": "Mercredi 25 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Le Monde, Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan (repris par 4 médias). Selon Le Figaro, Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan. Selon Revolution Permanente, Le Mans. Face à la répression, les lycéens s'organisent pour poursuivre les blocages.",
+   "sources": [
+    1,
+    21,
+    30
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Le Figaro, Mouvement lycéen: plus de 400 élèves exclus définitivement de leur établissement depuis le début de la mobilisation (repris par 4 médias). Selon Le Monde, Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées (repris par 3 médias). Selon Midi Libre, Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement. Selon ladepeche.fr, Mobilisations lycéennes et étudiantes : qu'est-ce que Révolution permanente, ce mouvement très présent sur les blocus depuis plusieurs semaines.",
+   "sources": [
+    2,
+    3,
+    6,
+    7
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon France 24, Les Grecs dans la rue face à la vie chère et aux faibles salaires. Selon Le Figaro, Éric Hazan : « La colère des classes moyennes s’explique par le fait qu’elles n’arrivent plus à se projeter ».",
+   "sources": [
+    11,
+    42
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon franceinfo, Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027.",
+   "sources": [
+    9
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon Sud Ouest, Présidentielle 2027 : l’organisation du second tour le 2 mai reste la meilleure option, assure le porte-parole du gouvernement (repris par 3 médias). Selon La Dépêche, DIRECT. Présidentielle 2027: David Lisnard réélu à la tête de l'Association des maires de France avec 72% des voix (repris par 3 médias). Selon Le Figaro, EN DIRECT - Présidentielle 2027 : «L’Ukraine n’est pas notre guerre», affirme Teddy Riner. Selon franceinfo, Présidentielle 2027 : \"Il faut une compétition, il faut une sélection\", défend le candidat David Lisnard, partisan d'une primaire.",
+   "sources": [
+    4,
+    5,
+    10,
+    16
+   ],
+   "theme": "Politique"
+  },
+  {
+   "texte": "Selon Le Monde, « Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 ».",
+   "sources": [
+    31
+   ],
+   "theme": "Marchés"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-25",
+ "numero": 55,
+ "jour_long": "mercredi 25 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
+   "titre": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 2,
+   "nom": "Le Figaro",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWdkWm1KTlp1VUhlMmRMeUk3eC1NbVllR2N3MVpIUU5mQ0s0dnVJdk82VDlYcE5hTzhDcllsdDVkMGxXcUpyUTdETENWWnlJYVFodVlXVVpQcGYyVUphMHJjR2wzZlVZQmlHdWl2SGpjZVdoanZqdDlDR3RqVUc0Rm1wNHhYMC1TSEZtYmJjbTF2MDhBV2UybnJ1QWJKU0staUYzQk05X2hNUFNhLU04cWFva1RFYVdSTEN4RmowOXExTHRIU1hoRm1yMGR6UHBPc0pSN1llRXNVSjFuUmJ0bkE5eTMzSldzUWtsVkJ4Q195YzBhOWd3?oc=5",
+   "titre": "Mouvement lycéen: plus de 400 élèves exclus définitivement de leur établissement depuis le début de la mobilisation",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 3,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html",
+   "titre": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 4,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-organisation-du-second-tour-le-2-mai-reste-la-meilleure-option-assure-le-porte-parole-du-gouvernement-31665887.php",
+   "titre": "Présidentielle 2027 : l’organisation du second tour le 2 mai reste la meilleure option, assure le porte-parole du gouvernement",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 5,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/25/presidentielle-2027-ma-droite-elle-est-etanche-avec-lextreme-droite-edouard-philippe-propose-un-debat-televise-a-david-lisnard-13670192.php",
+   "titre": "DIRECT. Présidentielle 2027: David Lisnard réélu à la tête de l'Association des maires de France avec 72% des voix",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 6,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3hrQUhVSjBBZDJoNEZRQzVoMTRoVHZhTVR2UnRlU0M2TmE5dnNZUUxMRDRqTUJDc2sxaFNrS05pX3dEbmlxMTFxUVVtcG4yYU54bDJjeGFOUjJRdzBXbmZSdExWeDlBajQtQ005VThyb1U3LW9uYlFqdmpSem9WeFlKVFVUMnNhZ2V4Y1lNYjYzcTV2Sm5TNC1OZGozRDhyM19uVC1fdzB6TU90ZVN5VXZfZklKcjlnd2dxckVNaXFPT25RM0tKSA?oc=5",
+   "titre": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 7,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnB2WFY3NGtZRUJhZGxVX3FpN0lzaHhmWU9KNVI3aW56cVlKblc5LTRlbDRUd2c2NS1yakp2dzVwM3l1M1lUTVVsNmpoQmsycklMZGlJbmwwSDJRQ2ZOV1FZVWlKYTQzMEYybXZVQV92ZVJwYjl4cWtaMmpQQTJsbUJBQWI5OTh3SGh6SkFvc3BBNFUzMUpEeV9NNUlmcXVxUDg1bnpSS3pCajhndnhlc2NpTlpvSDd4Qmh3RnJyY3hjRUhDTkt4Y1ZyX2lBa1llUllrYVJFaHc2RDBnejkwRkVJbl8wYUJpdWVzbENVRVpNRWpYbVhZVVhDNWRJSGloUndPWEtmZ2VvQ3VEb2lCRW8xRENTYWM?oc=5",
+   "titre": "Mobilisations lycéennes et étudiantes : qu'est-ce que Révolution permanente, ce mouvement très présent sur les blocus depuis plusieurs semaines",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 8,
+   "nom": "Franceinfo",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVDZIeGlOX1hVMFB1c0diZGFKNjhfUHdheGxpVjAwUVFsOHRKcDJlVldSbE5UVW92clhCTVgwV1FjM2g2ak5HUEZQMDdHQTNBWHU5Ym5GRWZLQ2ZBNV90VHo1SVZaS0M3UnFScDMtM050ZzM4eXFUbHVVQXBIQ2xDa2xwbnBvb1dQcFhTZXh0X1VwUHdMaFo3cGpIR1JselI1OV9IWnM3eDZRVXZfNkFraGNzMFd5YkdSYkVHaHY2QmpqUVpVNlgzYVR6Zk52TlFMbjV5blNnTlFSUjZBNHZVd0pEcm82VVA0T2JUaWxsbV9pS0J1RDljVkpMR0RWQXRZVHRiSzRFVQ?oc=5",
+   "titre": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 9,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 10,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
+   "titre": "EN DIRECT - Présidentielle 2027 : «L’Ukraine n’est pas notre guerre», affirme Teddy Riner",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 11,
+   "nom": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeDJFNmVwbEFqN2pPMUpMWExfWGgyb2hTbVc1ZFk4X0JIMkJoSUx4X2d2TUtVQTl3YmM1MXdWREhTQy1wRkpjSG9pNEh2ellxTFkzMjJZbEpMY19OSHNHa2tKSHdsR3lkdDJ5eWF4VXZmcTEzbjdIWS15Q0oyNF9DZ2ZTTjBHMFlIU0I2Zkp0TEtuWFVNSm9sZ0VMRVFLRm5rN21IU3lmNUVPZGlwM3VKeExaeDBOc1pUV1NSbTJzX1dVTHd5WUJB?oc=5",
+   "titre": "Les Grecs dans la rue face à la vie chère et aux faibles salaires",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 12,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html#xtor=RSS-3-[lestitres]",
+   "titre": "\"C'est le fruit de la mobilisation d'une France de terrain\" : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de France",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 13,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/mouvement-lyceen-bons-eleves-milieux-privilegies-l-inspection-generale-de-l-education-nationale-esquisse-un-profil-des-meneurs_8295899.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Mouvement lycéen : bons élèves, milieux privilégiés... L'Inspection générale de l'Éducation nationale esquisse un profil des \"meneurs\"",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 14,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
+   "titre": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 15,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mobilisation-lyceenne-lfi-n-a-aucune-responsabilite-dans-les-violences-affirme-manuel-bompard_VN-202611241041.html",
+   "titre": "Mobilisation lycéenne: LFI n’a “aucune responsabilité” dans les violences, affirme Manuel Bompard",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 16,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle-2027-il-faut-une-competition-il-faut-une-selection-defend-le-candidat-david-lisnard-partisan-d-une-primaire_8300388.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "Présidentielle 2027 : \"Il faut une compétition, il faut une sélection\", défend le candidat David Lisnard, partisan d'une primaire",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 17,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4265806-20261125-presidentielle-2027-democratie-vote-lisnard-refuse-debat-propose-philippe?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : « La démocratie, c’est le vote »… Lisnard refuse le débat proposé par Philippe",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 18,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-un-debat-plutot-qu-une-primaire-la-nouvelle-piste-a-droite-et-au-centre-20261125",
+   "titre": "Présidentielle 2027 : un débat plutôt qu’une primaire, la nouvelle piste à droite et au centre",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 19,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/avec-le-blocage-des-lycees-l-essor-des-cours-particuliers_8300355.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Avec le blocage des lycées, l'essor des cours particuliers",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 20,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/presidentielle-2027-david-lisnard-veut-attirer-des-electeurs-de-tous-horizons-y-compris-le-rn-31673699.php",
+   "titre": "Présidentielle 2027 : David Lisnard veut attirer des électeurs de « tous horizons y compris le RN »",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 21,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125",
+   "titre": "Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 22,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-gabriel-attal-espere-que-la-reunion-autour-de-gerard-larcher-permettra-aux-candidats-de-la-droite-et-du-centre-d-avancer-vers-un-departage_AD-202611250967.html",
+   "titre": "Présidentielle 2027: Gabriel Attal \"espère\" que la réunion autour de Gérard Larcher permettra aux candidats de la droite et du centre d'\"avancer\" vers un départage",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 23,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/economie/commercants-les-reseaux-de-franchise-ont-mieux-resiste-a-ce-quil-sest-passe-le-17-octobre-estime-le-president-de-liref-1244872?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Commerçants : les réseaux de franchise ont «mieux résisté à ce qu'il s'est passé le 17 octobre», estime le président de l'IREF",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 24,
+   "nom": "Sud Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHlNM2F6LWV4N2p3anctQWNWR0pmdWxTTmh1ZG5PcFZNWnVPNHRoaWdBcVcydFJkc2g3STl1ZTAtZmMyNy1jX3BVaklObTQtbU9qSEFFYXhQdGpqUUItMTFqM1F3dlh5NVBjWjlXYzdWelFHTlM4QVRSTzhtWTlhSWE1SE94cmVIX3JLelVnajlVeFE3Y0o3SlRPdDJOZUJVZ1ZpOXU4azFyQlA3WDNtSkVveElra2Y1N2dN?oc=5",
+   "titre": "Manifestations en France pour l'élimination de la violence faite aux femmes",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 25,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/politique/plus-de-3-100-faits-de-violences-sur-des-elus-recenses-depuis-le-debut-de-lannee-selon-linterieur-20261125_VONGG5N3WBD4ZPXHZQIDQ4NFV4/",
+   "titre": "Plus de 3 100 faits de violences sur des élus recensés depuis le début de l’année, selon l’Intérieur",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 26,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
+   "titre": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite pour la présidentielle 2027 : « Avec Retailleau et Philippe, on continue sans rien changer »",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 27,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4265748-20261125-presidentielle-2027-fan-vais-parrainer-comment-candidats-tentent-seduire-maires?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : « Je suis fan et je vais le parrainer »… Comment les candidats tentent de séduire les maires",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 28,
+   "nom": "Stéphane Larue News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazV4V0s3SVEyRkw2WHlUV0p1SWFLSV9YdE5fbFJMZ1J6Ym8wZUpvZ2ltcnQ2eWluNFVMTXlJd05GN3ZsTGNTM2NpZHhJVHl5RThyaFJSMm43MGo1UHExcTJ1QXZ1OXpLNV9zYkRjVUF1NUsxT3NHZnJtd24wdjdSYWp3VUNwSG5nZTRPSjMwd01tZzJRSDc5bVdwUFRQSTl5WGtKWVNlb3V3cmthVG45aDRWbWg?oc=5",
+   "titre": "Lycéens exclus après les blocus : plus de 400 cas, les familles ont 8 jours pour contester",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 29,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdy1JTzJyZTFlTmlodW1lMjF5aTV4SnZrTmNPSFN3Z0tBVDdhQk8zVi1rMFdIbWNwRU9EQjZVd1FaZUpFbmhaeHJOYU1OZHU0ZTJaRU8xek9yaWk1Y2ZJaFM5UTdjZ09icU1IWnVqOFJfaUpsSjAwTGFFd20wdXYyTUs0YzhmQnJLaTB1c1JDaUY2enlRYy0ta3plSlVpamNOX3ZJUFgtX2ZWc3Mtbm5ZXzBxckhJeC1nTGJqN2w2TVd4S3FYWjItS1JFd2NKcHRHYnotZmZaeEw5SEdWUFNpZTM4blctVEc5VjBQUTlXazQ2UlVzMzJQVzBCZ3lHRHJBSC1tZ1oydkVNM24ycXdyQWF4MTVSeWxvNGxITm1wVS1SLThGNWh5WmRQX3cxdw?oc=5",
+   "titre": "Violences faites aux femmes et minorités de genre : les associations fustigent l’interdiction de la manifestation au Mans",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 30,
+   "nom": "Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWp4VV9nY3BEWElJM3pzcHhBbEQ3c3cwaUsteDkxMVBvSmh1Y1pxbXhQd1E3SGdPb1EtZzhSUnY5ZzdMd2pxdTA5Tmx1QVBzaE9fb3E3U1pVT2VTZ2NGc3pGQjRxb2ZoaGVxUDJjYVU4MWpJNlkwUld5azJEVEdMVDlibV9IeWFsX21nNTJFYlN4Z9IBkgFBVV95cUxQOWp4VV9nY3BEWElJM3pzcHhBbEQ3c3cwaUsteDkxMVBvSmh1Y1pxbXhQd1E3SGdPb1EtZzhSUnY5ZzdMd2pxdTA5Tmx1QVBzaE9fb3E3U1pVT2VTZ2NGc3pGQjRxb2ZoaGVxUDJjYVU4MWpJNlkwUld5azJEVEdMVDlibV9IeWFsX21nNTJFYlN4Zw?oc=5",
+   "titre": "Le Mans. Face à la répression, les lycéens s'organisent pour poursuivre les blocages",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 31,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/25/le-sauvetage-de-nvidia-est-bien-plus-dangereux-que-celui-des-banques-apres-la-crise-de-2008_6815165_3232.html",
+   "titre": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 32,
+   "nom": "TF1 Info",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbW84d2xuV3Iyc21LMS1UaXVlREhBbHVRN3AwdkRsbjlLQ3NIQWhFc0ZQZTRndzRKZnU0dm5JTU5mT0hYeVRnbjBLekNNV19WQnVlbUh5OUZZRkFUSHNmQ0wwV1hlTGZCcHZpZVlfTm82RkU5UGNIVm1zNGRpbDBQNnZ4Y3NkaFdZUG1NVXluWlNIT3YyNzRXR3ROcEExcE5HTFRJak54LWo3NnRvOFpyWXVVSXAxaGhqV1RBaWhzSllSSmNDajdoTUVnc0pzQUZ4R3JEX3VHZUdOTlU3THRDZjZB?oc=5",
+   "titre": "Mobilisation lycéenne : plus de 400 élèves exclus définitivement de leur établissement après des violences",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 33,
+   "nom": "Le Poing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2ROakJMajV5c19rVDhudlAxLW83UjZfZ1RXNnNsNWZVLVZxak9SY0JWYjQ0ekdiWnZOQ2wxeDlkb1poV0stdTVaOXFJYldsQ3RnTVUxa2VFSFVLTlhnWkZ6SERXdlZqejVLRXpmOHhIWThQU2J0eFRMQTNacXE2UDRXa2VmVExaYVNXVmwtLXJKLWpwSTFUUmd1T0h0c3VCU0I3UmRQcnM3dVFDRjcxVHhIamRVTmtiUXlV?oc=5",
+   "titre": "Montpellier : un jeune homme grièvement blessé par un engin pyrotechnique, une manifestante en prison",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 34,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeurs-complices-des-violences-une-accusation-infondee_8300220.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Professeurs \"complices\" des violences : une accusation infondée ?",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 35,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-la-reelection-de-david-lisnard-a-la-tete-de-lamf-donne-un-coup-daccelerateur-a-sa-campagne-1244905?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Présidentielle 2027 : la réélection de David Lisnard à la tête de l'AMF donne un coup d'accélérateur à sa campagne",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 36,
+   "nom": "lanouvellerepublique.fr",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjl3SzZFUkFNaWlWQmhkalhXX3JVTk5FN2FUa0UxZ2NwLW94NEIzdjJHcnhMOHY3QXJyVmQ4UzAxNjRNZVE2aDNIamNPOWNtSzJIZjhfcElDX1AwSWRNT19EMDRBcnZZTWRyUGE3VElCVU9Kb1kySUxwMEd1MDBNTTJmbXhJLXhpLVV6d1pJa3BzWFRaTjZfeGlqaHdHMV9aNGRFR0RDTkMyVFEwQ19oVlZLSGtIS0hueGlsbl9Zc3ozbmttQWQtMnloUDVDMWY3YWIzS00yS25TSFpGdlAzX2UtMGxMOTRuTFNOTjVIUFdZUFl1Mi1CTGV1d3VWS3NzT1E?oc=5",
+   "titre": "\"On n’a jamais été autant écoutés\" : comment la voix des élus lycéens tourangeaux a enfin porté sous la pression des blocus",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 37,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/politique/blocus-des-lycees-des-proviseurs-denoncent-l-influence-dorganisations-politiques-20261125",
+   "titre": "Blocus des lycées : des proviseurs dénoncent l’influence « d’organisations politiques »",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 38,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/25/la-sexagenaire-entre-la-vie-et-la-mort-apres-une-chute-de-13-metres-dun-quai-a-montauban-est-decedee-elle-setait-echappee-de-lhopital-13671425.php",
+   "titre": "La sexagénaire entre la vie et la mort après une chute de 13 mètres d'un quai à Montauban est décédée, elle s’était échappée de l’hôpital",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 39,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/societe/greves-et-manifestations/mouvement-lyceen-plus-de-400-exclusions-definitives-apres-les-violences-dans-les-etablissements-31671243.php",
+   "titre": "Mouvement lycéen : plus de 400 exclusions définitives après les violences dans les établissements",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 40,
+   "nom": "Place Gre'net",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMncwUkwwS1NvWl8tSExXRl9xMVdYd3hMRk0tMFVVaTE2allUX3JPbDdDaVlOZlFJN0toTHpUZ0N6VjVjdnQxa3lWMEtxTjB3dm45RVdOYzRLXzhMMGd2Nms2T2FoVzBiMmVCU2xTenpRcElSMFpQS243Zl9XSVJHNVVQenRUYVdEQ1VTTlRuaGs0SldTZDJqTDAyamdqa1dkSGJUbWFaeXVxYzdtek1IcmVwMm52OTlTTVFtT3pyY1hZWWpiX1BjMWtzMm1YLTJqZmNZ?oc=5",
+   "titre": "Mobilisation lycéenne dans l'académie de Grenoble : 94 agents victimes et 40 plaintes recensées",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 41,
+   "nom": "Слободен печат",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUhldl9SUmtXMzkzS3dOQ3hBMHhpZGtYeU5yaDVwRWxuTDhOd1lSSDQ0djdrb1E0MFkwQmZRSkwxajlqTXRqMlZObFNra01MYXNDRnhxUzZadTdSaVVCbHVpTWZhNEtwOGJ3UUVtcFlMRFhqYVFFVDNTSmlhLWlKc2cxNmo5Z0VrcUVaWkZMV2lkS0M5UkhVMV80NEdKY0YzX0daR25GbVRHNUtwZmhRMGhUVGdtUGUySzc0TnktbnB1SXhOcm4yR2FB?oc=5",
+   "titre": "PHOTO + VIDÉO | Des manifestants ont érigé une tombe symbolique devant le ministère de l'Intérieur : « Nous ne resterons ni silencieux ni soumis ! » - Free Press",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 42,
+   "nom": "Le Figaro",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQm8zeHB6MTBtLVVQM21PX3E0ZGN0S09JekNZb2pUSjd3MUNVbjFJbHh4NzNxd3ZlajkwSTkwb3M1V1F4YVdwTGFKaHhJZDJCYkhiMWJiVjhrSEJkNWRKTmVlZXFYbE1ldkktU08xa1ZWcmVBUVNuVkxsZXJmNDNzUkNKOTFkZy02azJFWERGSGhQU1RjVU9USlB3VWtUTVZqaS1VaTlnTXo4Q1l6YXpQNHg2TFFBb1FPaVQxUEtjNmZUOHhtZ05WdzlnLXNWc0xqQ205ZXdNRG1OQXhybjZGakdhWQ?oc=5",
+   "titre": "Éric Hazan : « La colère des classes moyennes s’explique par le fait qu’elles n’arrivent plus à se projeter »",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 43,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/25/violences-sur-des-elus-plus-de-3-100-faits-comptabilises-depuis-le-debut-2026-en-hausse-de-25-par-rapport-a-2025-annonce-laurent-nunez_6815158_3224.html",
+   "titre": "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026 ; une hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 44,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/europe/20261125-gr%C3%A8ce-14-000-manifestants-dans-la-rue-contre-la-vie-ch%C3%A8re-et-les-faibles-salaires",
+   "titre": "Grèce: 14 000 manifestants dans la rue contre la vie chère et les faibles salaires",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 45,
+   "nom": "Orange Actualités",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQS1CalNqU0h3dkNnTTZxZWR4Qms0TlljZ1NJSlpPU3JVR3pNSWs1V1p1eHBOVTRDTFkwOVhHQ09LR0NXZWQxNWZ3N3BmNF93UFl0MGg2TWs4cXVIME9FOGZRVFZCTGZPYy14R0Y5MzNlZXBzc3NWNUJ6ZGxwZFRUaGdrb2JRcjBGc0h4aktNRGdUUmYzZzIzSzFhcmQ2ZVRiYmk3SklBXzVSbkhfVXF5TmVyRTNoTm9qcnBN?oc=5",
+   "titre": "Mobilisation lycéenne : ils témoignent des violences subies",
+   "date": "2026-11-25"
+  },
+  {
+   "n": 46,
+   "nom": "mesinfos",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTEFYZDgtQ2NLXzQxNm00aWFBMklsZmVseHMxODFhQ01vRnNaZjNnT1NfRGVqU09pTzFid3BYWjI2R01iVkRGSFVjNXlwNFIwYmhWOG4zbXhnWDF4NkZwR0EtMVh6dTI4NGZ0ZnNHN2F3OWVXYkJGZExFSUQ2ZTlFc1M4S0pSQXloTDdZLUZ0c3dMRnpVejlhYUl2dFBCMXdSMEUxT0F1c3dsUENkMDZVd2tPeW5tQ3pRRmdQa3lRU0ZfejUyYkZSRlBuY0dYNU9NejFGeXY5dEN6Yl9pRW5sTA?oc=5",
+   "titre": "Manifestations en Vaucluse : 196 interpellations et 31 blessés parmi les forces de sécurité",
+   "date": "2026-11-25"
+  }
+ ],
+ "genere": "2026-11-26T07:59:25.543762+00:00"
+}
