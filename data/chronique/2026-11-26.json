@@ -61,7 +61,7 @@
  "jour_long": "jeudi 26 novembre",
  "acte": "",
  "auteur": "automatique",
- "essais_ia": 1,
+ "essais_ia": 2,
  "sources": [
   {
    "n": 1,
@@ -359,23 +359,23 @@
   },
   {
    "n": 43,
+   "nom": "France TV",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3VDY0s2WHdtVUdpeXVwUXNZWUQ2R0ZMbFlldkZHcjhfNDItbmoyMjB1OWo2bUJJZnlsUml3NUVUQy1SdzBEX1dXMS1xaVFUQnlmRnd4LW1PQWRGY1dtbGdNVnpjbkp5OVhBemRMbWdIUnY3UmdtRXRMQmE2Vk9MWUlSZHFkejYteFh0aUNIRDBld0Vk?oc=5",
+   "titre": "Pascal Perrineau - Faut-il s'attendre au retour des gilets jaunes ? en replay - C dans l'air l'invité",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 44,
    "nom": "Sciences Po",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEYzUjdob255VW9YN0hFRlVUUWRHSlY2V0twckNmZzJSaFVnWGU2Vll4ZDhYZ0htT0dyVXh5UHdxdTJxMHB4QWJCUlVMQmU4Wl9FeXlCQmZKRzBuQmZmc3NnRUo5a24zTm9EMXVjSFBGWnZTVGctX1o0V0tDckhpekZCaGxEdzFSUDdvajE5Q1FjNUZfZ0dTM0dLbG9oQzUycGFUY0Y5WGg1UkVxNk9SR25PX1JIYlRIdEx4WHFra3hDNG9IVDM4YQ?oc=5",
    "titre": "Les mobilisations lycéennes, étudiantes et contre la vie chère : Perspectives croisées",
    "date": "2026-11-26"
   },
   {
-   "n": 44,
+   "n": 45,
    "nom": "franceinfo",
    "url": "https://www.franceinfo.fr/societe/racisme/les-opposants-au-banquet-du-canon-francais-vont-organiser-trois-rassemblements-a-biarritz-pour-bloquer-l-evenement_8301837.html#xtor=RSS-3-%5Bsociete%5D",
    "titre": "Les opposants au banquet du Canon français vont organiser trois rassemblements à Biarritz pour bloquer l'événement",
-   "date": "2026-11-26"
-  },
-  {
-   "n": 45,
-   "nom": "Ouest-France",
-   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-je-ne-suis-pas-un-cesar-raphael-glucksmann-vient-en-mayenne-presenter-son-projet-de-conseil-des-territoires-d6bb0434-e99e-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "titre": "Présidentielle 2027 : « Je ne suis pas un César »… Raphaël Glucksmann vient en Mayenne présenter son projet de conseil des territoires",
    "date": "2026-11-26"
   },
   {
@@ -393,5 +393,5 @@
    "date": "2026-11-26"
   }
  ],
- "genere": "2026-11-27T10:45:14.628349+00:00"
+ "genere": "2026-11-27T19:52:45.434765+00:00"
 }
