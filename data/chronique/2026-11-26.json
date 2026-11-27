@@ -1,0 +1,397 @@
+{
+ "titre": "Jeudi 26 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Le Monde, A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants ». Selon franceinfo, L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre. Selon Revolution Permanente, Répression : à Aix-Marseille, les sanctions disciplinaires se multiplient contre les lycéens mobilisés. Selon RFI, «Une mare de sang le long de mon corps»: la létalité des grenades de la police française en question.",
+   "sources": [
+    13,
+    14,
+    17,
+    24
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Le Monde, Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE » (repris par 4 médias). Selon Le Monde, Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu ». Selon ladepeche.fr, Colère des lycéens : des enseignants \"complices de violences\" ? La version du gouvernement sérieusement fragilisée, ce que l'on sait des accusations de Sébastien Lecornu. Selon ladepeche.fr, Manifestations violentes, menaces, refus d'obtempérer, blessures graves : les policiers réclament une hausse de la prime de risque, les syndicats s'unissent pour la cause.",
+   "sources": [
+    1,
+    4,
+    5,
+    6
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Europe 1, En direct - Primaire, pouvoir d'achat, fiscalité, école... Ce qu'il faut retenir de l'émission «Objectif Élysée 2027» avec Éric Zemmour. Selon La Dépêche, \"On va droit vers le dépôt de bilan\" : Vichy, Vicks, Cachou Lajaunie... Des pastilles et confiseries interdites en pharmacie du jour au lendemain, les entreprises du secteur inquiètes. Selon Ouest-France, Prix du gaz, hausse du Smic, des heures creuses modifiées : ce qui change pour votre budget au 1er décembre 2026.",
+   "sources": [
+    26,
+    35,
+    38
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Sud Ouest, Congrès des maires : Sébastien Lecornu se dit ouvert à un compromis sur le budget sans annonce concrète. Selon Le Monde, Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable.",
+   "sources": [
+    21,
+    32
+   ],
+   "theme": "Argent et crise"
+  },
+  {
+   "texte": "Selon BFMTV, Éric Zemmour annonce que 2027 sera sa “dernière campagne” à l’élection présidentielle. Selon Sud Ouest, Attentat de Trappes : Emmanuel Macron et Sébastien Lecornu ont rendu visite à des victimes à l’hôpital. Selon Le Figaro, EN DIRECT - Présidentielle 2027 : David Lisnard veut débattre avec Édouard Philippe, à condition d’organiser une primaire. Selon Sud Ouest, Présidentielle 2027 : sur l’Ukraine, Teddy Riner persiste, Emmanuel Macron appelle à ne pas « créer de doute ».",
+   "sources": [
+    2,
+    3,
+    8,
+    15
+   ],
+   "theme": "Politique"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-26",
+ "numero": 56,
+ "jour_long": "jeudi 26 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html",
+   "titre": "Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 2,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/reconquete/eric-zemmour-annonce-que-2027-sera-sa-derniere-campagne-a-l-election-presidentielle_AD-202611261033.html",
+   "titre": "Éric Zemmour annonce que 2027 sera sa “dernière campagne” à l’élection présidentielle",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 3,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/faits-divers/attentat-de-trappes-emmanuel-macron-et-sebastien-lecornu-ont-rendu-visite-a-des-victimes-a-l-hopital-31686961.php",
+   "titre": "Attentat de Trappes : Emmanuel Macron et Sébastien Lecornu ont rendu visite à des victimes à l’hôpital",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 4,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html",
+   "titre": "Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 5,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVmM2V1JlMDdRU1lPdnRPUHFJblhyenNiQnpEUHExX1ozUHBWWlNVTFhsZnBuUEhfUTliQjRHU3ZxOVoyUUFJU0w0dVpEX2tMcDlfYk5mTmhkUkpuOFl0c1FRZGpOc2E3Y0s0M3o3NUdrQzU0cW5hRHlOOGJMMHJQdnBkTGtfMWE4SFRFc2JrZm9EeHh2dVFiRXV4SXNwQkRRM0NUX01qdFI3NE5OR2VGeDVFS19UeHowRmFVQjFRMkVpSEVyNENuQVhiSjBVMlFwcVNHTDNmZnlOSEhPY0pWRElweTdzMldVYXotUm1zZDBINWE4QkVteWxIenVFTHNtNU15TTZpRDdzTFl0eGpQRERVSzFzWUZINjhycg?oc=5",
+   "titre": "Colère des lycéens : des enseignants \"complices de violences\" ? La version du gouvernement sérieusement fragilisée, ce que l'on sait des accusations de Sébastien Lecornu",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 6,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORzZPWXg3MGNHY1JKMkpQYUJJR0NPN1hJei1wd3pzOWdmRTBydUdSNVdGMEVRNkRQUFY3SUJZbzVGS1hhM1AxOU5weHp0OVZYb2MzMmpKa1RVejZhb2ZGeUk2cUdIbHdMMklPbFNFV1lkNV9xWUVsN1c4bjM0Y2UzVmlhNWMxRDlZRnB0bFU0U0RPOFRScS1sVG50LTZNZ1M0dXk0V05yMG00MXM3ay1tWUFzeUFsd2dmc1pJRHJSRkZXbV9QQ0w5TEpWZXZEcnV4WUVjUk9ITzZHdnBOZmZEcDN2MzlvbTVCUXRjaXNOcG1uMjJoM014aXJET3FxQmZ1SC1BQ05QN24tRDFveW16RjM5R1R3bFFsOU1SU3N1TUtQWE0?oc=5",
+   "titre": "Manifestations violentes, menaces, refus d'obtempérer, blessures graves : les policiers réclament une hausse de la prime de risque, les syndicats s'unissent pour la cause",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 7,
+   "nom": "Le Poing",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTM3OHhXR2J3aGI1cHc5dklRZ3BpWEgyMHRiRHZBVkFhMDNBS0QtX0ZRdjh2Qi1jSGdOYXMzaS1fMk5hSTM5N1ptQkZWMkVsbUVRcm82aU90Y25QZlgtVmZ1S2xGQ21FcXlOTXhVcTBDZEVQbGQxdHo3aWRUd1ppX0JnbGRTMjRMVXVlanVjRGJmUmVYOUFQdDQwVWhjS1VKOHlSSmhqWnlJMnNHQkxjUUg1NWQ?oc=5",
+   "titre": "Montpellier : loin des lacrymos de la Comédie, la mobilisation étudiante fait le tour des campus",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 8,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
+   "titre": "EN DIRECT - Présidentielle 2027 : David Lisnard veut débattre avec Édouard Philippe, à condition d’organiser une primaire",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 9,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMmtoMVVCM05HVHNoMEYtZ2t0Smc1eDJvYl80NzFVNmk4Rm1uZW85cmFCTHliU1Rvb3F5aHR2RUdhQ2hPUDNYazBTQUNxLU5Yc1dONHlZQk5pQWlYc3FXZWY0QXlSWXQ5T095NHotdDBzSm5ReHFJU3RhblRJUUdrZmNIVjBCdWRkTnBUaHY1ejROaEVBZFp4Yjl5aWNOVF9HWWQtU01iN2Z5TVM2dFBMbFl1SFhvdTdWX0hIcDZrWFZHYnJKN3pwWUpnVzcxZ1hOMTJoYkxKRklvdkhjVjFDTDJqeEJLQzJzaGIxdi1MTG1UdUJjcENiZGt0YUZVSlRaR2pHaHRMVjVZc29FcHRRVVB0clc2YlZNTjlXZA?oc=5",
+   "titre": "Colère des lycéens : \"J'ai peur que ce soit pénalisant pour ma fille\", quand les parents d'élèves s'interrogent sur les conséquences du retard scolaire",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 10,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3N1OTZ3WDdpdkhnZzN3ckVoU05DaG1CQXp3NHZYMU5tNHdMZkJneERTM240Q001Zm1pY1JWN1dXMnZXVlBUbl8ycDdnVEdIVmVhUzRYM2cySlRPRTM5UWJHWW10WkpoOWk3RWl3R3R1YWFLREtFcU9xY29RWlFXTHpYOENJanVwZVZyYVBuVkNCWFRMbTMtSGt0ZEthV1hGbldRSDl0X200NEJtWk1ZSA?oc=5",
+   "titre": "Colère lycéenne : à quoi s'attendre pour ce jeudi de mobilisation ?",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 11,
+   "nom": "ladepeche.fr",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWhCSnpMSlE4andreHA3SHloNW1sMVc5QjBTUllwdnZtd1RvRlgxZnU0ck02TC1XZmFCYmV3MTFWM2xVVExiMjlIcDNtWFpmS3VvM1p1SXQ3MlpjTFVaUjJZcVdpbEFfN3JGS0pnLTMwMEJKQVdtUFZfSW45VnVQNTA1RHpkcHpCdzZ3M0szaGxHVTlITHQ4VzhsTjVZUkJIdHk3MTlIaEZfajl2WVNZVnFqMFZnQWJTVUxlSXl4ZVRheFdRQncyMTU1WVBJT2hfT3B2cnJYYw?oc=5",
+   "titre": "Colère lycéenne : continuer la mobilisation ou tourner la page en attendant la présidentielle ?",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 12,
+   "nom": "Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEhSalNpMENlRFNMa1VhRDBOS2NPUDgtd3pIWDdiUzZzcm1FbzF0MmJZYjFQX1hKMk5TcGNhaHl0UnNIRzdHMmFyWDF1RzZyTHFYd05acjdYem5lbDBURmtZaXd1Yi0tOENGc2szU0M1V1J5MjlwZTRpYXZTbUlqaWNvY1JOb05LZ2JIc3R3ZnlQdlkxc1ZlcWhGN0JfWXkxU2FLdVVuWUJ5OXJCcklpQVdxTXNuMlY0dm91QXNYQWlvUVZmOEZpYTBmWUYzZklWb0x0MGFDT2x6LU0wbVRnVlVRLTE4elRSRTZmZFd6VE0?oc=5",
+   "titre": "A Paris, des lycéens et étudiants toujours mobilisés qui récusent tout « retour à la normale »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 13,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/26/a-nice-dix-membres-d-un-groupe-anticasseurs-devant-la-justice-on-etait-la-pour-les-commercants_6815626_3224.html",
+   "titre": "A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 14,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html#xtor=RSS-3-[lestitres]",
+   "titre": "L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 15,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-sur-l-ukraine-teddy-riner-persiste-emmanuel-macron-appelle-a-ne-pas-creer-de-doute-31687891.php",
+   "titre": "Présidentielle 2027 : sur l’Ukraine, Teddy Riner persiste, Emmanuel Macron appelle à ne pas « créer de doute »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 16,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/objectif-elysee-2027-le-vrai-probleme-de-lecole-cest-leffondrement-du-niveau-scolaire-clame-eric-zemmour-1245694?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Objectif Élysée 2027 : «Le vrai problème de l'école, c'est l'effondrement du niveau scolaire», clame Éric Zemmour",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 17,
+   "nom": "Revolution Permanente",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDVVM0RuM1o3eF9mbVpSNkUtTlA3RUNnNWpQbUljeG9ZU1UzREplMklMY1dFbkxwU0U1cjBobnQ3OGVoTk53aE12bGktUzdySmJMZWZhRllRMUlQVEdpU3Axa2piY3pfcXVVS3BZQXhoN2JnV25fU2d6TWdnU1pFeWxsZHN5QWdEM09Ick5TSHZxZUd4ZmJNQ2t4SnVLa3VFWWR4RXA2SnZLWHNyVkdSdi16TW83YzBQWkF4TFJhZGlmUTdRSXdOZHQzUE15Vi1aQkFId2lsenbSAdgBQVVfeXFMT3A1VTNEbjNaN3hfZm1aUjZFLU5QN0VDZzVqUG1JY3hvWVNVM0RKZTJJTGNXRW5McFNFNXIwaG50NzhlaE5Od2hNdmxpLVM3ckpiTGVmYUZZUTFJUFRHaVNwMWtqYmN6X3F1VUtwWUF4aDdiZ1duX1Nnek1nZ1NaRXlsbGRzeUFnRDNPSHJOU0h2cWVHeGZiTUNreEp1S2t1RVlkeEVwNkp2S1hzclZHUnYtek1vN2MwUFpBeExSYWRpZlE3UUl3TmR0M1BNeVYtWkJBSHdpbHp2?oc=5",
+   "titre": "Répression : à Aix-Marseille, les sanctions disciplinaires se multiplient contre les lycéens mobilisés",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 18,
+   "nom": "CNews",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORU9HMXdBTzh4MW10a3VMMENnTmdZYkw5MXBGTWNRWWZQNTFUckVVcHZMR1llZFRmaS1RRXNyNXRHSjhhX1VxRHhoaF9yczhGUkl6Y0toc3VYVktSVzZrUXlwNTRkdGRTTlRYWHcxYlNxdGp4cjF2NjNrVF9Tam1yTmVnV1BORU1qSkw1NURYMDd5ck54Nkc2R2NKN0p1SGIwdC1OU0pocnd2X0FLOVBsSUktN2J1STFjdFdVY9IBwgFBVV95cUxQZFpQeWJDcThkZlNORUFLWU14MmMwcHNUYUFYV0s5Rl9BSFBuZmNLNThXaS1tbUV0T2tJUjFDT2NrRUtuWHFSVFFreXJGanFoZlNXZVM4NHVuM0ZKdXNoZk5jNGw2ZU9tRlJrU1E2Sm8yT2R6VnNwdUR4dk1raWI5Nm9XRXhRNkNFVEdSMlpJdUVqZmxpeFpTWnlkMGh3czBEU283OVBjTFYyV0RhR2JHUGtLRHAxRGpvWWhHd280UXYtZw?oc=5",
+   "titre": "Blocus des lycées : «Le vrai problème de l'école est l'effondrement du niveau scolaire», alerte Éric Zemmour",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 19,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMjNyNjRnSzdxeWxhUDd1Qy1pQ050NjlPc0tGNFZGa3VXNERoeW9YMHBRYnRaMnhHdV9XY0E1MWxLOUZLeVU3QXhRWklrUEFmdUYwYmh1dUNsc19QWHhoekw0NjR4aDBXVkpjLS1FUFU2UU5vSzlKbmNQYlFyanZSdVlCd0Y0RVRoc1h3QklSSVBpcGwxTDUwRDh0V2VfU2lkcTVUR1AzM1BHMGRpNmR2RXlwb19BUXBRY2hkMl9nSzBzTWx6NHFmbUlBc0FVWm1mVlZSZVRYdHV4UkRzOXRTczQ5TXhtRDV2MV9iVlhhZzBUZW1FNUE2SG5XSC1nRmVfWUZFc1Y1bUR1ZTdXcFJhRnUxSmZwWXRkOWlHdVpIN00?oc=5",
+   "titre": "Mobilisation du 26 novembre : malgré le recul des blocages, les lycéens et étudiants veulent poursuivre le combat et appellent à manifester samedi 28",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 20,
+   "nom": "BFM",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnExQXp1aXpGd2Rha1RYOWFwd0ZlZ21WdGViQTU4LWxSdHdPN2pYb1Z0M1RKVFlmbUpsalZ4WUMtc2xBSDZmVFBWUWdVLWtyM1U0emhHTFhkNDZ5OVFQUFc2RER2NjktNHBMNXJXaE90cDJSNlpEZFdaV0Q5LXUyak1VdWVac0xDbDNEWjhKOVJ0eV9va3RkMGxraVlWZlhpTTJOa09PclRRMjRtNHoyQU0wbmIzRDg5aURQWjB3am5BSnRNLWRDN0s1WW1HOFoyQ0dIb1NYVms4MmtsQmsxMnNSTGVlUmtWYjhGTFVB?oc=5",
+   "titre": "Blessés par la police lors de manifestations, ils racontent comment leur vie a été bouleversée",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 21,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/politique/sebastien-lecornu/congres-des-maires-sebastien-lecornu-se-dit-ouvert-a-un-compromis-sur-le-budget-sans-annonce-concrete-31687468.php",
+   "titre": "Congrès des maires : Sébastien Lecornu se dit ouvert à un compromis sur le budget sans annonce concrète",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 22,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126",
+   "titre": "Présidentielle 2027 : Édouard Philippe veut « dépenser mieux » pour la santé, une « fierté française »",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 23,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
+   "titre": "Salon des maires et présidentielle 2027 : retrouvez notre direct sur la journée politique",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 24,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20261126-une-mare-de-sang-le-long-de-mon-corps-la-l%C3%A9talit%C3%A9-des-grenades-de-la-police-fran%C3%A7aise-en-question",
+   "titre": "«Une mare de sang le long de mon corps»: la létalité des grenades de la police française en question",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 25,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/depart-des-combats-jusqua-18-mois-de-prison-requis-a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-20261126_QFFSBPPJOBEWJBKMVBFRAEGX2Q/",
+   "titre": "«Départ des combats» : jusqu’à 18 mois de prison requis à l’audience sur les descentes de l’extrême droite à Nice contre des manifestants",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 26,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/politique/en-direct-primaire-pouvoir-dachat-fiscalite-ecole-ce-quil-faut-retenir-de-lemission-objectif-elysee-2027-avec-eric-zemmour-1245655?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "En direct - Primaire, pouvoir d'achat, fiscalité, école... Ce qu'il faut retenir de l'émission «Objectif Élysée 2027» avec Éric Zemmour",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 27,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY3N6VTgxOWNreXZtcmNLekNzSk5jZjVCZEJYVjh4eXdYejRJbDZvMllMQnQzdWxoQ0t1QXEyaHlRclRQelphNnRneE9pMWlLYlJKVWxvUUdCSHFEVzVKRk9fZGw4MnZVYzN1dXdfZkRPY1BtV29JanFnM29lM2VYbnNSZzBCZThKVjVDM1dqdW12ekZTMW9fcVdic1JwSVJBNi0xRzR0cjBLTHZNY0N4cm9GZWVReGNNM3pRUHRRMGE2ZV9USmNtTm5pNXJqYlFxX0dwdDRXTHJ0UGx6M3R1RnBjZzJjQkM3MUVGV1QtNU8?oc=5",
+   "titre": "\"Ils ont enlevé ma vie\" : Tedy, grièvement blessé lors d'une manifestation à Toulouse, prend la parole",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 28,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html#xtor=RSS-3-%5Bpolitique%5D",
+   "titre": "Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 29,
+   "nom": "20 Minutes",
+   "url": "https://www.20minutes.fr/politique/4266128-20261126-presidentielle-2027-edouard-philippe-devisse-nouveau-sondage-fait-passer-david-lisnard?at_medium=display&at_campaign=149",
+   "titre": "Présidentielle 2027 : Édouard Philippe dévisse dans un nouveau sondage et se fait passer par David Lisnard",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 30,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/environnement/animaux/en-italie-les-citoyens-selevent-contre-le-projet-de-loi-tire-a-tout-va-la-nature-se-regule-delle-meme-pas-besoin-de-fusils-pour-cela-20261126_TH2K7A3FOVBA3MDR5WXXXCTQK4/",
+   "titre": "En Italie, les citoyens s’élèvent contre le projet de loi «tire à tout va» : «La nature se régule d’elle-même, pas besoin de fusils pour cela»",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 31,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOXV1NTZyRHZ1ZXFyT2NTREJJclZBR0lZLVR3ZkJvY1JlcDZnMUxCQmQzWmxPUW9iY3RSNFV3Z3FwdzE2enVxS1VScjJkcWZlaVdKUDdsbVVqZGhYczIydzBQVUwxVVNQbl9wV2JTenFOMkRCamkzZU91dXd2cFk2a3c3RTFweGltbmJhaDJyQm8zbXJISHQyN081YnhFM1NMcjcxVzRKNDVWNVNsMkJvWDNzdF8yS2hEaDZGYmllV3JOMGNLb1VUQXp2Sm05cVhwNXZvT3hkWnFLV0NRMzVTT0taVXRheUNtdi1MQ3Y5R1BnT28yRlRUMF9TMVZaV3VuSkRTeHFGRG5xQkZ5Y0p2VUhjWHlQaFY4Smlod2o4QTdkQTVJTjIzbHNDMUk?oc=5",
+   "titre": "Colère sociale : à Châteaubriant, l’intersyndicale appelle à une nouvelle manifestation mardi 1er décembre",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 32,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html",
+   "titre": "Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 33,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-largement-battu-par-marine-le-pen-dans-les-sondages-de-second-tour-jean-luc-melenchon-a-t-il-vraiment-perdu-d-avance-20261126",
+   "titre": "Présidentielle 2027 : largement battu par Marine Le Pen dans les sondages de second tour, Jean-Luc Mélenchon a-t-il vraiment perdu d’avance ?",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 34,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/26/ils-incarnent-nos-valeurs-douverture-sur-le-monde-des-joueurs-du-stade-toulousain-et-des-apprentis-de-la-cfa-toulouse-blagnac-creent-des-cocktails-13667714.php",
+   "titre": "Des joueurs du Stade Toulousain et des apprentis de la CFA Toulouse-Blagnac créent des cocktails explosifs lors d'une mêlée insolite: \"Ils incarnent nos valeurs d'ouverture sur le monde\"",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 35,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/26/on-va-droit-vers-le-depot-de-bilan-vichy-vicks-cachou-lajaunie-des-pastilles-et-confiseries-interdites-en-pharmacie-du-jour-au-lendemain-les-13673155.php",
+   "titre": "\"On va droit vers le dépôt de bilan\" : Vichy, Vicks, Cachou Lajaunie... Des pastilles et confiseries interdites en pharmacie du jour au lendemain, les entreprises du secteur inquiètes",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 36,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORTVPRERhaW1YYUtaOGo5a2hoQzdrRFdJcnNLVGJRanc5ajZmMWQzVlptZ1Btdko2dGpYSnFLSnBzcVUzYnZ4bVFiVmJNeUtSZTdVNVdVVUhYelZEVHJmSkhMUWhWWm9vTW1CXzB1aVhpT1ZxUlhfa2ZXaGw4Ny1zM2xTaWZRa3ZNUFQ4TU93ZW1NMzUzOWM1T2JVQUhhbXZ1R3ZrREdRZWp3Tkt1RzROOVY3OElhdlVhV2tKTXhwNDRtOGhrZ3BWRHV4YTlfOEY5SDNYNTVUNlVOdWQ5djZOUU9hb0hHdEN3bXkycEpESTZ3anNUdnlJeExOazd4a0hRT3lwbFMyQUlJLVRwTFY1N0dKcjZSeTVIRVN2bFAtelBpWXk0X0VXSndJZVM0bEotdW5aaVpXeWVGR0JxTUxiQWR3?oc=5",
+   "titre": "Manifestation, Black block friday, match de football : le préfet de la Sarthe multiplie les interdictions pour samedi 28 novembre, au Mans",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 37,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/marseille/a-marseille-les-policiers-mobilises-pour-la-juste-reconnaissance-de-leur-statut-20261126",
+   "titre": "À Marseille, les policiers mobilisés pour la juste reconnaissance de leur statut",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 38,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/economie/consommation/prix-du-gaz-hausse-du-smic-des-heures-creuses-modifiees-ce-qui-change-pour-votre-budget-au-1er-decembre-2026-6cc9f91c-e1ac-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Prix du gaz, hausse du Smic, des heures creuses modifiées : ce qui change pour votre budget au 1er décembre 2026",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 39,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-immigration-zero-n-est-ni-faisable-ni-souhaitable-david-lisnard-veut-creer-une-green-card-pour-limiter-le-nombre-d-immigres-31685719.php",
+   "titre": "Présidentielle 2027 : « L’immigration zéro n’est ni faisable ni souhaitable », David Lisnard veut créer une « green card » pour limiter le nombre d’immigrés",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 40,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/26/dans-culture-alerte-rouge-jerome-clement-veut-relancer-le-combat-pour-la-politique-culturelle_6815589_3232.html",
+   "titre": "Dans « Culture : alerte rouge ! », Jérôme Clément veut relancer le combat pour la politique culturelle",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 41,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/politique/presidentielle-2027-attraction-et-soumission-le-rassemblement-facon-melenchon-20261126",
+   "titre": "Présidentielle 2027 : attraction et soumission, le rassemblement façon Mélenchon",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 42,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/politique/presidentielle-2027-david-lisnard-meilleur-candidat-qu-edouard-philippe-pour-les-sympathisants-de-la-droite-et-du-centre-20261126",
+   "titre": "Présidentielle 2027 : David Lisnard meilleur candidat qu’Édouard Philippe pour les sympathisants de la droite et du centre",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 43,
+   "nom": "Sciences Po",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEYzUjdob255VW9YN0hFRlVUUWRHSlY2V0twckNmZzJSaFVnWGU2Vll4ZDhYZ0htT0dyVXh5UHdxdTJxMHB4QWJCUlVMQmU4Wl9FeXlCQmZKRzBuQmZmc3NnRUo5a24zTm9EMXVjSFBGWnZTVGctX1o0V0tDckhpekZCaGxEdzFSUDdvajE5Q1FjNUZfZ0dTM0dLbG9oQzUycGFUY0Y5WGg1UkVxNk9SR25PX1JIYlRIdEx4WHFra3hDNG9IVDM4YQ?oc=5",
+   "titre": "Les mobilisations lycéennes, étudiantes et contre la vie chère : Perspectives croisées",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 44,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/racisme/les-opposants-au-banquet-du-canon-francais-vont-organiser-trois-rassemblements-a-biarritz-pour-bloquer-l-evenement_8301837.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Les opposants au banquet du Canon français vont organiser trois rassemblements à Biarritz pour bloquer l'événement",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 45,
+   "nom": "Ouest-France",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-je-ne-suis-pas-un-cesar-raphael-glucksmann-vient-en-mayenne-presenter-son-projet-de-conseil-des-territoires-d6bb0434-e99e-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "titre": "Présidentielle 2027 : « Je ne suis pas un César »… Raphaël Glucksmann vient en Mayenne présenter son projet de conseil des territoires",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 46,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/sondage-81-des-francais-estiment-que-les-pouvoirs-publics-doivent-intervenir-afin-de-permettre-la-reprise-normale-des-cours-dans-les-lycees-1244854?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "SONDAGE - 81% des Français estiment que les pouvoirs publics doivent intervenir afin de permettre la reprise normale des cours dans les lycées",
+   "date": "2026-11-26"
+  },
+  {
+   "n": 47,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/education/mayotte-est-devenue-une-fabrique-de-barbares-un-adolescent-tue-lors-dune-rixe-dans-un-lycee-le-troisieme-en-moins-dune-semaine-20261126_3N75IRQFRNFTFBV5JPE7HRIKSE/",
+   "titre": "«Mayotte est devenue une fabrique de barbares» : un adolescent tué lors d’une rixe dans un lycée, le troisième en moins d’une semaine",
+   "date": "2026-11-26"
+  }
+ ],
+ "genere": "2026-11-27T10:45:14.628349+00:00"
+}
