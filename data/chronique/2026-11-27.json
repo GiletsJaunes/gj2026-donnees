@@ -1,0 +1,387 @@
+{
+ "titre": "Vendredi 27 novembre : ce que dit la presse",
+ "chapeau": "45 articles ont parlé du mouvement ce jour-là ; aucun chiffre n’a pu être recoupé par des médias de bords différents.",
+ "chiffres": [],
+ "points": [],
+ "recit": [
+  {
+   "texte": "Selon Le Monde, Manifestations du 28 novembre : les marchés de Noël « constituent une vulnérabilité supplémentaire », dit le ministre Laurent Nuñez. Selon Place Gre'net, Grenoble : soutien à une enseignante de Louise-Michel et dénonciation de la \"répression\" du mouvement lycéen. Selon Libération, Manifestations à Nantes : quatre syndicats réunis portent plainte pour violences policières.",
+   "sources": [
+    17,
+    24,
+    45
+   ],
+   "theme": "Répression"
+  },
+  {
+   "texte": "Selon Nice-Matin, Mobilisation du samedi 18 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël (repris par 4 médias). Selon Midi Libre, Manifestation du 27 novembre : une nouvelle journée de mobilisation \"contre la vie chère\" et les violences sexistes ce samedi. Selon franceinfo, Un accord trouvé entre le collectif NousToutes et la préfecture sur le parcours de la manifestation à Lille samedi contre les violences sexistes et sexuelles. Selon Ouest-France, Des pilleurs s’étaient attaqués à une joaillerie de Nantes en marge d’une manifestation contre la vie chère : un suspect trahi par son ADN.",
+   "sources": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "theme": "Le mouvement"
+  },
+  {
+   "texte": "Selon Le Monde, Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi ». Selon ici.fr, En prévision d'un \"acte VII\" contre la vie chère, le préfet du Doubs interdit les rassemblements non-déclarés à Besançon.",
+   "sources": [
+    27,
+    34
+   ],
+   "theme": "Colère sociale"
+  },
+  {
+   "texte": "Selon Europe 1, Attentat de Trappes : un hommage national aux victimes aura lieu le 4 décembre (repris par 5 médias). Selon La Croix, Présidentielle 2027 : Marine Le Pen veut obliger les journalistes à respecter le secret des enquêtes. Selon Le Monde, Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision ». Selon Le Monde, Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer.",
+   "sources": [
+    1,
+    9,
+    12,
+    22
+   ],
+   "theme": "Politique"
+  },
+  {
+   "texte": "Selon Libération, Dette : S&P dégrade la perspective française de stable à négative, mais maintient sa note à A+.",
+   "sources": [
+    21
+   ],
+   "theme": "Marchés"
+  }
+ ],
+ "a_suivre": {
+  "texte": "Le prochain rendez-vous du mouvement est le samedi suivant ; les chiffres de chaque journée sont mis à jour au Baromètre.",
+  "sources": []
+ },
+ "date": "2026-11-27",
+ "numero": 57,
+ "jour_long": "vendredi 27 novembre",
+ "acte": "",
+ "auteur": "automatique",
+ "essais_ia": 1,
+ "sources": [
+  {
+   "n": 1,
+   "nom": "Europe 1",
+   "url": "https://www.europe1.fr/societe/attentat-de-trappes-un-hommage-national-aux-victimes-aura-lieu-le-4-decembre-1246294?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+   "titre": "Attentat de Trappes : un hommage national aux victimes aura lieu le 4 décembre",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 2,
+   "nom": "Nice-Matin",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOU2VFU1dxZXFlWENnMXlwcmRpdlJXRUJYYUJvZllybF96VE1aSFluakJlTkthaGVnenQ4SGhtSVVtd3gyelA1Q1RHZlUtUFhZZlByN2JjYldBOUxSckJCV0FuTEhGVVU4RWtzOFluazI2Z3ZnRGJJb3hQWUY4Nk10RVpBOU52eDJWakk4WUM2SXZfZGMyY3lzWThQUTRlVlY4b2E5c3pNS2lKRm5tMmNRYkxQRXY1NnhFQy1zQXBMOU1SNWQwYVpxa3RPMEk5cnhfem1iOUVSbm1YaDJqRjMwRzF6Vk41blRNWHdVNXhGOFRvalNuVmh3YnRacmRNSDNsa3d4M2t0RQ?oc=5",
+   "titre": "Mobilisation du samedi 18 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 3,
+   "nom": "Midi Libre",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaWZZdmVCR2RuVldlRUFmNDFhMFZ5QUF4c2NXbkpGNUx3eFJtZGxFdlJuWXZ3VkJHU0xfVXljb19WVUx4WF9qMFIwQ1FwNmFhMDhMbjdZaUVoQU8xMEwtdURCLWN1aXlLTVl2N2pRa1kycGFfUFdxVzN4OHMzaldnSi1QcFN4cFpWNVBMdy1USnNxWHUyTGtBcXFnbnIwbWRycjNwRFBoR2ZJM1c1ZWFNYlVOTHlpRF9EUXhVaVZyUWV6eERocURhazhhZTBpaWtaWDdsdXRraXU2ZGsyUmR2WFhaOGZjbnZkVlJQRG00d3pfSDNzclAwUG83YTlmdkk?oc=5",
+   "titre": "Manifestation du 27 novembre : une nouvelle journée de mobilisation \"contre la vie chère\" et les violences sexistes ce samedi",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 4,
+   "nom": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-accord-trouve-entre-le-collectif-noustoutes-et-la-prefecture-sur-le-parcours-de-la-manifestation-a-lille-samedi-contre-les-violences-sexistes-et-sexuelles_8303724.html#xtor=RSS-3-%5Bsociete%5D",
+   "titre": "Un accord trouvé entre le collectif NousToutes et la préfecture sur le parcours de la manifestation à Lille samedi contre les violences sexistes et sexuelles",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 5,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNc2dHcGRTcy1hd1kwU0JDUkpIek9JbURibHZFajlhVE5RM0paZGRKeFN0Rm9pdFdLR3c5b0t5a2RKbUhsLV9PVkZKOFVtOGNVNVhvM3gtWHNBcFVaaV9MUmxjdFNnMkM4S3VCc0hZckxCVHFDVGRDQmx4eG9EeXI4ODdfSUh5elBlcS1odERYUm1nazUwLVBhZG9ObGM2aWJDNVpVZFNBUTZBWnFDU0piOUlNTTc1YlUwSXBIazl4Nm1WRXc1SEVpT25OeDBnUHV1Ym1GR1ZmOG9kRzV2SjZtenZQakt4OG5RbUl4YVBMWXlzWGYyQmRBbXJObzdULTRweDhXOTJYMkg1dXMyS0NsSXZCWWROUGtoWEx1RnNoWWJjeVJ6RG1TLTZ6N2p3WFdOT0RwNDRYTnhGMnlnUGZ2OERB?oc=5",
+   "titre": "Des pilleurs s’étaient attaqués à une joaillerie de Nantes en marge d’une manifestation contre la vie chère : un suspect trahi par son ADN",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 6,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQWVhVZ250VjExN2llcWNzU2d4dWNhSVpWdEZpaWR1X2M1RldZWktsM21oM0pVT3dNUWZmZ050cDF2emhfWTk0LVYySGdxa3FRSHg1NkR4MFdmZDRxTnZPOWZpWjdxUWRCVkZhT3BMRWlGVnNuVzRtWHozUVdNUTNudE1KbmYzY3AyRGZEeTh6V3paSEhsUmQ0MWZsR05sQjRXOTFDWVdfM0J1NXJtVnhOX09kdkNpclJyUWUyc0ZhYjctb2xMdm5SSmJkYXg1R2Fkb20yMGpFTzZ3elJKTFFOTFAyTEVFMkZxUEliUHZHaldRY2hoazZsOU9SVXhHNGFzZnVLS29YTHhHX0wtRElDeE5CRV9nSnphSWQydkt3YnJ4Z1g5Uk1Sd29xSQ?oc=5",
+   "titre": "Manifestations du 28 novembre : à quoi faut-il s’attendre à Nantes, lors de ce septième samedi de mobilisation nationale ?",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 7,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOQTZRMkI5c2tKQWtvS1h0bmhQUkU3UEZEMlpCQ0ZGU2puNXhSaDVsWEd2eDdNQ2dJekJENjc1ZEFLbTBTTDJUM3hWX0FvRENteFhyZmRnLXcyd3ZlV3g5b094MUJkaWZ5eW5PQno4OEdwd3RORWNfd2E1eTRLUFF1eF94bUFDM2VfMFU0YWp1UnpoaVdCWkU1ZkxJTG94RGx6QnhaekV0RjFDVVhwRmRMNU5Ca0o2RWNLbG1uQTVXZkZEQ2JJTjNuNEpTTndDY28zMkU4cGdEdVlBOXU5czFsd2xlOEp5dHBsZ0U0X0dpeFBLNjJyMzgwQmM2amQwRnpIOXBCdGx4NDAyQVlEY3ltT0t2ci1FVXNHaHVueFBMT1Zybk1PVFZQSzJyQzFUZDkwcEkw?oc=5",
+   "titre": "Mobilisation sociale, manifestations contre la vie chère et les violences sexistes : à quoi faut-il s’attendre ce samedi 28 novembre",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 8,
+   "nom": "Dijon Actualités",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS2sxWENPZjdQNTZSclQ3d3o1TWlLTWw5RndXeGpmcXlUZUIzTTlsa0h0WnkzTkZzOVNMN1k5U2lsWmxjSnYwZm9WWkNBaU85NV94UHdLR3oyY2NqWHFRMV92aWc4NkVYcTVLSkpRNmVuY2Q5OTczckdmb0laNXMyM0hUOU4waE5YLWJzQWFBTTN5dENfbmJWaTdHLTdNWmxVckZBd3BWSlRyVFNybWpYcWF2RGx3OFpBT3pyWGthZWY4ZlVvNHU3X0lURnVXeGZHY2lNeU94MlhsS3IxaEpGTDEyd084X3dCVWw0aXZ0YUN2NDQ0WXQzODhyN01mdw?oc=5",
+   "titre": "Manifestation contre la vie chère à Dijon : la préfecture renforce son dispositif de sécurité et modifie le périmètre d’interdiction",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 9,
+   "nom": "La Croix",
+   "url": "https://www.la-croix.com/politique/presidentielle-2027-marine-le-pen-veut-obliger-les-journalistes-a-respecter-le-secret-des-enquetes-20261127",
+   "titre": "Présidentielle 2027 : Marine Le Pen veut obliger les journalistes à respecter le secret des enquêtes",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 10,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNM0dYbU5sT2VBMDFYN0NZSDdtdjNIZzhJM3hqZDV6a09fUnRLeVZQNFA1NV9kdjlMZTI1OG1jVzE5Z2xOcmw5Vm9BSEtvQWVMdW11cjRIY1dxZnhVdlgyTnBDR19NNFAwU2lXY3lHNEg3RDlrdkY0aFJCLTdidVV3WGNaV2NwSWVoYnBPN1ZTM3l6M2pOUTh0aFNGU1kyZ1E3LV9lcDczeURlUl9CeGNBTl92aTgzd04wd2JnZnpMcEc2aG9jNXZYTXRzZkgyZkE0cG1ZT3BDLXNKdDZ2TllrYzNEWmI0LWNFcVFWME10T2VtQlRqWTFsTnJ1R01nZV80dTBGeW1NNnh0RXdYSElOc2x1X1M4TmdMSU9FelhmMWNmSlkyMnRSWW00Umd1TDVRUUhXWEVtdVdNRXVLWTBxZlJVSEo2UQ?oc=5",
+   "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan et Jacline Mouraud, figure des Gilets jaunes, en tête d’affiche d’une réunion publique à Cholet",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 11,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGlyNGZGVnBDMUdtbENtTGplckNzdFlvR2N1WXlLbk9ycmM5SEFwem54YkN6bDVGRTlQTE11eHBHaHc0d3NuYW0wTy1haXRsbTB2amVYOFptS1NrcXd5ZXdIUU1sVkdYQ1J2QkMtY1M0MGRJZXVWdmRoY1ZpRzIyYTdybzBSLUFkTXlMZVhKdkZlRFBKcGpkZlM1YVlHN2tOb0dkN1RfanRNbEw4ZTNSUUtXSngwRE0xNmxUdUtlNFAxazBqMkduY0pFU3M?oc=5",
+   "titre": "Vie chère : les manifestations de nouveau interdites samedi à Valence",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 12,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-gerald-darmanin-appelle-edouard-philippe-a-presenter-un-projet-une-vision_6815820_823448.html",
+   "titre": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 13,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPMVhZZnJPWkhGay1Za2pvQnY0V3JYZDY0cEQtM0JYMEJFZFYzajZIcTNfMlRjbWoyMV9EMzJ1TUQtTUJUS1FSRlRzMHlNdmduWFNheUk0eG1uY3NEYkZwTXhHOVpsWnJCVzBxblBQY1BQTkUtQ192YXlYQmdtSG9udGRuQ280WmJRLVZlVlFha01RN0tRWUVkQy1rYlRyYWxlVzlDcTgza0pXaDBOTmpDRTlnV0l3b2V6bFNkYUVEX2JPeHhrQjBDUmNLaWJmX0JFUlgyS1JHdnR3OEx5YXl3RDRUQ3Uzcm1RU09EOFZEQVczclljdUVoNld3Z0VhWWZmWmN6ZkdjdUVWOGtJUDdNX05QcE01N0ZsUURN?oc=5",
+   "titre": "À Vannes, la manifestation contre la vie chère annonce son retour dans les rues du centre-ville ce samedi",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 14,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjRyV19YelhvamxsYktLaHRncmJaN19PTUMzZ3dFUmFfY0dxREo3RTZicDdUQXRPdlkxV19lX0F2NENUbmZYYnFBaXVxb0FXRWlkTGx3aTNfMmpZZWFqakJ4T0E3ZVdxM0JZd012eFFpaHJ0akZ3MG1zcmRJZGI1ZzBiaTZsWmw5Y1FKd1pTUGUtZ1ZjY1E1RURfR0pXUUkyQlF5VmJ2eC1BVk5hMnkzbmxNZEhUNDVTbnhlLXBOWGZ1TWk4azZ0TkE2LVduclhEUzd0MzBPLTNtQ3ZaTVI3RERTOWExWGt4NzkxQlNNejVUZE9MTVBUT25ySnVJU2FF?oc=5",
+   "titre": "Les manifestations de nouveau interdites à Poitiers pour l'acte VII de la mobilisation contre la vie chère",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 15,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPX0VBaWxPNHZHQzVBSDhMX1JleGpvWU1ZNTZ2Mlc3NmMxZkVURHZRdkI5RHB2LVprU2pzZHNHTVg0emFFZ2JfekdtUW9ORnp0RGdZSUUtQ0RpUnlZRW1INnhadFNiTGVqeGpRVE5yQmRCY2RreTBKa2JUb0hfalJRYmU1aXk1NTFOYnpVMGt5WXVJNlRMT2YtekMxcDItWTQ0QXFNbzFma1JzODJYS2JHVG16UE9sMk9HcEd3Z2J3MEx4ZzdxTDB0a0VtYjR0U1RlY1dsQkRpQVpDT0Y3TmUtWDNfSzU0NTJQNjctUXRMQ0JsY2JJcXZ6RUg1SWplQXRJdlZVbFJWYkloUWRUZ3RtYl9WekZ4TmExS0dLbVBPd3NFTFVtUEp2NTFNSkE1dk9vNk1VOWJ3OHpBQm5uVkp2Wk9YSGhLVVNU?oc=5",
+   "titre": "La manifestation féministe finalement autorisée en centre-ville du Mans, celles contre la vie chère et en soutien à la Palestine interdites",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 16,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQaF9PRzQ1UGZKRElhMDdkU3ZoUWtxblFnLUFDaFFvQ1k0RlpEakhhR1dwYXdmOFhPNk9oV1UzdzV0dXJLVEtVWDhwMHQ3aDI4c3RPTWF1emdOU19DWkV6NjBucHRpNThtQm9oNTM2dG9aZ3VDdHVBbkRfME9HbmtiSW1kSzdURlIzNmlraGRveEQtRnFmeUl3Vk1YVjR3U0JzeG1jS2FiaFlYOElVOFU2VXRpYXRXY0xCa2RzQ2gtRDMwLVRSb09MYlJoZzJQT3JJaUhpelJ1aENhczJITkIyalJhTlZleTBhQXdrSDVrZUdqWEx3RGNhMTVHb1Q5cERVaVBMYXlZZUNUTHhvNFlUelFIUk5zTU82WXc?oc=5",
+   "titre": "« Les familles sont très inquiètes » : lassés des blocus, des parents retirent leurs enfants des lycées publics de Rennes",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 17,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/27/manifestations-du-28-novembre-laurent-nunez-pointe-une-vulnerabilite-supplementaire-avec-l-ouverture-des-marches-de-noel-la-suspension-de-l-usage-des-grenades-assourdissantes-est-etendue-jusqu-a-nouvel-ordre_6815856_3224.html",
+   "titre": "Manifestations du 28 novembre : les marchés de Noël « constituent une vulnérabilité supplémentaire », dit le ministre Laurent Nuñez",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 18,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/international/guerre-en-iran-l-armee-americaine-annonce-avoir-neutralise-un-navire-violant-son-blocus-naval-20261127",
+   "titre": "Guerre en Iran : l'armée américaine annonce avoir neutralisé un navire violant son blocus naval",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 19,
+   "nom": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+   "titre": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 20,
+   "nom": "Pokaa",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVlmWHd1a29PdlhSWC0wQWU4eHpTTV9DOTl1RmlqcEJRRks0WUc5R0d2cU1WMzNqRmFyODJUck9ob2VSVnEtUFhZZXcyV1BWZlZHeTlLQ1FzanladzdXS0V3d2JVTV9hTlpmLTJRdjFtek5wVGZSMi1Vc3NWb0ZkNkh1cUwwXzdGYkowZkVwX18zc1ZBSktiNklfY053SGpHbW9MQjd0UmJkN1pUOEhtYnA1aHZxWFFYc0N1SQ?oc=5",
+   "titre": "Manifestation et marché de Noël : les choses à savoir pour ce samedi 28 novembre à Strasbourg",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 21,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q/",
+   "titre": "Dette : S&P dégrade la perspective française de stable à négative, mais maintient sa note à A+",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 22,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html",
+   "titre": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 23,
+   "nom": "L'Alsace",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYVFXazhQQjVYRzZGblIxWWVmY05ycU1Vc2tycWJRb0ZyX00wQm9hU2xaeGlYSmpMWVEtSlRSMnFUUWozSlBnUVhUUWpyV1BnNUE4aGNLTHR1QTFNQ0hlX1k1bnBWQ1BleEU2WGpZVW1YRzR2LVc0ZHlGMXlrbFVWblVBOGVHZEdEci1XME1CSU5mNVYwd0JDOURsTkU0d1JCeTRBbFFaREpSaXBDTnM4bU52b2FVTzJaRGcxdWtJSTY3Zw?oc=5",
+   "titre": "Manifestations à Strasbourg, drones et hélicoptères dans le Haut-Rhin : un dispositif de sécurité renforcé ce samedi",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 24,
+   "nom": "Place Gre'net",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3VPVHpRLWVsTGF4SUxON1NkUE5zc3c5d3RveC1xY0FuZXlyWFVac3d2YW1OVWU1bVd0YWxqeE1vZUtqdzNYZUxEVUhBbC1fS0VERlF5SXVCZVloX25NaXRaTlBuVlFWOUJ4WENmOGY5WGYyazdHcHJfTWxPY0RSUC1NeHRENXhxSVVTOXZhaTExUVdOOXJWMjBPZk5saWpiT1NQNmlJVXIyX1I1U0swYkRyUmpHLXl6eWZFcElXZTAzR0JUcUlLcE9hX1MxaXlDemZmNm5NU0thZjNyc0E?oc=5",
+   "titre": "Grenoble : soutien à une enseignante de Louise-Michel et dénonciation de la \"répression\" du mouvement lycéen",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 25,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mouvement-lyceen-c-etait-nous-qui-faisions-le-barrage-entre-les-flics-et-les-jeunes-affirme-jean-luc-melenchon_VN-202611270887.html",
+   "titre": "Mouvement lycéen: \"C'était nous qui faisions le barrage entre les flics et les jeunes\", affirme Jean-Luc Mélenchon",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 26,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/international/moyen-orient/iran-le-coscenariste-du-film-un-simple-accident-palme-dor-de-jafar-panahi-a-cannes-a-ete-arrete-20261127_66CAY6DAPNAO3BGZJLOEZPFBKY/",
+   "titre": "Iran : le coscénariste du film «Un simple accident», palme d’or de Jafar Panahi à Cannes, a été arrêté",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 27,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
+   "titre": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 28,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdEtEWE5GVk0yVU1NRjZ1WTBpcTdNLXEzSUtydGh4eC1wa0JuZU0tRFBuLWpPekhLVmp4RjFFMC1PX2JSbE9aRzRCaGhFR052VU1tQzhkSjB2bjVraHN4dWdweXVpMVBGb2VYOXRsdEVxXzJYUEdKeWdGUldlYlZjNG5xWTJKSXpLSGhPUkRzMVZ4TlE4M0RkRFI3cFdEMWMzVnNSOE8yYWt3M2tyS1I0YTA4RG1YbFdaaGx3c0VzUHhpTmFxTnJnS2ZJYU9lSGo0eDNReGN5b0ZwOWtRcVJZLWozMUVyMUcwejFrSDhCU3RTZzNmTWNiaWhwTFF3QjBrY19oWUp1aU5xUFJnZjhwM05VZTVCZUx1QTd0NEpEajhzTVV1cGVRSDJ6Z3dua3ZQeFQ5dkh2YjY?oc=5",
+   "titre": "Violences du 17 octobre. « Une scène inédite d’hystérie collective » : au tribunal de Brest, sept personnes interdites de manifestation",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 29,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/27/presidentielle-2027-tout-le-monde-sait-quon-va-perdre-pourquoi-gabriel-attal-et-edouard-philippe-sont-delaisses-par-les-ministres-et-les-13674860.php",
+   "titre": "Présidentielle 2027 : \"Tout le monde sait qu’on va perdre\" Pourquoi Gabriel Attal et Edouard Philippe sont délaissés par les ministres et les parlementaires du bloc central",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 30,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSVpKVURzaV9aTVY0QzBQUEtRZDlPTDg1TGdLNHprTE5PR3VIVndCZmR6cy1JWFpyaWVHeDdaM1dVdXR1NVhJNE5jMW5heGFydEhlY1lhdWVCV3MwRWNYWmRQVlFHdy04QWx1Z1BtT3FmbXMtV0hKa1dnaXBTa2E0VzV2bWUwRC1PcEZwSlZ1amhCUGMzZEdWMklnV2cwbDMzdzFCN25BVlhmcXZYUE1TMW9NR2VKeGpNd2hfQ1pWVU5UbE1GSDc1OWI4czRJQTBiamVldjdjaEk4TU1NOE1mNTl6YzNWd1R5U0gtUWlsVTl1S1JSUk5hUmdJaWFVQQ?oc=5",
+   "titre": "Vidéo « C’est fatigant ! On a peur qu’un collègue dérape ! » : les policiers du Mans épuisés moralement par les manifestations",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 31,
+   "nom": "BFMTV",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-les-quatre-candidats-de-la-droite-et-du-centre-se-reuniront-lundi-autour-de-gerard-larcher-pour-trouver-un-mode-de-departage_AN-202611270837.html",
+   "titre": "Présidentielle 2027: les quatre candidats de la droite et du centre se réuniront lundi autour de Gérard Larcher pour trouver un mode de départage",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 32,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/271126/dans-les-universites-la-mobilisation-tient-bon-loin-des-projecteurs",
+   "titre": "Dans les universités, la mobilisation tient bon, loin des projecteurs",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 33,
+   "nom": "Mediapart",
+   "url": "https://www.mediapart.fr/journal/france/271126/contre-les-blocages-le-ministere-veut-confier-l-exclusion-des-lyceens-aux-directeurs-academiques",
+   "titre": "Contre les blocages, le ministère veut confier l’exclusion des lycéens aux directeurs académiques",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 34,
+   "nom": "ici.fr",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdlBOZHlGbExXX1JKVURhOUNKM1RuYjZ1SllkNlBRdF9BVVFHM3hyVmQ4UmFrdHlLOV9MaG5oeEc0Qy00UDBNTUJtOWNoektEMkQtWVJXSHVPeXBqN2dia3g0ejZ5a0s5RlZKa1NYTTl6eGQwdFdHRk9DWHBPQnpQa3ppcVlrUHJiWkU5VnJSbGtLY2R6YzRMaElhaUhmT3hjY19LMW5lMzg4enRoQmo3SDhaSmdDVUFEZFpLTXhqWjVVaDFhME1zSFQ0YWxaSncwSWJfajRibWJjWkQtQUphMWpwOWk0TTFvUFBjS2Z4X1EwU3MwUWZWb2szSDZPU2hlUEY4NzlCaFFDcTJnSmhpdUVWVWY?oc=5",
+   "titre": "En prévision d'un \"acte VII\" contre la vie chère, le préfet du Doubs interdit les rassemblements non-déclarés à Besançon",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 35,
+   "nom": "Actu.fr",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVRScThLRmZEM0RPTmZTck96XzZyc19rZzlUNml2UlQ3ZW9FNWNwYnpPeDhwQUhDc3dZLXNWX3JXNkZ6SU1wSDJXWnVsYlNtNTA0V0szUmhPQ0JhYVJIUkFLWklYV1p4VFBuWXJIN2lnYkRCY3dnWmpyZUxVX0hiSVBCZ0dydkVZYUZibElrNWhSckJEY01Uck9GQldPbVdGZmNDVFZPQ2F1MGpFM3dWN0h5eGt1c200U25mVWFhc01vZDFZc0FUcVdPUENycUY5YkJTZ0MxeXhlU3VQWVoxdlFCTHEzQUdCdzBNWWl2UnI?oc=5",
+   "titre": "RATP. Manifestation du samedi 28 novembre à Paris : deux stations de métro fermées par les autorités dès 12 heures",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 36,
+   "nom": "Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUl2TFJSN2xmNkE1X0hhdnFvSmt4NXZDRFZUSzR1bms3ZU0zT0M1RGdzRjlJNnRFSl8yQnZTQkh6TGRvU2pkNXphaEExTzIwWjNMWWJLbUV6OUsyLTNYMVJyeFlDLW1SYTNDTjJzQ3daQjNaY3RTZ01lalZMRnJoUy11NDBwWGl1V1c2NXVSLU1QMHRJNlNHUmVXdFo1YWlFdTMxeTVmLXk0ZEw0dVZUcWhWcFRWaGEyN0lTOEwzN2dMbUNpdU1lV0d2Vlo2VExBeFI1MDQzdDE1dXVtaFA4TzBNSGgtQ3VlcWhaWTVBWktXNDBULXRmU09GRnVobVFWRVhLMUhudlRQOThpd0RqbDZwUVVqS2RkcmlNQm93?oc=5",
+   "titre": "Soutien à la Palestine et contre la vie chère, deux manifestations annoncées à Rennes ce samedi 28 novembre",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 37,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-une-reunion-entre-edouard-philippe-bruno-retailleau-gabriel-attal-et-david-lisnard-prevue-lundi-soir-pour-trouver-un-mode-de-departage-31698448.php",
+   "titre": "Présidentielle 2027 : une réunion entre Édouard Philippe, Bruno Retailleau, Gabriel Attal et David Lisnard prévue lundi soir pour trouver un mode de départage",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 38,
+   "nom": "La Dépêche",
+   "url": "https://www.ladepeche.fr/2026/11/27/presidentielle-2027-qualifie-de-germanophobe-pourquoi-jean-luc-melenchon-est-devenu-un-visiteur-encombrant-en-allemagne-13674151.php",
+   "titre": "Présidentielle 2027 : qualifié de \"germanophobe\", pourquoi Jean-Luc Mélenchon est devenu un visiteur encombrant en Allemagne",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 39,
+   "nom": "Le Parisien",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMHpWY1RmRFYzVDg0cll4YXlibGV5akJhbmNwMVpicTRWQURXbE9JZElfYkJmajU4VkxNWGU3cUYxU2d3aTZOLTlObkZiamFzWU5ESjhEenVRV2kzdXBCVFYxWW5TNS04cXl3M1JNdW13SkxlVkxwLUQzS3pzZVJCUlE4cDMzTzFPVnk0dENGeVAtUlN2X0JBM1d1dmRoLWpTQzVZaGRiWG5wTFhLM1g1Z09WWFM4anU0clpUNFRURGxEMXIzYzNpNXNJenpuUC1PZWZXLWRUTExtNllwdnFVTWU5blRsV2ZpQ0VOSEp2cTJjdGRHZE9tRnlBcUZOdy12LVUxcDJSOTR2aVU?oc=5",
+   "titre": "« Il n’y avait aucun blocus » : cinq lycéens arrêtés après une manifestation contestée à Évry-Courcouronnes",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 40,
+   "nom": "Le Figaro",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-debut-de-campagne-de-teddy-riner-deja-marque-par-les-polemiques-20261127",
+   "titre": "Présidentielle 2027 : le début de campagne de Teddy Riner déjà marqué par les polémiques",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 41,
+   "nom": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20261127-d%C3%A9fense-ue-rigueur-budg%C3%A9taire-comment-jean-luc-m%C3%A9lenchon-est-il-per%C3%A7u-en-allemagne",
+   "titre": "Défense, UE, rigueur budgétaire: comment Jean-Luc Mélenchon est-il perçu en Allemagne?",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 42,
+   "nom": "Le Monde",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
+   "titre": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 43,
+   "nom": "Sud Ouest",
+   "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-une-grande-loi-programme-pour-l-outre-mer-mais-pas-de-reforme-institutionnelle-31697628.php",
+   "titre": "Présidentielle 2027 : Marine Le Pen promet une « grande loi-programme » pour l’Outre-mer, mais pas de réforme institutionnelle",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 44,
+   "nom": "Unidivers",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3ejRTSExqb3pEbkpldm1PSEhjcXV6LTVTSG1tRk5YQmRyVzdUa3VYR3I0VWhLTTJuRExRY2dsOXh1dmV5Ym1nTXdrZE8xZk82bkdwNFVPemV5VmNOTC1qM0U3azhxNVEtQTAxMjZkS3RWTzQ?oc=5",
+   "titre": "Caen. Fenwick, huit ans après les Gilets jaunes, où est passée la colère ?",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 45,
+   "nom": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/manifestations-a-nantes-quatre-syndicats-reunis-portent-plainte-pour-violences-policieres-20261127_WJGWBNJL3BDUNPC5MF6OKONC7E/",
+   "titre": "Manifestations à Nantes : quatre syndicats réunis portent plainte pour violences policières",
+   "date": "2026-11-27"
+  },
+  {
+   "n": 46,
+   "nom": "Le Télégramme",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU2w4SnphTTlZS3gxMU52QkFTOVFaWFU0NFBMT2dnYVR3T05XU0NFRGJuS0J5Wml1anRETW5hNVFWWmRnaXI0a2thNWRqYlY0Vlc0Uko3WU5sQlIybmsyNWl1VlI4SjVrWlBxZGgxMW5NRngtWkc2YWlhQkxlTERQWEFTaXpSWVlkY2dhQmNSUng3WUJfOHZsSVh2dC1PLVJicG9vXzFaTFVmem5sSGMxTEZNVG9JVGlRN2dUUUhCRDZZMUpxejF0N3VXam1iTTJKaklmVGFDdk1nN3FNVDcyOE1EN3RGRjF6aTdWNHRmeUJZNHlvTWRWRjhmbE9NVEctN1k1OEJnemU?oc=5",
+   "titre": "Fractures, lésions, hématomes… 71 policiers ont été blessés au cours des violences en marge des manifestations à Brest",
+   "date": "2026-11-27"
+  }
+ ],
+ "genere": "2026-11-28T11:36:15.149031+00:00"
+}
